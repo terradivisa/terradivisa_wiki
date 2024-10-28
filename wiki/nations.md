@@ -6,3 +6,4 @@
 * [Republic of Jonathan](Republic_of_Jonathan)
 * [Amaria](Amaria)
 * [ISP](ISP)
+* [Duchy of Konenburg](Duchy_of_Konenburg)
