@@ -18,3 +18,4 @@
 * [United States Of Arabia](United_States_Of_Arabia)
 * [test](test)
 * [Italian Rev. State](Italian_Rev._State)
+* [Auroria](Auroria)
