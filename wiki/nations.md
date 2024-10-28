@@ -37,3 +37,4 @@
 * [The Holy Norse Empire](The_Holy_Norse_Empire)
 * [Papayan Empire](Papayan_Empire)
 * [Alps Federation](Alps_Federation)
+* [Vlatti](Vlatti)
