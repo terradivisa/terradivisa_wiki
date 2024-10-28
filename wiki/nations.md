@@ -1,7 +1,5 @@
 # Nations
 
-## Active Nations
-
 * [killas](killas)
 * [Seraphia](Seraphia)
 * [Republic of Metrocanadia](Republic_of_Metrocanadia)

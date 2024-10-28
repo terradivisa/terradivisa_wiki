@@ -1,7 +1,5 @@
 # Nations
 
-## Active Nations
-
 $ACTIVE$
 ## History
 
