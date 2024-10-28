@@ -9,3 +9,4 @@
 * [Duchy of Konenburg](Duchy_of_Konenburg)
 * [The Holy Russian Empire](The_Holy_Russian_Empire)
 * [Australian Empire](Australian_Empire)
+* [Hunnic Empire](Hunnic_Empire)
