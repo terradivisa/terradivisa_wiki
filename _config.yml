@@ -1,8 +1,8 @@
 # (string) Title of your wiki
-title: git-wiki
+title: TDWiki
 demo_ver: 1.0.23
 remote_theme: Drassil/git-wiki-theme@master
-description: Git-Wiki demo and documentation
+description: ""
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
