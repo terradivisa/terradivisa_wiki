@@ -35,3 +35,4 @@
 * [Farmers Union](Farmers_Union)
 * [Fiyamen Empire](Fiyamen_Empire)
 * [The Holy Norse Empire](The_Holy_Norse_Empire)
+* [Papayan Empire](Papayan_Empire)
