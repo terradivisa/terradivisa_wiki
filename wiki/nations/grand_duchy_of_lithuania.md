@@ -1,1 +1,0 @@
-# grand duchy of lithuania
