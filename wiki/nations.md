@@ -1,3 +1,3 @@
 # Nations
 
-* [Alsatian Empire](nations/Alsatian_Empire.md)
+* [Alsatian Empire](Alsatian_Empire.md)
