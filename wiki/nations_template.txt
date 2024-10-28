@@ -1,7 +1,9 @@
 # Nations
 
 ## Active Nations
+
 $ACTIVE$
 
-## All Nations
+## History
+
 $HISTORY$
