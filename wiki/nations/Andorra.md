@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->2817G
+- **GDP:** <!-- GDP -->2817G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [AndorraLaVella](AndorraLaVella)
+
+## Colonies
+
+
+
+---

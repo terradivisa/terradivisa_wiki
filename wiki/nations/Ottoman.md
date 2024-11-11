@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->4269G
+- **GDP:** <!-- GDP -->4269G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Diyerbakir](Diyerbakir)
+
+## Colonies
+
+
+
+---

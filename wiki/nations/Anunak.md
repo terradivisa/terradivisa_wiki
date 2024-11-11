@@ -17,4 +17,18 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->5571G
+- **GDP:** <!-- GDP -->5571G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Arabia](Arabia)
+
+## Colonies
+
+- [Eastoria](Eastoria)
+- [Cape Colony](Cape Colony)
+
+---

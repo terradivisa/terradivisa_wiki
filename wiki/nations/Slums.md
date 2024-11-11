@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->366G
+- **GDP:** <!-- GDP -->366G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [CrustMore](CrustMore)
+
+## Colonies
+
+
+
+---

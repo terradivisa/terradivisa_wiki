@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->1551G
+- **GDP:** <!-- GDP -->1551G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [lietuva](lietuva)
+
+## Colonies
+
+
+
+---

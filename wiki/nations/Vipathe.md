@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->2689G
+- **GDP:** <!-- GDP -->2689G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [KRETE](KRETE)
+
+## Colonies
+
+
+
+---

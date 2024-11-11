@@ -17,4 +17,25 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->2757G
+- **GDP:** <!-- GDP -->2757G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Wisconsin State](Wisconsin State)
+- [Southern Republic City](Southern Republic City)
+- [Getz](Getz)
+
+## Colonies
+
+- [New Colombia](New Colombia)
+- [Oklahoma](Oklahoma)
+- [Little Rivendell](Little Rivendell)
+- [Warmer Wisconsin](Warmer Wisconsin)
+- [Colder Wisconsin](Colder Wisconsin)
+- [Buzau](Buzau)
+- [Asian Wisconsin](Asian Wisconsin)
+
+---

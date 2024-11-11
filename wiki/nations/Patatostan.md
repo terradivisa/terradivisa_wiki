@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->696G
+- **GDP:** <!-- GDP -->696G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Patatopia](Patatopia)
+
+## Colonies
+
+
+
+---

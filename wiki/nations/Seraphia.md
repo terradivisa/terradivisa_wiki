@@ -17,4 +17,27 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->205167G
+- **GDP:** <!-- GDP -->205167G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Purple Town](Purple Town)
+- [Zhukov Industries](Zhukov Industries)
+- [Seraphia2](Seraphia2)
+- [Seraphia](Seraphia)
+
+## Colonies
+
+- [TheHouse](TheHouse)
+- [sigmaville](sigmaville)
+- [ICELAND BEST](ICELAND BEST)
+- [TheMonument.](TheMonument.)
+- [North Iceland](North Iceland)
+- [Greenerland](Greenerland)
+- [EventArea](EventArea)
+- [Gankington city](Gankington city)
+
+---

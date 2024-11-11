@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->789G
+- **GDP:** <!-- GDP -->789G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Fiyamen Island](Fiyamen Island)
+
+## Colonies
+
+
+
+---

@@ -17,4 +17,22 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->9334G
+- **GDP:** <!-- GDP -->9334G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Rijeka](Rijeka)
+- [Italia](Italia)
+
+## Colonies
+
+- [Gravity Falls](Gravity Falls)
+- [Villagers](Villagers)
+- [Football](Football)
+- [Slavonia](Slavonia)
+- [Real Alaska](Real Alaska)
+
+---

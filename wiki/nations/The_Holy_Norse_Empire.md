@@ -17,4 +17,23 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->51825G
+- **GDP:** <!-- GDP -->51825G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Norskland](Norskland)
+- [Vinland](Vinland)
+
+## Colonies
+
+- [Caketopia](Caketopia)
+- [Maranham](Maranham)
+- [Conception Bay](Conception Bay)
+- [Piehaven](Piehaven)
+- [True Alaska](True Alaska)
+- [east arabia](east arabia)
+
+---

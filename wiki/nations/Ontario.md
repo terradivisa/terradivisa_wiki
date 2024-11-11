@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->753G
+- **GDP:** <!-- GDP -->753G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Ontario City](Ontario City)
+
+## Colonies
+
+- [Superior](Superior)
+
+---

@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->61071G
+- **GDP:** <!-- GDP -->61071G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Paris](Paris)
+
+## Colonies
+
+- [Agartha](Agartha)
+
+---

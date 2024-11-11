@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->1816G
+- **GDP:** <!-- GDP -->1816G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Konenburg](Konenburg)
+
+## Colonies
+
+
+
+---

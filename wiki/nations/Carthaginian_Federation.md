@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->1555G
+- **GDP:** <!-- GDP -->1555G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Carthage](Carthage)
+
+## Colonies
+
+
+
+---

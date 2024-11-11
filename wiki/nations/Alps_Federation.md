@@ -17,4 +17,21 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->15413G
+- **GDP:** <!-- GDP -->15413G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Geneva](Geneva)
+
+## Colonies
+
+- [Puerto la Severmuda](Puerto la Severmuda)
+- [Easter Island](Easter Island)
+- [Swiss Antarctica](Swiss Antarctica)
+- [Funny Number Island](Funny Number Island)
+- [southpole](southpole)
+
+---

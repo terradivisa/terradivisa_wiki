@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->537G
+- **GDP:** <!-- GDP -->537G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Midgard](Midgard)
+
+## Colonies
+
+
+
+---

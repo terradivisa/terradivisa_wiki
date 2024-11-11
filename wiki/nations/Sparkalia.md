@@ -17,4 +17,18 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->9831G
+- **GDP:** <!-- GDP -->9831G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Snizhynivsk](Snizhynivsk)
+- [Skibidi City II](Skibidi City II)
+
+## Colonies
+
+
+
+---

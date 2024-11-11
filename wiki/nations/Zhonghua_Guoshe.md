@@ -17,4 +17,18 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->1500G
+- **GDP:** <!-- GDP -->1500G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+
+
+## Colonies
+
+- [Yamaxun](Yamaxun)
+- [Aozhou](Aozhou)
+
+---

@@ -17,4 +17,19 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->22237G
+- **GDP:** <!-- GDP -->22237G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Sovereign Cayenne](Sovereign Cayenne)
+- [Colombian Territories](Colombian Territories)
+- [Ecuador](Ecuador)
+
+## Colonies
+
+- [Cuba](Cuba)
+
+---

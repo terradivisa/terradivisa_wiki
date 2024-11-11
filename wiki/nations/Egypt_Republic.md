@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->594G
+- **GDP:** <!-- GDP -->594G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Luxor](Luxor)
+
+## Colonies
+
+
+
+---

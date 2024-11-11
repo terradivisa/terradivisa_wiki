@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->787G
+- **GDP:** <!-- GDP -->787G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Lisbon](Lisbon)
+
+## Colonies
+
+- [New Espagrad](New Espagrad)
+
+---

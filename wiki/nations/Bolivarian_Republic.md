@@ -17,4 +17,21 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->13995G
+- **GDP:** <!-- GDP -->13995G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [somalia](somalia)
+- [Venezuelan Territories](Venezuelan Territories)
+
+## Colonies
+
+- [Tallahassee](Tallahassee)
+- [Canalan canal](Canalan canal)
+- [Greater Toronto Area](Greater Toronto Area)
+- [Turtle](Turtle)
+
+---

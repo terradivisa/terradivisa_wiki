@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->1105G
+- **GDP:** <!-- GDP -->1105G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Boston](Boston)
+
+## Colonies
+
+
+
+---

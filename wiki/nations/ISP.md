@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->574G
+- **GDP:** <!-- GDP -->574G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [ZABRZE](ZABRZE)
+
+## Colonies
+
+
+
+---

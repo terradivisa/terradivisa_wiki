@@ -17,4 +17,17 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->498G
+- **GDP:** <!-- GDP -->498G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [New Nuh Uh](New Nuh Uh)
+
+## Colonies
+
+
+
+---

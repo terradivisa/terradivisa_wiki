@@ -17,4 +17,22 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->154G
+- **GDP:** <!-- GDP -->154G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Port Mackay](Port Mackay)
+- [Wodonga](Wodonga)
+
+## Colonies
+
+- [Australian Railsystem](Australian Railsystem)
+- [Greater Logaki Area](Greater Logaki Area)
+- [Logaki](Logaki)
+- [Australian MilitaryBase 1](Australian MilitaryBase 1)
+- [Saint William](Saint William)
+
+---

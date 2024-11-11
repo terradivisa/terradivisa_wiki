@@ -17,4 +17,18 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->675G
+- **GDP:** <!-- GDP -->675G<!-- GDP -->
+- **Currency:** [Gold](Gold)
+
+---
+
+## Towns
+
+- [Albion](Albion)
+- [MountImmortal](MountImmortal)
+
+## Colonies
+
+
+
+---
