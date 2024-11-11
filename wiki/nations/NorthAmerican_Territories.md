@@ -1,9 +1,9 @@
-# $NAME
+# NorthAmerican Territories
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Wisconsin State](Wisconsin State)
+- **Population:** 19
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

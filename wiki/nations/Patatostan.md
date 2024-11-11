@@ -1,9 +1,9 @@
-# $NAME
+# Patatostan
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Patatopia](Patatopia)
+- **Population:** 5
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

@@ -1,9 +1,9 @@
-# $NAME
+# Easyria
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Midgard](Midgard)
+- **Population:** 1
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -23,7 +23,7 @@
 
 ## Economy
 
-- **GDP:** 537.4G
+- **GDP:** 537G
 - **Currency:** [Gold](Gold)
 
 ---

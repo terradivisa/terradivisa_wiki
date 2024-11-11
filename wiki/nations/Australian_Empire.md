@@ -1,9 +1,9 @@
-# $NAME
+# Australian Empire
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Port Mackay](Port Mackay)
+- **Population:** 11
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

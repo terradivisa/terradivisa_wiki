@@ -1,9 +1,9 @@
-# $NAME
+# Iran
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Persian Empire](Persian Empire)
+- **Population:** 4
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

@@ -1,9 +1,9 @@
-# $NAME
+# The Albionic Empire
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Albion](Albion)
+- **Population:** 3
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

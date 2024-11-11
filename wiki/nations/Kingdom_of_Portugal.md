@@ -1,9 +1,9 @@
-# $NAME
+# Kingdom of Portugal
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Lisbon](Lisbon)
+- **Population:** 3
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

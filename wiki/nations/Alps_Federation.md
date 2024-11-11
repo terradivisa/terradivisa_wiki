@@ -1,9 +1,9 @@
-# $NAME
+# Alps Federation
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Geneva](Geneva)
+- **Population:** 6
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -28,7 +28,7 @@
 
 ## Economy
 
-- **GDP:** 15413.3G
+- **GDP:** 15413G
 - **Currency:** [Gold](Gold)
 
 ---

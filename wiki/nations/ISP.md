@@ -1,9 +1,9 @@
-# $NAME
+# ISP
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [ZABRZE](ZABRZE)
+- **Population:** 3
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

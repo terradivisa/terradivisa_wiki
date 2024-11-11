@@ -1,9 +1,9 @@
-# $NAME
+# Republic of Jonathan
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [New Nuh Uh](New Nuh Uh)
+- **Population:** 1
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

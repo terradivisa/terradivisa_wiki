@@ -1,9 +1,9 @@
-# $NAME
+# grand duchy of lithuania
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [lietuva](lietuva)
+- **Population:** 3
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

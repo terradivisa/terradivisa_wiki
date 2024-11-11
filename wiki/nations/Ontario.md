@@ -1,9 +1,9 @@
-# $NAME
+# Ontario
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Ontario City](Ontario City)
+- **Population:** 3
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

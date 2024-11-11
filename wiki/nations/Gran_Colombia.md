@@ -1,9 +1,9 @@
-# $NAME
+# Gran Colombia
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Colombian Territories](Colombian Territories)
+- **Population:** 16
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

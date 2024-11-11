@@ -1,9 +1,9 @@
-# $NAME
+# Vipathe
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [KRETE](KRETE)
+- **Population:** 3
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -23,7 +23,7 @@
 
 ## Economy
 
-- **GDP:** 2689.8G
+- **GDP:** 2689G
 - **Currency:** [Gold](Gold)
 
 ---

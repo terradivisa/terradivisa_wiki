@@ -1,9 +1,9 @@
-# $NAME
+# Evropa
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Paris](Paris)
+- **Population:** 14
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Economy
 
-- **GDP:** 61071.4G
+- **GDP:** 61071G
 - **Currency:** [Gold](Gold)
 
 ---

@@ -1,9 +1,9 @@
-# $NAME
+# Fiyamen Empire
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Fiyamen Island](Fiyamen Island)
+- **Population:** 1
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -23,7 +23,7 @@
 
 ## Economy
 
-- **GDP:** 789.8G
+- **GDP:** 789G
 - **Currency:** [Gold](Gold)
 
 ---

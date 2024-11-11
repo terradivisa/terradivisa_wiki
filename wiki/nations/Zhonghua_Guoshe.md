@@ -1,9 +1,9 @@
-# $NAME
+# Zhonghua Guoshe
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Yamaxun](Yamaxun)
+- **Population:** 2
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

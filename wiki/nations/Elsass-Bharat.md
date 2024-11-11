@@ -1,9 +1,9 @@
-# $NAME
+# Elsass-Bharat
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Strasbourg](Strasbourg)
+- **Population:** 29
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -36,7 +36,7 @@
 
 ## Economy
 
-- **GDP:** 45787.36G
+- **GDP:** 45787G
 - **Currency:** [Gold](Gold)
 
 ---

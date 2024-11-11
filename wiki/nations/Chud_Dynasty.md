@@ -1,9 +1,9 @@
-# $NAME
+# Chud Dynasty
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Chudjing](Chudjing)
+- **Population:** 130
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -80,7 +80,7 @@
 
 ## Economy
 
-- **GDP:** 58326.04G
+- **GDP:** 58326G
 - **Currency:** [Gold](Gold)
 
 ---

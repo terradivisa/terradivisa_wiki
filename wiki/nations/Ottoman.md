@@ -1,9 +1,9 @@
-# $NAME
+# Ottoman
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Diyerbakir](Diyerbakir)
+- **Population:** 5
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

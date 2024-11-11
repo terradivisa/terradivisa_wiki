@@ -1,9 +1,9 @@
-# $NAME
+# nation
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [town](town)
+- **Population:** 1
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

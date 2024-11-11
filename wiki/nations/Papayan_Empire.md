@@ -1,9 +1,9 @@
-# $NAME
+# Papayan Empire
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Bordeaux](Bordeaux)
+- **Population:** 50
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

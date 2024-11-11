@@ -1,9 +1,9 @@
-# $NAME
+# Pietopia
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [louhi](louhi)
+- **Population:** 35
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -33,7 +33,7 @@
 
 ## Economy
 
-- **GDP:** 17560.63G
+- **GDP:** 17560G
 - **Currency:** [Gold](Gold)
 
 ---

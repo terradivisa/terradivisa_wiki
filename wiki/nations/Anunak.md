@@ -1,9 +1,9 @@
-# $NAME
+# Anunak
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Arabia](Arabia)
+- **Population:** 9
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

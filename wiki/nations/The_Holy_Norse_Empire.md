@@ -1,9 +1,9 @@
-# $NAME
+# The Holy Norse Empire
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Norskland](Norskland)
+- **Population:** 21
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -30,7 +30,7 @@
 
 ## Economy
 
-- **GDP:** 51825.2G
+- **GDP:** 51825G
 - **Currency:** [Gold](Gold)
 
 ---

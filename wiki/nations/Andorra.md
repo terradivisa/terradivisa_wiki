@@ -1,9 +1,9 @@
-# $NAME
+# Andorra
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [AndorraLaVella](AndorraLaVella)
+- **Population:** 4
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

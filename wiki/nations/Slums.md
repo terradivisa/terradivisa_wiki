@@ -1,9 +1,9 @@
-# $NAME
+# Slums
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [CrustMore](CrustMore)
+- **Population:** 7
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

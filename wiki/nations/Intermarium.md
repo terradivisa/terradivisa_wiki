@@ -1,9 +1,9 @@
-# $NAME
+# Intermarium
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Kyiv](Kyiv)
+- **Population:** 78
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -54,7 +54,7 @@
 
 ## Economy
 
-- **GDP:** 62779.81G
+- **GDP:** 62779G
 - **Currency:** [Gold](Gold)
 
 ---

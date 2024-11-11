@@ -1,9 +1,9 @@
-# $NAME
+# Seraphia
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Seraphia](Seraphia)
+- **Population:** 45
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -34,7 +34,7 @@
 
 ## Economy
 
-- **GDP:** 205167.2G
+- **GDP:** 205167G
 - **Currency:** [Gold](Gold)
 
 ---

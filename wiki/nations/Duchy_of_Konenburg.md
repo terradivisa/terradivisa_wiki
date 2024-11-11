@@ -1,9 +1,9 @@
-# $NAME
+# Duchy of Konenburg
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Konenburg](Konenburg)
+- **Population:** 2
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

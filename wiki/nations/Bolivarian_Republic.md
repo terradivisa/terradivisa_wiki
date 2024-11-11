@@ -1,9 +1,9 @@
-# $NAME
+# Bolivarian Republic
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Venezuelan Territories](Venezuelan Territories)
+- **Population:** 11
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -28,7 +28,7 @@
 
 ## Economy
 
-- **GDP:** 13995.2G
+- **GDP:** 13995G
 - **Currency:** [Gold](Gold)
 
 ---

@@ -1,9 +1,9 @@
-# $NAME
+# Amaria
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Boston](Boston)
+- **Population:** 2
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---

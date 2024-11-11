@@ -1,9 +1,9 @@
-# $NAME
+# Terra Mariana
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [St. Espagrad](St. Espagrad)
+- **Population:** 97
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -63,7 +63,7 @@
 
 ## Economy
 
-- **GDP:** 35009.93G
+- **GDP:** 35009G
 - **Currency:** [Gold](Gold)
 
 ---

@@ -1,9 +1,9 @@
-# $NAME
+# Sparkalia
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Snizhynivsk](Snizhynivsk)
+- **Population:** 13
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -24,7 +24,7 @@
 
 ## Economy
 
-- **GDP:** 9831.07G
+- **GDP:** 9831G
 - **Currency:** [Gold](Gold)
 
 ---

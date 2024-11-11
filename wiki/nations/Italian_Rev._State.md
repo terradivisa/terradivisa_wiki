@@ -1,9 +1,9 @@
-# $NAME
+# Italian Rev. State
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
+- **Capital:** [Rijeka](Rijeka)
+- **Population:** 26
 - **Currency:** [Gold](Gold) (Gold_ABV)
 
 ---
@@ -29,7 +29,7 @@
 
 ## Economy
 
-- **GDP:** 9334.53G
+- **GDP:** 9334G
 - **Currency:** [Gold](Gold)
 
 ---
