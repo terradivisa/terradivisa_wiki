@@ -1,33 +1,33 @@
-# $NAME$
+# <!--NAME-->NAME<!--NAME-->
 
 ## Overview
 
-- **Capital:** [$CAPITAL$]($CAPITAL$)
-- **Population:** $POPULATION$
-- **Currency:** [$CURRENCY$]($CURRENCY$) ($CURRENCY_ABV$)
+- **Capital:** [<!--CAPITAL-->CAPITAL<!--CAPITAL-->](<!--CAPITAL-->CAPITAL<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->POPULATION<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->CURRENCY<!--CURRENCY-->](<!--CURRENCY-->CURRENCY<!--CURRENCY-->) (<!--CURRENCY_ABV-->ABV<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [$LEADER_TITLE$]($LEADER$)
-- **Governmental System:** $GOVERNMENT$
+- **Head of State:** [<!--LEADER_TITLE-->LEADER_TITLE<!--LEADER_TITLE-->](<!--LEADER-->LEADER<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->GOVERNMENT<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [$CURRENCY$]($CURRENCY$)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->CURRENCY<!--CURRENCY-->](<!--CURRENCY-->CURRENCY<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-$TOWNS$
+<!--TOWNS-->TOWNS<!--TOWNS-->
 
 ## Colonies
 
-$COLONIES$
+<!--COLONIES-->COLONIES<!--COLONIES-->
 
 ---
