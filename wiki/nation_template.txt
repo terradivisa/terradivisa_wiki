@@ -4,36 +4,28 @@
 
 - **Capital:** $CAPITAL
 - **Population:** $POPULATION
-- **Currency:** $CURRENCY ($CURRENCY_ABV)
+- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** $LEADER
+- **Head of State:** [$LEADER]
 - **Governmental System:** $GOVERNMENT
 
 ---
 
 ## Economy
-The economy centers on renewable energy, tech exports, and eco-tourism. $NAME is known for its solar tech and wind turbine exports.
 
 - **GDP:** $GDP
 - **Currency:** $CURRENCY
 
 ---
 
-## Military
-$NAME's military focuses on defense and peacekeeping, with a strong emphasis on cyber defense.
+## Military History
 
-- **Active Personnel:** 
-
----
-
-## Geography
-$NAME features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
-
-- **Climate:** Temperate
-- **Natural Resources:** Timber, fresh water, minerals
+- **Wars Won:** $WARS_WON
+- **Wars Lost:** $WARS_LOST
 
 ---
+
