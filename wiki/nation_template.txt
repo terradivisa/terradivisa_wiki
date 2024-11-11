@@ -17,7 +17,7 @@
 
 ## Economy
 
-- **GDP:** <!-- GDP -->0<!-- GDP -->
+- **GDP:** <!--GDP-->0<!--GDP-->
 - **Currency:** [$CURRENCY$]($CURRENCY$)
 
 ---
