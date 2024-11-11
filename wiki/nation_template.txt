@@ -1,6 +1,5 @@
 # $NAME$
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [$CAPITAL$]($CAPITAL$)
@@ -18,7 +17,7 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** $GDP$
+- **GDP:** <!-- GDP -->
 - **Currency:** [$CURRENCY$]($CURRENCY$)
 
 ---
