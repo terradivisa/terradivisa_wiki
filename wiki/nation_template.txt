@@ -2,15 +2,21 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [$CURRENCY]($CURRENCY) ($CURRENCY_ABV)
+
+---
+
+## Towns
+
+$TOWNS
 
 ---
 
 ## Government
 
-- **Head of State:** [$LEADER]
+- **Head of State:** [$LEADER]($LEADER)
 - **Governmental System:** $GOVERNMENT
 
 ---
@@ -18,7 +24,7 @@
 ## Economy
 
 - **GDP:** $GDP
-- **Currency:** $CURRENCY
+- **Currency:** [$CURRENCY]($CURRENCY)
 
 ---
 
