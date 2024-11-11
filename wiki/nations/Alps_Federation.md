@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Alps Federation is known for its solar tech and wind turbine exports.
 
-- **GDP:** $GDP
+- **GDP:** 15413.3
 - **Currency:** $CURRENCY
 
 ---

@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Chud Dynasty is known for its solar tech and wind turbine exports.
 
-- **GDP:** $GDP
+- **GDP:** 58326.04
 - **Currency:** $CURRENCY
 
 ---

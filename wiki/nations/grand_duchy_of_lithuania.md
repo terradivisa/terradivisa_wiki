@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. grand duchy of lithuania is known for its solar tech and wind turbine exports.
 
-- **GDP:** $GDP
+- **GDP:** 1551
 - **Currency:** $CURRENCY
 
 ---

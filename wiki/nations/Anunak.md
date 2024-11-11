@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Anunak is known for its solar tech and wind turbine exports.
 
-- **GDP:** $GDP
+- **GDP:** 5571
 - **Currency:** $CURRENCY
 
 ---

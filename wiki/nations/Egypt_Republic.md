@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Egypt Republic is known for its solar tech and wind turbine exports.
 
-- **GDP:** $GDP
+- **GDP:** 594
 - **Currency:** $CURRENCY
 
 ---

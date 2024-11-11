@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Slums is known for its solar tech and wind turbine exports.
 
-- **GDP:** $GDP
+- **GDP:** 366
 - **Currency:** $CURRENCY
 
 ---
