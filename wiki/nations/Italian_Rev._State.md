@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Rijeka](Rijeka)
-- **Population:** 26
+- **Population:** 21
 - **Currency:** [Gold](Gold) (G)
 
 ---

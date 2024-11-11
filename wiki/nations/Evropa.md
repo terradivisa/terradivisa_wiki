@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Paris](Paris)
-- **Population:** 14
+- **Population:** 13
 - **Currency:** [Gold](Gold) (G)
 
 ---

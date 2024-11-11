@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Port Mackay](Port Mackay)
-- **Population:** 11
+- **Population:** 6
 - **Currency:** [Gold](Gold) (G)
 
 ---

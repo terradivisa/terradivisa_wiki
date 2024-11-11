@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [St. Espagrad](St. Espagrad)
-- **Population:** 97
+- **Population:** 63
 - **Currency:** [Gold](Gold) (G)
 
 ---

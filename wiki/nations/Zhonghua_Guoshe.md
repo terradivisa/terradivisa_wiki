@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Yamaxun](Yamaxun)
-- **Population:** 2
+- **Population:** 0
 - **Currency:** [Gold](Gold) (G)
 
 ---

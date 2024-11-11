@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Bordeaux](Bordeaux)
-- **Population:** 50
+- **Population:** 35
 - **Currency:** [Gold](Gold) (G)
 
 ---

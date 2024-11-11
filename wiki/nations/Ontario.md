@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Ontario City](Ontario City)
-- **Population:** 3
+- **Population:** 2
 - **Currency:** [Gold](Gold) (G)
 
 ---

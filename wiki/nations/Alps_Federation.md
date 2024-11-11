@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Geneva](Geneva)
-- **Population:** 6
+- **Population:** 1
 - **Currency:** [Gold](Gold) (G)
 
 ---

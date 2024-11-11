@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Norskland](Norskland)
-- **Population:** 21
+- **Population:** 15
 - **Currency:** [Gold](Gold) (G)
 
 ---

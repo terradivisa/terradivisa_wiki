@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Colombian Territories](Colombian Territories)
-- **Population:** 16
+- **Population:** 15
 - **Currency:** [Gold](Gold) (G)
 
 ---

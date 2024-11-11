@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Seraphia](Seraphia)
-- **Population:** 45
+- **Population:** 37
 - **Currency:** [Gold](Gold) (G)
 
 ---

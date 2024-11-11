@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Wisconsin State](Wisconsin State)
-- **Population:** 19
+- **Population:** 12
 - **Currency:** [Gold](Gold) (G)
 
 ---

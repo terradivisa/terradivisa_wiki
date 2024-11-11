@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Venezuelan Territories](Venezuelan Territories)
-- **Population:** 11
+- **Population:** 7
 - **Currency:** [Gold](Gold) (G)
 
 ---

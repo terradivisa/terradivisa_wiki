@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [louhi](louhi)
-- **Population:** 35
+- **Population:** 33
 - **Currency:** [Gold](Gold) (G)
 
 ---

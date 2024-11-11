@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Chudjing](Chudjing)
-- **Population:** 130
+- **Population:** 80
 - **Currency:** [Gold](Gold) (G)
 
 ---

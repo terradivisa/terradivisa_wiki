@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Strasbourg](Strasbourg)
-- **Population:** 29
+- **Population:** 22
 - **Currency:** [Gold](Gold) (G)
 
 ---

@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Arabia](Arabia)
-- **Population:** 9
+- **Population:** 7
 - **Currency:** [Gold](Gold) (G)
 
 ---

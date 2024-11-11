@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Kyiv](Kyiv)
-- **Population:** 78
+- **Population:** 61
 - **Currency:** [Gold](Gold) (G)
 
 ---

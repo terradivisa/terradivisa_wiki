@@ -3,7 +3,7 @@
 ## Overview
 
 - **Capital:** [Lisbon](Lisbon)
-- **Population:** 3
+- **Population:** 2
 - **Currency:** [Gold](Gold) (G)
 
 ---
