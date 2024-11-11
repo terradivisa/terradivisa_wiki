@@ -16,7 +16,7 @@ $TOWNS$
 
 ## Government
 
-- **Head of State:** [$LEADER$]($LEADER$)
+- **Head of State:** [$LEADER_TITLE$]($LEADER$)
 - **Governmental System:** $GOVERNMENT$
 
 ---
