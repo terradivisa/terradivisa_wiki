@@ -4,36 +4,28 @@
 
 - **Capital:** Port Mackay
 - **Population:** 11
-- **Currency:** $CURRENCY ($CURRENCY_ABV)
+- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** &lSupreme ACB10
+- **Head of State:** [&lSupreme ACB10]
 - **Governmental System:** Fascist
 
 ---
 
 ## Economy
-The economy centers on renewable energy, tech exports, and eco-tourism. Australian Empire is known for its solar tech and wind turbine exports.
 
 - **GDP:** 116g
 - **Currency:** $CURRENCY
 
 ---
 
-## Military
-Australian Empire's military focuses on defense and peacekeeping, with a strong emphasis on cyber defense.
+## Military History
 
-- **Active Personnel:** 
-
----
-
-## Geography
-Australian Empire features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
-
-- **Climate:** Temperate
-- **Natural Resources:** Timber, fresh water, minerals
+- **Wars Won:** $WARS_WON
+- **Wars Lost:** $WARS_LOST
 
 ---
+

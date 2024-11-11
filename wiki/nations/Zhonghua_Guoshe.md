@@ -4,36 +4,28 @@
 
 - **Capital:** Yamaxun
 - **Population:** 2
-- **Currency:** $CURRENCY ($CURRENCY_ABV)
+- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** Leader NPC53
+- **Head of State:** [Leader NPC53]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
-The economy centers on renewable energy, tech exports, and eco-tourism. Zhonghua Guoshe is known for its solar tech and wind turbine exports.
 
 - **GDP:** 1500g
 - **Currency:** $CURRENCY
 
 ---
 
-## Military
-Zhonghua Guoshe's military focuses on defense and peacekeeping, with a strong emphasis on cyber defense.
+## Military History
 
-- **Active Personnel:** 
-
----
-
-## Geography
-Zhonghua Guoshe features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
-
-- **Climate:** Temperate
-- **Natural Resources:** Timber, fresh water, minerals
+- **Wars Won:** $WARS_WON
+- **Wars Lost:** $WARS_LOST
 
 ---
+
