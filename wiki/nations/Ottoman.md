@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Diyerbakir](Diyerbakir)
-
----
-
 ## Government
 
 - **Head of State:** [Mayor furkan1453bjk](furkan1453bjk)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Diyerbakir](Diyerbakir)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

@@ -8,18 +8,6 @@
 
 ---
 
-## Towns
-
-- [Rijeka](Rijeka)
-- [Gravity Falls](Gravity Falls)
-- [Villagers](Villagers)
-- [Football](Football)
-- [Slavonia](Slavonia)
-- [Italia](Italia)
-- [Real Alaska](Real Alaska)
-
----
-
 ## Government
 
 - **Head of State:** [Armani Lukinjo_](Lukinjo_)
@@ -34,10 +22,13 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Rijeka](Rijeka)
+- [Italia](Italia)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

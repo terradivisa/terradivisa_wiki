@@ -8,19 +8,6 @@
 
 ---
 
-## Towns
-
-- [Caketopia](Caketopia)
-- [Maranham](Maranham)
-- [Conception Bay](Conception Bay)
-- [Norskland](Norskland)
-- [Piehaven](Piehaven)
-- [Vinland](Vinland)
-- [True Alaska](True Alaska)
-- [east arabia](east arabia)
-
----
-
 ## Government
 
 - **Head of State:** [Duke KraisertronKradd](KraisertronKradd)
@@ -35,10 +22,13 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Norskland](Norskland)
+- [Vinland](Vinland)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

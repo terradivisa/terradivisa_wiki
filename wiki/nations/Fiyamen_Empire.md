@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Fiyamen Island](Fiyamen Island)
-
----
-
 ## Government
 
 - **Head of State:** [Leader fiyamen](fiyamen)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Fiyamen Island](Fiyamen Island)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [CrustMore](CrustMore)
-
----
-
 ## Government
 
 - **Head of State:** [Leader DirtyPanties](DirtyPanties)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [CrustMore](CrustMore)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Konenburg](Konenburg)
-
----
-
 ## Government
 
 - **Head of State:** [Leader Rpg5niner24](Rpg5niner24)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Konenburg](Konenburg)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

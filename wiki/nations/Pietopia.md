@@ -8,22 +8,6 @@
 
 ---
 
-## Towns
-
-- [Turkey](Turkey)
-- [Meria](Meria)
-- [shroomania](shroomania)
-- [Levan](Levan)
-- [Quebec](Quebec)
-- [Boat](Boat)
-- [Mesopotamia](Mesopotamia)
-- [Angola](Angola)
-- [New Dreadfort](New Dreadfort)
-- [louhi](louhi)
-- [Caribbean Territories](Caribbean Territories)
-
----
-
 ## Government
 
 - **Head of State:** [&dQueen RoseyFox](RoseyFox)
@@ -38,10 +22,20 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Turkey](Turkey)
+- [Meria](Meria)
+- [shroomania](shroomania)
+- [Levan](Levan)
+- [Mesopotamia](Mesopotamia)
+- [Angola](Angola)
+- [New Dreadfort](New Dreadfort)
+- [louhi](louhi)
+- [Caribbean Territories](Caribbean Territories)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

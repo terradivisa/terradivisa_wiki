@@ -8,13 +8,6 @@
 
 ---
 
-## Towns
-
-- [Albion](Albion)
-- [MountImmortal](MountImmortal)
-
----
-
 ## Government
 
 - **Head of State:** [Leader Deadlygamer1000](Deadlygamer1000)
@@ -29,10 +22,13 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Albion](Albion)
+- [MountImmortal](MountImmortal)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

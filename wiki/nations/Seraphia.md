@@ -8,23 +8,6 @@
 
 ---
 
-## Towns
-
-- [TheHouse](TheHouse)
-- [sigmaville](sigmaville)
-- [Purple Town](Purple Town)
-- [Zhukov Industries](Zhukov Industries)
-- [ICELAND BEST](ICELAND BEST)
-- [TheMonument.](TheMonument.)
-- [Seraphia2](Seraphia2)
-- [North Iceland](North Iceland)
-- [Seraphia](Seraphia)
-- [Greenerland](Greenerland)
-- [EventArea](EventArea)
-- [Gankington city](Gankington city)
-
----
-
 ## Government
 
 - **Head of State:** [Emperor agnat](agnat)
@@ -39,10 +22,15 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Purple Town](Purple Town)
+- [Zhukov Industries](Zhukov Industries)
+- [Seraphia2](Seraphia2)
+- [Seraphia](Seraphia)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

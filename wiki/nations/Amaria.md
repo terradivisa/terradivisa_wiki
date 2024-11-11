@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Boston](Boston)
-
----
-
 ## Government
 
 - **Head of State:** [Leader Scooty5728](Scooty5728)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Boston](Boston)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

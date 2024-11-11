@@ -8,15 +8,6 @@
 
 ---
 
-## Towns
-
-- [Cuba](Cuba)
-- [Sovereign Cayenne](Sovereign Cayenne)
-- [Colombian Territories](Colombian Territories)
-- [Ecuador](Ecuador)
-
----
-
 ## Government
 
 - **Head of State:** [Consul Iftekimas](Iftekimas)
@@ -31,10 +22,14 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Sovereign Cayenne](Sovereign Cayenne)
+- [Colombian Territories](Colombian Territories)
+- [Ecuador](Ecuador)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

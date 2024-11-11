@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [town](town)
-
----
-
 ## Government
 
 - **Head of State:** [Leader Tobinio_](Tobinio_)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [town](town)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

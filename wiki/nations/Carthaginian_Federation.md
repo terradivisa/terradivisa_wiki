@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Carthage](Carthage)
-
----
-
 ## Government
 
 - **Head of State:** [Leader Furiouskyy](Furiouskyy)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Carthage](Carthage)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

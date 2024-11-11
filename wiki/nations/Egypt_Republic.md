@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Luxor](Luxor)
-
----
-
 ## Government
 
 - **Head of State:** [Leader ahmed_error12](ahmed_error12)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Luxor](Luxor)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

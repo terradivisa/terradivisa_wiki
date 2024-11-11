@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [KRETE](KRETE)
-
----
-
 ## Government
 
 - **Head of State:** [Vipathe taken4aride](taken4aride)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [KRETE](KRETE)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

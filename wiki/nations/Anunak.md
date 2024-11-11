@@ -8,14 +8,6 @@
 
 ---
 
-## Towns
-
-- [Eastoria](Eastoria)
-- [Arabia](Arabia)
-- [Cape Colony](Cape Colony)
-
----
-
 ## Government
 
 - **Head of State:** [Sultan ThatLeetGuy](ThatLeetGuy)
@@ -30,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Arabia](Arabia)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

@@ -8,13 +8,6 @@
 
 ---
 
-## Towns
-
-- [Agartha](Agartha)
-- [Paris](Paris)
-
----
-
 ## Government
 
 - **Head of State:** [Count _aws](_aws)
@@ -29,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Paris](Paris)
+
+### Colonies
+
+$COLONIES$
 
 ---
-

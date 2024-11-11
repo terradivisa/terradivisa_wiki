@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Midgard](Midgard)
-
----
-
 ## Government
 
 - **Head of State:** [Leader diives](diives)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Midgard](Midgard)
+
+### Colonies
+
+$COLONIES$
 
 ---
-
