@@ -28,8 +28,8 @@
 - [Colombian Territories](Colombian Territories)
 - [Ecuador](Ecuador)
 
-### Colonies
+###     Colonies
 
-- [Cuba](Cuba)
+    - [Cuba](Cuba)
 
 ---

@@ -26,8 +26,8 @@
 
 - [Ontario City](Ontario City)
 
-### Colonies
+###     Colonies
 
-- [Superior](Superior)
+    - [Superior](Superior)
 
 ---

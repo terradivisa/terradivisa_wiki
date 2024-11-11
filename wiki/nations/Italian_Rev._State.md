@@ -27,12 +27,12 @@
 - [Rijeka](Rijeka)
 - [Italia](Italia)
 
-### Colonies
+###     Colonies
 
-- [Gravity Falls](Gravity Falls)
-- [Villagers](Villagers)
-- [Football](Football)
-- [Slavonia](Slavonia)
-- [Real Alaska](Real Alaska)
+    - [Gravity Falls](Gravity Falls)
+    - [Villagers](Villagers)
+    - [Football](Football)
+    - [Slavonia](Slavonia)
+    - [Real Alaska](Real Alaska)
 
 ---

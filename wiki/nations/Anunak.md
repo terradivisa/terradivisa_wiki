@@ -26,9 +26,9 @@
 
 - [Arabia](Arabia)
 
-### Colonies
+###     Colonies
 
-- [Eastoria](Eastoria)
-- [Cape Colony](Cape Colony)
+    - [Eastoria](Eastoria)
+    - [Cape Colony](Cape Colony)
 
 ---

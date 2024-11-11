@@ -26,8 +26,8 @@
 
 - [Lisbon](Lisbon)
 
-### Colonies
+###     Colonies
 
-- [New Espagrad](New Espagrad)
+    - [New Espagrad](New Espagrad)
 
 ---
