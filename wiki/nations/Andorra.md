@@ -2,23 +2,23 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->AndorraLaVella<!--CAPITAL-->](<!--CAPITAL-->AndorraLaVella<!--CAPITAL-->)
+- **Capital:** <!--CAPITAL_LINK-->[AndorraLaVella](AndorraLaVella)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->4<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->Leader H4TIUX<!--LEADER_TITLE-->](<!--LEADER-->H4TIUX<!--LEADER-->)
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader H4TIUX](H4TIUX)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK-->
 
 ---
 

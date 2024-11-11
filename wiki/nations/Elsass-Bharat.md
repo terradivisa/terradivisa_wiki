@@ -2,23 +2,23 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->Strasbourg<!--CAPITAL-->](<!--CAPITAL-->Strasbourg<!--CAPITAL-->)
+- **Capital:** <!--CAPITAL_LINK-->[Strasbourg](Strasbourg)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->22<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->Kaiser happyperson3796<!--LEADER_TITLE-->](<!--LEADER-->happyperson3796<!--LEADER-->)
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Kaiser happyperson3796](happyperson3796)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Burgundian System<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK-->
 
 ---
 

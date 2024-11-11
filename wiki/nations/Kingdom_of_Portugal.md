@@ -2,23 +2,23 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->Lisbon<!--CAPITAL-->](<!--CAPITAL-->Lisbon<!--CAPITAL-->)
+- **Capital:** <!--CAPITAL_LINK-->[Lisbon](Lisbon)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->Leader BACTUGA<!--LEADER_TITLE-->](<!--LEADER-->BACTUGA<!--LEADER-->)
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader BACTUGA](BACTUGA)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK-->
 
 ---
 

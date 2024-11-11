@@ -2,23 +2,23 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->New Nuh Uh<!--CAPITAL-->](<!--CAPITAL-->New Nuh Uh<!--CAPITAL-->)
+- **Capital:** <!--CAPITAL_LINK-->[New Nuh Uh](New Nuh Uh)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->Leader DiamondFury101<!--LEADER_TITLE-->](<!--LEADER-->DiamondFury101<!--LEADER-->)
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader DiamondFury101](DiamondFury101)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK-->
 
 ---
 

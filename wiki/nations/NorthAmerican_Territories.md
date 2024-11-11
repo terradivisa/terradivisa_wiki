@@ -2,23 +2,23 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->Wisconsin State<!--CAPITAL-->](<!--CAPITAL-->Wisconsin State<!--CAPITAL-->)
+- **Capital:** <!--CAPITAL_LINK-->[Wisconsin State](Wisconsin State)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->12<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->Count .WebbierBreak915<!--LEADER_TITLE-->](<!--LEADER-->.WebbierBreak915<!--LEADER-->)
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count .WebbierBreak915](.WebbierBreak915)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Technocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK-->
 
 ---
 

@@ -2,23 +2,23 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->Colombian Territories<!--CAPITAL-->](<!--CAPITAL-->Colombian Territories<!--CAPITAL-->)
+- **Capital:** <!--CAPITAL_LINK-->[Colombian Territories](Colombian Territories)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->15<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->Consul Iftekimas<!--LEADER_TITLE-->](<!--LEADER-->Iftekimas<!--LEADER-->)
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Consul Iftekimas](Iftekimas)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Aristocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold)<!--CURRENCY_LINK-->
 
 ---
 
