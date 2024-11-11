@@ -1,23 +1,23 @@
-# Patatostan
+# killas
 
 ## Overview
 
-- **Capital:** Patatopia
-- **Population:** 5
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Kipos007]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 696g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

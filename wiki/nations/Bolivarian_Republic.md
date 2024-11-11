@@ -1,23 +1,23 @@
-# Bolivarian Republic
+# killas
 
 ## Overview
 
-- **Capital:** Venezuelan Territories
-- **Population:** 11
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Count ExternalABX]
-- **Governmental System:** Fascist
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 13995.2g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

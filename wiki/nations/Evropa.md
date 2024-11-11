@@ -1,23 +1,23 @@
-# Evropa
+# killas
 
 ## Overview
 
-- **Capital:** Paris
-- **Population:** 14
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Count _aws]
-- **Governmental System:** Corporatocracy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 61071.4g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

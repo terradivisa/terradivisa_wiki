@@ -1,23 +1,23 @@
-# Australian Empire
+# killas
 
 ## Overview
 
-- **Capital:** Port Mackay
-- **Population:** 11
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [&lSupreme ACB10]
-- **Governmental System:** Fascist
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 116g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

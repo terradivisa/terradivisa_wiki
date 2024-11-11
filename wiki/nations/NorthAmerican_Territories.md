@@ -1,23 +1,23 @@
-# NorthAmerican Territories
+# killas
 
 ## Overview
 
-- **Capital:** Wisconsin State
-- **Population:** 19
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Count .WebbierBreak915]
-- **Governmental System:** Technocracy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 2757g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

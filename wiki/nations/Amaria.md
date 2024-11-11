@@ -1,8 +1,8 @@
-# Amaria
+# killas
 
 ## Overview
 
-- **Capital:** Boston
+- **Capital:** killas
 - **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
@@ -10,14 +10,14 @@
 
 ## Government
 
-- **Head of State:** [Leader Scooty5728]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1105g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

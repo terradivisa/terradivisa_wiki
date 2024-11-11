@@ -1,23 +1,23 @@
-# Intermarium
+# killas
 
 ## Overview
 
-- **Capital:** Kyiv
-- **Population:** 78
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [President dalmantinac]
-- **Governmental System:** Democracy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 62779.81g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

@@ -1,8 +1,8 @@
-# Duchy of Konenburg
+# killas
 
 ## Overview
 
-- **Capital:** Konenburg
+- **Capital:** killas
 - **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
@@ -10,14 +10,14 @@
 
 ## Government
 
-- **Head of State:** [Leader Rpg5niner24]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1816g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

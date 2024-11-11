@@ -1,23 +1,23 @@
-# grand duchy of lithuania
+# killas
 
 ## Overview
 
-- **Capital:** lietuva
-- **Population:** 3
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader BlueLT_u]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1551g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

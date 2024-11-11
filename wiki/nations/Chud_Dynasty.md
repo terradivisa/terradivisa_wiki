@@ -1,23 +1,23 @@
-# Chud Dynasty
+# killas
 
 ## Overview
 
-- **Capital:** Chudjing
-- **Population:** 130
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [peeceangle bigironranger]
-- **Governmental System:** Monarchy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 58326.04g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

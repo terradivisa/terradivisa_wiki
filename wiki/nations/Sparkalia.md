@@ -1,23 +1,23 @@
-# Sparkalia
+# killas
 
 ## Overview
 
-- **Capital:** Snizhynivsk
-- **Population:** 13
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Count Feirforia]
-- **Governmental System:** Monarchy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 9831.07g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

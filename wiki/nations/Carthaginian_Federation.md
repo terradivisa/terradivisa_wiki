@@ -1,23 +1,23 @@
-# Carthaginian Federation
+# killas
 
 ## Overview
 
-- **Capital:** Carthage
-- **Population:** 3
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Furiouskyy]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1555g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

@@ -1,23 +1,23 @@
-# Andorra
+# killas
 
 ## Overview
 
-- **Capital:** AndorraLaVella
-- **Population:** 4
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader H4TIUX]
-- **Governmental System:** Monarchy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 2817g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

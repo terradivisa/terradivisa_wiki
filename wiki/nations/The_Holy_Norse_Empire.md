@@ -1,23 +1,23 @@
-# The Holy Norse Empire
+# killas
 
 ## Overview
 
-- **Capital:** Norskland
-- **Population:** 21
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Duke KraisertronKradd]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 51825.2g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

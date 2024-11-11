@@ -1,23 +1,23 @@
-# Italian Rev. State
+# killas
 
 ## Overview
 
-- **Capital:** Rijeka
-- **Population:** 26
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Armani Lukinjo_]
-- **Governmental System:** Dictatorship
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 9334.53g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

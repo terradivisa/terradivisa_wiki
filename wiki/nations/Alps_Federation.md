@@ -1,23 +1,23 @@
-# Alps Federation
+# killas
 
 ## Overview
 
-- **Capital:** Geneva
-- **Population:** 6
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Redident ATrainStudios]
-- **Governmental System:** Technocracy
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 15413.3g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

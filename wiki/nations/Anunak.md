@@ -1,23 +1,23 @@
-# Anunak
+# killas
 
 ## Overview
 
-- **Capital:** Arabia
-- **Population:** 9
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Sultan ThatLeetGuy]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 5571g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

@@ -1,23 +1,23 @@
-# Ottoman
+# killas
 
 ## Overview
 
-- **Capital:** Diyerbakir
-- **Population:** 5
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Mayor furkan1453bjk]
-- **Governmental System:** Republic
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 4269g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

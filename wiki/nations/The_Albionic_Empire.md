@@ -1,23 +1,23 @@
-# The Albionic Empire
+# killas
 
 ## Overview
 
-- **Capital:** Albion
-- **Population:** 3
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Deadlygamer1000]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 675g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

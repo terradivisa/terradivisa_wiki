@@ -1,23 +1,23 @@
-# Slums
+# killas
 
 ## Overview
 
-- **Capital:** CrustMore
-- **Population:** 7
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader DirtyPanties]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 366g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

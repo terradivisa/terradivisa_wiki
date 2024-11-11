@@ -1,23 +1,23 @@
-# Terra Mariana
+# killas
 
 ## Overview
 
-- **Capital:** St. Espagrad
-- **Population:** 97
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Regent EspaRojo]
-- **Governmental System:** Dictatorship
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 35009.93g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

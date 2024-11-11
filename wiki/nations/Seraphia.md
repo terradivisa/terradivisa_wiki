@@ -1,23 +1,23 @@
-# Seraphia
+# killas
 
 ## Overview
 
-- **Capital:** Seraphia
-- **Population:** 45
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Emperor agnat]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 205167.2g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

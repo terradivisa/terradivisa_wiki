@@ -1,23 +1,23 @@
-# Fiyamen Empire
+# killas
 
 ## Overview
 
-- **Capital:** Fiyamen Island
-- **Population:** 1
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader fiyamen]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 789.8g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

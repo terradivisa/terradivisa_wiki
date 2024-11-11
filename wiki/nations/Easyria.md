@@ -1,23 +1,23 @@
-# Easyria
+# killas
 
 ## Overview
 
-- **Capital:** Midgard
-- **Population:** 1
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader diives]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 537.4g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

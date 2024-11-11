@@ -1,23 +1,23 @@
-# Egypt Republic
+# killas
 
 ## Overview
 
-- **Capital:** Luxor
-- **Population:** 3
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader ahmed_error12]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 594g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

@@ -1,8 +1,8 @@
-# Zhonghua Guoshe
+# killas
 
 ## Overview
 
-- **Capital:** Yamaxun
+- **Capital:** killas
 - **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
@@ -10,14 +10,14 @@
 
 ## Government
 
-- **Head of State:** [Leader NPC53]
+- **Head of State:** [Leader M3A24503]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1500g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

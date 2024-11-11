@@ -1,23 +1,23 @@
-# Papayan Empire
+# killas
 
 ## Overview
 
-- **Capital:** Bordeaux
-- **Population:** 50
+- **Capital:** killas
+- **Population:** 2
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Liege Lord Papayaaron]
-- **Governmental System:** Fascist
+- **Head of State:** [Leader M3A24503]
+- **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 49324g
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---
