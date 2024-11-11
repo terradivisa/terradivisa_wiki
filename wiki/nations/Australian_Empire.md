@@ -10,7 +10,7 @@
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->&lSupreme ACB10<!--LEADER_TITLE-->](<!--LEADER-->ACB10<!--LEADER-->)
+- **Head of State:** [<!--LEADER_TITLE-->Supreme ACB10<!--LEADER_TITLE-->](<!--LEADER-->ACB10<!--LEADER-->)
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
 ---

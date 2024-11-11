@@ -10,7 +10,7 @@
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->&dQueen RoseyFox<!--LEADER_TITLE-->](<!--LEADER-->RoseyFox<!--LEADER-->)
+- **Head of State:** [<!--LEADER_TITLE-->Queen RoseyFox<!--LEADER_TITLE-->](<!--LEADER-->RoseyFox<!--LEADER-->)
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
