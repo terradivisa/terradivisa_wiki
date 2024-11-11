@@ -26,7 +26,7 @@
 
 - [Boston](Boston)
 
-###     Colonies
+## Colonies
 
 
 

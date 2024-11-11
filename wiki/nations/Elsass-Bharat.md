@@ -32,14 +32,14 @@
 - [The Experts Land](The Experts Land)
 - [Delhi](Delhi)
 
-###     Colonies
+## Colonies
 
-    - [Gibraltar Colony](Gibraltar Colony)
-    - [The Pyramids](The Pyramids)
-    - [Icelandic Protectorate](Icelandic Protectorate)
-    - [Arctic Exclusion Zone](Arctic Exclusion Zone)
-    - [Persia](Persia)
-    - [sniffer](sniffer)
-    - [Alexandria](Alexandria)
+- [Gibraltar Colony](Gibraltar Colony)
+- [The Pyramids](The Pyramids)
+- [Icelandic Protectorate](Icelandic Protectorate)
+- [Arctic Exclusion Zone](Arctic Exclusion Zone)
+- [Persia](Persia)
+- [sniffer](sniffer)
+- [Alexandria](Alexandria)
 
 ---

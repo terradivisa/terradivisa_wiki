@@ -26,7 +26,7 @@
 
 - [Luxor](Luxor)
 
-###     Colonies
+## Colonies
 
 
 

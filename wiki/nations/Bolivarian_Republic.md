@@ -27,11 +27,11 @@
 - [somalia](somalia)
 - [Venezuelan Territories](Venezuelan Territories)
 
-###     Colonies
+## Colonies
 
-    - [Tallahassee](Tallahassee)
-    - [Canalan canal](Canalan canal)
-    - [Greater Toronto Area](Greater Toronto Area)
-    - [Turtle](Turtle)
+- [Tallahassee](Tallahassee)
+- [Canalan canal](Canalan canal)
+- [Greater Toronto Area](Greater Toronto Area)
+- [Turtle](Turtle)
 
 ---

@@ -34,9 +34,9 @@
 - [louhi](louhi)
 - [Caribbean Territories](Caribbean Territories)
 
-###     Colonies
+## Colonies
 
-    - [Quebec](Quebec)
-    - [Boat](Boat)
+- [Quebec](Quebec)
+- [Boat](Boat)
 
 ---
