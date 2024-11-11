@@ -4,7 +4,7 @@
 
 - **Capital:** [CrustMore](CrustMore)
 - **Population:** 7
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader DirtyPanties](Leader DirtyPanties)
+- **Head of State:** [Leader DirtyPanties](DirtyPanties)
 - **Governmental System:** Autocracy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

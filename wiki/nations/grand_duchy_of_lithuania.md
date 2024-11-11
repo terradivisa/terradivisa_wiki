@@ -4,7 +4,7 @@
 
 - **Capital:** [lietuva](lietuva)
 - **Population:** 3
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader BlueLT_u](Leader BlueLT_u)
+- **Head of State:** [Leader BlueLT_u](BlueLT_u)
 - **Governmental System:** Autocracy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

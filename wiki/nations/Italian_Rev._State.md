@@ -4,7 +4,7 @@
 
 - **Capital:** [Rijeka](Rijeka)
 - **Population:** 26
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Government
 
-- **Head of State:** [Armani Lukinjo_](Armani Lukinjo_)
+- **Head of State:** [Armani Lukinjo_](Lukinjo_)
 - **Governmental System:** Dictatorship
 
 ---
@@ -36,8 +36,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

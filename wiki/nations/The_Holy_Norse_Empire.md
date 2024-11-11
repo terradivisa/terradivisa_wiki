@@ -4,7 +4,7 @@
 
 - **Capital:** [Norskland](Norskland)
 - **Population:** 21
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## Government
 
-- **Head of State:** [Duke KraisertronKradd](Duke KraisertronKradd)
+- **Head of State:** [Duke KraisertronKradd](KraisertronKradd)
 - **Governmental System:** Autocracy
 
 ---
@@ -37,8 +37,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

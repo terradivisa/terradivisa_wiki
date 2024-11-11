@@ -4,7 +4,7 @@
 
 - **Capital:** [louhi](louhi)
 - **Population:** 35
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Government
 
-- **Head of State:** [&dQueen RoseyFox](&dQueen RoseyFox)
+- **Head of State:** [&dQueen RoseyFox](RoseyFox)
 - **Governmental System:** Autocracy
 
 ---
@@ -40,8 +40,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

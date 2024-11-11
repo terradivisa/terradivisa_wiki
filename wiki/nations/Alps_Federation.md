@@ -4,7 +4,7 @@
 
 - **Capital:** [Geneva](Geneva)
 - **Population:** 6
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## Government
 
-- **Head of State:** [Redident ATrainStudios](Redident ATrainStudios)
+- **Head of State:** [Redident ATrainStudios](ATrainStudios)
 - **Governmental System:** Technocracy
 
 ---
@@ -35,8 +35,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

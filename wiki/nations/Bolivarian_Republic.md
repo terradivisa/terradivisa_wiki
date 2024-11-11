@@ -4,7 +4,7 @@
 
 - **Capital:** [Venezuelan Territories](Venezuelan Territories)
 - **Population:** 11
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## Government
 
-- **Head of State:** [Count ExternalABX](Count ExternalABX)
+- **Head of State:** [Count ExternalABX](ExternalABX)
 - **Governmental System:** Fascist
 
 ---
@@ -35,8 +35,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

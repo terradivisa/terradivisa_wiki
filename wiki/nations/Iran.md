@@ -4,7 +4,7 @@
 
 - **Capital:** [Persian Empire](Persian Empire)
 - **Population:** 4
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader MasterKingRip](Leader MasterKingRip)
+- **Head of State:** [Leader MasterKingRip](MasterKingRip)
 - **Governmental System:** Autocracy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

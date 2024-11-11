@@ -4,7 +4,7 @@
 
 - **Capital:** [Paris](Paris)
 - **Population:** 14
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Government
 
-- **Head of State:** [Count _aws](Count _aws)
+- **Head of State:** [Count _aws](_aws)
 - **Governmental System:** Corporatocracy
 
 ---
@@ -31,8 +31,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

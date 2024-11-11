@@ -4,7 +4,7 @@
 
 - **Capital:** [AndorraLaVella](AndorraLaVella)
 - **Population:** 4
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader H4TIUX](Leader H4TIUX)
+- **Head of State:** [Leader H4TIUX](H4TIUX)
 - **Governmental System:** Monarchy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

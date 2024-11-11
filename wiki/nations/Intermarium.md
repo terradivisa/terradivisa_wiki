@@ -4,7 +4,7 @@
 
 - **Capital:** [Kyiv](Kyiv)
 - **Population:** 78
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## Government
 
-- **Head of State:** [President dalmantinac](President dalmantinac)
+- **Head of State:** [President dalmantinac](dalmantinac)
 - **Governmental System:** Democracy
 
 ---
@@ -61,8 +61,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

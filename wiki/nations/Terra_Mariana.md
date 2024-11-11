@@ -4,7 +4,7 @@
 
 - **Capital:** [St. Espagrad](St. Espagrad)
 - **Population:** 97
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## Government
 
-- **Head of State:** [Regent EspaRojo](Regent EspaRojo)
+- **Head of State:** [Regent EspaRojo](EspaRojo)
 - **Governmental System:** Dictatorship
 
 ---
@@ -70,8 +70,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

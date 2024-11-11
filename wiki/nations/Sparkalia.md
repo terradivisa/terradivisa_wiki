@@ -4,7 +4,7 @@
 
 - **Capital:** [Snizhynivsk](Snizhynivsk)
 - **Population:** 13
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Government
 
-- **Head of State:** [Count Feirforia](Count Feirforia)
+- **Head of State:** [Count Feirforia](Feirforia)
 - **Governmental System:** Monarchy
 
 ---
@@ -31,8 +31,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

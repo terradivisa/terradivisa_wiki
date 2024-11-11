@@ -4,7 +4,7 @@
 
 - **Capital:** [Patatopia](Patatopia)
 - **Population:** 5
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader Kipos007](Leader Kipos007)
+- **Head of State:** [Leader Kipos007](Kipos007)
 - **Governmental System:** Autocracy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

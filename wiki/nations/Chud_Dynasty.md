@@ -4,7 +4,7 @@
 
 - **Capital:** [Chudjing](Chudjing)
 - **Population:** 130
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## Government
 
-- **Head of State:** [peeceangle bigironranger](peeceangle bigironranger)
+- **Head of State:** [peeceangle bigironranger](bigironranger)
 - **Governmental System:** Monarchy
 
 ---
@@ -87,8 +87,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

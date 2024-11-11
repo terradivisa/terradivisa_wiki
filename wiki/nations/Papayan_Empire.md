@@ -4,7 +4,7 @@
 
 - **Capital:** [Bordeaux](Bordeaux)
 - **Population:** 50
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## Government
 
-- **Head of State:** [Liege Lord Papayaaron](Liege Lord Papayaaron)
+- **Head of State:** [Liege Lord Papayaaron](Papayaaron)
 - **Governmental System:** Fascist
 
 ---
@@ -46,8 +46,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

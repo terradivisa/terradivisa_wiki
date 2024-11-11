@@ -4,7 +4,7 @@
 
 - **Capital:** [Wisconsin State](Wisconsin State)
 - **Population:** 19
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## Government
 
-- **Head of State:** [Count .WebbierBreak915](Count .WebbierBreak915)
+- **Head of State:** [Count .WebbierBreak915](.WebbierBreak915)
 - **Governmental System:** Technocracy
 
 ---
@@ -39,8 +39,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

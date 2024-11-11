@@ -4,7 +4,7 @@
 
 - **Capital:** [Albion](Albion)
 - **Population:** 3
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Government
 
-- **Head of State:** [Leader Deadlygamer1000](Leader Deadlygamer1000)
+- **Head of State:** [Leader Deadlygamer1000](Deadlygamer1000)
 - **Governmental System:** Autocracy
 
 ---
@@ -31,8 +31,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

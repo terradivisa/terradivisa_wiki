@@ -4,7 +4,7 @@
 
 - **Capital:** [Seraphia](Seraphia)
 - **Population:** 45
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ## Government
 
-- **Head of State:** [Emperor agnat](Emperor agnat)
+- **Head of State:** [Emperor agnat](agnat)
 - **Governmental System:** Autocracy
 
 ---
@@ -41,8 +41,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

@@ -4,7 +4,7 @@
 
 - **Capital:** [Yamaxun](Yamaxun)
 - **Population:** 2
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Government
 
-- **Head of State:** [Leader NPC53](Leader NPC53)
+- **Head of State:** [Leader NPC53](NPC53)
 - **Governmental System:** Autocracy
 
 ---
@@ -31,8 +31,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

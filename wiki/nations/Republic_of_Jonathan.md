@@ -4,7 +4,7 @@
 
 - **Capital:** [New Nuh Uh](New Nuh Uh)
 - **Population:** 1
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader DiamondFury101](Leader DiamondFury101)
+- **Head of State:** [Leader DiamondFury101](DiamondFury101)
 - **Governmental System:** Autocracy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

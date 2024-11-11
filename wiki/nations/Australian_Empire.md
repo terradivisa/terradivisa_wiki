@@ -4,7 +4,7 @@
 
 - **Capital:** [Port Mackay](Port Mackay)
 - **Population:** 11
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## Government
 
-- **Head of State:** [&lSupreme ACB10](&lSupreme ACB10)
+- **Head of State:** [&lSupreme ACB10](ACB10)
 - **Governmental System:** Fascist
 
 ---
@@ -36,8 +36,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

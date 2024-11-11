@@ -4,7 +4,7 @@
 
 - **Capital:** [Konenburg](Konenburg)
 - **Population:** 2
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Leader Rpg5niner24](Leader Rpg5niner24)
+- **Head of State:** [Leader Rpg5niner24](Rpg5niner24)
 - **Governmental System:** Autocracy
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

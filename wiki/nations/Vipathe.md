@@ -4,7 +4,7 @@
 
 - **Capital:** [KRETE](KRETE)
 - **Population:** 3
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Government
 
-- **Head of State:** [Vipathe taken4aride](Vipathe taken4aride)
+- **Head of State:** [Vipathe taken4aride](taken4aride)
 - **Governmental System:** Dictatorship
 
 ---
@@ -30,8 +30,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

@@ -4,7 +4,7 @@
 
 - **Capital:** [Strasbourg](Strasbourg)
 - **Population:** 29
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## Government
 
-- **Head of State:** [Kaiser happyperson3796](Kaiser happyperson3796)
+- **Head of State:** [Kaiser happyperson3796](happyperson3796)
 - **Governmental System:** Burgundian System
 
 ---
@@ -43,8 +43,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 

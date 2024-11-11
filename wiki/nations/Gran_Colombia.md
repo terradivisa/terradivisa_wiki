@@ -4,7 +4,7 @@
 
 - **Capital:** [Colombian Territories](Colombian Territories)
 - **Population:** 16
-- **Currency:** [Gold](Gold) (Gold_ABV)
+- **Currency:** [Gold](Gold) (G)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## Government
 
-- **Head of State:** [Consul Iftekimas](Consul Iftekimas)
+- **Head of State:** [Consul Iftekimas](Iftekimas)
 - **Governmental System:** Aristocracy
 
 ---
@@ -33,8 +33,8 @@
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 
