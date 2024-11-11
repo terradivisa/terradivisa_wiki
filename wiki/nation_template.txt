@@ -1,37 +1,37 @@
-# $NAME
+# $NAME$
 
 ## Overview
 
-- **Capital:** [$CAPITAL]($CAPITAL)
-- **Population:** $POPULATION
-- **Currency:** [$CURRENCY]($CURRENCY) ($CURRENCY_ABV)
+- **Capital:** [$CAPITAL$]($CAPITAL$)
+- **Population:** $POPULATION$
+- **Currency:** [$CURRENCY$]($CURRENCY$) ($CURRENCY_ABV$)
 
 ---
 
 ## Towns
 
-$TOWNS
+$TOWNS$
 
 ---
 
 ## Government
 
-- **Head of State:** [$LEADER]($LEADER)
-- **Governmental System:** $GOVERNMENT
+- **Head of State:** [$LEADER$]($LEADER$)
+- **Governmental System:** $GOVERNMENT$
 
 ---
 
 ## Economy
 
-- **GDP:** $GDP
-- **Currency:** [$CURRENCY]($CURRENCY)
+- **GDP:** $GDP$
+- **Currency:** [$CURRENCY$]($CURRENCY$)
 
 ---
 
 ## Military History
 
-- **Wars Won:** $WARS_WON
-- **Wars Lost:** $WARS_LOST
+- **Wars Won:** $WARS_WON$
+- **Wars Lost:** $WARS_LOST$
 
 ---
 
