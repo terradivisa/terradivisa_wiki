@@ -8,17 +8,6 @@
 
 ---
 
-## Towns
-
-- [Tallahassee](Tallahassee)
-- [Canalan canal](Canalan canal)
-- [somalia](somalia)
-- [Greater Toronto Area](Greater Toronto Area)
-- [Turtle](Turtle)
-- [Venezuelan Territories](Venezuelan Territories)
-
----
-
 ## Government
 
 - **Head of State:** [Count ExternalABX](ExternalABX)
@@ -33,10 +22,16 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [somalia](somalia)
+- [Venezuelan Territories](Venezuelan Territories)
+
+### Colonies
+
+- [Tallahassee](Tallahassee)
+- [Canalan canal](Canalan canal)
+- [Greater Toronto Area](Greater Toronto Area)
+- [Turtle](Turtle)
 
 ---
-

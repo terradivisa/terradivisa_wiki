@@ -8,25 +8,6 @@
 
 ---
 
-## Towns
-
-- [Kashmir](Kashmir)
-- [Gibraltar Colony](Gibraltar Colony)
-- [The Pyramids](The Pyramids)
-- [Icelandic Protectorate](Icelandic Protectorate)
-- [Arctic Exclusion Zone](Arctic Exclusion Zone)
-- [Persia](Persia)
-- [sniffer](sniffer)
-- [Strasbourg](Strasbourg)
-- [Alexandria](Alexandria)
-- [Punjab](Punjab)
-- [Junagadh](Junagadh)
-- [Cyndirblock](Cyndirblock)
-- [The Experts Land](The Experts Land)
-- [Delhi](Delhi)
-
----
-
 ## Government
 
 - **Head of State:** [Kaiser happyperson3796](happyperson3796)
@@ -41,10 +22,24 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Kashmir](Kashmir)
+- [Strasbourg](Strasbourg)
+- [Punjab](Punjab)
+- [Junagadh](Junagadh)
+- [Cyndirblock](Cyndirblock)
+- [The Experts Land](The Experts Land)
+- [Delhi](Delhi)
+
+### Colonies
+
+- [Gibraltar Colony](Gibraltar Colony)
+- [The Pyramids](The Pyramids)
+- [Icelandic Protectorate](Icelandic Protectorate)
+- [Arctic Exclusion Zone](Arctic Exclusion Zone)
+- [Persia](Persia)
+- [sniffer](sniffer)
+- [Alexandria](Alexandria)
 
 ---
-

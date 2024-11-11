@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [killas](killas)
-
----
-
 ## Government
 
 - **Head of State:** [Leader M3A24503](M3A24503)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [killas](killas)
+
+### Colonies
+
+
 
 ---
-

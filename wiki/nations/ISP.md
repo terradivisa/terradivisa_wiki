@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [ZABRZE](ZABRZE)
-
----
-
 ## Government
 
 - **Head of State:** [Leader PlestonXD](PlestonXD)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [ZABRZE](ZABRZE)
+
+### Colonies
+
+
 
 ---
-

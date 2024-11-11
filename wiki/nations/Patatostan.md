@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Patatopia](Patatopia)
-
----
-
 ## Government
 
 - **Head of State:** [Leader Kipos007](Kipos007)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Patatopia](Patatopia)
+
+### Colonies
+
+
 
 ---
-

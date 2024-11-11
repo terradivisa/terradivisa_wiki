@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [Persian Empire](Persian Empire)
-
----
-
 ## Government
 
 - **Head of State:** [Leader MasterKingRip](MasterKingRip)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Persian Empire](Persian Empire)
+
+### Colonies
+
+
 
 ---
-

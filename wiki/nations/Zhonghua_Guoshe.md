@@ -8,13 +8,6 @@
 
 ---
 
-## Towns
-
-- [Yamaxun](Yamaxun)
-- [Aozhou](Aozhou)
-
----
-
 ## Government
 
 - **Head of State:** [Leader NPC53](NPC53)
@@ -29,10 +22,13 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+
+
+### Colonies
+
+- [Yamaxun](Yamaxun)
+- [Aozhou](Aozhou)
 
 ---
-

@@ -8,21 +8,6 @@
 
 ---
 
-## Towns
-
-- [New Colombia](New Colombia)
-- [Oklahoma](Oklahoma)
-- [Wisconsin State](Wisconsin State)
-- [Southern Republic City](Southern Republic City)
-- [Little Rivendell](Little Rivendell)
-- [Warmer Wisconsin](Warmer Wisconsin)
-- [Colder Wisconsin](Colder Wisconsin)
-- [Buzau](Buzau)
-- [Asian Wisconsin](Asian Wisconsin)
-- [Getz](Getz)
-
----
-
 ## Government
 
 - **Head of State:** [Count .WebbierBreak915](.WebbierBreak915)
@@ -37,10 +22,20 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Wisconsin State](Wisconsin State)
+- [Southern Republic City](Southern Republic City)
+- [Getz](Getz)
+
+### Colonies
+
+- [New Colombia](New Colombia)
+- [Oklahoma](Oklahoma)
+- [Little Rivendell](Little Rivendell)
+- [Warmer Wisconsin](Warmer Wisconsin)
+- [Colder Wisconsin](Colder Wisconsin)
+- [Buzau](Buzau)
+- [Asian Wisconsin](Asian Wisconsin)
 
 ---
-

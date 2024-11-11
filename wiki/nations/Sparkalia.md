@@ -8,13 +8,6 @@
 
 ---
 
-## Towns
-
-- [Snizhynivsk](Snizhynivsk)
-- [Skibidi City II](Skibidi City II)
-
----
-
 ## Government
 
 - **Head of State:** [Count Feirforia](Feirforia)
@@ -29,10 +22,13 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Snizhynivsk](Snizhynivsk)
+- [Skibidi City II](Skibidi City II)
+
+### Colonies
+
+
 
 ---
-

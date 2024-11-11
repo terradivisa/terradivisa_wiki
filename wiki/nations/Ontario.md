@@ -8,13 +8,6 @@
 
 ---
 
-## Towns
-
-- [Superior](Superior)
-- [Ontario City](Ontario City)
-
----
-
 ## Government
 
 - **Head of State:** [Leader FloridaManfr](FloridaManfr)
@@ -29,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Ontario City](Ontario City)
+
+### Colonies
+
+- [Superior](Superior)
 
 ---
-

@@ -8,18 +8,6 @@
 
 ---
 
-## Towns
-
-- [Australian Railsystem](Australian Railsystem)
-- [Greater Logaki Area](Greater Logaki Area)
-- [Port Mackay](Port Mackay)
-- [Logaki](Logaki)
-- [Australian MilitaryBase 1](Australian MilitaryBase 1)
-- [Saint William](Saint William)
-- [Wodonga](Wodonga)
-
----
-
 ## Government
 
 - **Head of State:** [&lSupreme ACB10](ACB10)
@@ -34,10 +22,17 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Port Mackay](Port Mackay)
+- [Wodonga](Wodonga)
+
+### Colonies
+
+- [Australian Railsystem](Australian Railsystem)
+- [Greater Logaki Area](Greater Logaki Area)
+- [Logaki](Logaki)
+- [Australian MilitaryBase 1](Australian MilitaryBase 1)
+- [Saint William](Saint William)
 
 ---
-

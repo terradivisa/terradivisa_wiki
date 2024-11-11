@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [lietuva](lietuva)
-
----
-
 ## Government
 
 - **Head of State:** [Leader BlueLT_u](BlueLT_u)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [lietuva](lietuva)
+
+### Colonies
+
+
 
 ---
-

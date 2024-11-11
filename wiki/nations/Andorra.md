@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [AndorraLaVella](AndorraLaVella)
-
----
-
 ## Government
 
 - **Head of State:** [Leader H4TIUX](H4TIUX)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [AndorraLaVella](AndorraLaVella)
+
+### Colonies
+
+
 
 ---
-

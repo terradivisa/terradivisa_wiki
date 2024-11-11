@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-- [New Nuh Uh](New Nuh Uh)
-
----
-
 ## Government
 
 - **Head of State:** [Leader DiamondFury101](DiamondFury101)
@@ -28,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [New Nuh Uh](New Nuh Uh)
+
+### Colonies
+
+
 
 ---
-

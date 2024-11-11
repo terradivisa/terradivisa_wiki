@@ -8,17 +8,6 @@
 
 ---
 
-## Towns
-
-- [Puerto la Severmuda](Puerto la Severmuda)
-- [Easter Island](Easter Island)
-- [Geneva](Geneva)
-- [Swiss Antarctica](Swiss Antarctica)
-- [Funny Number Island](Funny Number Island)
-- [southpole](southpole)
-
----
-
 ## Government
 
 - **Head of State:** [Redident ATrainStudios](ATrainStudios)
@@ -33,10 +22,16 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Geneva](Geneva)
+
+### Colonies
+
+- [Puerto la Severmuda](Puerto la Severmuda)
+- [Easter Island](Easter Island)
+- [Swiss Antarctica](Swiss Antarctica)
+- [Funny Number Island](Funny Number Island)
+- [southpole](southpole)
 
 ---
-

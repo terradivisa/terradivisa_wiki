@@ -8,43 +8,6 @@
 
 ---
 
-## Towns
-
-- [EGG](EGG)
-- [perth](perth)
-- [Constantinople](Constantinople)
-- [Refugio de la Lluvia](Refugio de la Lluvia)
-- [Syberian Military Base](Syberian Military Base)
-- [Pinneberg](Pinneberg)
-- [Gvineja](Gvineja)
-- [Saharan canal](Saharan canal)
-- [Polaris](Polaris)
-- [Sandstown](Sandstown)
-- [oloix](oloix)
-- [Macedonia](Macedonia)
-- [Tripolitania](Tripolitania)
-- [Kyiv](Kyiv)
-- [Nova Yevpatoriia](Nova Yevpatoriia)
-- [Sacred Land of Pig](Sacred Land of Pig)
-- [Mozambique](Mozambique)
-- [Old Yevpatoria](Old Yevpatoria)
-- [Horny Canal](Horny Canal)
-- [Lusaria](Lusaria)
-- [Pomerania](Pomerania)
-- [Gabon](Gabon)
-- [Pokaemia Archipelago](Pokaemia Archipelago)
-- [Mariupol](Mariupol)
-- [South Umut](South Umut)
-- [Helsinki](Helsinki)
-- [Isle of Pigism](Isle of Pigism)
-- [The New Alska](The New Alska)
-- [Suez Canal](Suez Canal)
-- [Second Polish Imperium](Second Polish Imperium)
-- [Pivnichnyi](Pivnichnyi)
-- [Revenant](Revenant)
-
----
-
 ## Government
 
 - **Head of State:** [President dalmantinac](dalmantinac)
@@ -59,10 +22,42 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [EGG](EGG)
+- [perth](perth)
+- [Refugio de la Lluvia](Refugio de la Lluvia)
+- [Pinneberg](Pinneberg)
+- [Polaris](Polaris)
+- [oloix](oloix)
+- [Macedonia](Macedonia)
+- [Kyiv](Kyiv)
+- [Lusaria](Lusaria)
+- [Pomerania](Pomerania)
+- [Pokaemia Archipelago](Pokaemia Archipelago)
+- [Mariupol](Mariupol)
+- [Helsinki](Helsinki)
+- [Second Polish Imperium](Second Polish Imperium)
+- [Revenant](Revenant)
+
+### Colonies
+
+- [Constantinople](Constantinople)
+- [Syberian Military Base](Syberian Military Base)
+- [Gvineja](Gvineja)
+- [Saharan canal](Saharan canal)
+- [Sandstown](Sandstown)
+- [Tripolitania](Tripolitania)
+- [Nova Yevpatoriia](Nova Yevpatoriia)
+- [Sacred Land of Pig](Sacred Land of Pig)
+- [Mozambique](Mozambique)
+- [Old Yevpatoria](Old Yevpatoria)
+- [Horny Canal](Horny Canal)
+- [Gabon](Gabon)
+- [South Umut](South Umut)
+- [Isle of Pigism](Isle of Pigism)
+- [The New Alska](The New Alska)
+- [Suez Canal](Suez Canal)
+- [Pivnichnyi](Pivnichnyi)
 
 ---
-

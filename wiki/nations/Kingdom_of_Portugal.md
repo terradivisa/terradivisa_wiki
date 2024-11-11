@@ -8,13 +8,6 @@
 
 ---
 
-## Towns
-
-- [Lisbon](Lisbon)
-- [New Espagrad](New Espagrad)
-
----
-
 ## Government
 
 - **Head of State:** [Leader BACTUGA](BACTUGA)
@@ -29,10 +22,12 @@
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+- [Lisbon](Lisbon)
+
+### Colonies
+
+- [New Espagrad](New Espagrad)
 
 ---
-
