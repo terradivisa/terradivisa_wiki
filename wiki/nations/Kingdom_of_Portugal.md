@@ -28,6 +28,6 @@
 
 ### Colonies
 
-$COLONIES$
+- [New Espagrad](New Espagrad)
 
 ---

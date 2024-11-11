@@ -28,6 +28,6 @@
 
 ### Colonies
 
-$COLONIES$
+- [Agartha](Agartha)
 
 ---

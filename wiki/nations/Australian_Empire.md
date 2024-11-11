@@ -29,6 +29,10 @@
 
 ### Colonies
 
-$COLONIES$
+- [Australian Railsystem](Australian Railsystem)
+- [Greater Logaki Area](Greater Logaki Area)
+- [Logaki](Logaki)
+- [Australian MilitaryBase 1](Australian MilitaryBase 1)
+- [Saint William](Saint William)
 
 ---

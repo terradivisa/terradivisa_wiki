@@ -31,6 +31,13 @@
 
 ### Colonies
 
-$COLONIES$
+- [TheHouse](TheHouse)
+- [sigmaville](sigmaville)
+- [ICELAND BEST](ICELAND BEST)
+- [TheMonument.](TheMonument.)
+- [North Iceland](North Iceland)
+- [Greenerland](Greenerland)
+- [EventArea](EventArea)
+- [Gankington city](Gankington city)
 
 ---

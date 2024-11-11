@@ -30,6 +30,6 @@
 
 ### Colonies
 
-$COLONIES$
+- [Cuba](Cuba)
 
 ---

@@ -28,6 +28,7 @@
 
 ### Colonies
 
-$COLONIES$
+- [Eastoria](Eastoria)
+- [Cape Colony](Cape Colony)
 
 ---

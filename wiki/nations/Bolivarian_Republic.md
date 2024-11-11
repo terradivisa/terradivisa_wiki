@@ -29,6 +29,9 @@
 
 ### Colonies
 
-$COLONIES$
+- [Tallahassee](Tallahassee)
+- [Canalan canal](Canalan canal)
+- [Greater Toronto Area](Greater Toronto Area)
+- [Turtle](Turtle)
 
 ---

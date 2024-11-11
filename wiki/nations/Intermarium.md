@@ -42,6 +42,22 @@
 
 ### Colonies
 
-$COLONIES$
+- [Constantinople](Constantinople)
+- [Syberian Military Base](Syberian Military Base)
+- [Gvineja](Gvineja)
+- [Saharan canal](Saharan canal)
+- [Sandstown](Sandstown)
+- [Tripolitania](Tripolitania)
+- [Nova Yevpatoriia](Nova Yevpatoriia)
+- [Sacred Land of Pig](Sacred Land of Pig)
+- [Mozambique](Mozambique)
+- [Old Yevpatoria](Old Yevpatoria)
+- [Horny Canal](Horny Canal)
+- [Gabon](Gabon)
+- [South Umut](South Umut)
+- [Isle of Pigism](Isle of Pigism)
+- [The New Alska](The New Alska)
+- [Suez Canal](Suez Canal)
+- [Pivnichnyi](Pivnichnyi)
 
 ---

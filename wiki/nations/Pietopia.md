@@ -36,6 +36,7 @@
 
 ### Colonies
 
-$COLONIES$
+- [Quebec](Quebec)
+- [Boat](Boat)
 
 ---

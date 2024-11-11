@@ -28,6 +28,7 @@
 
 ### Colonies
 
-$COLONIES$
+- [Yamaxun](Yamaxun)
+- [Aozhou](Aozhou)
 
 ---

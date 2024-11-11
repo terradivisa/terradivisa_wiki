@@ -30,6 +30,12 @@
 
 ### Colonies
 
-$COLONIES$
+- [New Colombia](New Colombia)
+- [Oklahoma](Oklahoma)
+- [Little Rivendell](Little Rivendell)
+- [Warmer Wisconsin](Warmer Wisconsin)
+- [Colder Wisconsin](Colder Wisconsin)
+- [Buzau](Buzau)
+- [Asian Wisconsin](Asian Wisconsin)
 
 ---
