@@ -1,9 +1,9 @@
-# killas
+# $NAME
 
 ## Overview
 
-- **Capital:** killas
-- **Population:** 2
+- **Capital:** $CAPITAL
+- **Population:** $POPULATION
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---

@@ -1,23 +1,23 @@
-# killas
+# $NAME
 
 ## Overview
 
-- **Capital:** killas
-- **Population:** 2
+- **Capital:** $CAPITAL
+- **Population:** $POPULATION
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader M3A24503]
-- **Governmental System:** Autocracy
+- **Head of State:** [&lSupreme ACB10]
+- **Governmental System:** Fascist
 
 ---
 
 ## Economy
 
-- **GDP:** 1746g
+- **GDP:** 116g
 - **Currency:** $CURRENCY
 
 ---

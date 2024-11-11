@@ -1,23 +1,23 @@
-# killas
+# $NAME
 
 ## Overview
 
-- **Capital:** killas
-- **Population:** 2
+- **Capital:** $CAPITAL
+- **Population:** $POPULATION
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader M3A24503]
+- **Head of State:** [Leader BACTUGA]
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1746g
+- **GDP:** 787g
 - **Currency:** $CURRENCY
 
 ---

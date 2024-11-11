@@ -1,23 +1,23 @@
-# killas
+# $NAME
 
 ## Overview
 
-- **Capital:** killas
-- **Population:** 2
+- **Capital:** $CAPITAL
+- **Population:** $POPULATION
 - **Currency:** [$CURRENCY] ($CURRENCY_ABV)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader M3A24503]
-- **Governmental System:** Autocracy
+- **Head of State:** [Count Feirforia]
+- **Governmental System:** Monarchy
 
 ---
 
 ## Economy
 
-- **GDP:** 1746g
+- **GDP:** 9831.07g
 - **Currency:** $CURRENCY
 
 ---
