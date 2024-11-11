@@ -2,32 +2,32 @@
 
 ## Overview
 
-- **Capital:** [<!--CAPITAL-->CAPITAL<!--CAPITAL-->](<!--CAPITAL-->CAPITAL<!--CAPITAL-->)
-- **Population:** <!--POPULATION-->POPULATION<!--POPULATION-->
-- **Currency:** [<!--CURRENCY-->CURRENCY<!--CURRENCY-->](<!--CURRENCY-->CURRENCY<!--CURRENCY-->) (<!--CURRENCY_ABV-->ABV<!--CURRENCY_ABV-->)
+- **Capital:** <!--CAPITAL_LINK--> <!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION--> <!--POPULATION-->
+- **Currency:** <!--CURRENCY_LINK--> <!--CURRENCY_LINK--> (<!--CURRENCY_ABV--> <!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [<!--LEADER_TITLE-->LEADER_TITLE<!--LEADER_TITLE-->](<!--LEADER-->LEADER<!--LEADER-->)
-- **Governmental System:** <!--GOVERNMENT-->GOVERNMENT<!--GOVERNMENT-->
+- **Head of State:** <!--LEADER_TITLE_LINK--> <!--LEADER_TITLE_LINK-->
+- **Governmental System:** <!--GOVERNMENT--> <!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->GDP<!--GDP-->
-- **Currency:** [<!--CURRENCY-->CURRENCY<!--CURRENCY-->](<!--CURRENCY-->CURRENCY<!--CURRENCY-->)
+- **GDP:** <!--GDP--> <!--GDP-->
+- **Currency:** <!--CURRENCY_LINK--> <!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->TOWNS<!--TOWNS-->
+<!--TOWNS--> <!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->COLONIES<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
