@@ -1,6 +1,5 @@
 # Ontario
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Ontario City](Ontario City)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 753G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Ontario City](Ontario City)
-
-## Colonies
-
-- [Superior](Superior)
-
----
+- **GDP:** <!-- GDP -->753G

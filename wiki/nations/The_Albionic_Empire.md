@@ -1,6 +1,5 @@
 # The Albionic Empire
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Albion](Albion)
@@ -18,18 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 675G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Albion](Albion)
-- [MountImmortal](MountImmortal)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->675G

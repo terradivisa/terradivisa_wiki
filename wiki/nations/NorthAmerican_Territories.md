@@ -1,6 +1,5 @@
 # NorthAmerican Territories
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Wisconsin State](Wisconsin State)
@@ -18,25 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 2757G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Wisconsin State](Wisconsin State)
-- [Southern Republic City](Southern Republic City)
-- [Getz](Getz)
-
-## Colonies
-
-- [New Colombia](New Colombia)
-- [Oklahoma](Oklahoma)
-- [Little Rivendell](Little Rivendell)
-- [Warmer Wisconsin](Warmer Wisconsin)
-- [Colder Wisconsin](Colder Wisconsin)
-- [Buzau](Buzau)
-- [Asian Wisconsin](Asian Wisconsin)
-
----
+- **GDP:** <!-- GDP -->2757G

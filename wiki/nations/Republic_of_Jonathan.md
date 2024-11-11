@@ -1,6 +1,5 @@
 # Republic of Jonathan
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [New Nuh Uh](New Nuh Uh)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 498G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [New Nuh Uh](New Nuh Uh)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->498G

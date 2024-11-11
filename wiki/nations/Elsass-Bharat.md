@@ -1,6 +1,5 @@
 # Elsass-Bharat
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Strasbourg](Strasbourg)
@@ -18,29 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 45787G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Kashmir](Kashmir)
-- [Strasbourg](Strasbourg)
-- [Punjab](Punjab)
-- [Junagadh](Junagadh)
-- [Cyndirblock](Cyndirblock)
-- [The Experts Land](The Experts Land)
-- [Delhi](Delhi)
-
-## Colonies
-
-- [Gibraltar Colony](Gibraltar Colony)
-- [The Pyramids](The Pyramids)
-- [Icelandic Protectorate](Icelandic Protectorate)
-- [Arctic Exclusion Zone](Arctic Exclusion Zone)
-- [Persia](Persia)
-- [sniffer](sniffer)
-- [Alexandria](Alexandria)
-
----
+- **GDP:** <!-- GDP -->45787G

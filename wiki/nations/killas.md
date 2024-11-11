@@ -1,6 +1,5 @@
 # killas
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [killas](killas)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 1746G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [killas](killas)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->1746G

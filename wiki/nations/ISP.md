@@ -1,6 +1,5 @@
 # ISP
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [ZABRZE](ZABRZE)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 574G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [ZABRZE](ZABRZE)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->574G

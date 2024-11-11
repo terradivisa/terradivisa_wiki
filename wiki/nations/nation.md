@@ -1,6 +1,5 @@
 # nation
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [town](town)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 198G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [town](town)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->198G

@@ -1,6 +1,5 @@
 # Andorra
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [AndorraLaVella](AndorraLaVella)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 2817G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [AndorraLaVella](AndorraLaVella)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->2817G

@@ -1,6 +1,5 @@
 # Duchy of Konenburg
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Konenburg](Konenburg)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 1816G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Konenburg](Konenburg)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->1816G

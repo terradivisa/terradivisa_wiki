@@ -1,6 +1,5 @@
 # Amaria
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Boston](Boston)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 1105G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Boston](Boston)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->1105G

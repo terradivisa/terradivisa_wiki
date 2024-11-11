@@ -1,6 +1,5 @@
 # Easyria
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Midgard](Midgard)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 537G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Midgard](Midgard)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->537G

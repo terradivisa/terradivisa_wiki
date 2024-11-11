@@ -1,6 +1,5 @@
 # Gran Colombia
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Colombian Territories](Colombian Territories)
@@ -18,19 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 22237G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Sovereign Cayenne](Sovereign Cayenne)
-- [Colombian Territories](Colombian Territories)
-- [Ecuador](Ecuador)
-
-## Colonies
-
-- [Cuba](Cuba)
-
----
+- **GDP:** <!-- GDP -->22237G

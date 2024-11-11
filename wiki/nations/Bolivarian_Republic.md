@@ -1,6 +1,5 @@
 # Bolivarian Republic
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Venezuelan Territories](Venezuelan Territories)
@@ -18,21 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 13995G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [somalia](somalia)
-- [Venezuelan Territories](Venezuelan Territories)
-
-## Colonies
-
-- [Tallahassee](Tallahassee)
-- [Canalan canal](Canalan canal)
-- [Greater Toronto Area](Greater Toronto Area)
-- [Turtle](Turtle)
-
----
+- **GDP:** <!-- GDP -->13995G

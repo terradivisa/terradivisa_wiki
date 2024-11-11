@@ -1,6 +1,5 @@
 # Fiyamen Empire
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Fiyamen Island](Fiyamen Island)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 789G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Fiyamen Island](Fiyamen Island)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->789G

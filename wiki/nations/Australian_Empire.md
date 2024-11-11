@@ -1,6 +1,5 @@
 # Australian Empire
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Port Mackay](Port Mackay)
@@ -18,22 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 116G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Port Mackay](Port Mackay)
-- [Wodonga](Wodonga)
-
-## Colonies
-
-- [Australian Railsystem](Australian Railsystem)
-- [Greater Logaki Area](Greater Logaki Area)
-- [Logaki](Logaki)
-- [Australian MilitaryBase 1](Australian MilitaryBase 1)
-- [Saint William](Saint William)
-
----
+- **GDP:** <!-- GDP -->154G

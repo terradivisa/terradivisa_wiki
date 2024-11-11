@@ -1,6 +1,5 @@
 # Patatostan
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Patatopia](Patatopia)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 696G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Patatopia](Patatopia)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->696G

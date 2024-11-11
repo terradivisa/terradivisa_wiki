@@ -1,6 +1,5 @@
 # Anunak
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Arabia](Arabia)
@@ -18,18 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 5571G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Arabia](Arabia)
-
-## Colonies
-
-- [Eastoria](Eastoria)
-- [Cape Colony](Cape Colony)
-
----
+- **GDP:** <!-- GDP -->5571G

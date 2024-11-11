@@ -1,6 +1,5 @@
 # Vipathe
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [KRETE](KRETE)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 2689G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [KRETE](KRETE)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->2689G

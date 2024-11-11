@@ -1,6 +1,5 @@
 # Egypt Republic
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Luxor](Luxor)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 594G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Luxor](Luxor)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->594G

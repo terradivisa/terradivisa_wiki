@@ -1,6 +1,5 @@
 # Italian Rev. State
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Rijeka](Rijeka)
@@ -18,22 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 9334G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Rijeka](Rijeka)
-- [Italia](Italia)
-
-## Colonies
-
-- [Gravity Falls](Gravity Falls)
-- [Villagers](Villagers)
-- [Football](Football)
-- [Slavonia](Slavonia)
-- [Real Alaska](Real Alaska)
-
----
+- **GDP:** <!-- GDP -->9334G

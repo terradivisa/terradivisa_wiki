@@ -1,6 +1,5 @@
 # Kingdom of Portugal
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Lisbon](Lisbon)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 787G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Lisbon](Lisbon)
-
-## Colonies
-
-- [New Espagrad](New Espagrad)
-
----
+- **GDP:** <!-- GDP -->787G

@@ -1,6 +1,5 @@
 # The Holy Norse Empire
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Norskland](Norskland)
@@ -18,23 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 51825G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Norskland](Norskland)
-- [Vinland](Vinland)
-
-## Colonies
-
-- [Caketopia](Caketopia)
-- [Maranham](Maranham)
-- [Conception Bay](Conception Bay)
-- [Piehaven](Piehaven)
-- [True Alaska](True Alaska)
-- [east arabia](east arabia)
-
----
+- **GDP:** <!-- GDP -->51825G

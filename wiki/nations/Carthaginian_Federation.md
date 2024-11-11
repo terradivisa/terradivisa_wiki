@@ -1,6 +1,5 @@
 # Carthaginian Federation
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Carthage](Carthage)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 1555G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Carthage](Carthage)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->1555G

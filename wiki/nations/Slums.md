@@ -1,6 +1,5 @@
 # Slums
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [CrustMore](CrustMore)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 366G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [CrustMore](CrustMore)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->366G

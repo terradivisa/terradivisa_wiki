@@ -1,6 +1,5 @@
 # Evropa
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Paris](Paris)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 61071G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Paris](Paris)
-
-## Colonies
-
-- [Agartha](Agartha)
-
----
+- **GDP:** <!-- GDP -->61071G

@@ -1,6 +1,5 @@
 # grand duchy of lithuania
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [lietuva](lietuva)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 1551G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [lietuva](lietuva)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->1551G

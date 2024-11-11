@@ -1,6 +1,5 @@
 # Sparkalia
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Snizhynivsk](Snizhynivsk)
@@ -18,18 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 9831G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Snizhynivsk](Snizhynivsk)
-- [Skibidi City II](Skibidi City II)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->9831G

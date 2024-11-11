@@ -1,6 +1,5 @@
 # Zhonghua Guoshe
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Yamaxun](Yamaxun)
@@ -18,18 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 1500G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-
-
-## Colonies
-
-- [Yamaxun](Yamaxun)
-- [Aozhou](Aozhou)
-
----
+- **GDP:** <!-- GDP -->1500G

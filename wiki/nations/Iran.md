@@ -1,6 +1,5 @@
 # Iran
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Persian Empire](Persian Empire)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 594G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Persian Empire](Persian Empire)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->594G

@@ -1,6 +1,5 @@
 # Alps Federation
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Geneva](Geneva)
@@ -18,21 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 15413G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Geneva](Geneva)
-
-## Colonies
-
-- [Puerto la Severmuda](Puerto la Severmuda)
-- [Easter Island](Easter Island)
-- [Swiss Antarctica](Swiss Antarctica)
-- [Funny Number Island](Funny Number Island)
-- [southpole](southpole)
-
----
+- **GDP:** <!-- GDP -->15413G

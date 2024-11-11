@@ -1,6 +1,5 @@
 # Ottoman
-<!--1-->
-a< br/>b
+
 ## Overview
 
 - **Capital:** [Diyerbakir](Diyerbakir)
@@ -18,17 +17,4 @@ a< br/>b
 
 ## Economy
 
-- **GDP:** 4269G
-- **Currency:** [Gold](Gold)
-
----
-
-## Towns
-
-- [Diyerbakir](Diyerbakir)
-
-## Colonies
-
-
-
----
+- **GDP:** <!-- GDP -->4269G
