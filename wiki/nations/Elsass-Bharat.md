@@ -13,7 +13,7 @@ The Republic of Auroria is a mid-sized nation located on the southeastern coast 
 Elsass-Bharat is a parliamentary republic, with a president as head of state and a prime minister as head of government. The nation values individual freedoms and sustainable development.
 
 - **Head of State:** Kaiser happyperson3796
-- **Governmental System:** Burgundian_System
+- **Governmental System:** Burgundian System
 
 ---
 
