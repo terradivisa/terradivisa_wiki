@@ -1,6 +1,6 @@
 # Nations
 
-$ACTIVE$
+$ACTIVE
 ## History
 
-$HISTORY$
+$HISTORY
