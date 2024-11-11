@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Republic of Jonathan is known for its solar tech and wind turbine exports.
 
-- **GDP:** 498
+- **GDP:** 498g
 - **Currency:** $CURRENCY
 
 ---

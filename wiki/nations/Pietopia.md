@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Pietopia is known for its solar tech and wind turbine exports.
 
-- **GDP:** 17283.63
+- **GDP:** 17283.63g
 - **Currency:** $CURRENCY
 
 ---

@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Ontario is known for its solar tech and wind turbine exports.
 
-- **GDP:** 753
+- **GDP:** 753g
 - **Currency:** $CURRENCY
 
 ---

@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Evropa is known for its solar tech and wind turbine exports.
 
-- **GDP:** 61071.4
+- **GDP:** 61071.4g
 - **Currency:** $CURRENCY
 
 ---

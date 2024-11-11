@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Gran Colombia is known for its solar tech and wind turbine exports.
 
-- **GDP:** 22237
+- **GDP:** 22237g
 - **Currency:** $CURRENCY
 
 ---

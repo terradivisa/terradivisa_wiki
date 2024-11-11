@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Patatostan is known for its solar tech and wind turbine exports.
 
-- **GDP:** 696
+- **GDP:** 696g
 - **Currency:** $CURRENCY
 
 ---

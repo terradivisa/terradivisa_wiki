@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Papayan Empire is known for its solar tech and wind turbine exports.
 
-- **GDP:** 49324
+- **GDP:** 49324g
 - **Currency:** $CURRENCY
 
 ---

@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Zhonghua Guoshe is known for its solar tech and wind turbine exports.
 
-- **GDP:** 1500
+- **GDP:** 1500g
 - **Currency:** $CURRENCY
 
 ---

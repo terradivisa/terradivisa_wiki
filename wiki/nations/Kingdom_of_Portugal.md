@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Kingdom of Portugal is known for its solar tech and wind turbine exports.
 
-- **GDP:** 787
+- **GDP:** 787g
 - **Currency:** $CURRENCY
 
 ---

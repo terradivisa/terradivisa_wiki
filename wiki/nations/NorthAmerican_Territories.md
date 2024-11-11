@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. NorthAmerican Territories is known for its solar tech and wind turbine exports.
 
-- **GDP:** 2757
+- **GDP:** 2757g
 - **Currency:** $CURRENCY
 
 ---

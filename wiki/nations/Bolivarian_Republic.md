@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Bolivarian Republic is known for its solar tech and wind turbine exports.
 
-- **GDP:** 13995.2
+- **GDP:** 13995.2g
 - **Currency:** $CURRENCY
 
 ---

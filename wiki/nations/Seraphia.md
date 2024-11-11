@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Seraphia is known for its solar tech and wind turbine exports.
 
-- **GDP:** 205167.2
+- **GDP:** 205167.2g
 - **Currency:** $CURRENCY
 
 ---

@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. killas is known for its solar tech and wind turbine exports.
 
-- **GDP:** 1746
+- **GDP:** 1746g
 - **Currency:** $CURRENCY
 
 ---

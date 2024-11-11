@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. ISP is known for its solar tech and wind turbine exports.
 
-- **GDP:** 574
+- **GDP:** 574g
 - **Currency:** $CURRENCY
 
 ---

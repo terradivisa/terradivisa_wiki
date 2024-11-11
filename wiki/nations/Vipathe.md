@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Vipathe is known for its solar tech and wind turbine exports.
 
-- **GDP:** 2689.8
+- **GDP:** 2689.8g
 - **Currency:** $CURRENCY
 
 ---

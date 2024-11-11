@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. The Holy Norse Empire is known for its solar tech and wind turbine exports.
 
-- **GDP:** 51825.2
+- **GDP:** 51825.2g
 - **Currency:** $CURRENCY
 
 ---

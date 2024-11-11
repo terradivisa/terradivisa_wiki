@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Sparkalia is known for its solar tech and wind turbine exports.
 
-- **GDP:** 9831.07
+- **GDP:** 9831.07g
 - **Currency:** $CURRENCY
 
 ---

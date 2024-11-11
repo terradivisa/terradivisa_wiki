@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Easyria is known for its solar tech and wind turbine exports.
 
-- **GDP:** 537.4
+- **GDP:** 537.4g
 - **Currency:** $CURRENCY
 
 ---

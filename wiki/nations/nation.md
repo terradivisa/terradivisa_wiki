@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. nation is known for its solar tech and wind turbine exports.
 
-- **GDP:** 198
+- **GDP:** 198g
 - **Currency:** $CURRENCY
 
 ---

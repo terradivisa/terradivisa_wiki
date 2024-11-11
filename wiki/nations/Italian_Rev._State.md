@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Italian Rev. State is known for its solar tech and wind turbine exports.
 
-- **GDP:** 9334.53
+- **GDP:** 9334.53g
 - **Currency:** $CURRENCY
 
 ---

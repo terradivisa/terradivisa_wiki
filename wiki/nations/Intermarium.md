@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Intermarium is known for its solar tech and wind turbine exports.
 
-- **GDP:** 62779.81
+- **GDP:** 62779.81g
 - **Currency:** $CURRENCY
 
 ---

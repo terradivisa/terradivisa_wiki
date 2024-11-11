@@ -18,7 +18,7 @@
 ## Economy
 The economy centers on renewable energy, tech exports, and eco-tourism. Elsass-Bharat is known for its solar tech and wind turbine exports.
 
-- **GDP:** 45787.36
+- **GDP:** 45787.36g
 - **Currency:** $CURRENCY
 
 ---
