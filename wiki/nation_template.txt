@@ -2,29 +2,29 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK--> <!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION--> <!--POPULATION-->
-- **Currency:** <!--CURRENCY_LINK--> <!--CURRENCY_LINK--> (<!--CURRENCY_ABV--> <!--CURRENCY_ABV-->)
+- **Capital:** <!--CAPITAL_LINK--><!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION--><!--POPULATION-->
+- **Currency:** <!--CURRENCY_LINK--><!--CURRENCY_LINK--> (<!--CURRENCY_ABV--><!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** <!--LEADER_TITLE_LINK--> <!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT--> <!--GOVERNMENT-->
+- **Head of State:** <!--LEADER_TITLE_LINK--><!--LEADER_TITLE_LINK-->
+- **Governmental System:** <!--GOVERNMENT--><!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP--> <!--GDP-->
-- **Currency:** <!--CURRENCY_LINK--> <!--CURRENCY_LINK-->
+- **GDP:** <!--GDP--><!--GDP-->
+- **Currency:** <!--CURRENCY_LINK--><!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS--> <!--TOWNS-->
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 
