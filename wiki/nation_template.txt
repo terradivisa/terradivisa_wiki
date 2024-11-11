@@ -8,12 +8,6 @@
 
 ---
 
-## Towns
-
-$TOWNS$
-
----
-
 ## Government
 
 - **Head of State:** [$LEADER_TITLE$]($LEADER$)
@@ -28,10 +22,12 @@ $TOWNS$
 
 ---
 
-## Military History
+## Towns
 
-- **Wars Won:** $WARS_WON$
-- **Wars Lost:** $WARS_LOST$
+$TOWNS$
+
+### Colonies
+
+$COLONIES$
 
 ---
-
