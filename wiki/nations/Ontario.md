@@ -2,23 +2,30 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Superior
+- Ontario City
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader FloridaManfr]
+- **Head of State:** [Leader FloridaManfr](Leader FloridaManfr)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 753g
-- **Currency:** $CURRENCY
+- **GDP:** 753G
+- **Currency:** [Gold](Gold)
 
 ---
 

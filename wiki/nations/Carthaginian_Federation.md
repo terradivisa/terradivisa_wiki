@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Carthage
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Furiouskyy]
+- **Head of State:** [Leader Furiouskyy](Leader Furiouskyy)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1555g
-- **Currency:** $CURRENCY
+- **GDP:** 1555G
+- **Currency:** [Gold](Gold)
 
 ---
 

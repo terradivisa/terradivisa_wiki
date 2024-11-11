@@ -2,23 +2,34 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Puerto la Severmuda
+- Easter Island
+- Geneva
+- Swiss Antarctica
+- Funny Number Island
+- southpole
 
 ---
 
 ## Government
 
-- **Head of State:** [Redident ATrainStudios]
+- **Head of State:** [Redident ATrainStudios](Redident ATrainStudios)
 - **Governmental System:** Technocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 15413.3g
-- **Currency:** $CURRENCY
+- **GDP:** 15413.3G
+- **Currency:** [Gold](Gold)
 
 ---
 

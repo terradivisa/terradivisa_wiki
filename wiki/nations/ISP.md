@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- ZABRZE
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader PlestonXD]
+- **Head of State:** [Leader PlestonXD](Leader PlestonXD)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 574g
-- **Currency:** $CURRENCY
+- **GDP:** 574G
+- **Currency:** [Gold](Gold)
 
 ---
 

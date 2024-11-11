@@ -2,23 +2,30 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Yamaxun
+- Aozhou
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader NPC53]
+- **Head of State:** [Leader NPC53](Leader NPC53)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1500g
-- **Currency:** $CURRENCY
+- **GDP:** 1500G
+- **Currency:** [Gold](Gold)
 
 ---
 

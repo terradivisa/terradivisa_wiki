@@ -2,23 +2,30 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Albion
+- MountImmortal
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Deadlygamer1000]
+- **Head of State:** [Leader Deadlygamer1000](Leader Deadlygamer1000)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 675g
-- **Currency:** $CURRENCY
+- **GDP:** 675G
+- **Currency:** [Gold](Gold)
 
 ---
 

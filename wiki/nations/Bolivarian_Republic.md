@@ -2,23 +2,34 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Tallahassee
+- Canalan canal
+- somalia
+- Greater Toronto Area
+- Turtle
+- Venezuelan Territories
 
 ---
 
 ## Government
 
-- **Head of State:** [Count ExternalABX]
+- **Head of State:** [Count ExternalABX](Count ExternalABX)
 - **Governmental System:** Fascist
 
 ---
 
 ## Economy
 
-- **GDP:** 13995.2g
-- **Currency:** $CURRENCY
+- **GDP:** 13995.2G
+- **Currency:** [Gold](Gold)
 
 ---
 

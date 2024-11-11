@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Konenburg
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Rpg5niner24]
+- **Head of State:** [Leader Rpg5niner24](Leader Rpg5niner24)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1816g
-- **Currency:** $CURRENCY
+- **GDP:** 1816G
+- **Currency:** [Gold](Gold)
 
 ---
 

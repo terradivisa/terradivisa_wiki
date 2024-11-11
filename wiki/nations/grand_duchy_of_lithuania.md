@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- lietuva
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader BlueLT_u]
+- **Head of State:** [Leader BlueLT_u](Leader BlueLT_u)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1551g
-- **Currency:** $CURRENCY
+- **GDP:** 1551G
+- **Currency:** [Gold](Gold)
 
 ---
 

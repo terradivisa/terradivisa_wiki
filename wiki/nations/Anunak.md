@@ -2,23 +2,31 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Eastoria
+- Arabia
+- Cape Colony
 
 ---
 
 ## Government
 
-- **Head of State:** [Sultan ThatLeetGuy]
+- **Head of State:** [Sultan ThatLeetGuy](Sultan ThatLeetGuy)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 5571g
-- **Currency:** $CURRENCY
+- **GDP:** 5571G
+- **Currency:** [Gold](Gold)
 
 ---
 

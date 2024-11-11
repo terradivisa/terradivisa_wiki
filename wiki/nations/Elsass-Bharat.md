@@ -2,23 +2,42 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Kashmir
+- Gibraltar Colony
+- The Pyramids
+- Icelandic Protectorate
+- Arctic Exclusion Zone
+- Persia
+- sniffer
+- Strasbourg
+- Alexandria
+- Punjab
+- Junagadh
+- Cyndirblock
+- The Experts Land
+- Delhi
 
 ---
 
 ## Government
 
-- **Head of State:** [Kaiser happyperson3796]
+- **Head of State:** [Kaiser happyperson3796](Kaiser happyperson3796)
 - **Governmental System:** Burgundian System
 
 ---
 
 ## Economy
 
-- **GDP:** 45787.36g
-- **Currency:** $CURRENCY
+- **GDP:** 45787.36G
+- **Currency:** [Gold](Gold)
 
 ---
 

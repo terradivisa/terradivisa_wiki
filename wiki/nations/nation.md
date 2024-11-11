@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- town
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Tobinio_]
+- **Head of State:** [Leader Tobinio_](Leader Tobinio_)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 198g
-- **Currency:** $CURRENCY
+- **GDP:** 198G
+- **Currency:** [Gold](Gold)
 
 ---
 

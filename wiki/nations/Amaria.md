@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Boston
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Scooty5728]
+- **Head of State:** [Leader Scooty5728](Leader Scooty5728)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1105g
-- **Currency:** $CURRENCY
+- **GDP:** 1105G
+- **Currency:** [Gold](Gold)
 
 ---
 

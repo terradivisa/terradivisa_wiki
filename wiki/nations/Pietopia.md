@@ -2,23 +2,39 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Turkey
+- Meria
+- shroomania
+- Levan
+- Quebec
+- Boat
+- Mesopotamia
+- Angola
+- New Dreadfort
+- louhi
+- Caribbean Territories
 
 ---
 
 ## Government
 
-- **Head of State:** [&dQueen RoseyFox]
+- **Head of State:** [&dQueen RoseyFox](&dQueen RoseyFox)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 17500.63g
-- **Currency:** $CURRENCY
+- **GDP:** 17560.63G
+- **Currency:** [Gold](Gold)
 
 ---
 

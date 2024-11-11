@@ -2,23 +2,36 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Caketopia
+- Maranham
+- Conception Bay
+- Norskland
+- Piehaven
+- Vinland
+- True Alaska
+- east arabia
 
 ---
 
 ## Government
 
-- **Head of State:** [Duke KraisertronKradd]
+- **Head of State:** [Duke KraisertronKradd](Duke KraisertronKradd)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 51825.2g
-- **Currency:** $CURRENCY
+- **GDP:** 51825.2G
+- **Currency:** [Gold](Gold)
 
 ---
 

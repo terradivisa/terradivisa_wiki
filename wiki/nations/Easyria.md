@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Midgard
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader diives]
+- **Head of State:** [Leader diives](Leader diives)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 537.4g
-- **Currency:** $CURRENCY
+- **GDP:** 537.4G
+- **Currency:** [Gold](Gold)
 
 ---
 

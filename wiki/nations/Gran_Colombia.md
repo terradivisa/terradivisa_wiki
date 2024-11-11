@@ -2,23 +2,32 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Cuba
+- Sovereign Cayenne
+- Colombian Territories
+- Ecuador
 
 ---
 
 ## Government
 
-- **Head of State:** [Consul Iftekimas]
+- **Head of State:** [Consul Iftekimas](Consul Iftekimas)
 - **Governmental System:** Aristocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 22237g
-- **Currency:** $CURRENCY
+- **GDP:** 22237G
+- **Currency:** [Gold](Gold)
 
 ---
 

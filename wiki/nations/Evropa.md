@@ -2,23 +2,30 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Agartha
+- Paris
 
 ---
 
 ## Government
 
-- **Head of State:** [Count _aws]
+- **Head of State:** [Count _aws](Count _aws)
 - **Governmental System:** Corporatocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 61071.4g
-- **Currency:** $CURRENCY
+- **GDP:** 61071.4G
+- **Currency:** [Gold](Gold)
 
 ---
 

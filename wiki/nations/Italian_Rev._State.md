@@ -2,23 +2,35 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Rijeka
+- Gravity Falls
+- Villagers
+- Football
+- Slavonia
+- Italia
+- Real Alaska
 
 ---
 
 ## Government
 
-- **Head of State:** [Armani Lukinjo_]
+- **Head of State:** [Armani Lukinjo_](Armani Lukinjo_)
 - **Governmental System:** Dictatorship
 
 ---
 
 ## Economy
 
-- **GDP:** 9334.53g
-- **Currency:** $CURRENCY
+- **GDP:** 9334.53G
+- **Currency:** [Gold](Gold)
 
 ---
 

@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- CrustMore
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader DirtyPanties]
+- **Head of State:** [Leader DirtyPanties](Leader DirtyPanties)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 366g
-- **Currency:** $CURRENCY
+- **GDP:** 366G
+- **Currency:** [Gold](Gold)
 
 ---
 

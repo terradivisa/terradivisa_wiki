@@ -2,23 +2,30 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Snizhynivsk
+- Skibidi City II
 
 ---
 
 ## Government
 
-- **Head of State:** [Count Feirforia]
+- **Head of State:** [Count Feirforia](Count Feirforia)
 - **Governmental System:** Monarchy
 
 ---
 
 ## Economy
 
-- **GDP:** 9831.07g
-- **Currency:** $CURRENCY
+- **GDP:** 9831.07G
+- **Currency:** [Gold](Gold)
 
 ---
 

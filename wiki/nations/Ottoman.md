@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Diyerbakir
 
 ---
 
 ## Government
 
-- **Head of State:** [Mayor furkan1453bjk]
+- **Head of State:** [Mayor furkan1453bjk](Mayor furkan1453bjk)
 - **Governmental System:** Republic
 
 ---
 
 ## Economy
 
-- **GDP:** 4269g
-- **Currency:** $CURRENCY
+- **GDP:** 4269G
+- **Currency:** [Gold](Gold)
 
 ---
 

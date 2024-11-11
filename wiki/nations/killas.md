@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- killas
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader M3A24503]
+- **Head of State:** [Leader M3A24503](Leader M3A24503)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 1746g
-- **Currency:** $CURRENCY
+- **GDP:** 1746G
+- **Currency:** [Gold](Gold)
 
 ---
 

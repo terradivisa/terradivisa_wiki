@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Patatopia
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Kipos007]
+- **Head of State:** [Leader Kipos007](Leader Kipos007)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 696g
-- **Currency:** $CURRENCY
+- **GDP:** 696G
+- **Currency:** [Gold](Gold)
 
 ---
 

@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Luxor
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader ahmed_error12]
+- **Head of State:** [Leader ahmed_error12](Leader ahmed_error12)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 594g
-- **Currency:** $CURRENCY
+- **GDP:** 594G
+- **Currency:** [Gold](Gold)
 
 ---
 

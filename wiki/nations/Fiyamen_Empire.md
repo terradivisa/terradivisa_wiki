@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Fiyamen Island
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader fiyamen]
+- **Head of State:** [Leader fiyamen](Leader fiyamen)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 789.8g
-- **Currency:** $CURRENCY
+- **GDP:** 789.8G
+- **Currency:** [Gold](Gold)
 
 ---
 

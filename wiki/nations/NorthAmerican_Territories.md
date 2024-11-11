@@ -2,23 +2,38 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- New Colombia
+- Oklahoma
+- Wisconsin State
+- Southern Republic City
+- Little Rivendell
+- Warmer Wisconsin
+- Colder Wisconsin
+- Buzau
+- Asian Wisconsin
+- Getz
 
 ---
 
 ## Government
 
-- **Head of State:** [Count .WebbierBreak915]
+- **Head of State:** [Count .WebbierBreak915](Count .WebbierBreak915)
 - **Governmental System:** Technocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 2757g
-- **Currency:** $CURRENCY
+- **GDP:** 2757G
+- **Currency:** [Gold](Gold)
 
 ---
 

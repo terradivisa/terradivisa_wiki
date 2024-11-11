@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- New Nuh Uh
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader DiamondFury101]
+- **Head of State:** [Leader DiamondFury101](Leader DiamondFury101)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 498g
-- **Currency:** $CURRENCY
+- **GDP:** 498G
+- **Currency:** [Gold](Gold)
 
 ---
 

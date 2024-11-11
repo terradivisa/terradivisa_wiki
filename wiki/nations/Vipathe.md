@@ -2,23 +2,29 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- KRETE
 
 ---
 
 ## Government
 
-- **Head of State:** [Vipathe taken4aride]
+- **Head of State:** [Vipathe taken4aride](Vipathe taken4aride)
 - **Governmental System:** Dictatorship
 
 ---
 
 ## Economy
 
-- **GDP:** 2689.8g
-- **Currency:** $CURRENCY
+- **GDP:** 2689.8G
+- **Currency:** [Gold](Gold)
 
 ---
 

@@ -2,23 +2,30 @@
 
 ## Overview
 
-- **Capital:** $CAPITAL
+- **Capital:** [$CAPITAL]($CAPITAL)
 - **Population:** $POPULATION
-- **Currency:** [$CURRENCY] ($CURRENCY_ABV)
+- **Currency:** [Gold](Gold) (Gold_ABV)
+
+---
+
+## Towns
+
+- Lisbon
+- New Espagrad
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader BACTUGA]
+- **Head of State:** [Leader BACTUGA](Leader BACTUGA)
 - **Governmental System:** Autocracy
 
 ---
 
 ## Economy
 
-- **GDP:** 787g
-- **Currency:** $CURRENCY
+- **GDP:** 787G
+- **Currency:** [Gold](Gold)
 
 ---
 
