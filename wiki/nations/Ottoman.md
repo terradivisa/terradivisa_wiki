@@ -1,33 +1,33 @@
-# Ottoman
+# <!--NAME-->Ottoman<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Diyerbakir](Diyerbakir)
-- **Population:** 5
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Diyerbakir<!--CAPITAL-->](<!--CAPITAL-->Diyerbakir<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Mayor furkan1453bjk](furkan1453bjk)
-- **Governmental System:** Republic
+- **Head of State:** [<!--LEADER_TITLE-->Mayor furkan1453bjk<!--LEADER_TITLE-->](<!--LEADER-->furkan1453bjk<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Republic<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Diyerbakir](Diyerbakir)
+<!--TOWNS-->- [Diyerbakir](Diyerbakir)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

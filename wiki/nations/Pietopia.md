@@ -1,30 +1,30 @@
-# Pietopia
+# <!--NAME-->Pietopia<!--NAME-->
 
 ## Overview
 
-- **Capital:** [louhi](louhi)
-- **Population:** 33
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->louhi<!--CAPITAL-->](<!--CAPITAL-->louhi<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->33<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [&dQueen RoseyFox](RoseyFox)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->&dQueen RoseyFox<!--LEADER_TITLE-->](<!--LEADER-->RoseyFox<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Turkey](Turkey)
+<!--TOWNS-->- [Turkey](Turkey)
 - [Meria](Meria)
 - [shroomania](shroomania)
 - [Levan](Levan)
@@ -32,11 +32,11 @@
 - [Angola](Angola)
 - [New Dreadfort](New Dreadfort)
 - [louhi](louhi)
-- [Caribbean Territories](Caribbean Territories)
+- [Caribbean Territories](Caribbean Territories)<!--TOWNS-->
 
 ## Colonies
 
-- [Quebec](Quebec)
-- [Boat](Boat)
+<!--COLONIES-->- [Quebec](Quebec)
+- [Boat](Boat)<!--COLONIES-->
 
 ---

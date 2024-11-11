@@ -1,33 +1,33 @@
-# Duchy of Konenburg
+# <!--NAME-->Duchy of Konenburg<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Konenburg](Konenburg)
-- **Population:** 2
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Konenburg<!--CAPITAL-->](<!--CAPITAL-->Konenburg<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Rpg5niner24](Rpg5niner24)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader Rpg5niner24<!--LEADER_TITLE-->](<!--LEADER-->Rpg5niner24<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Konenburg](Konenburg)
+<!--TOWNS-->- [Konenburg](Konenburg)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

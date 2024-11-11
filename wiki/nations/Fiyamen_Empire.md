@@ -1,33 +1,33 @@
-# Fiyamen Empire
+# <!--NAME-->Fiyamen Empire<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Fiyamen Island](Fiyamen Island)
-- **Population:** 1
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Fiyamen Island<!--CAPITAL-->](<!--CAPITAL-->Fiyamen Island<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader fiyamen](fiyamen)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader fiyamen<!--LEADER_TITLE-->](<!--LEADER-->fiyamen<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Fiyamen Island](Fiyamen Island)
+<!--TOWNS-->- [Fiyamen Island](Fiyamen Island)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

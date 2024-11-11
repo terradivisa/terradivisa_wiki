@@ -1,38 +1,38 @@
-# Italian Rev. State
+# <!--NAME-->Italian Rev. State<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Rijeka](Rijeka)
-- **Population:** 21
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Rijeka<!--CAPITAL-->](<!--CAPITAL-->Rijeka<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Armani Lukinjo_](Lukinjo_)
-- **Governmental System:** Dictatorship
+- **Head of State:** [<!--LEADER_TITLE-->Armani Lukinjo_<!--LEADER_TITLE-->](<!--LEADER-->Lukinjo_<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Rijeka](Rijeka)
-- [Italia](Italia)
+<!--TOWNS-->- [Rijeka](Rijeka)
+- [Italia](Italia)<!--TOWNS-->
 
 ## Colonies
 
-- [Gravity Falls](Gravity Falls)
+<!--COLONIES-->- [Gravity Falls](Gravity Falls)
 - [Villagers](Villagers)
 - [Football](Football)
 - [Slavonia](Slavonia)
-- [Real Alaska](Real Alaska)
+- [Real Alaska](Real Alaska)<!--COLONIES-->
 
 ---

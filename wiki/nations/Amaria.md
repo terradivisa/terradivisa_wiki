@@ -1,33 +1,33 @@
-# Amaria
+# <!--NAME-->Amaria<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Boston](Boston)
-- **Population:** 2
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Boston<!--CAPITAL-->](<!--CAPITAL-->Boston<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Scooty5728](Scooty5728)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader Scooty5728<!--LEADER_TITLE-->](<!--LEADER-->Scooty5728<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Boston](Boston)
+<!--TOWNS-->- [Boston](Boston)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

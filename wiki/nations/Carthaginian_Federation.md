@@ -1,33 +1,33 @@
-# Carthaginian Federation
+# <!--NAME-->Carthaginian Federation<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Carthage](Carthage)
-- **Population:** 3
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Carthage<!--CAPITAL-->](<!--CAPITAL-->Carthage<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Furiouskyy](Furiouskyy)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader Furiouskyy<!--LEADER_TITLE-->](<!--LEADER-->Furiouskyy<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Carthage](Carthage)
+<!--TOWNS-->- [Carthage](Carthage)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

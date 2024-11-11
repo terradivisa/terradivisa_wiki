@@ -1,33 +1,33 @@
-# Evropa
+# <!--NAME-->Evropa<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Paris](Paris)
-- **Population:** 13
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Paris<!--CAPITAL-->](<!--CAPITAL-->Paris<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Count _aws](_aws)
-- **Governmental System:** Corporatocracy
+- **Head of State:** [<!--LEADER_TITLE-->Count _aws<!--LEADER_TITLE-->](<!--LEADER-->_aws<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Corporatocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Paris](Paris)
+<!--TOWNS-->- [Paris](Paris)<!--TOWNS-->
 
 ## Colonies
 
-- [Agartha](Agartha)
+<!--COLONIES-->- [Agartha](Agartha)<!--COLONIES-->
 
 ---

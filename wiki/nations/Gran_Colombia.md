@@ -1,35 +1,35 @@
-# Gran Colombia
+# <!--NAME-->Gran Colombia<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Colombian Territories](Colombian Territories)
-- **Population:** 15
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Colombian Territories<!--CAPITAL-->](<!--CAPITAL-->Colombian Territories<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->15<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Consul Iftekimas](Iftekimas)
-- **Governmental System:** Aristocracy
+- **Head of State:** [<!--LEADER_TITLE-->Consul Iftekimas<!--LEADER_TITLE-->](<!--LEADER-->Iftekimas<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Aristocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Sovereign Cayenne](Sovereign Cayenne)
+<!--TOWNS-->- [Sovereign Cayenne](Sovereign Cayenne)
 - [Colombian Territories](Colombian Territories)
-- [Ecuador](Ecuador)
+- [Ecuador](Ecuador)<!--TOWNS-->
 
 ## Colonies
 
-- [Cuba](Cuba)
+<!--COLONIES-->- [Cuba](Cuba)<!--COLONIES-->
 
 ---

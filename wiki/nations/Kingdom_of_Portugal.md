@@ -1,33 +1,33 @@
-# Kingdom of Portugal
+# <!--NAME-->Kingdom of Portugal<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Lisbon](Lisbon)
-- **Population:** 2
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Lisbon<!--CAPITAL-->](<!--CAPITAL-->Lisbon<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader BACTUGA](BACTUGA)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader BACTUGA<!--LEADER_TITLE-->](<!--LEADER-->BACTUGA<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Lisbon](Lisbon)
+<!--TOWNS-->- [Lisbon](Lisbon)<!--TOWNS-->
 
 ## Colonies
 
-- [New Espagrad](New Espagrad)
+<!--COLONIES-->- [New Espagrad](New Espagrad)<!--COLONIES-->
 
 ---

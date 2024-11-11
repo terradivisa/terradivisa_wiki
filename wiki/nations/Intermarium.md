@@ -1,30 +1,30 @@
-# Intermarium
+# <!--NAME-->Intermarium<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Kyiv](Kyiv)
-- **Population:** 61
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Kyiv<!--CAPITAL-->](<!--CAPITAL-->Kyiv<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->61<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [President dalmantinac](dalmantinac)
-- **Governmental System:** Democracy
+- **Head of State:** [<!--LEADER_TITLE-->President dalmantinac<!--LEADER_TITLE-->](<!--LEADER-->dalmantinac<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Democracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [EGG](EGG)
+<!--TOWNS-->- [EGG](EGG)
 - [perth](perth)
 - [Refugio de la Lluvia](Refugio de la Lluvia)
 - [Pinneberg](Pinneberg)
@@ -38,11 +38,11 @@
 - [Mariupol](Mariupol)
 - [Helsinki](Helsinki)
 - [Second Polish Imperium](Second Polish Imperium)
-- [Revenant](Revenant)
+- [Revenant](Revenant)<!--TOWNS-->
 
 ## Colonies
 
-- [Constantinople](Constantinople)
+<!--COLONIES-->- [Constantinople](Constantinople)
 - [Syberian Military Base](Syberian Military Base)
 - [Gvineja](Gvineja)
 - [Saharan canal](Saharan canal)
@@ -58,6 +58,6 @@
 - [Isle of Pigism](Isle of Pigism)
 - [The New Alska](The New Alska)
 - [Suez Canal](Suez Canal)
-- [Pivnichnyi](Pivnichnyi)
+- [Pivnichnyi](Pivnichnyi)<!--COLONIES-->
 
 ---

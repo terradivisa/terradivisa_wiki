@@ -1,45 +1,45 @@
-# Elsass-Bharat
+# <!--NAME-->Elsass-Bharat<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Strasbourg](Strasbourg)
-- **Population:** 22
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Strasbourg<!--CAPITAL-->](<!--CAPITAL-->Strasbourg<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->22<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Kaiser happyperson3796](happyperson3796)
-- **Governmental System:** Burgundian System
+- **Head of State:** [<!--LEADER_TITLE-->Kaiser happyperson3796<!--LEADER_TITLE-->](<!--LEADER-->happyperson3796<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Burgundian System<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Kashmir](Kashmir)
+<!--TOWNS-->- [Kashmir](Kashmir)
 - [Strasbourg](Strasbourg)
 - [Punjab](Punjab)
 - [Junagadh](Junagadh)
 - [Cyndirblock](Cyndirblock)
 - [The Experts Land](The Experts Land)
-- [Delhi](Delhi)
+- [Delhi](Delhi)<!--TOWNS-->
 
 ## Colonies
 
-- [Gibraltar Colony](Gibraltar Colony)
+<!--COLONIES-->- [Gibraltar Colony](Gibraltar Colony)
 - [The Pyramids](The Pyramids)
 - [Icelandic Protectorate](Icelandic Protectorate)
 - [Arctic Exclusion Zone](Arctic Exclusion Zone)
 - [Persia](Persia)
 - [sniffer](sniffer)
-- [Alexandria](Alexandria)
+- [Alexandria](Alexandria)<!--COLONIES-->
 
 ---

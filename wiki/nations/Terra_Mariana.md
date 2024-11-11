@@ -1,40 +1,40 @@
-# Terra Mariana
+# <!--NAME-->Terra Mariana<!--NAME-->
 
 ## Overview
 
-- **Capital:** [St. Espagrad](St. Espagrad)
-- **Population:** 63
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->St. Espagrad<!--CAPITAL-->](<!--CAPITAL-->St. Espagrad<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->63<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Regent EspaRojo](EspaRojo)
-- **Governmental System:** Dictatorship
+- **Head of State:** [<!--LEADER_TITLE-->Regent EspaRojo<!--LEADER_TITLE-->](<!--LEADER-->EspaRojo<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Moscow](Moscow)
+<!--TOWNS-->- [Moscow](Moscow)
 - [St. Espagrad](St. Espagrad)
 - [Cetiia Colony](Cetiia Colony)
 - [Alicante](Alicante)
 - [pogtopia](pogtopia)
 - [Murmansk](Murmansk)
-- [Severny](Severny)
+- [Severny](Severny)<!--TOWNS-->
 
 ## Colonies
 
-- [Epstein Island Collective](Epstein Island Collective)
+<!--COLONIES-->- [Epstein Island Collective](Epstein Island Collective)
 - [Imperial South Arabia](Imperial South Arabia)
 - [YugoslavSouthSouthIndies](YugoslavSouthSouthIndies)
 - [Imperial Serbia](Imperial Serbia)
@@ -67,6 +67,6 @@
 - [Holy Pigism](Holy Pigism)
 - [Imperial Research Centre](Imperial Research Centre)
 - [Far Eastern Krai](Far Eastern Krai)
-- [New Papaya](New Papaya)
+- [New Papaya](New Papaya)<!--COLONIES-->
 
 ---

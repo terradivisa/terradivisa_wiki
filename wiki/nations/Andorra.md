@@ -1,33 +1,33 @@
-# Andorra
+# <!--NAME-->Andorra<!--NAME-->
 
 ## Overview
 
-- **Capital:** [AndorraLaVella](AndorraLaVella)
-- **Population:** 4
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->AndorraLaVella<!--CAPITAL-->](<!--CAPITAL-->AndorraLaVella<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader H4TIUX](H4TIUX)
-- **Governmental System:** Monarchy
+- **Head of State:** [<!--LEADER_TITLE-->Leader H4TIUX<!--LEADER_TITLE-->](<!--LEADER-->H4TIUX<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [AndorraLaVella](AndorraLaVella)
+<!--TOWNS-->- [AndorraLaVella](AndorraLaVella)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

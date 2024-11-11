@@ -1,33 +1,33 @@
-# Egypt Republic
+# <!--NAME-->Egypt Republic<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Luxor](Luxor)
-- **Population:** 3
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Luxor<!--CAPITAL-->](<!--CAPITAL-->Luxor<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader ahmed_error12](ahmed_error12)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader ahmed_error12<!--LEADER_TITLE-->](<!--LEADER-->ahmed_error12<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Luxor](Luxor)
+<!--TOWNS-->- [Luxor](Luxor)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

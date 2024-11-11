@@ -1,33 +1,33 @@
-# Vipathe
+# <!--NAME-->Vipathe<!--NAME-->
 
 ## Overview
 
-- **Capital:** [KRETE](KRETE)
-- **Population:** 3
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->KRETE<!--CAPITAL-->](<!--CAPITAL-->KRETE<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Vipathe taken4aride](taken4aride)
-- **Governmental System:** Dictatorship
+- **Head of State:** [<!--LEADER_TITLE-->Vipathe taken4aride<!--LEADER_TITLE-->](<!--LEADER-->taken4aride<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [KRETE](KRETE)
+<!--TOWNS-->- [KRETE](KRETE)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

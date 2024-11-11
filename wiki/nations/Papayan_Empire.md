@@ -1,35 +1,35 @@
-# Papayan Empire
+# <!--NAME-->Papayan Empire<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Bordeaux](Bordeaux)
-- **Population:** 35
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Bordeaux<!--CAPITAL-->](<!--CAPITAL-->Bordeaux<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->35<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Liege Lord Papayaaron](Papayaaron)
-- **Governmental System:** Fascist
+- **Head of State:** [<!--LEADER_TITLE-->Liege Lord Papayaaron<!--LEADER_TITLE-->](<!--LEADER-->Papayaaron<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [kharak](kharak)
-- [Bordeaux](Bordeaux)
+<!--TOWNS-->- [kharak](kharak)
+- [Bordeaux](Bordeaux)<!--TOWNS-->
 
 ## Colonies
 
-- [Alaska](Alaska)
+<!--COLONIES-->- [Alaska](Alaska)
 - [Farm](Farm)
 - [Sanaa](Sanaa)
 - [Ghana](Ghana)
@@ -43,6 +43,6 @@
 - [Desert Outpost](Desert Outpost)
 - [Nepal](Nepal)
 - [SierraLeonTradingCenter](SierraLeonTradingCenter)
-- [testco](testco)
+- [testco](testco)<!--COLONIES-->
 
 ---

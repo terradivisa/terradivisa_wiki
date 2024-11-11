@@ -1,37 +1,37 @@
-# Bolivarian Republic
+# <!--NAME-->Bolivarian Republic<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Venezuelan Territories](Venezuelan Territories)
-- **Population:** 7
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Venezuelan Territories<!--CAPITAL-->](<!--CAPITAL-->Venezuelan Territories<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Count ExternalABX](ExternalABX)
-- **Governmental System:** Fascist
+- **Head of State:** [<!--LEADER_TITLE-->Count ExternalABX<!--LEADER_TITLE-->](<!--LEADER-->ExternalABX<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [somalia](somalia)
-- [Venezuelan Territories](Venezuelan Territories)
+<!--TOWNS-->- [somalia](somalia)
+- [Venezuelan Territories](Venezuelan Territories)<!--TOWNS-->
 
 ## Colonies
 
-- [Tallahassee](Tallahassee)
+<!--COLONIES-->- [Tallahassee](Tallahassee)
 - [Canalan canal](Canalan canal)
 - [Greater Toronto Area](Greater Toronto Area)
-- [Turtle](Turtle)
+- [Turtle](Turtle)<!--COLONIES-->
 
 ---

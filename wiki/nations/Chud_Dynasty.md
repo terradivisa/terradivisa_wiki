@@ -1,41 +1,41 @@
-# Chud Dynasty
+# <!--NAME-->Chud Dynasty<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Chudjing](Chudjing)
-- **Population:** 80
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Chudjing<!--CAPITAL-->](<!--CAPITAL-->Chudjing<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->80<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [peeceangle bigironranger](bigironranger)
-- **Governmental System:** Monarchy
+- **Head of State:** [<!--LEADER_TITLE-->peeceangle bigironranger<!--LEADER_TITLE-->](<!--LEADER-->bigironranger<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Chudjing](Chudjing)
+<!--TOWNS-->- [Chudjing](Chudjing)
 - [Edmonton](Edmonton)
 - [Wuhan](Wuhan)
 - [Harbin](Harbin)
 - [Central Chinese Control](Central Chinese Control)
 - [Cobsons Gem Mining Co.](Cobsons Gem Mining Co.)
 - [Bangkok](Bangkok)
-- [Asgard](Asgard)
+- [Asgard](Asgard)<!--TOWNS-->
 
 ## Colonies
 
-- [FALKISHEMPIREINHAINAN](FALKISHEMPIREINHAINAN)
+<!--COLONIES-->- [FALKISHEMPIREINHAINAN](FALKISHEMPIREINHAINAN)
 - [Fort Wagner](Fort Wagner)
 - [Qinghai](Qinghai)
 - [Yunnan](Yunnan)
@@ -84,6 +84,6 @@
 - [Guangxi](Guangxi)
 - [Jiangsu](Jiangsu)
 - [pie rat sea](pie rat sea)
-- [Fort Zhonggou](Fort Zhonggou)
+- [Fort Zhonggou](Fort Zhonggou)<!--COLONIES-->
 
 ---

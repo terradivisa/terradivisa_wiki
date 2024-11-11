@@ -1,33 +1,33 @@
-# Patatostan
+# <!--NAME-->Patatostan<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Patatopia](Patatopia)
-- **Population:** 5
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Patatopia<!--CAPITAL-->](<!--CAPITAL-->Patatopia<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader Kipos007](Kipos007)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader Kipos007<!--LEADER_TITLE-->](<!--LEADER-->Kipos007<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Patatopia](Patatopia)
+<!--TOWNS-->- [Patatopia](Patatopia)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---

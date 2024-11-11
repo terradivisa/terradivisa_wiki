@@ -1,34 +1,34 @@
-# Zhonghua Guoshe
+# <!--NAME-->Zhonghua Guoshe<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Yamaxun](Yamaxun)
-- **Population:** 0
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Yamaxun<!--CAPITAL-->](<!--CAPITAL-->Yamaxun<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->0<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader NPC53](NPC53)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader NPC53<!--LEADER_TITLE-->](<!--LEADER-->NPC53<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 
-- [Yamaxun](Yamaxun)
-- [Aozhou](Aozhou)
+<!--COLONIES-->- [Yamaxun](Yamaxun)
+- [Aozhou](Aozhou)<!--COLONIES-->
 
 ---

@@ -1,37 +1,37 @@
-# Alps Federation
+# <!--NAME-->Alps Federation<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Geneva](Geneva)
-- **Population:** 1
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Geneva<!--CAPITAL-->](<!--CAPITAL-->Geneva<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Redident ATrainStudios](ATrainStudios)
-- **Governmental System:** Technocracy
+- **Head of State:** [<!--LEADER_TITLE-->Redident ATrainStudios<!--LEADER_TITLE-->](<!--LEADER-->ATrainStudios<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Technocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Geneva](Geneva)
+<!--TOWNS-->- [Geneva](Geneva)<!--TOWNS-->
 
 ## Colonies
 
-- [Puerto la Severmuda](Puerto la Severmuda)
+<!--COLONIES-->- [Puerto la Severmuda](Puerto la Severmuda)
 - [Easter Island](Easter Island)
 - [Swiss Antarctica](Swiss Antarctica)
 - [Funny Number Island](Funny Number Island)
-- [southpole](southpole)
+- [southpole](southpole)<!--COLONIES-->
 
 ---

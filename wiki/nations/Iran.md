@@ -1,33 +1,33 @@
-# Iran
+# <!--NAME-->Iran<!--NAME-->
 
 ## Overview
 
-- **Capital:** [Persian Empire](Persian Empire)
-- **Population:** 4
-- **Currency:** [Gold](Gold) (G)
+- **Capital:** [<!--CAPITAL-->Persian Empire<!--CAPITAL-->](<!--CAPITAL-->Persian Empire<!--CAPITAL-->)
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->) (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** [Leader MasterKingRip](MasterKingRip)
-- **Governmental System:** Autocracy
+- **Head of State:** [<!--LEADER_TITLE-->Leader MasterKingRip<!--LEADER_TITLE-->](<!--LEADER-->MasterKingRip<!--LEADER-->)
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->0<!--GDP-->
-- **Currency:** [Gold](Gold)
+- **GDP:** <!--GDP-->GDP<!--GDP-->
+- **Currency:** [<!--CURRENCY-->Gold<!--CURRENCY-->](<!--CURRENCY-->Gold<!--CURRENCY-->)
 
 ---
 
 ## Towns
 
-- [Persian Empire](Persian Empire)
+<!--TOWNS-->- [Persian Empire](Persian Empire)<!--TOWNS-->
 
 ## Colonies
 
-
+<!--COLONIES--><!--COLONIES-->
 
 ---
