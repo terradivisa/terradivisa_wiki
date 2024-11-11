@@ -9,19 +9,11 @@ The Republic of Auroria is a mid-sized nation located on the southeastern coast 
 
 ---
 
-## Geography
-Ottoman features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
-
-- **Climate:** Temperate
-- **Natural Resources:** Timber, fresh water, minerals
-
----
-
 ## Government
 Ottoman is a parliamentary republic, with a president as head of state and a prime minister as head of government. The nation values individual freedoms and sustainable development.
 
-- **Head of State:** President Lyra Voss
-- **Legislative Body:** Assembly of Auroria
+- **Head of State:** Mayor furkan1453bjk
+- **Governmental System:** Republic
 
 ---
 
@@ -41,3 +33,10 @@ Ottoman's military focuses on defense and peacekeeping, with a strong emphasis o
 
 ---
 
+## Geography
+Ottoman features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
+
+- **Climate:** Temperate
+- **Natural Resources:** Timber, fresh water, minerals
+
+---

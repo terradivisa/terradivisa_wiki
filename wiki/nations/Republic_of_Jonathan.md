@@ -9,19 +9,11 @@ The Republic of Auroria is a mid-sized nation located on the southeastern coast 
 
 ---
 
-## Geography
-Republic of Jonathan features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
-
-- **Climate:** Temperate
-- **Natural Resources:** Timber, fresh water, minerals
-
----
-
 ## Government
 Republic of Jonathan is a parliamentary republic, with a president as head of state and a prime minister as head of government. The nation values individual freedoms and sustainable development.
 
-- **Head of State:** President Lyra Voss
-- **Legislative Body:** Assembly of Auroria
+- **Head of State:** Leader DiamondFury101
+- **Governmental System:** Autocracy
 
 ---
 
@@ -41,3 +33,10 @@ Republic of Jonathan's military focuses on defense and peacekeeping, with a stro
 
 ---
 
+## Geography
+Republic of Jonathan features temperate coasts, dense forests, and fertile plains. Key regions include the Solis Peninsula, Eldwood Forest, and the Dunes desert region.
+
+- **Climate:** Temperate
+- **Natural Resources:** Timber, fresh water, minerals
+
+---
