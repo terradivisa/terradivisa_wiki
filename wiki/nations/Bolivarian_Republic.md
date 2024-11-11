@@ -10,12 +10,12 @@
 
 ## Towns
 
-- Tallahassee
-- Canalan canal
-- somalia
-- Greater Toronto Area
-- Turtle
-- Venezuelan Territories
+- [Tallahassee](Tallahassee)
+- [Canalan canal](Canalan canal)
+- [somalia](somalia)
+- [Greater Toronto Area](Greater Toronto Area)
+- [Turtle](Turtle)
+- [Venezuelan Territories](Venezuelan Territories)
 
 ---
 

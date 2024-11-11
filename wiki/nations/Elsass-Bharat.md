@@ -10,20 +10,20 @@
 
 ## Towns
 
-- Kashmir
-- Gibraltar Colony
-- The Pyramids
-- Icelandic Protectorate
-- Arctic Exclusion Zone
-- Persia
-- sniffer
-- Strasbourg
-- Alexandria
-- Punjab
-- Junagadh
-- Cyndirblock
-- The Experts Land
-- Delhi
+- [Kashmir](Kashmir)
+- [Gibraltar Colony](Gibraltar Colony)
+- [The Pyramids](The Pyramids)
+- [Icelandic Protectorate](Icelandic Protectorate)
+- [Arctic Exclusion Zone](Arctic Exclusion Zone)
+- [Persia](Persia)
+- [sniffer](sniffer)
+- [Strasbourg](Strasbourg)
+- [Alexandria](Alexandria)
+- [Punjab](Punjab)
+- [Junagadh](Junagadh)
+- [Cyndirblock](Cyndirblock)
+- [The Experts Land](The Experts Land)
+- [Delhi](Delhi)
 
 ---
 

@@ -10,14 +10,14 @@
 
 ## Towns
 
-- Caketopia
-- Maranham
-- Conception Bay
-- Norskland
-- Piehaven
-- Vinland
-- True Alaska
-- east arabia
+- [Caketopia](Caketopia)
+- [Maranham](Maranham)
+- [Conception Bay](Conception Bay)
+- [Norskland](Norskland)
+- [Piehaven](Piehaven)
+- [Vinland](Vinland)
+- [True Alaska](True Alaska)
+- [east arabia](east arabia)
 
 ---
 

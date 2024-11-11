@@ -10,8 +10,8 @@
 
 ## Towns
 
-- Superior
-- Ontario City
+- [Superior](Superior)
+- [Ontario City](Ontario City)
 
 ---
 

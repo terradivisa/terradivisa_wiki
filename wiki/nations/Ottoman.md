@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Diyerbakir
+- [Diyerbakir](Diyerbakir)
 
 ---
 

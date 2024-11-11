@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Fiyamen Island
+- [Fiyamen Island](Fiyamen Island)
 
 ---
 

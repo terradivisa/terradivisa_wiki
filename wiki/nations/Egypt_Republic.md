@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Luxor
+- [Luxor](Luxor)
 
 ---
 

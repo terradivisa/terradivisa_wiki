@@ -10,16 +10,16 @@
 
 ## Towns
 
-- New Colombia
-- Oklahoma
-- Wisconsin State
-- Southern Republic City
-- Little Rivendell
-- Warmer Wisconsin
-- Colder Wisconsin
-- Buzau
-- Asian Wisconsin
-- Getz
+- [New Colombia](New Colombia)
+- [Oklahoma](Oklahoma)
+- [Wisconsin State](Wisconsin State)
+- [Southern Republic City](Southern Republic City)
+- [Little Rivendell](Little Rivendell)
+- [Warmer Wisconsin](Warmer Wisconsin)
+- [Colder Wisconsin](Colder Wisconsin)
+- [Buzau](Buzau)
+- [Asian Wisconsin](Asian Wisconsin)
+- [Getz](Getz)
 
 ---
 

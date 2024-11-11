@@ -10,8 +10,8 @@
 
 ## Towns
 
-- Yamaxun
-- Aozhou
+- [Yamaxun](Yamaxun)
+- [Aozhou](Aozhou)
 
 ---
 

@@ -10,8 +10,8 @@
 
 ## Towns
 
-- Agartha
-- Paris
+- [Agartha](Agartha)
+- [Paris](Paris)
 
 ---
 

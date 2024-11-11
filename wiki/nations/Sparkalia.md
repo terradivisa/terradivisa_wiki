@@ -10,8 +10,8 @@
 
 ## Towns
 
-- Snizhynivsk
-- Skibidi City II
+- [Snizhynivsk](Snizhynivsk)
+- [Skibidi City II](Skibidi City II)
 
 ---
 

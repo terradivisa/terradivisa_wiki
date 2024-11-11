@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Midgard
+- [Midgard](Midgard)
 
 ---
 

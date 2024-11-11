@@ -10,10 +10,10 @@
 
 ## Towns
 
-- Cuba
-- Sovereign Cayenne
-- Colombian Territories
-- Ecuador
+- [Cuba](Cuba)
+- [Sovereign Cayenne](Sovereign Cayenne)
+- [Colombian Territories](Colombian Territories)
+- [Ecuador](Ecuador)
 
 ---
 

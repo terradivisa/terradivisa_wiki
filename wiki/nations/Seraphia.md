@@ -10,18 +10,18 @@
 
 ## Towns
 
-- TheHouse
-- sigmaville
-- Purple Town
-- Zhukov Industries
-- ICELAND BEST
-- TheMonument.
-- Seraphia2
-- North Iceland
-- Seraphia
-- Greenerland
-- EventArea
-- Gankington city
+- [TheHouse](TheHouse)
+- [sigmaville](sigmaville)
+- [Purple Town](Purple Town)
+- [Zhukov Industries](Zhukov Industries)
+- [ICELAND BEST](ICELAND BEST)
+- [TheMonument.](TheMonument.)
+- [Seraphia2](Seraphia2)
+- [North Iceland](North Iceland)
+- [Seraphia](Seraphia)
+- [Greenerland](Greenerland)
+- [EventArea](EventArea)
+- [Gankington city](Gankington city)
 
 ---
 

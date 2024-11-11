@@ -10,8 +10,8 @@
 
 ## Towns
 
-- Lisbon
-- New Espagrad
+- [Lisbon](Lisbon)
+- [New Espagrad](New Espagrad)
 
 ---
 

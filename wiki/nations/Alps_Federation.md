@@ -10,12 +10,12 @@
 
 ## Towns
 
-- Puerto la Severmuda
-- Easter Island
-- Geneva
-- Swiss Antarctica
-- Funny Number Island
-- southpole
+- [Puerto la Severmuda](Puerto la Severmuda)
+- [Easter Island](Easter Island)
+- [Geneva](Geneva)
+- [Swiss Antarctica](Swiss Antarctica)
+- [Funny Number Island](Funny Number Island)
+- [southpole](southpole)
 
 ---
 

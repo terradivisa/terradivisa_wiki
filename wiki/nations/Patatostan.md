@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Patatopia
+- [Patatopia](Patatopia)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ## Towns
 
-- ZABRZE
+- [ZABRZE](ZABRZE)
 
 ---
 

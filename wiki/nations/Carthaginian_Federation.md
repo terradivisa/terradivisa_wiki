@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Carthage
+- [Carthage](Carthage)
 
 ---
 

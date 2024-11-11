@@ -10,38 +10,38 @@
 
 ## Towns
 
-- EGG
-- perth
-- Constantinople
-- Refugio de la Lluvia
-- Syberian Military Base
-- Pinneberg
-- Gvineja
-- Saharan canal
-- Polaris
-- Sandstown
-- oloix
-- Macedonia
-- Tripolitania
-- Kyiv
-- Nova Yevpatoriia
-- Sacred Land of Pig
-- Mozambique
-- Old Yevpatoria
-- Horny Canal
-- Lusaria
-- Pomerania
-- Gabon
-- Pokaemia Archipelago
-- Mariupol
-- South Umut
-- Helsinki
-- Isle of Pigism
-- The New Alska
-- Suez Canal
-- Second Polish Imperium
-- Pivnichnyi
-- Revenant
+- [EGG](EGG)
+- [perth](perth)
+- [Constantinople](Constantinople)
+- [Refugio de la Lluvia](Refugio de la Lluvia)
+- [Syberian Military Base](Syberian Military Base)
+- [Pinneberg](Pinneberg)
+- [Gvineja](Gvineja)
+- [Saharan canal](Saharan canal)
+- [Polaris](Polaris)
+- [Sandstown](Sandstown)
+- [oloix](oloix)
+- [Macedonia](Macedonia)
+- [Tripolitania](Tripolitania)
+- [Kyiv](Kyiv)
+- [Nova Yevpatoriia](Nova Yevpatoriia)
+- [Sacred Land of Pig](Sacred Land of Pig)
+- [Mozambique](Mozambique)
+- [Old Yevpatoria](Old Yevpatoria)
+- [Horny Canal](Horny Canal)
+- [Lusaria](Lusaria)
+- [Pomerania](Pomerania)
+- [Gabon](Gabon)
+- [Pokaemia Archipelago](Pokaemia Archipelago)
+- [Mariupol](Mariupol)
+- [South Umut](South Umut)
+- [Helsinki](Helsinki)
+- [Isle of Pigism](Isle of Pigism)
+- [The New Alska](The New Alska)
+- [Suez Canal](Suez Canal)
+- [Second Polish Imperium](Second Polish Imperium)
+- [Pivnichnyi](Pivnichnyi)
+- [Revenant](Revenant)
 
 ---
 

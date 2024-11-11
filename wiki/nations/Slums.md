@@ -10,7 +10,7 @@
 
 ## Towns
 
-- CrustMore
+- [CrustMore](CrustMore)
 
 ---
 

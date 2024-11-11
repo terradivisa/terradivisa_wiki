@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Konenburg
+- [Konenburg](Konenburg)
 
 ---
 

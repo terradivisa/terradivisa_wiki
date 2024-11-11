@@ -10,9 +10,9 @@
 
 ## Towns
 
-- Eastoria
-- Arabia
-- Cape Colony
+- [Eastoria](Eastoria)
+- [Arabia](Arabia)
+- [Cape Colony](Cape Colony)
 
 ---
 

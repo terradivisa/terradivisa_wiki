@@ -10,7 +10,7 @@
 
 ## Towns
 
-- New Nuh Uh
+- [New Nuh Uh](New Nuh Uh)
 
 ---
 

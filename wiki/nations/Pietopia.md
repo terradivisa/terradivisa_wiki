@@ -10,17 +10,17 @@
 
 ## Towns
 
-- Turkey
-- Meria
-- shroomania
-- Levan
-- Quebec
-- Boat
-- Mesopotamia
-- Angola
-- New Dreadfort
-- louhi
-- Caribbean Territories
+- [Turkey](Turkey)
+- [Meria](Meria)
+- [shroomania](shroomania)
+- [Levan](Levan)
+- [Quebec](Quebec)
+- [Boat](Boat)
+- [Mesopotamia](Mesopotamia)
+- [Angola](Angola)
+- [New Dreadfort](New Dreadfort)
+- [louhi](louhi)
+- [Caribbean Territories](Caribbean Territories)
 
 ---
 

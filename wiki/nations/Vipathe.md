@@ -10,7 +10,7 @@
 
 ## Towns
 
-- KRETE
+- [KRETE](KRETE)
 
 ---
 

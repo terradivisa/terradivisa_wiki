@@ -10,13 +10,13 @@
 
 ## Towns
 
-- Rijeka
-- Gravity Falls
-- Villagers
-- Football
-- Slavonia
-- Italia
-- Real Alaska
+- [Rijeka](Rijeka)
+- [Gravity Falls](Gravity Falls)
+- [Villagers](Villagers)
+- [Football](Football)
+- [Slavonia](Slavonia)
+- [Italia](Italia)
+- [Real Alaska](Real Alaska)
 
 ---
 

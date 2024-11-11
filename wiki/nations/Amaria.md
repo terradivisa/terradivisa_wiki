@@ -10,7 +10,7 @@
 
 ## Towns
 
-- Boston
+- [Boston](Boston)
 
 ---
 

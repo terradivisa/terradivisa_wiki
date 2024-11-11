@@ -10,8 +10,8 @@
 
 ## Towns
 
-- Albion
-- MountImmortal
+- [Albion](Albion)
+- [MountImmortal](MountImmortal)
 
 ---
 

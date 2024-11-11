@@ -10,7 +10,7 @@
 
 ## Towns
 
-- town
+- [town](town)
 
 ---
 
