@@ -17,7 +17,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->63726G<!--GDP-->
+- **GDP:** <!--GDP-->63726g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK-->
 
 ---
