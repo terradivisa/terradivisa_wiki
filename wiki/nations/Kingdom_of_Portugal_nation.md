@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->5/9/80, 9:22 PM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56780-05-09<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader BACTUGA](BACTUGA_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

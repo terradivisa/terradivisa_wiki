@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->12/21/89, 2:12 AM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56789-12-21<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Supreme ACB10](ACB10_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 

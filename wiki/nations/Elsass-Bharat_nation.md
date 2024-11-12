@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->4/14/26, 6:56 PM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56426-04-14<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Kaiser happyperson3796](happyperson3796_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Burgundian System<!--GOVERNMENT-->
 

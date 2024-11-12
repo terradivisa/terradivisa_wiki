@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->3/2/46, 10:31 PM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56446-03-02<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader NPC53](NPC53_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->5/12/86, 2:17 AM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56486-05-12<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Regent EspaRojo](EspaRojo_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 

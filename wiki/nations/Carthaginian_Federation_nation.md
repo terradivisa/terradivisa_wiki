@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->1/17/87, 2:49 PM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56487-01-17<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Furiouskyy](Furiouskyy_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

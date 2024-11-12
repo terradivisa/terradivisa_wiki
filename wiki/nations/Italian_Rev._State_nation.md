@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->3/26/85, 12:16 AM<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->56785-03-26<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Armani Lukinjo_](Lukinjo__user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 
