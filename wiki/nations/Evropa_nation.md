@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->7/10/03, 4:36 AM<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Count _aws](_aws_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Corporatocracy<!--GOVERNMENT-->
 

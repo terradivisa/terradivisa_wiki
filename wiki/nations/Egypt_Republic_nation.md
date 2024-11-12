@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->4/23/07, 11:09 AM<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ahmed_error12](ahmed_error12_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

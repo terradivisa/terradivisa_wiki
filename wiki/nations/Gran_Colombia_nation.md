@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->3/8/45, 9:22 PM<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Consul Iftekimas](Iftekimas_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Aristocracy<!--GOVERNMENT-->
 
