@@ -2,15 +2,15 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[town_Port Mackay](Port Mackay)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Port Mackay](town_Port Mackay)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->6<!--POPULATION-->
-- **Currency:** <!--CURRENCY_LINK-->[currency_Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** <!--LEADER_TITLE_LINK-->[user_ACB10](Supreme ACB10)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Supreme ACB10](user_ACB10)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
 ---
@@ -18,7 +18,7 @@
 ## Economy
 
 - **GDP:** <!--GDP-->154G<!--GDP-->
-- **Currency:** <!--CURRENCY_LINK-->[currency_Gold](Gold)<!--CURRENCY_LINK-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK-->
 
 ---
 

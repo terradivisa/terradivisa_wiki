@@ -2,15 +2,15 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[town_Seraphia](Seraphia)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Seraphia](town_Seraphia)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->37<!--POPULATION-->
-- **Currency:** <!--CURRENCY_LINK-->[currency_Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** <!--LEADER_TITLE_LINK-->[user_agnat](Emperor agnat)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor agnat](user_agnat)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
@@ -18,7 +18,7 @@
 ## Economy
 
 - **GDP:** <!--GDP-->205167G<!--GDP-->
-- **Currency:** <!--CURRENCY_LINK-->[currency_Gold](Gold)<!--CURRENCY_LINK-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK-->
 
 ---
 

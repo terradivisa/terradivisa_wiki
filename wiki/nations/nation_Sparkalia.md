@@ -2,15 +2,15 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[town_Snizhynivsk](Snizhynivsk)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Snizhynivsk](town_Snizhynivsk)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->13<!--POPULATION-->
-- **Currency:** <!--CURRENCY_LINK-->[currency_Gold](Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+- **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Head of State:** <!--LEADER_TITLE_LINK-->[user_Feirforia](Count Feirforia)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Feirforia](user_Feirforia)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
@@ -18,7 +18,7 @@
 ## Economy
 
 - **GDP:** <!--GDP-->9831G<!--GDP-->
-- **Currency:** <!--CURRENCY_LINK-->[currency_Gold](Gold)<!--CURRENCY_LINK-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](currency_Gold)<!--CURRENCY_LINK-->
 
 ---
 
