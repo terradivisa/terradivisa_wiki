@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->November 14, 56760<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->October 15, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader M3A24503](M3A24503_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

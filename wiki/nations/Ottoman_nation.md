@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 05, 56709<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->September 27, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Mayor furkan1453bjk](furkan1453bjk_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Republic<!--GOVERNMENT-->
 
