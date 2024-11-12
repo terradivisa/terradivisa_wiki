@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_KRETE](KRETE)<!--TOWNS-->
+<!--TOWNS-->- [KRETE](town_KRETE)<!--TOWNS-->
 
 ## Colonies
 

@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Persian_Empire](Persian Empire)<!--TOWNS-->
+<!--TOWNS-->- [Persian Empire](town_Persian_Empire)<!--TOWNS-->
 
 ## Colonies
 

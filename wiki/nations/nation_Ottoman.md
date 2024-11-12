@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Diyerbakir](Diyerbakir)<!--TOWNS-->
+<!--TOWNS-->- [Diyerbakir](town_Diyerbakir)<!--TOWNS-->
 
 ## Colonies
 

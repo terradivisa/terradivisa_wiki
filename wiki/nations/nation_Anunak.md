@@ -24,11 +24,11 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Arabia](Arabia)<!--TOWNS-->
+<!--TOWNS-->- [Arabia](town_Arabia)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_Eastoria](Eastoria)
-- [town_Cape_Colony](Cape Colony)<!--COLONIES-->
+<!--COLONIES-->- [Eastoria](town_Eastoria)
+- [Cape Colony](town_Cape_Colony)<!--COLONIES-->
 
 ---

@@ -24,20 +24,20 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Purple_Town](Purple Town)
-- [town_Zhukov_Industries](Zhukov Industries)
-- [town_Seraphia2](Seraphia2)
-- [town_Seraphia](Seraphia)<!--TOWNS-->
+<!--TOWNS-->- [Purple Town](town_Purple_Town)
+- [Zhukov Industries](town_Zhukov_Industries)
+- [Seraphia2](town_Seraphia2)
+- [Seraphia](town_Seraphia)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_TheHouse](TheHouse)
-- [town_sigmaville](sigmaville)
-- [town_ICELAND_BEST](ICELAND BEST)
-- [town_TheMonument.](TheMonument.)
-- [town_North_Iceland](North Iceland)
-- [town_Greenerland](Greenerland)
-- [town_EventArea](EventArea)
-- [town_Gankington_city](Gankington city)<!--COLONIES-->
+<!--COLONIES-->- [TheHouse](town_TheHouse)
+- [sigmaville](town_sigmaville)
+- [ICELAND BEST](town_ICELAND_BEST)
+- [TheMonument.](town_TheMonument.)
+- [North Iceland](town_North_Iceland)
+- [Greenerland](town_Greenerland)
+- [EventArea](town_EventArea)
+- [Gankington city](town_Gankington_city)<!--COLONIES-->
 
 ---

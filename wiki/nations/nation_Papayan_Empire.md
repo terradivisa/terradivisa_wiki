@@ -24,25 +24,25 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_kharak](kharak)
-- [town_Bordeaux](Bordeaux)<!--TOWNS-->
+<!--TOWNS-->- [kharak](town_kharak)
+- [Bordeaux](town_Bordeaux)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_Alaska](Alaska)
-- [town_Farm](Farm)
-- [town_Sanaa](Sanaa)
-- [town_Ghana](Ghana)
-- [town_Portland](Portland)
-- [town_Somalia2](Somalia2)
-- [town_New_Saharan_Canal](New Saharan Canal)
-- [town_North_Russian_CoastalFort](North Russian CoastalFort)
-- [town_Caspian_Sea](Caspian Sea)
-- [town_hi](hi)
-- [town_Saharan_Protectorate](Saharan Protectorate)
-- [town_Desert_Outpost](Desert Outpost)
-- [town_Nepal](Nepal)
-- [town_SierraLeonTradingCenter](SierraLeonTradingCenter)
-- [town_testco](testco)<!--COLONIES-->
+<!--COLONIES-->- [Alaska](town_Alaska)
+- [Farm](town_Farm)
+- [Sanaa](town_Sanaa)
+- [Ghana](town_Ghana)
+- [Portland](town_Portland)
+- [Somalia2](town_Somalia2)
+- [New Saharan Canal](town_New_Saharan_Canal)
+- [North Russian CoastalFort](town_North_Russian_CoastalFort)
+- [Caspian Sea](town_Caspian_Sea)
+- [hi](town_hi)
+- [Saharan Protectorate](town_Saharan_Protectorate)
+- [Desert Outpost](town_Desert_Outpost)
+- [Nepal](town_Nepal)
+- [SierraLeonTradingCenter](town_SierraLeonTradingCenter)
+- [testco](town_testco)<!--COLONIES-->
 
 ---

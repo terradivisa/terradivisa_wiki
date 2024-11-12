@@ -28,7 +28,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [town_Yamaxun](Yamaxun)
-- [town_Aozhou](Aozhou)<!--COLONIES-->
+<!--COLONIES-->- [Yamaxun](town_Yamaxun)
+- [Aozhou](town_Aozhou)<!--COLONIES-->
 
 ---

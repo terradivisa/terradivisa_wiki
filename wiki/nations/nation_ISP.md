@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_ZABRZE](ZABRZE)<!--TOWNS-->
+<!--TOWNS-->- [ZABRZE](town_ZABRZE)<!--TOWNS-->
 
 ## Colonies
 

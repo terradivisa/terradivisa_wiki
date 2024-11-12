@@ -24,15 +24,15 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Port_Mackay](Port Mackay)
-- [town_Wodonga](Wodonga)<!--TOWNS-->
+<!--TOWNS-->- [Port Mackay](town_Port_Mackay)
+- [Wodonga](town_Wodonga)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_Australian_Railsystem](Australian Railsystem)
-- [town_Greater_Logaki_Area](Greater Logaki Area)
-- [town_Logaki](Logaki)
-- [town_Australian_MilitaryBase_1](Australian MilitaryBase 1)
-- [town_Saint_William](Saint William)<!--COLONIES-->
+<!--COLONIES-->- [Australian Railsystem](town_Australian_Railsystem)
+- [Greater Logaki Area](town_Greater_Logaki_Area)
+- [Logaki](town_Logaki)
+- [Australian MilitaryBase 1](town_Australian_MilitaryBase_1)
+- [Saint William](town_Saint_William)<!--COLONIES-->
 
 ---

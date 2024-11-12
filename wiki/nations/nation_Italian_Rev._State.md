@@ -24,15 +24,15 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Rijeka](Rijeka)
-- [town_Italia](Italia)<!--TOWNS-->
+<!--TOWNS-->- [Rijeka](town_Rijeka)
+- [Italia](town_Italia)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_Gravity_Falls](Gravity Falls)
-- [town_Villagers](Villagers)
-- [town_Football](Football)
-- [town_Slavonia](Slavonia)
-- [town_Real_Alaska](Real Alaska)<!--COLONIES-->
+<!--COLONIES-->- [Gravity Falls](town_Gravity_Falls)
+- [Villagers](town_Villagers)
+- [Football](town_Football)
+- [Slavonia](town_Slavonia)
+- [Real Alaska](town_Real_Alaska)<!--COLONIES-->
 
 ---

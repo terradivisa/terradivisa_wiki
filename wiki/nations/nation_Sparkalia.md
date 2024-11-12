@@ -24,8 +24,8 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Snizhynivsk](Snizhynivsk)
-- [town_Skibidi_City_II](Skibidi City II)<!--TOWNS-->
+<!--TOWNS-->- [Snizhynivsk](town_Snizhynivsk)
+- [Skibidi City II](town_Skibidi_City_II)<!--TOWNS-->
 
 ## Colonies
 

@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_killas](killas)<!--TOWNS-->
+<!--TOWNS-->- [killas](town_killas)<!--TOWNS-->
 
 ## Colonies
 

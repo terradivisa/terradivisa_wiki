@@ -24,10 +24,10 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Lisbon](Lisbon)<!--TOWNS-->
+<!--TOWNS-->- [Lisbon](town_Lisbon)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_New_Espagrad](New Espagrad)<!--COLONIES-->
+<!--COLONIES-->- [New Espagrad](town_New_Espagrad)<!--COLONIES-->
 
 ---

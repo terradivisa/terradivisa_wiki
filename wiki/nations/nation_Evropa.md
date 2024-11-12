@@ -24,10 +24,10 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Paris](Paris)<!--TOWNS-->
+<!--TOWNS-->- [Paris](town_Paris)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_Agartha](Agartha)<!--COLONIES-->
+<!--COLONIES-->- [Agartha](town_Agartha)<!--COLONIES-->
 
 ---

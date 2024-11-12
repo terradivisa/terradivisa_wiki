@@ -24,12 +24,12 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Sovereign_Cayenne](Sovereign Cayenne)
-- [town_Colombian_Territories](Colombian Territories)
-- [town_Ecuador](Ecuador)<!--TOWNS-->
+<!--TOWNS-->- [Sovereign Cayenne](town_Sovereign_Cayenne)
+- [Colombian Territories](town_Colombian_Territories)
+- [Ecuador](town_Ecuador)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [town_Cuba](Cuba)<!--COLONIES-->
+<!--COLONIES-->- [Cuba](town_Cuba)<!--COLONIES-->
 
 ---

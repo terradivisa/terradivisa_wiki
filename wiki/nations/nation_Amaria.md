@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [town_Boston](Boston)<!--TOWNS-->
+<!--TOWNS-->- [Boston](town_Boston)<!--TOWNS-->
 
 ## Colonies
 
