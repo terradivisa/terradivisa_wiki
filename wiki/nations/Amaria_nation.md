@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56495-10-27<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->October 27, 56495<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Scooty5728](Scooty5728_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

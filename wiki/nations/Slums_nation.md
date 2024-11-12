@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56755-03-07<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->March 07, 56755<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader DirtyPanties](DirtyPanties_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

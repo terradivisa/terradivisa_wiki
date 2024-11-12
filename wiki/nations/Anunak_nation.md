@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56511-11-16<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->November 16, 56511<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Sultan ThatLeetGuy](ThatLeetGuy_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

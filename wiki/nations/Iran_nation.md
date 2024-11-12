@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56825-05-24<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->May 24, 56825<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader MasterKingRip](MasterKingRip_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

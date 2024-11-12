@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56468-04-16<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->April 16, 56468<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Vipathe taken4aride](taken4aride_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 

@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56598-09-07<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->September 07, 56598<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Kipos007](Kipos007_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

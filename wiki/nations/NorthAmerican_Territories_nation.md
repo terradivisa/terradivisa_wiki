@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56645-02-26<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->February 26, 56645<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Count .WebbierBreak915](.WebbierBreak915_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Technocracy<!--GOVERNMENT-->
 

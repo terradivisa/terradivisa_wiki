@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56502-05-09<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->May 09, 56502<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader H4TIUX](H4TIUX_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 

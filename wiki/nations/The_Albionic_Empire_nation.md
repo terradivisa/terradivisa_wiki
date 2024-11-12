@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56809-02-15<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->February 15, 56809<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Deadlygamer1000](Deadlygamer1000_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

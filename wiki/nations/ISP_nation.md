@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56604-02-16<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->February 16, 56604<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader PlestonXD](PlestonXD_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

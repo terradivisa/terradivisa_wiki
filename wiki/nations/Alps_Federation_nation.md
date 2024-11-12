@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56462-12-26<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->December 26, 56462<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Redident ATrainStudios](ATrainStudios_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Technocracy<!--GOVERNMENT-->
 

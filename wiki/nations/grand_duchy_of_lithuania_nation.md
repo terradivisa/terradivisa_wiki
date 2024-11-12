@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56453-11-03<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->November 03, 56453<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader BlueLT_u](BlueLT_u_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56560-12-26<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->December 26, 56560<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor agnat](agnat_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

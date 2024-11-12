@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56741-09-24<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->September 24, 56741<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Duke KraisertronKradd](KraisertronKradd_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

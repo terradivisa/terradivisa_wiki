@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56522-02-01<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->February 01, 56522<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[President dalmantinac](dalmantinac_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Democracy<!--GOVERNMENT-->
 

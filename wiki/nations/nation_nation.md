@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56808-05-21<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->May 21, 56808<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Tobinio_](Tobinio__user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

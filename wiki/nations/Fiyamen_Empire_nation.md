@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56758-11-02<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->November 02, 56758<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader fiyamen](fiyamen_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

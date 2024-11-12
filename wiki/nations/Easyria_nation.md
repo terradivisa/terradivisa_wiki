@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56823-08-16<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->August 16, 56823<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader diives](diives_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

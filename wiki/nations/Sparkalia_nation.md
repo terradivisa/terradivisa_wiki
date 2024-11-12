@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56812-01-15<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->January 15, 56812<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Count Feirforia](Feirforia_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 

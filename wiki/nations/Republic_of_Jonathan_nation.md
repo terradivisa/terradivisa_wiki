@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56822-11-13<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->November 13, 56822<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader DiamondFury101](DiamondFury101_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 

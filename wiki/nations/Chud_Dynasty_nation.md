@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->56564-05-01<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->May 01, 56564<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[peeceangle bigironranger](bigironranger_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
