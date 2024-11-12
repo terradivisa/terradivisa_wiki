@@ -1,3 +1,4 @@
+<!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
 # <!--NAME-->Duchy of Konenburg<!--NAME-->
 
 ## Overview
