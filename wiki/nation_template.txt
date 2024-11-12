@@ -11,6 +11,7 @@
 
 ## Government
 
+- **Date Founded:** <!--FOUNDED--><!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK--><!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT--><!--GOVERNMENT-->
 
