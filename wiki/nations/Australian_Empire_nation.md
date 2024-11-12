@@ -11,6 +11,7 @@
 
 ## Government
 
+- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Supreme ACB10](ACB10_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
@@ -18,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->154g<!--GDP-->
+- **GDP:** <!--GDP-->118g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -11,6 +11,7 @@
 
 ## Government
 
+- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Liege Lord Papayaaron](Papayaaron_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
@@ -18,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->49,324g<!--GDP-->
+- **GDP:** <!--GDP-->42,385g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

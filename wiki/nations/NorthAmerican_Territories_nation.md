@@ -11,6 +11,7 @@
 
 ## Government
 
+- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Count .WebbierBreak915](.WebbierBreak915_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Technocracy<!--GOVERNMENT-->
 
@@ -18,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,757g<!--GDP-->
+- **GDP:** <!--GDP-->4,278g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -11,6 +11,7 @@
 
 ## Government
 
+- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader diives](diives_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
@@ -18,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->537g<!--GDP-->
+- **GDP:** <!--GDP-->529g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

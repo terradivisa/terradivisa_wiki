@@ -11,6 +11,7 @@
 
 ## Government
 
+- **Date Founded:** <!--FOUNDED--><none><!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Count Feirforia](Feirforia_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
@@ -18,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,831g<!--GDP-->
+- **GDP:** <!--GDP-->9,315g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
