@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [CrustMore](CrustMore)<!--TOWNS-->
+<!--TOWNS-->- [town_CrustMore](CrustMore)<!--TOWNS-->
 
 ## Colonies
 

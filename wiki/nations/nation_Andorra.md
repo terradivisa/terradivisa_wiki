@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [AndorraLaVella](AndorraLaVella)<!--TOWNS-->
+<!--TOWNS-->- [town_AndorraLaVella](AndorraLaVella)<!--TOWNS-->
 
 ## Colonies
 

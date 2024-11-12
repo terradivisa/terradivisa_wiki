@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Carthage](Carthage)<!--TOWNS-->
+<!--TOWNS-->- [town_Carthage](Carthage)<!--TOWNS-->
 
 ## Colonies
 

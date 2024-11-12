@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [lietuva](lietuva)<!--TOWNS-->
+<!--TOWNS-->- [town_lietuva](lietuva)<!--TOWNS-->
 
 ## Colonies
 

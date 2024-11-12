@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Fiyamen Island](Fiyamen Island)<!--TOWNS-->
+<!--TOWNS-->- [town_Fiyamen_Island](Fiyamen Island)<!--TOWNS-->
 
 ## Colonies
 

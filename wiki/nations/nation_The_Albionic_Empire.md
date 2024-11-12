@@ -24,8 +24,8 @@
 
 ## Towns
 
-<!--TOWNS-->- [Albion](Albion)
-- [MountImmortal](MountImmortal)<!--TOWNS-->
+<!--TOWNS-->- [town_Albion](Albion)
+- [town_MountImmortal](MountImmortal)<!--TOWNS-->
 
 ## Colonies
 

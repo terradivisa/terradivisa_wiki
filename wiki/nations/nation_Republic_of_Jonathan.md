@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [New Nuh Uh](New Nuh Uh)<!--TOWNS-->
+<!--TOWNS-->- [town_New_Nuh_Uh](New Nuh Uh)<!--TOWNS-->
 
 ## Colonies
 

@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Patatopia](Patatopia)<!--TOWNS-->
+<!--TOWNS-->- [town_Patatopia](Patatopia)<!--TOWNS-->
 
 ## Colonies
 

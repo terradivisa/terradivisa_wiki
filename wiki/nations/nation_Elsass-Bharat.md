@@ -24,22 +24,22 @@
 
 ## Towns
 
-<!--TOWNS-->- [Kashmir](Kashmir)
-- [Strasbourg](Strasbourg)
-- [Punjab](Punjab)
-- [Junagadh](Junagadh)
-- [Cyndirblock](Cyndirblock)
-- [The Experts Land](The Experts Land)
-- [Delhi](Delhi)<!--TOWNS-->
+<!--TOWNS-->- [town_Kashmir](Kashmir)
+- [town_Strasbourg](Strasbourg)
+- [town_Punjab](Punjab)
+- [town_Junagadh](Junagadh)
+- [town_Cyndirblock](Cyndirblock)
+- [town_The_Experts_Land](The Experts Land)
+- [town_Delhi](Delhi)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Gibraltar Colony](Gibraltar Colony)
-- [The Pyramids](The Pyramids)
-- [Icelandic Protectorate](Icelandic Protectorate)
-- [Arctic Exclusion Zone](Arctic Exclusion Zone)
-- [Persia](Persia)
-- [sniffer](sniffer)
-- [Alexandria](Alexandria)<!--COLONIES-->
+<!--COLONIES-->- [town_Gibraltar_Colony](Gibraltar Colony)
+- [town_The_Pyramids](The Pyramids)
+- [town_Icelandic_Protectorate](Icelandic Protectorate)
+- [town_Arctic_Exclusion_Zone](Arctic Exclusion Zone)
+- [town_Persia](Persia)
+- [town_sniffer](sniffer)
+- [town_Alexandria](Alexandria)<!--COLONIES-->
 
 ---

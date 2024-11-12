@@ -24,19 +24,19 @@
 
 ## Towns
 
-<!--TOWNS-->- [Turkey](Turkey)
-- [Meria](Meria)
-- [shroomania](shroomania)
-- [Levan](Levan)
-- [Mesopotamia](Mesopotamia)
-- [Angola](Angola)
-- [New Dreadfort](New Dreadfort)
-- [louhi](louhi)
-- [Caribbean Territories](Caribbean Territories)<!--TOWNS-->
+<!--TOWNS-->- [town_Turkey](Turkey)
+- [town_Meria](Meria)
+- [town_shroomania](shroomania)
+- [town_Levan](Levan)
+- [town_Mesopotamia](Mesopotamia)
+- [town_Angola](Angola)
+- [town_New_Dreadfort](New Dreadfort)
+- [town_louhi](louhi)
+- [town_Caribbean_Territories](Caribbean Territories)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Quebec](Quebec)
-- [Boat](Boat)<!--COLONIES-->
+<!--COLONIES-->- [town_Quebec](Quebec)
+- [town_Boat](Boat)<!--COLONIES-->
 
 ---

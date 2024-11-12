@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Konenburg](Konenburg)<!--TOWNS-->
+<!--TOWNS-->- [town_Konenburg](Konenburg)<!--TOWNS-->
 
 ## Colonies
 

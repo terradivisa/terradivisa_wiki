@@ -24,14 +24,14 @@
 
 ## Towns
 
-<!--TOWNS-->- [somalia](somalia)
-- [Venezuelan Territories](Venezuelan Territories)<!--TOWNS-->
+<!--TOWNS-->- [town_somalia](somalia)
+- [town_Venezuelan_Territories](Venezuelan Territories)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Tallahassee](Tallahassee)
-- [Canalan canal](Canalan canal)
-- [Greater Toronto Area](Greater Toronto Area)
-- [Turtle](Turtle)<!--COLONIES-->
+<!--COLONIES-->- [town_Tallahassee](Tallahassee)
+- [town_Canalan_canal](Canalan canal)
+- [town_Greater_Toronto_Area](Greater Toronto Area)
+- [town_Turtle](Turtle)<!--COLONIES-->
 
 ---

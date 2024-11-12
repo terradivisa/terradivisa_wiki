@@ -24,16 +24,16 @@
 
 ## Towns
 
-<!--TOWNS-->- [Norskland](Norskland)
-- [Vinland](Vinland)<!--TOWNS-->
+<!--TOWNS-->- [town_Norskland](Norskland)
+- [town_Vinland](Vinland)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Caketopia](Caketopia)
-- [Maranham](Maranham)
-- [Conception Bay](Conception Bay)
-- [Piehaven](Piehaven)
-- [True Alaska](True Alaska)
-- [east arabia](east arabia)<!--COLONIES-->
+<!--COLONIES-->- [town_Caketopia](Caketopia)
+- [town_Maranham](Maranham)
+- [town_Conception_Bay](Conception Bay)
+- [town_Piehaven](Piehaven)
+- [town_True_Alaska](True Alaska)
+- [town_east_arabia](east arabia)<!--COLONIES-->
 
 ---

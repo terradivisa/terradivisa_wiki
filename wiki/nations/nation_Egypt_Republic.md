@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Luxor](Luxor)<!--TOWNS-->
+<!--TOWNS-->- [town_Luxor](Luxor)<!--TOWNS-->
 
 ## Colonies
 

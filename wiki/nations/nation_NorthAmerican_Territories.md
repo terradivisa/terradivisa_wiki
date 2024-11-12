@@ -24,18 +24,18 @@
 
 ## Towns
 
-<!--TOWNS-->- [Wisconsin State](Wisconsin State)
-- [Southern Republic City](Southern Republic City)
-- [Getz](Getz)<!--TOWNS-->
+<!--TOWNS-->- [town_Wisconsin_State](Wisconsin State)
+- [town_Southern_Republic_City](Southern Republic City)
+- [town_Getz](Getz)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [New Colombia](New Colombia)
-- [Oklahoma](Oklahoma)
-- [Little Rivendell](Little Rivendell)
-- [Warmer Wisconsin](Warmer Wisconsin)
-- [Colder Wisconsin](Colder Wisconsin)
-- [Buzau](Buzau)
-- [Asian Wisconsin](Asian Wisconsin)<!--COLONIES-->
+<!--COLONIES-->- [town_New_Colombia](New Colombia)
+- [town_Oklahoma](Oklahoma)
+- [town_Little_Rivendell](Little Rivendell)
+- [town_Warmer_Wisconsin](Warmer Wisconsin)
+- [town_Colder_Wisconsin](Colder Wisconsin)
+- [town_Buzau](Buzau)
+- [town_Asian_Wisconsin](Asian Wisconsin)<!--COLONIES-->
 
 ---

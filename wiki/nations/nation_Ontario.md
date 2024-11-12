@@ -24,10 +24,10 @@
 
 ## Towns
 
-<!--TOWNS-->- [Ontario City](Ontario City)<!--TOWNS-->
+<!--TOWNS-->- [town_Ontario_City](Ontario City)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Superior](Superior)<!--COLONIES-->
+<!--COLONIES-->- [town_Superior](Superior)<!--COLONIES-->
 
 ---

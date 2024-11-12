@@ -24,7 +24,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Midgard](Midgard)<!--TOWNS-->
+<!--TOWNS-->- [town_Midgard](Midgard)<!--TOWNS-->
 
 ## Colonies
 

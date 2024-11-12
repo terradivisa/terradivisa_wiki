@@ -24,14 +24,14 @@
 
 ## Towns
 
-<!--TOWNS-->- [Geneva](Geneva)<!--TOWNS-->
+<!--TOWNS-->- [town_Geneva](Geneva)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Puerto la Severmuda](Puerto la Severmuda)
-- [Easter Island](Easter Island)
-- [Swiss Antarctica](Swiss Antarctica)
-- [Funny Number Island](Funny Number Island)
-- [southpole](southpole)<!--COLONIES-->
+<!--COLONIES-->- [town_Puerto_la_Severmuda](Puerto la Severmuda)
+- [town_Easter_Island](Easter Island)
+- [town_Swiss_Antarctica](Swiss Antarctica)
+- [town_Funny_Number_Island](Funny Number Island)
+- [town_southpole](southpole)<!--COLONIES-->
 
 ---
