@@ -10,7 +10,6 @@
 * [ISP](ISP_nation)
 * [Duchy of Konenburg](Duchy_of_Konenburg_nation)
 * [Bolivarian Republic](Bolivarian_Republic_nation)
-* [Australian Empire](Australian_Empire_nation)
 * [Andorra](Andorra_nation)
 * [NorthAmerican Territories](NorthAmerican_Territories_nation)
 * [Elsass-Bharat](Elsass-Bharat_nation)
@@ -78,3 +77,4 @@
 * [Terra Mariana](nation_Terra_Mariana)
 * [Anunak](nation_Anunak)
 * [Patatostan](nation_Patatostan)
+* [Australian Empire](Australian_Empire_nation)

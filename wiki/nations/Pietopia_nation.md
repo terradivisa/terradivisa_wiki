@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[louhi](louhi_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->32<!--POPULATION-->
+- **Population:** <!--POPULATION-->33<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,275g<!--GDP-->
+- **GDP:** <!--GDP-->10,017g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,6 +29,7 @@
 <!--TOWNS-->- [Turkey](town_Turkey)
 - [Meria](town_Meria)
 - [shroomania](town_shroomania)
+- [Kygrhate](town_Kygrhate)
 - [Mesopotamia](town_Mesopotamia)
 - [Angola](town_Angola)
 - [New Dreadfort](town_New_Dreadfort)

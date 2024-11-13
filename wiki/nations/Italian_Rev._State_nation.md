@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->7,398g<!--GDP-->
+- **GDP:** <!--GDP-->7,021g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,7 @@
 ## Colonies
 
 <!--COLONIES-->- [Gravity Falls](town_Gravity_Falls)
+- [Laytep](town_Laytep)
 - [Villagers](town_Villagers)
 - [Football](town_Football)
 - [Slavonia](town_Slavonia)
