@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Albion](Albion_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->643g<!--GDP-->
+- **GDP:** <!--GDP-->651g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Albion](town_Albion)
-- [MountImmortal](town_MountImmortal)<!--TOWNS-->
+<!--TOWNS-->- [Albion](town_Albion)<!--TOWNS-->
 
 ## Colonies
 
