@@ -37,7 +37,6 @@
 * [Chud Dynasty](Chud_Dynasty_nation)
 * [Terra Mariana](Terra_Mariana_nation)
 * [Anunak](Anunak_nation)
-* [Patatostan](Patatostan_nation)
 
 ## History
 
@@ -79,3 +78,4 @@
 * [Anunak](nation_Anunak)
 * [Patatostan](nation_Patatostan)
 * [ISP](ISP_nation)
+* [Patatostan](Patatostan_nation)

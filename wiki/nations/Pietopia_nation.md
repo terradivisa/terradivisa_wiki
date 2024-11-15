@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[louhi](louhi_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->33<!--POPULATION-->
+- **Population:** <!--POPULATION-->34<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,900g<!--GDP-->
+- **GDP:** <!--GDP-->9,509g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,7 +38,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Quebec](town_Quebec)
+<!--COLONIES-->- [Pieville](town_Pieville)
+- [Quebec](town_Quebec)
 - [Boat](town_Boat)<!--COLONIES-->
 
 ---
