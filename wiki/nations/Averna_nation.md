@@ -1,32 +1,32 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->killas<!--NAME-->
+# <!--NAME-->Averna<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[killas](killas_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Taroudant](Taroudant_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->October 15, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader M3A24503](M3A24503_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->November 16, 2024<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader demonnnnnnnn](demonnnnnnnn_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,894g<!--GDP-->
+- **GDP:** <!--GDP-->807g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [killas](town_killas)<!--TOWNS-->
+<!--TOWNS-->- [Taroudant](town_Taroudant)<!--TOWNS-->
 
 ## Colonies
 
