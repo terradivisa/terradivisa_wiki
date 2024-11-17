@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[louhi](louhi_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->59<!--POPULATION-->
+- **Population:** <!--POPULATION-->57<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->17,842g<!--GDP-->
+- **GDP:** <!--GDP-->9,563g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,11 +31,10 @@
 - [shroomania](town_shroomania)
 - [Kygrhate](town_Kygrhate)
 - [Mesopotamia](town_Mesopotamia)
-- [Angola](town_Angola)
+- [Oulu](town_Oulu)
 - [New Dreadfort](town_New_Dreadfort)
 - [louhi](town_louhi)
-- [Caribbean Territories](town_Caribbean_Territories)
-- [Oulu](town_Oulu)<!--TOWNS-->
+- [Caribbean Territories](town_Caribbean_Territories)<!--TOWNS-->
 
 ## Colonies
 
