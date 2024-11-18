@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->November 14, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader SamUltra888](SamUltra888_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->349g<!--GDP-->
+- **GDP:** <!--GDP-->357g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

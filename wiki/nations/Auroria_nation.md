@@ -1,32 +1,32 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Amaria<!--NAME-->
+# <!--NAME-->Auroria<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Boston](Boston_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[New Dreadfort](New Dreadfort_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->9<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->July 11, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Scooty5728](Scooty5728_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->November 18, 2024<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader TheyBeHating](TheyBeHating_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,049g<!--GDP-->
+- **GDP:** <!--GDP-->1,123g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Boston](town_Boston)<!--TOWNS-->
+<!--TOWNS-->- [New Dreadfort](town_New_Dreadfort)<!--TOWNS-->
 
 ## Colonies
 
