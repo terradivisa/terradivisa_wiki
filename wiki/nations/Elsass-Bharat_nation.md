@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Strasbourg](Strasbourg_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->22<!--POPULATION-->
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->45,803g<!--GDP-->
+- **GDP:** <!--GDP-->45,559g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,7 +31,6 @@
 - [Punjab](town_Punjab)
 - [Junagadh](town_Junagadh)
 - [Cyndirblock](town_Cyndirblock)
-- [The Experts Land](town_The_Experts_Land)
 - [Delhi](town_Delhi)<!--TOWNS-->
 
 ## Colonies
