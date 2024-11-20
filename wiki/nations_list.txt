@@ -79,3 +79,5 @@
 [Averna](Averna_nation)
 [Koverzo Syndicatos](Koverzo_Syndicatos_nation)
 [Auroria](Auroria_nation)
+[Snezhnaya Zemlya](Snezhnaya_Zemlya_nation)
+[Quitting till next szn](Quitting_till_next_szn_nation)

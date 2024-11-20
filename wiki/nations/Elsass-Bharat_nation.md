@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->45,559g<!--GDP-->
+- **GDP:** <!--GDP-->45,191g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -41,6 +41,7 @@
 - [Arctic Exclusion Zone](town_Arctic_Exclusion_Zone)
 - [Persia](town_Persia)
 - [sniffer](town_sniffer)
-- [Alexandria](town_Alexandria)<!--COLONIES-->
+- [Alexandria](town_Alexandria)
+- [falkin preserve](town_falkin_preserve)<!--COLONIES-->
 
 ---

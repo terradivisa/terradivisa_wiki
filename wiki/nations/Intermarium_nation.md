@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->65,013g<!--GDP-->
+- **GDP:** <!--GDP-->65,297g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,7 +34,7 @@
 - [oloix](town_oloix)
 - [Macedonia](town_Macedonia)
 - [Kyiv](town_Kyiv)
-- [Lusaria](town_Lusaria)
+- [Second Diarchy of Papua](town_Second_Diarchy_of_Papua)
 - [Pomerania](town_Pomerania)
 - [Pokaemia Archipelago](town_Pokaemia_Archipelago)
 - [Mariupol](town_Mariupol)

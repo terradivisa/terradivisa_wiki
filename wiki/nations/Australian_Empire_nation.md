@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,028g<!--GDP-->
+- **GDP:** <!--GDP-->3,092g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,7 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Logaski](town_Logaski)
+- [Australian Militarybase 1](town_Australian_Militarybase_1)<!--COLONIES-->
 
 ---
