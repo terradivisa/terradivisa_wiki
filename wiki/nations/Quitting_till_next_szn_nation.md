@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Rijeka](Rijeka_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->22<!--POPULATION-->
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,582g<!--GDP-->
+- **GDP:** <!--GDP-->8,557g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Rijeka](town_Rijeka)
-- [Italia](town_Italia)
-- [Leipzig](town_Leipzig)<!--TOWNS-->
+- [Italia](town_Italia)<!--TOWNS-->
 
 ## Colonies
 
