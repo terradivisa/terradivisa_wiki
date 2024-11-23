@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Kyiv](Kyiv_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->61<!--POPULATION-->
+- **Population:** <!--POPULATION-->60<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->65,942g<!--GDP-->
+- **GDP:** <!--GDP-->67,122g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -37,7 +37,6 @@
 - [Kyiv](town_Kyiv)
 - [Pomerania](town_Pomerania)
 - [Pokaemia Archipelago](town_Pokaemia_Archipelago)
-- [Mariupol](town_Mariupol)
 - [Helsinki](town_Helsinki)
 - [Second Polish Imperium](town_Second_Polish_Imperium)
 - [Revenant](town_Revenant)<!--TOWNS-->
@@ -49,6 +48,7 @@
 - [Gvineja](town_Gvineja)
 - [Saharan canal](town_Saharan_canal)
 - [Sandstown](town_Sandstown)
+- [bobthebuilder](town_bobthebuilder)
 - [Tripolitania](town_Tripolitania)
 - [Nova Yevpatoriia](town_Nova_Yevpatoriia)
 - [Sacred Land of Pig](town_Sacred_Land_of_Pig)

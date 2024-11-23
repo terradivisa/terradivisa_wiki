@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->November 13, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Supreme ACB10](ACB10_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->188g<!--GDP-->
+- **GDP:** <!--GDP-->3,038g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
