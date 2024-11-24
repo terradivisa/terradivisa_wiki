@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[St. Espagrad](St. Espagrad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->63<!--POPULATION-->
+- **Population:** <!--POPULATION-->62<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->32,378g<!--GDP-->
+- **GDP:** <!--GDP-->31,697g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,7 +29,6 @@
 <!--TOWNS-->- [Moscow](town_Moscow)
 - [St. Espagrad](town_St._Espagrad)
 - [Cetiia Colony](town_Cetiia_Colony)
-- [Alicante](town_Alicante)
 - [pogtopia](town_pogtopia)
 - [Murmansk](town_Murmansk)
 - [Severny](town_Severny)<!--TOWNS-->
