@@ -2,7 +2,6 @@
 
 * [killas](killas_nation)
 * [Seraphia](Seraphia_nation)
-* [Egypt Republic](Egypt_Republic_nation)
 * [Pietopia](Pietopia_nation)
 * [Bolivarian Republic](Bolivarian_Republic_nation)
 * [Australian Empire](Australian_Empire_nation)
@@ -73,6 +72,7 @@
 * [Terra Mariana](nation_Terra_Mariana)
 * [Anunak](nation_Anunak)
 * [Patatostan](nation_Patatostan)
+* [Egypt Republic](Egypt_Republic_nation)
 * [Republic of Jonathan](Republic_of_Jonathan_nation)
 * [Amaria](Amaria_nation)
 * [ISP](ISP_nation)
