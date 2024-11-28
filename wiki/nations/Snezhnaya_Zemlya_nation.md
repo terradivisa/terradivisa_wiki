@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Snezhpol](Snezhpol_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->9<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,595g<!--GDP-->
+- **GDP:** <!--GDP-->5,009g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Skibidi City II](town_Skibidi_City_II)
+<!--TOWNS-->- [Germany](town_Germany)
 - [Snezhpol](town_Snezhpol)<!--TOWNS-->
 
 ## Colonies
