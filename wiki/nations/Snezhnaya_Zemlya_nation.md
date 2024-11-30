@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Snezhpol](Snezhpol_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->8<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,485g<!--GDP-->
+- **GDP:** <!--GDP-->3,924g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Germany](town_Germany)
-- [Snezhpol](town_Snezhpol)<!--TOWNS-->
+<!--TOWNS-->- [Snezhpol](town_Snezhpol)<!--TOWNS-->
 
 ## Colonies
 
