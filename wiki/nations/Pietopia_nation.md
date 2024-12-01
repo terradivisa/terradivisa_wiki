@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[louhi](louhi_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->22<!--POPULATION-->
+- **Population:** <!--POPULATION-->16<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->15,251g<!--GDP-->
+- **GDP:** <!--GDP-->12,461g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,15 +28,14 @@
 
 <!--TOWNS-->- [Turkey](town_Turkey)
 - [Meria](town_Meria)
-- [shroomania](town_shroomania)
 - [Kygrhate](town_Kygrhate)
-- [louhi](town_louhi)
-- [Caribbean Territories](town_Caribbean_Territories)<!--TOWNS-->
+- [louhi](town_louhi)<!--TOWNS-->
 
 ## Colonies
 
 <!--COLONIES-->- [Pieville](town_Pieville)
 - [Quebec](town_Quebec)
-- [Boat](town_Boat)<!--COLONIES-->
+- [Boat](town_Boat)
+- [Shroomania Remains](town_Shroomania_Remains)<!--COLONIES-->
 
 ---

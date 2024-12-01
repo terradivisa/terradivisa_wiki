@@ -11,7 +11,7 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->November 13, 2024<!--FOUNDED-->
+- **Date Founded:** <!--FOUNDED-->December 01, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Supreme ACB10](ACB10_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->110g<!--GDP-->
+- **GDP:** <!--GDP-->194g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,7 +31,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Logaski](town_Logaski)
-- [Australian Militarybase 1](town_Australian_Militarybase_1)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
