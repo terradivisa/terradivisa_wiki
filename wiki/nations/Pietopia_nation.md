@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,278g<!--GDP-->
+- **GDP:** <!--GDP-->12,082g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,9 +35,9 @@
 
 <!--COLONIES-->- [Pieville](town_Pieville)
 - [Shroomania Remains](town_Shroomania_Remains)
+- [Mesopotamia Remains](town_Mesopotamia_Remains)
 - [Quebec](town_Quebec)
 - [Boat](town_Boat)
-- [Mesopotamia Remains](town_Mesopotamia_Remains)
 - [Angola Remains](town_Angola_Remains)<!--COLONIES-->
 
 ---

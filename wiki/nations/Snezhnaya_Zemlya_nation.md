@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,922g<!--GDP-->
+- **GDP:** <!--GDP-->11,134g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,9 @@
 ## Colonies
 
 <!--COLONIES-->- [Piasinagrad](town_Piasinagrad)
-- [Vorontsovo](town_Vorontsovo)<!--COLONIES-->
+- [Vorontsovo](town_Vorontsovo)
+- [Yeniseyvskiy](town_Yeniseyvskiy)
+- [Snezhnayan Australis](town_Snezhnayan_Australis)
+- [mine](town_mine)<!--COLONIES-->
 
 ---

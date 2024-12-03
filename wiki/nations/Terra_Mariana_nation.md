@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->26,285g<!--GDP-->
+- **GDP:** <!--GDP-->26,337g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -65,6 +65,7 @@
 - [Severny River](town_Severny_River)
 - [Trapezous Preserve](town_Trapezous_Preserve)
 - [Holy Pigism](town_Holy_Pigism)
+- [sigmastan](town_sigmastan)
 - [Imperial Research Centre](town_Imperial_Research_Centre)
 - [Far Eastern Krai](town_Far_Eastern_Krai)
 - [New Papaya](town_New_Papaya)<!--COLONIES-->
