@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,082g<!--GDP-->
+- **GDP:** <!--GDP-->10,301g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,6 +38,8 @@
 - [Mesopotamia Remains](town_Mesopotamia_Remains)
 - [Quebec](town_Quebec)
 - [Boat](town_Boat)
+- [Patatostan](town_Patatostan)
+- [Incidnia Pub](town_Incidnia_Pub)
 - [Angola Remains](town_Angola_Remains)<!--COLONIES-->
 
 ---
