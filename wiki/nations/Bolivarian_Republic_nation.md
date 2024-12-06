@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Venezuelan Territories](Venezuelan Territories_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->September 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count ExternalABX](ExternalABX_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ExternalABX](ExternalABX_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Fascist<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,304g<!--GDP-->
+- **GDP:** <!--GDP-->2,165g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [somalia](town_somalia)
-- [Venezuelan Territories](town_Venezuelan_Territories)<!--TOWNS-->
+<!--TOWNS-->- [Venezuelan Territories](town_Venezuelan_Territories)<!--TOWNS-->
 
 ## Colonies
 
