@@ -9,7 +9,6 @@
 * [Elsass-Bharat](Elsass-Bharat_nation)
 * [Evropa](Evropa_nation)
 * [Gran Colombia](Gran_Colombia_nation)
-* [Safavid](Safavid_nation)
 * [Ontario](Ontario_nation)
 * [Fiyamen Empire](Fiyamen_Empire_nation)
 * [The Holy Norse Empire](The_Holy_Norse_Empire_nation)
@@ -88,3 +87,4 @@
 * [Gartek](Gartek_nation)
 * [Earldom of Sparkalia](Earldom_of_Sparkalia_nation)
 * [Quitting till next szn](Quitting_till_next_szn_nation)
+* [Safavid](Safavid_nation)

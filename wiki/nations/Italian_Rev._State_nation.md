@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Rijeka](Rijeka_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->21<!--POPULATION-->
+- **Population:** <!--POPULATION-->22<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,077g<!--GDP-->
+- **GDP:** <!--GDP-->8,955g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [Rijeka](town_Rijeka)
-- [Quitting Till Nxt Szn](town_Quitting_Till_Nxt_Szn)<!--TOWNS-->
+- [Quitting Till Nxt Szn](town_Quitting_Till_Nxt_Szn)
+- [Malta](town_Malta)<!--TOWNS-->
 
 ## Colonies
 

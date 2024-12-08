@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->53,808g<!--GDP-->
+- **GDP:** <!--GDP-->50,016g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,6 +36,9 @@
 - [Conception Bay](town_Conception_Bay)
 - [Piehaven](town_Piehaven)
 - [True Alaska](town_True_Alaska)
-- [east arabia](town_east_arabia)<!--COLONIES-->
+- [east arabia](town_east_arabia)
+- [Mozambique](town_Mozambique)
+- [Gvineja](town_Gvineja)
+- [Northern California](town_Northern_California)<!--COLONIES-->
 
 ---
