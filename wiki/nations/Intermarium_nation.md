@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->62,126g<!--GDP-->
+- **GDP:** <!--GDP-->58,956g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,11 +30,11 @@
 - [perth](town_perth)
 - [Refugio de la Lluvia](town_Refugio_de_la_Lluvia)
 - [Pinneberg](town_Pinneberg)
-- [Lusaria](town_Lusaria)
 - [Polaris](town_Polaris)
 - [oloix](town_oloix)
 - [Macedonia](town_Macedonia)
 - [Kyiv](town_Kyiv)
+- [Lusaria](town_Lusaria)
 - [Pomerania](town_Pomerania)
 - [Pokaemia Archipelago](town_Pokaemia_Archipelago)
 - [Helsinki](town_Helsinki)

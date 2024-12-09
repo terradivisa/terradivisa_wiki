@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->50,016g<!--GDP-->
+- **GDP:** <!--GDP-->49,692g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,13 +32,15 @@
 ## Colonies
 
 <!--COLONIES-->- [Caketopia](town_Caketopia)
+- [Oklahoma](town_Oklahoma)
+- [Gvineja](town_Gvineja)
 - [Maranham](town_Maranham)
+- [GreenWatch](town_GreenWatch)
 - [Conception Bay](town_Conception_Bay)
 - [Piehaven](town_Piehaven)
 - [True Alaska](town_True_Alaska)
 - [east arabia](town_east_arabia)
-- [Mozambique](town_Mozambique)
-- [Gvineja](town_Gvineja)
-- [Northern California](town_Northern_California)<!--COLONIES-->
+- [Northern California](town_Northern_California)
+- [Mozambique](town_Mozambique)<!--COLONIES-->
 
 ---

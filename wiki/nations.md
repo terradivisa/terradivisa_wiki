@@ -1,6 +1,7 @@
 # Nations
 
 * [killas](killas_nation)
+* [Arctic wind](Arctic_wind_nation)
 * [Seraphia](Seraphia_nation)
 * [Pietopia](Pietopia_nation)
 * [Bolivarian Republic](Bolivarian_Republic_nation)
