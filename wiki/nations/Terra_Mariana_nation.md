@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[St. Espagrad](St. Espagrad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->53<!--POPULATION-->
+- **Population:** <!--POPULATION-->19<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->25,230g<!--GDP-->
+- **GDP:** <!--GDP-->14,965g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,8 +28,7 @@
 
 <!--TOWNS-->- [St. Espagrad](town_St._Espagrad)
 - [pogtopia](town_pogtopia)
-- [Murmansk](town_Murmansk)
-- [Severny](town_Severny)<!--TOWNS-->
+- [Murmansk](town_Murmansk)<!--TOWNS-->
 
 ## Colonies
 

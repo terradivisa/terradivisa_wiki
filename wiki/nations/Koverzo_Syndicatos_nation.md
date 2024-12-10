@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Bordeaux](Bordeaux_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->35<!--POPULATION-->
+- **Population:** <!--POPULATION-->43<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->40,325g<!--GDP-->
+- **GDP:** <!--GDP-->53,119g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [kharak](town_kharak)
-- [Bordeaux](town_Bordeaux)<!--TOWNS-->
+- [Bordeaux](town_Bordeaux)
+- [Cincinnati](town_Cincinnati)<!--TOWNS-->
 
 ## Colonies
 
