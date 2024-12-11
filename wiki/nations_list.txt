@@ -84,3 +84,4 @@
 [the-sahara-empire](the-sahara-empire_nation)
 [Safavid](Safavid_nation)
 [Arctic wind](Arctic_wind_nation)
+[Lusarian Empire](Lusarian_Empire_nation)
