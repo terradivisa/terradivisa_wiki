@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Taroudant](<none>_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Taroudant](db2599ad-48e2-4812-b68e-a243c67c4119_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 

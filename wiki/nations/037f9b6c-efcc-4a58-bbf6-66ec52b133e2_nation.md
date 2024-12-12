@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Lisbon](<none>_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Lisbon](a62a4ef1-51bd-407f-96fe-0e4bbe85a0fb_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 

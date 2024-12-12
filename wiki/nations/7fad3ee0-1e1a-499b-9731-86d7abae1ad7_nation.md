@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Chudjing](<none>_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Chudjing](bf9e953c-d824-4792-b9d9-8b0417cd27c9_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->79<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 

@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Ontario City](<none>_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Ontario City](64232e92-8387-4355-8356-de918b721762_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 

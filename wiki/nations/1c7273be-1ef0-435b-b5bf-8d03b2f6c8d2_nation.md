@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Seraphia](<none>_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Seraphia](0ade94ac-0aa0-4e87-ab94-149359cac7ce_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->37<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
