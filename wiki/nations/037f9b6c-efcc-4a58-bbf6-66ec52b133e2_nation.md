@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Lisbon](Lisbon_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Lisbon](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,10 +26,10 @@
 
 ## Towns
 
-<!--TOWNS-->- [Lisbon](town_Lisbon)<!--TOWNS-->
+<!--TOWNS-->- [Lisbon](a62a4ef1-51bd-407f-96fe-0e4bbe85a0fb_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [New Espagrad](town_New_Espagrad)<!--COLONIES-->
+<!--COLONIES-->- [New Espagrad](9e126ab6-b773-43b4-812a-7233b72a6be0_town)<!--COLONIES-->
 
 ---

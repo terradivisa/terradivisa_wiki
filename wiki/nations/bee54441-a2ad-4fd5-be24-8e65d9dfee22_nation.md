@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Fiyamen Island](Fiyamen Island_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Fiyamen Island](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,7 +26,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Fiyamen Island](town_Fiyamen_Island)<!--TOWNS-->
+<!--TOWNS-->- [Fiyamen Island](87597057-9d3e-4890-9396-4f1ce5c86d26_town)<!--TOWNS-->
 
 ## Colonies
 

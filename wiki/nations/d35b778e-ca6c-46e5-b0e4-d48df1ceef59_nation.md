@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Diyerbakir](Diyerbakir_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Diyerbakir](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,7 +26,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [Diyerbakir](town_Diyerbakir)<!--TOWNS-->
+<!--TOWNS-->- [Diyerbakir](3a6ef8b5-b06c-4b7f-8154-8923442dc3dd_town)<!--TOWNS-->
 
 ## Colonies
 

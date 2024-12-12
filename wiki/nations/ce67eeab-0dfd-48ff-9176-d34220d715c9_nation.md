@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Paris](Paris_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Paris](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->13<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,10 +26,10 @@
 
 ## Towns
 
-<!--TOWNS-->- [Paris](town_Paris)<!--TOWNS-->
+<!--TOWNS-->- [Paris](091daef6-3d17-41b4-b578-5a207c770a78_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Agartha](town_Agartha)<!--COLONIES-->
+<!--COLONIES-->- [Agartha](b61a7cce-1dbf-4036-b0cc-1f24e4097766_town)<!--COLONIES-->
 
 ---

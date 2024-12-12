@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Ontario City](Ontario City_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Ontario City](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,10 +26,10 @@
 
 ## Towns
 
-<!--TOWNS-->- [Ontario City](town_Ontario_City)<!--TOWNS-->
+<!--TOWNS-->- [Ontario City](64232e92-8387-4355-8356-de918b721762_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Superior](town_Superior)<!--COLONIES-->
+<!--COLONIES-->- [Superior](0c0bbb1f-cacf-45d7-938f-246813231b60_town)<!--COLONIES-->
 
 ---

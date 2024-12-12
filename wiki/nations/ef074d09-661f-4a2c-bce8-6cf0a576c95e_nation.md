@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[lietuva](lietuva_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[lietuva](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,7 +26,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [lietuva](town_lietuva)<!--TOWNS-->
+<!--TOWNS-->- [lietuva](0db3fefa-bad9-44a2-9cfe-e4595abe1df2_town)<!--TOWNS-->
 
 ## Colonies
 

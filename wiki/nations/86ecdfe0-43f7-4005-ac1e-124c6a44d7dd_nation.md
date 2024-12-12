@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[KRETE](KRETE_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[KRETE](<none>_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -26,7 +26,7 @@
 
 ## Towns
 
-<!--TOWNS-->- [KRETE](town_KRETE)<!--TOWNS-->
+<!--TOWNS-->- [KRETE](2a9cf813-c3a4-480c-b03a-cdebaa171626_town)<!--TOWNS-->
 
 ## Colonies
 
