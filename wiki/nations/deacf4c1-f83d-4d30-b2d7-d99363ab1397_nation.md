@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Kotte](b076237a-d0fc-4793-b9bd-48f89fcd5275_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->10<!--POPULATION-->
+- **Population:** <!--POPULATION-->13<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->364g<!--GDP-->
+- **GDP:** <!--GDP-->419g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Kotte](b076237a-d0fc-4793-b9bd-48f89fcd5275_town)<!--TOWNS-->
+<!--TOWNS-->- [Kotte](b076237a-d0fc-4793-b9bd-48f89fcd5275_town)
+- [Antitarctic](37f0c5f0-0e52-43f5-adb2-c8830a397955_town)<!--TOWNS-->
 
 ## Colonies
 
