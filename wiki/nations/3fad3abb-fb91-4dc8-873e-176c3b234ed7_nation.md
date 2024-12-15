@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader xXVemXx](xXVemXx_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor xXVemXx](xXVemXx_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->140g<!--GDP-->
+- **GDP:** <!--GDP-->269g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

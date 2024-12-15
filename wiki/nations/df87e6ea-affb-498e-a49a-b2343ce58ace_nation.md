@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->141g<!--GDP-->
+- **GDP:** <!--GDP-->207g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
