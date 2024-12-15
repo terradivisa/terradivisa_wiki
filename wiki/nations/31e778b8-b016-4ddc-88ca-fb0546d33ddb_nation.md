@@ -13,7 +13,7 @@
 
 - **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader MrGooglyButoks](MrGooglyButoks_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Council<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Capitalism<!--GOVERNMENT-->
 
 ---
 
