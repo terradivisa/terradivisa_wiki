@@ -43,6 +43,6 @@
 
 ## History
 
-* [# Mexican Empire](35195c4e-b246-4956-9474-3dae231c01ca_nation)
-* [# Delaware-Northampton](0ec96b43-9a5f-4eb9-b9f6-2799ec6dd878_nation)
-* [# Romania](028a4c90-530c-4cb0-8d3f-b762da14c9f2_nation)
+* [Mexican Empire](35195c4e-b246-4956-9474-3dae231c01ca_nation)
+* [Delaware-Northampton](0ec96b43-9a5f-4eb9-b9f6-2799ec6dd878_nation)
+* [Romania](028a4c90-530c-4cb0-8d3f-b762da14c9f2_nation)
