@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Southern Iberia<!--NAME-->
+# <!--NAME-->North Korea<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[South iberia](2f5ecf26-5781-4914-b5ad-7cbad1a23d48_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,22 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 15, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Mr_Anish](Mr_Anish_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader fawsz](fawsz_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->628g<!--GDP-->
+- **GDP:** <!--GDP-->832g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [south iberia2](cf8c0aa7-18e0-4cac-8492-4d0d930e0f69_town)
-- [South iberia](2f5ecf26-5781-4914-b5ad-7cbad1a23d48_town)<!--TOWNS-->
+<!--TOWNS-->- [Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)
+- [Indonesia](77a27562-a406-491d-866c-7db9afd6a95d_town)<!--TOWNS-->
 
 ## Colonies
 

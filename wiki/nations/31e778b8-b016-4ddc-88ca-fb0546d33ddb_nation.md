@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->6<!--POPULATION-->
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,080g<!--GDP-->
+- **GDP:** <!--GDP-->1,014g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,6 @@
 ## Towns
 
 <!--TOWNS-->- [IMRSE-NYC](9fa08764-b194-4e55-a84e-552ac2f7b67e_town)
-- [south iberia2](cf8c0aa7-18e0-4cac-8492-4d0d930e0f69_town)
 - [Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)<!--TOWNS-->
 
 ## Colonies

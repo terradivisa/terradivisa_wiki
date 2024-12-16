@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 15, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader RealVTB](RealVTB_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[ Freak RealVTB](RealVTB_user)<!--LEADER_TITLE_LINK-->
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->199g<!--GDP-->
+- **GDP:** <!--GDP-->529g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
