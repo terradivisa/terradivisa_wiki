@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Orleans](bd0d797c-516a-4f4d-84e0-b23bf40bf35e_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->10<!--POPULATION-->
+- **Population:** <!--POPULATION-->9<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,015g<!--GDP-->
+- **GDP:** <!--GDP-->802g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
