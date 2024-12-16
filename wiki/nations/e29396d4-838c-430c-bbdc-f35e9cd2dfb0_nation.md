@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->186g<!--GDP-->
+- **GDP:** <!--GDP-->202g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Medina](b4c6fc3d-1435-4307-a633-fd5b2721fee2_town)<!--COLONIES-->
 
 ---
