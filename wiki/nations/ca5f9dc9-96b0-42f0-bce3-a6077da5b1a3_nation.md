@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->537g<!--GDP-->
+- **GDP:** <!--GDP-->487g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [dakar](261a622b-ac3d-475f-a8d5-172cfad4f314_town)<!--COLONIES-->
 
 ---

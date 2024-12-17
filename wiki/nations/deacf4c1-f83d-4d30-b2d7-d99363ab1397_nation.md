@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Kotte](b076237a-d0fc-4793-b9bd-48f89fcd5275_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->14<!--POPULATION-->
+- **Population:** <!--POPULATION-->15<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->657g<!--GDP-->
+- **GDP:** <!--GDP-->737g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

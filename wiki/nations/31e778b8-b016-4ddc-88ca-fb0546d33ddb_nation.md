@@ -19,18 +19,20 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,176g<!--GDP-->
+- **GDP:** <!--GDP-->1,020g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [IMRSE-NYC](9fa08764-b194-4e55-a84e-552ac2f7b67e_town)
-- [Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)<!--TOWNS-->
+<!--TOWNS-->- [Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)
+- [Poland](f13e35eb-1aef-4091-9742-fe3466af10be_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Hawaii](d97f2e2e-7d63-448a-8755-12483a65176f_town)<!--COLONIES-->
+<!--COLONIES-->- [Hawaii](d97f2e2e-7d63-448a-8755-12483a65176f_town)
+- [Fiji](5c030868-6da4-4d18-a7b1-23238a75b80f_town)
+- [e](0cf5028c-1854-40ce-a2c0-3dc9faca2405_town)<!--COLONIES-->
 
 ---

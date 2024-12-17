@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->6<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->828g<!--GDP-->
+- **GDP:** <!--GDP-->1,561g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)
-- [Indonesia](77a27562-a406-491d-866c-7db9afd6a95d_town)<!--TOWNS-->
+<!--TOWNS-->- [Indonesia](77a27562-a406-491d-866c-7db9afd6a95d_town)
+- [Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--TOWNS-->
 
 ## Colonies
 
