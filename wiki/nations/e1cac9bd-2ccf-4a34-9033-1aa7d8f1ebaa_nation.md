@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->529g<!--GDP-->
+- **GDP:** <!--GDP-->512g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,7 +32,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Sao Joao](a4b9ed8e-c1eb-41d6-b612-dcdc7eb45067_town)
-- [Panama Canal](c55bc0a5-acf9-42cc-86a6-4a3775fc1ce0_town)<!--COLONIES-->
+<!--COLONIES-->- [Panama Canal](c55bc0a5-acf9-42cc-86a6-4a3775fc1ce0_town)
+- [Sao Joao](a4b9ed8e-c1eb-41d6-b612-dcdc7eb45067_town)<!--COLONIES-->
 
 ---
