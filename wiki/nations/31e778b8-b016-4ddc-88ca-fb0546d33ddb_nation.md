@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,153g<!--GDP-->
+- **GDP:** <!--GDP-->1,074g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,9 +31,9 @@
 
 ## Colonies
 
-<!--COLONIES-->- [e](0cf5028c-1854-40ce-a2c0-3dc9faca2405_town)
+<!--COLONIES-->- [Peloponnese](b8eccc26-9676-415a-951f-13c7f7fb921a_town)
+- [e](0cf5028c-1854-40ce-a2c0-3dc9faca2405_town)
 - [Fiji](5c030868-6da4-4d18-a7b1-23238a75b80f_town)
-- [Hawaii](d97f2e2e-7d63-448a-8755-12483a65176f_town)
-- [Peloponnese](b8eccc26-9676-415a-951f-13c7f7fb921a_town)<!--COLONIES-->
+- [Hawaii](d97f2e2e-7d63-448a-8755-12483a65176f_town)<!--COLONIES-->
 
 ---

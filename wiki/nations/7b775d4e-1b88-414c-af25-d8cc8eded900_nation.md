@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Himalayan Federation<!--NAME-->
+# <!--NAME-->Palestinian Empire<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Kashmir](7656aa8d-6416-46cc-839d-daab50bae973_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Fort ZIEQSTAN](b0e62d5d-7280-4b39-9257-d5d440470510_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->December 16, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader FunniFridayMan](FunniFridayMan_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->December 19, 2024<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Betreq6911](Betreq6911_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->345g<!--GDP-->
+- **GDP:** <!--GDP-->76g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Kashmir](7656aa8d-6416-46cc-839d-daab50bae973_town)<!--TOWNS-->
+<!--TOWNS-->- [Fort ZIEQSTAN](b0e62d5d-7280-4b39-9257-d5d440470510_town)<!--TOWNS-->
 
 ## Colonies
 
