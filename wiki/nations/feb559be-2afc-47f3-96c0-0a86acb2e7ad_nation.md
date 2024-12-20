@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Orleans](bd0d797c-516a-4f4d-84e0-b23bf40bf35e_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->12<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,746g<!--GDP-->
+- **GDP:** <!--GDP-->1,414g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,8 +30,7 @@
 - [Ottumwa](56161ab2-b40d-4d66-bdd6-b395673852e7_town)
 - [Haida Gwaii](ccf55b8d-90bf-4569-8c04-73cb8ce5c491_town)
 - [Kansas City](744ddfb6-6d97-41bb-a0d0-f9f49b1dbfbb_town)
-- [Breslau](c33de00e-fb33-44de-8d53-1059d17eb2bf_town)
-- [Bismarck](37be24d0-e3ab-4c7f-8d78-09f48d133ede_town)<!--TOWNS-->
+- [Breslau](c33de00e-fb33-44de-8d53-1059d17eb2bf_town)<!--TOWNS-->
 
 ## Colonies
 

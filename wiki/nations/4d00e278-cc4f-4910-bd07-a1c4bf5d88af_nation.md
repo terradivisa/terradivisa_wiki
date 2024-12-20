@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Idrisid dynasty<!--NAME-->
+# <!--NAME-->Republic of Korea<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Jeju Island](e9dd4fc5-ff49-4ced-b014-5c30c29089d1_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader mrcreeperxddddxd](mrcreeperxddddxd_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->December 20, 2024<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[President AirbusA339](AirbusA339_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->554g<!--GDP-->
+- **GDP:** <!--GDP-->33g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)<!--TOWNS-->
+<!--TOWNS-->- [Jeju Island](e9dd4fc5-ff49-4ced-b014-5c30c29089d1_town)<!--TOWNS-->
 
 ## Colonies
 

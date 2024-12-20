@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,074g<!--GDP-->
+- **GDP:** <!--GDP-->941g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Poland](f13e35eb-1aef-4091-9742-fe3466af10be_town)
-- [Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)<!--TOWNS-->
+<!--TOWNS-->- [Capital City](1c1497d3-4b05-4e10-9be5-2e4b307772ac_town)<!--TOWNS-->
 
 ## Colonies
 

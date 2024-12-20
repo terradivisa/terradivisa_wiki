@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->15<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->696g<!--GDP-->
+- **GDP:** <!--GDP-->905g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,7 +29,8 @@
 <!--TOWNS-->- [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Assyria-Sicilia](ded573de-c4fe-4978-8348-46c692f91f9d_town)
-- [Antioch](5fe11f8b-31dd-40a0-97f4-9ae78a5c1ccf_town)<!--TOWNS-->
+- [Antioch](5fe11f8b-31dd-40a0-97f4-9ae78a5c1ccf_town)
+- [TRAPEZOUNTA](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)<!--TOWNS-->
 
 ## Colonies
 
