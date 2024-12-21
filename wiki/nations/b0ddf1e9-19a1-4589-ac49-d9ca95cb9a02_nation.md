@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[P1 Industries](8d7135e4-f792-44d8-ae5b-86c1606a532b_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->321g<!--GDP-->
+- **GDP:** <!--GDP-->327g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -19,16 +19,16 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->366g<!--GDP-->
+- **GDP:** <!--GDP-->308g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Rio De Janeiro[RJ]](effd2e8a-f405-4ec3-8da3-1b226063d90d_town)
-- [Bahia[BA]](3f5b109e-205a-416a-9743-20f5a53ac4e9_town)
-- [Brasilia [DF]](7d00bd81-085a-433a-8fb4-e309f21074eb_town)<!--TOWNS-->
+<!--TOWNS-->- [Bahia[BA]](3f5b109e-205a-416a-9743-20f5a53ac4e9_town)
+- [Brasilia [DF]](7d00bd81-085a-433a-8fb4-e309f21074eb_town)
+- [Rio De Janeiro[RJ]](effd2e8a-f405-4ec3-8da3-1b226063d90d_town)<!--TOWNS-->
 
 ## Colonies
 

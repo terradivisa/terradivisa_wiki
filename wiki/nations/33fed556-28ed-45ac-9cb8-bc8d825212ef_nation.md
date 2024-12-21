@@ -13,21 +13,21 @@
 
 - **Date Founded:** <!--FOUNDED-->December 16, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[King AidenAnimates](AidenAnimates_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,855g<!--GDP-->
+- **GDP:** <!--GDP-->343g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)
-- [Edinburgh](7bea6c1a-fcc7-4e6b-9287-cc147cb3dc02_town)<!--TOWNS-->
+<!--TOWNS-->- [Edinburgh](7bea6c1a-fcc7-4e6b-9287-cc147cb3dc02_town)
+- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)<!--TOWNS-->
 
 ## Colonies
 
