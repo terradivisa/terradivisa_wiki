@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->15<!--POPULATION-->
+- **Population:** <!--POPULATION-->17<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,167g<!--GDP-->
+- **GDP:** <!--GDP-->6,112g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,6 +34,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [sandland](e6785dc2-b791-4021-90ed-e5d1dfca0bc1_town)<!--COLONIES-->
+<!--COLONIES-->- [sandland](e6785dc2-b791-4021-90ed-e5d1dfca0bc1_town)
+- [secretspot](656ab76b-f0f5-4ac5-af20-988d837f977b_town)<!--COLONIES-->
 
 ---

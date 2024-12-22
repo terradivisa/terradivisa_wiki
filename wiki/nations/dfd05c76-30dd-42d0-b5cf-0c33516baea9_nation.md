@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->10<!--POPULATION-->
+- **Population:** <!--POPULATION-->13<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,233g<!--GDP-->
+- **GDP:** <!--GDP-->2,443g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,7 +29,8 @@
 <!--TOWNS-->- [Novarussia](3ee1d217-1276-4489-9cc1-4accf64ca9b0_town)
 - [japanese](8f41e5c2-8644-466f-8176-7170bbda0979_town)
 - [Indonesia](77a27562-a406-491d-866c-7db9afd6a95d_town)
-- [Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--TOWNS-->
+- [Pyongyang](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)
+- [Jinzhou](8052953a-0a29-4f42-9922-4baad5bef808_town)<!--TOWNS-->
 
 ## Colonies
 
