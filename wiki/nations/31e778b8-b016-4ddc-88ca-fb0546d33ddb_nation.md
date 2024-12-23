@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Empire of New Aquaris<!--NAME-->
+# <!--NAME-->East Pacific Federation<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->893g<!--GDP-->
+- **GDP:** <!--GDP-->633g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

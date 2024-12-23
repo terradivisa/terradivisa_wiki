@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->15<!--POPULATION-->
+- **Population:** <!--POPULATION-->18<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,243g<!--GDP-->
+- **GDP:** <!--GDP-->1,632g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,10 +30,11 @@
 - [Aarhus](9c051100-49f0-402f-82ab-63658349bdd7_town)
 - [Stockholm](46f6dea3-e312-4d12-af1f-9980570ec7d5_town)
 - [Copenhagen](2891c2d4-fa5d-475e-a355-ec28ee37f0ea_town)
-- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
+- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)
+- [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [North Iran CO](8e6fb84c-e6c0-4fd0-b7bc-1e06a310f8de_town)<!--COLONIES-->
 
 ---
