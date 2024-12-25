@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Frankfurt](4766fd78-a272-4c85-81cd-563dbb491978_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->11<!--POPULATION-->
+- **Population:** <!--POPULATION-->12<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,537g<!--GDP-->
+- **GDP:** <!--GDP-->1,673g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

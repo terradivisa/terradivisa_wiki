@@ -19,18 +19,18 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,553g<!--GDP-->
+- **GDP:** <!--GDP-->3,322g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Trapezounta](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
-- [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
+<!--TOWNS-->- [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
-- [Assyria-Sicilia](ded573de-c4fe-4978-8348-46c692f91f9d_town)
-- [Northern Republic](acaf8a41-dcbe-4ceb-b15b-881ba6cb0f96_town)<!--TOWNS-->
+- [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
+- [Northern Republic](acaf8a41-dcbe-4ceb-b15b-881ba6cb0f96_town)
+- [Assyria-Sicilia](ded573de-c4fe-4978-8348-46c692f91f9d_town)<!--TOWNS-->
 
 ## Colonies
 
