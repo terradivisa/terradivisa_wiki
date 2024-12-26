@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->19<!--POPULATION-->
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,322g<!--GDP-->
+- **GDP:** <!--GDP-->2,709g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

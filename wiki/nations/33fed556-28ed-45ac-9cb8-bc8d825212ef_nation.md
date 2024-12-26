@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Great Kingdom of Alba<!--NAME-->
+# <!--NAME-->Celtic Federation<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->967g<!--GDP-->
+- **GDP:** <!--GDP-->4,932g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
