@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[P1 Industries](8d7135e4-f792-44d8-ae5b-86c1606a532b_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->26,716g<!--GDP-->
+- **GDP:** <!--GDP-->28,696g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Fibonocci Seige Base](0f039777-9006-4095-a2ec-be98293937c4_town)<!--COLONIES-->
+<!--COLONIES-->- [Fibonocci Seige Base](0f039777-9006-4095-a2ec-be98293937c4_town)
+- [garabogazkol](9c07ebfe-5973-4a27-ada6-ab91372e0270_town)
+- [Makat](da76038a-fba7-402b-a5ce-3c2418d5a227_town)<!--COLONIES-->
 
 ---
