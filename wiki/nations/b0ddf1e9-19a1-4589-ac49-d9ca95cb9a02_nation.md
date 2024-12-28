@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->28,696g<!--GDP-->
+- **GDP:** <!--GDP-->49,938g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [P1 Industries](8d7135e4-f792-44d8-ae5b-86c1606a532b_town)
-- [Kowloon](19494718-3fbf-4834-ad2d-046cc083006e_town)
+- [Hong Kong](19494718-3fbf-4834-ad2d-046cc083006e_town)
 - [P2 Industries](96e84b9c-5849-4cdc-b9e5-c21a845f74c7_town)<!--TOWNS-->
 
 ## Colonies

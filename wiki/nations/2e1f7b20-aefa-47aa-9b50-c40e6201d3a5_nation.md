@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Frankfurt](4766fd78-a272-4c85-81cd-563dbb491978_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->19<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,16 +19,17 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,868g<!--GDP-->
+- **GDP:** <!--GDP-->2,807g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Frankfurt](4766fd78-a272-4c85-81cd-563dbb491978_town)
+<!--TOWNS-->- [Hannover](041312f4-6cd2-4c08-8a6c-8b26a351fa7e_town)
+- [Frankfurt](4766fd78-a272-4c85-81cd-563dbb491978_town)
 - [Munchen](3b342af8-274c-4292-abb0-1c138e6ce754_town)
-- [Hannover](041312f4-6cd2-4c08-8a6c-8b26a351fa7e_town)<!--TOWNS-->
+- [dirt empire](720b2104-9baf-4931-9c18-c908b0d8e6df_town)<!--TOWNS-->
 
 ## Colonies
 

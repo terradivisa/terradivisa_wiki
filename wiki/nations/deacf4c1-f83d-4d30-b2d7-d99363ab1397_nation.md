@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Kotte](b076237a-d0fc-4793-b9bd-48f89fcd5275_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->16<!--POPULATION-->
+- **Population:** <!--POPULATION-->17<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,783g<!--GDP-->
+- **GDP:** <!--GDP-->2,942g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,7 +28,8 @@
 
 <!--TOWNS-->- [Kotte](b076237a-d0fc-4793-b9bd-48f89fcd5275_town)
 - [Antitarctic](37f0c5f0-0e52-43f5-adb2-c8830a397955_town)
-- [Medan](9e396db2-8e8a-4843-a9c1-0b90891f6392_town)<!--TOWNS-->
+- [Medan](9e396db2-8e8a-4843-a9c1-0b90891f6392_town)
+- [Quirmingham Islands](34412d5e-bb2e-4f24-b912-423ee9fe9553_town)<!--TOWNS-->
 
 ## Colonies
 
