@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->The Greater SouthEast<!--NAME-->
+# <!--NAME-->dirt cartel<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Dominion of Manila](1af66cf6-e3eb-4433-975f-9f92c99b3e0f_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[dirt empire](720b2104-9baf-4931-9c18-c908b0d8e6df_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,23 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->December 20, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Sundurr](Sundurr_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->December 29, 2024<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader dogemaster664](dogemaster664_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,885g<!--GDP-->
+- **GDP:** <!--GDP-->8,132g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Dominion of Manila](1af66cf6-e3eb-4433-975f-9f92c99b3e0f_town)
-- [Yakrt](1a134956-e02e-4617-8ce6-3f0432410ece_town)<!--TOWNS-->
+<!--TOWNS-->- [dirt empire](720b2104-9baf-4931-9c18-c908b0d8e6df_town)<!--TOWNS-->
 
 ## Colonies
 

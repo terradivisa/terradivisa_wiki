@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Republic of Japan<!--NAME-->
+# <!--NAME-->Terraforge<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Osaka](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Terraforge](940ed31a-d7d3-4432-a5af-0308ab7bd0ea_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -12,22 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 28, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader fawsz](fawsz_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader DominicVbest](DominicVbest_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,158g<!--GDP-->
+- **GDP:** <!--GDP-->497g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [japanese](8f41e5c2-8644-466f-8176-7170bbda0979_town)
-- [Osaka](03d5d6da-a990-48c4-9cd0-4a063da0852c_town)<!--TOWNS-->
+<!--TOWNS-->- [Terraforge](940ed31a-d7d3-4432-a5af-0308ab7bd0ea_town)<!--TOWNS-->
 
 ## Colonies
 

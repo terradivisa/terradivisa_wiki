@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Hokkaido](006945ae-d335-4ec1-a8e6-d973e83ebb6f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->23<!--POPULATION-->
+- **Population:** <!--POPULATION-->24<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,934g<!--GDP-->
+- **GDP:** <!--GDP-->3,087g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
