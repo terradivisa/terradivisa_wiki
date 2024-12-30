@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Hokkaido](006945ae-d335-4ec1-a8e6-d973e83ebb6f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->24<!--POPULATION-->
+- **Population:** <!--POPULATION-->27<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,087g<!--GDP-->
+- **GDP:** <!--GDP-->4,112g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,7 +32,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Tokyo](bab2f5d6-7d13-4a70-bd9c-aab7a7bcd87d_town)
-- [Ryukyu](50136b06-83d6-4b7a-8b57-72384d637572_town)<!--COLONIES-->
+<!--COLONIES-->- [Ryukyu](50136b06-83d6-4b7a-8b57-72384d637572_town)<!--COLONIES-->
 
 ---

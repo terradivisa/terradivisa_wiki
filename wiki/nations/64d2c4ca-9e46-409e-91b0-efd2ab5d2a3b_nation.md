@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->650g<!--GDP-->
+- **GDP:** <!--GDP-->720g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Guadalajara](03f3edf5-093c-4be7-a324-5e4b7c144157_town)<!--COLONIES-->
+<!--COLONIES-->- [Texarkana](dcd3e9c9-9d88-4d6b-90d4-935d270f0388_town)
+- [Guadalajara](03f3edf5-093c-4be7-a324-5e4b7c144157_town)<!--COLONIES-->
 
 ---
