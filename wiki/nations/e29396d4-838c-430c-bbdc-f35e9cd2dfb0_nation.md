@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->915g<!--GDP-->
+- **GDP:** <!--GDP-->878g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,8 +28,7 @@
 
 <!--TOWNS-->- [Al Hofuf](34f17c64-4ce5-4a2e-b61a-13912af1c3cf_town)
 - [Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)
-- [Kasserine](1e41c6d3-a1d9-40a0-844f-cea39a45e9e4_town)
-- [Dammam](bfdd315b-76cf-43b5-b4a2-2dced3dc0849_town)<!--TOWNS-->
+- [Kasserine](1e41c6d3-a1d9-40a0-844f-cea39a45e9e4_town)<!--TOWNS-->
 
 ## Colonies
 

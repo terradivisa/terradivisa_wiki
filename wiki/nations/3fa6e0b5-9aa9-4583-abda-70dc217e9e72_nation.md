@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->28<!--POPULATION-->
+- **Population:** <!--POPULATION-->29<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,23 +19,22 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,505g<!--GDP-->
+- **GDP:** <!--GDP-->6,471g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Agadir](0788d03f-e2e3-4706-bfde-28ad4d25e4a4_town)
+<!--TOWNS-->- [GrassAvoidersInc.](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)
+- [Agadir](0788d03f-e2e3-4706-bfde-28ad4d25e4a4_town)
 - [Sol Orientis Regnum](4b634be2-ec0a-410a-a8f4-84c55974c37c_town)
-- [Chamonix](0674469b-76f6-48ec-b340-38521243c241_town)
 - [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
 - [Northern Republic](acaf8a41-dcbe-4ceb-b15b-881ba6cb0f96_town)
 - [Assyria-Sicilia](ded573de-c4fe-4978-8348-46c692f91f9d_town)
-- [gaza](320c4fa9-2b0d-474c-b536-436ffc425259_town)
-- [Sidra](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)<!--TOWNS-->
+- [gaza](320c4fa9-2b0d-474c-b536-436ffc425259_town)<!--TOWNS-->
 
 ## Colonies
 
