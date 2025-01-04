@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->33<!--POPULATION-->
+- **Population:** <!--POPULATION-->43<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,16 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->14,595g<!--GDP-->
+- **GDP:** <!--GDP-->16,467g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [GrassAvoidersInc.](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)
+<!--TOWNS-->- [Monaco](05e533f0-0c80-4a3e-a345-abda414d2460_town)
+- [Sardinia](0feac575-2cf4-4628-9f20-1f1d0874a906_town)
+- [GrassAvoidersInc.](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)
 - [Sol Orientis Regnum](4b634be2-ec0a-410a-a8f4-84c55974c37c_town)
 - [Atlasic Kingdom](0788d03f-e2e3-4706-bfde-28ad4d25e4a4_town)
 - [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
@@ -34,7 +36,8 @@
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
 - [Northern Republic](acaf8a41-dcbe-4ceb-b15b-881ba6cb0f96_town)
 - [Assyria-Sicilia](ded573de-c4fe-4978-8348-46c692f91f9d_town)
-- [Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)<!--TOWNS-->
+- [Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
+- [Dalmatia](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)<!--TOWNS-->
 
 ## Colonies
 

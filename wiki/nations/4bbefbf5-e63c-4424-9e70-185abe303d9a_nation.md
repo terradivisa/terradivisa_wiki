@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->64<!--POPULATION-->
+- **Population:** <!--POPULATION-->67<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,241g<!--GDP-->
+- **GDP:** <!--GDP-->10,291g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,6 +34,7 @@
 - [Torun](9413ba04-c7d5-4edb-b351-7d3911763567_town)
 - [Denmark](4694ac0b-c1e8-48cf-86e2-b58d7980e39a_town)
 - [Saint Petersburg](7a747631-c420-4fd7-8c36-3c667a07d672_town)
+- [Kocikowa](04ed3417-66ed-4a7f-81b3-ddce6e1f5153_town)
 - [Stockholm](39ff7fee-8830-43db-84d8-b7130c5d5cf3_town)
 - [smaland](fe38d5ee-c580-434f-b777-0d1b45e8f050_town)
 - [Lithuania](e5bca026-4c5f-47de-9e2c-e22e6a405a87_town)
@@ -44,7 +45,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [North Iran CO](8e6fb84c-e6c0-4fd0-b7bc-1e06a310f8de_town)
+<!--COLONIES-->- [Polish Trading Co](4b6b9092-52be-4cf3-932e-87eb2f5aa902_town)
+- [North Iran CO](8e6fb84c-e6c0-4fd0-b7bc-1e06a310f8de_town)
 - [Camp Belorelitamak](bb2ede42-e368-4a2e-a0f3-03cfcd4a5522_town)<!--COLONIES-->
 
 ---

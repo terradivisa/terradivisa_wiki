@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->January 03, 2025<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader BluesMoon](BluesMoon_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->127g<!--GDP-->
+- **GDP:** <!--GDP-->271g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
