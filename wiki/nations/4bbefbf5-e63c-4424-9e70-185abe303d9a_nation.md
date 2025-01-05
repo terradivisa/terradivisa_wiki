@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->67<!--POPULATION-->
+- **Population:** <!--POPULATION-->76<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,291g<!--GDP-->
+- **GDP:** <!--GDP-->11,915g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
