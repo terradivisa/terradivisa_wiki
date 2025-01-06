@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Frankfurt](4766fd78-a272-4c85-81cd-563dbb491978_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->31<!--POPULATION-->
+- **Population:** <!--POPULATION-->32<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,563g<!--GDP-->
+- **GDP:** <!--GDP-->9,659g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,7 +33,8 @@
 - [Kwidzyn](fba54e98-216a-4fba-8460-fb158cc7afea_town)
 - [Frankfurt](4766fd78-a272-4c85-81cd-563dbb491978_town)
 - [Munchen](3b342af8-274c-4292-abb0-1c138e6ce754_town)
-- [Temuco](e9dd4fc5-ff49-4ced-b014-5c30c29089d1_town)<!--TOWNS-->
+- [Temuco](e9dd4fc5-ff49-4ced-b014-5c30c29089d1_town)
+- [Warsaw](f13e35eb-1aef-4091-9742-fe3466af10be_town)<!--TOWNS-->
 
 ## Colonies
 
