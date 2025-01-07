@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->dirt cartel<!--NAME-->
+# <!--NAME-->Scotland<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[dirt empire](720b2104-9baf-4931-9c18-c908b0d8e6df_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Iverness](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->December 29, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader dogemaster664](dogemaster664_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->January 07, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader FloridaManfr](FloridaManfr_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,871g<!--GDP-->
+- **GDP:** <!--GDP-->1,395g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [dirt empire](720b2104-9baf-4931-9c18-c908b0d8e6df_town)<!--TOWNS-->
+<!--TOWNS-->- [Iverness](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
 
 ## Colonies
 

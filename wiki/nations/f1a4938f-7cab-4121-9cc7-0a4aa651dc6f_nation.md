@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->marleyian empire<!--NAME-->
+# <!--NAME-->Russia<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[marley](4815c385-f78f-49a3-b3c7-927a7038cf74_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Siberia](3d4ad836-a133-4cc9-9794-fac1119854ef_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->December 15, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader AmazingKJH](AmazingKJH_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->January 07, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader imnice123423l](imnice123423l_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,599g<!--GDP-->
+- **GDP:** <!--GDP-->1,749g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [marley](4815c385-f78f-49a3-b3c7-927a7038cf74_town)<!--TOWNS-->
+<!--TOWNS-->- [Siberia](3d4ad836-a133-4cc9-9794-fac1119854ef_town)<!--TOWNS-->
 
 ## Colonies
 
