@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->53<!--POPULATION-->
+- **Population:** <!--POPULATION-->55<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,602g<!--GDP-->
+- **GDP:** <!--GDP-->9,423g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,8 +31,10 @@
 - [gooberville](d92e7ed1-38ac-4abb-908e-177914e61a5d_town)
 - [Al Hofuf](34f17c64-4ce5-4a2e-b61a-13912af1c3cf_town)
 - [Lumarty](c22491aa-bf5c-4598-94ff-8e8104c0c342_town)
+- [crimea](c8ce207e-7e39-4849-829d-69e67c656a3f_town)
 - [Droughtbowl](6b310705-76e6-4489-8163-6f7a7509be00_town)
 - [Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)
+- [Rostov](a8580ec8-feb2-415b-99e7-6463f9cdad03_town)
 - [Mazandaran](5d0b47a7-e2aa-46f5-ac45-19f4e3fa6c8e_town)
 - [Slovakia](0285a3b4-e5c0-450a-ad3e-c1a8b041a9b6_town)
 - [New Jeddah](6c1084e4-8ecc-45fd-9201-ca4af595f994_town)<!--TOWNS-->

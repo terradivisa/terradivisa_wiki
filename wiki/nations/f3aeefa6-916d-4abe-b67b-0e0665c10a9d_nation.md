@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Kentucky<!--NAME-->
+# <!--NAME-->Baltic Union<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Sumner](da44af4b-9f89-4ab6-b107-6715c1738532_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Tallinn](d2559d1e-81c8-4e3b-8f7e-f3f009879671_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->December 30, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader FFJerry23](FFJerry23_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->January 08, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader AidenAnimates](AidenAnimates_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->34g<!--GDP-->
+- **GDP:** <!--GDP-->6,362g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sumner](da44af4b-9f89-4ab6-b107-6715c1738532_town)<!--TOWNS-->
+<!--TOWNS-->- [Tallinn](d2559d1e-81c8-4e3b-8f7e-f3f009879671_town)<!--TOWNS-->
 
 ## Colonies
 
