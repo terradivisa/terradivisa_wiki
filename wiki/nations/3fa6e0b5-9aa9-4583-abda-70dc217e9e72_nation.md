@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->19,059g<!--GDP-->
+- **GDP:** <!--GDP-->20,476g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -39,8 +39,7 @@
 - [Northern Republic](acaf8a41-dcbe-4ceb-b15b-881ba6cb0f96_town)
 - [Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
 - [Piedmont](f3a83396-272d-49ce-b245-bb2a1ca1f9ff_town)
-- [Dalmatia](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)
-- [Occitania](d8bc44d8-b6b4-41d9-91a9-51ee67fe9278_town)<!--TOWNS-->
+- [Dalmatia](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)<!--TOWNS-->
 
 ## Colonies
 

@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Tasmania](77fd5384-ccdb-4fe2-a3b0-04f462baca1d_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->173g<!--GDP-->
+- **GDP:** <!--GDP-->165g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Adelaide](bd6122be-6c87-4cd2-8d61-526a0d90107a_town)
-- [Tasmania](77fd5384-ccdb-4fe2-a3b0-04f462baca1d_town)<!--TOWNS-->
+<!--TOWNS-->- [Tasmania](77fd5384-ccdb-4fe2-a3b0-04f462baca1d_town)<!--TOWNS-->
 
 ## Colonies
 
