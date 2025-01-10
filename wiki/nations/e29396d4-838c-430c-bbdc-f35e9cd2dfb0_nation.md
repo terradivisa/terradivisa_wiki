@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->55<!--POPULATION-->
+- **Population:** <!--POPULATION-->47<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,597g<!--GDP-->
+- **GDP:** <!--GDP-->10,347g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,12 +36,12 @@
 - [Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)
 - [Rostov](a8580ec8-feb2-415b-99e7-6463f9cdad03_town)
 - [Mazandaran](5d0b47a7-e2aa-46f5-ac45-19f4e3fa6c8e_town)
-- [Slovakia](0285a3b4-e5c0-450a-ad3e-c1a8b041a9b6_town)
 - [New Jeddah](6c1084e4-8ecc-45fd-9201-ca4af595f994_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Kuwait](eb4e9317-89d5-4e5d-b98d-e0eea5d689d3_town)
+<!--COLONIES-->- [Makkah](c4d50395-4e76-4281-b6c2-54bc33bb44c9_town)
+- [Kuwait](eb4e9317-89d5-4e5d-b98d-e0eea5d689d3_town)
 - [Lake](bbf987dc-57c5-4a2b-a552-5b13c43ee223_town)<!--COLONIES-->
 
 ---
