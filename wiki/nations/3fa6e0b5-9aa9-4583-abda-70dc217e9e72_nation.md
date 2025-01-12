@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->59<!--POPULATION-->
+- **Population:** <!--POPULATION-->54<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->20,486g<!--GDP-->
+- **GDP:** <!--GDP-->18,391g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,6 +28,7 @@
 
 <!--TOWNS-->- [Islake](967bb88d-cdde-4c66-9da1-4465aea71d69_town)
 - [Monaco](05e533f0-0c80-4a3e-a345-abda414d2460_town)
+- [Ratica](929199a1-bf53-4bef-9524-0b5a33a070f7_town)
 - [Sardinia](0feac575-2cf4-4628-9f20-1f1d0874a906_town)
 - [GrassAvoidersInc.](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)
 - [Levant](320c4fa9-2b0d-474c-b536-436ffc425259_town)
@@ -37,15 +38,12 @@
 - [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
-- [Northern Republic](acaf8a41-dcbe-4ceb-b15b-881ba6cb0f96_town)
 - [Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
 - [Piedmont](f3a83396-272d-49ce-b245-bb2a1ca1f9ff_town)
-- [Dalmatia](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)
-- [Ratica](929199a1-bf53-4bef-9524-0b5a33a070f7_town)<!--TOWNS-->
+- [Dalmatia](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Austranalis](c679b910-7483-4575-8b62-c54e27571cca_town)
-- [temp](b9edf2ce-4dfb-4e4b-8961-543f0421bc1e_town)<!--COLONIES-->
+<!--COLONIES-->- [Austranalis](c679b910-7483-4575-8b62-c54e27571cca_town)<!--COLONIES-->
 
 ---

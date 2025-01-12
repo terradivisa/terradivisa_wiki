@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Szcity](fb48fc57-8f76-49dd-bb13-4d2f41d1d2dd_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->6<!--POPULATION-->
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->December 31, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader furkan1453bjk](furkan1453bjk_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->917g<!--GDP-->
+- **GDP:** <!--GDP-->1,943g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

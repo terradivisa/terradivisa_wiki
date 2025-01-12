@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->f<!--NAME-->
+# <!--NAME-->Napoleonic France<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[First French Empire](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->14<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Bourges](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->15<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,030g<!--GDP-->
+- **GDP:** <!--GDP-->1,670g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [First French Empire](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)
+<!--TOWNS-->- [Bourges](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)
 - [french africa](4a70934f-d341-45bb-81a7-94759d15dcef_town)<!--TOWNS-->
 
 ## Colonies

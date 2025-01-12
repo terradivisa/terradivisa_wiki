@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[St. Julian](f9c2a279-f2ed-41c2-8339-8675d9ccd979_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->10<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 07, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Grad13nt](Grad13nt_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Grad13nt](Grad13nt_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Theocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,657g<!--GDP-->
+- **GDP:** <!--GDP-->3,830g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
