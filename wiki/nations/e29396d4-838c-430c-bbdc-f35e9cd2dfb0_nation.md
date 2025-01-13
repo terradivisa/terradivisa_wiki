@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->50<!--POPULATION-->
+- **Population:** <!--POPULATION-->49<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,305g<!--GDP-->
+- **GDP:** <!--GDP-->10,447g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -40,10 +40,10 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Makkah](c4d50395-4e76-4281-b6c2-54bc33bb44c9_town)
+<!--COLONIES-->- [Bahrain](2834e778-1bd8-4060-a353-0f900193319c_town)
+- [Makkah](c4d50395-4e76-4281-b6c2-54bc33bb44c9_town)
 - [Kuwait](eb4e9317-89d5-4e5d-b98d-e0eea5d689d3_town)
 - [Lake](bbf987dc-57c5-4a2b-a552-5b13c43ee223_town)
-- [Qatar](0131d7a5-ff5a-41ae-96de-c859fdcaedad_town)
-- [Bahrain](2834e778-1bd8-4060-a353-0f900193319c_town)<!--COLONIES-->
+- [Qatar](0131d7a5-ff5a-41ae-96de-c859fdcaedad_town)<!--COLONIES-->
 
 ---
