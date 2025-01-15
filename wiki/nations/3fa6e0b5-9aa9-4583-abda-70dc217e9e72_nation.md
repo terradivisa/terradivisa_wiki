@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->55<!--POPULATION-->
+- **Population:** <!--POPULATION-->45<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,17 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->21,696g<!--GDP-->
+- **GDP:** <!--GDP-->20,718g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Islake](967bb88d-cdde-4c66-9da1-4465aea71d69_town)
-- [Monaco](05e533f0-0c80-4a3e-a345-abda414d2460_town)
+<!--TOWNS-->- [Monaco](05e533f0-0c80-4a3e-a345-abda414d2460_town)
 - [Ratica](929199a1-bf53-4bef-9524-0b5a33a070f7_town)
-- [Sardinia](0feac575-2cf4-4628-9f20-1f1d0874a906_town)
 - [GrassAvoidersInc.](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)
 - [Levant](320c4fa9-2b0d-474c-b536-436ffc425259_town)
 - [Quay of Liberation](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)
