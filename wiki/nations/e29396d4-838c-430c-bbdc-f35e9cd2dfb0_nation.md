@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->54<!--POPULATION-->
+- **Population:** <!--POPULATION-->55<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 15, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor RoseyFox](RoseyFox_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[God Emperor RoseyFox](RoseyFox_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Democracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,591g<!--GDP-->
+- **GDP:** <!--GDP-->13,392g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,6 +35,7 @@
 - [crimea](c8ce207e-7e39-4849-829d-69e67c656a3f_town)
 - [Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)
 - [Rostov](a8580ec8-feb2-415b-99e7-6463f9cdad03_town)
+- [mecca](4168e4dc-d025-41ce-8edc-827a655cf455_town)
 - [fortis](f7e6dd83-4060-41b9-a5a8-802da63dee6b_town)
 - [Mazandaran](5d0b47a7-e2aa-46f5-ac45-19f4e3fa6c8e_town)
 - [New Jeddah](6c1084e4-8ecc-45fd-9201-ca4af595f994_town)<!--TOWNS-->

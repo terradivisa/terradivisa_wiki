@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->45<!--POPULATION-->
+- **Population:** <!--POPULATION-->54<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,19 +19,20 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->20,718g<!--GDP-->
+- **GDP:** <!--GDP-->21,359g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Monaco](05e533f0-0c80-4a3e-a345-abda414d2460_town)
+<!--TOWNS-->- [Islake](967bb88d-cdde-4c66-9da1-4465aea71d69_town)
+- [Monaco](05e533f0-0c80-4a3e-a345-abda414d2460_town)
 - [Ratica](929199a1-bf53-4bef-9524-0b5a33a070f7_town)
 - [GrassAvoidersInc.](cfc436f4-d874-4bed-a6a5-bb3a6c017e75_town)
+- [Regnum Solis Orientis](4b634be2-ec0a-410a-a8f4-84c55974c37c_town)
 - [Levant](320c4fa9-2b0d-474c-b536-436ffc425259_town)
 - [Quay of Liberation](5b232dd9-b917-46e1-977e-1c31b4aebd24_town)
-- [Sol Orientis Regnum](4b634be2-ec0a-410a-a8f4-84c55974c37c_town)
 - [Atlasic Kingdom](0788d03f-e2e3-4706-bfde-28ad4d25e4a4_town)
 - [Amazigh](ded573de-c4fe-4978-8348-46c692f91f9d_town)
 - [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
@@ -42,6 +43,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Austranalis](c679b910-7483-4575-8b62-c54e27571cca_town)<!--COLONIES-->
+<!--COLONIES-->- [Austranalis](c679b910-7483-4575-8b62-c54e27571cca_town)
+- [Port Palairos](b17c5c63-6200-4943-9070-de6f8ee5f32c_town)<!--COLONIES-->
 
 ---

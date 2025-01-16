@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,812g<!--GDP-->
+- **GDP:** <!--GDP-->12,915g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,9 +36,9 @@
 - [Lithuania](e5bca026-4c5f-47de-9e2c-e22e6a405a87_town)
 - [Riga](6a5818b9-d22f-46ca-99ce-244f6616beb8_town)
 - [Aalborg](56ee8f8e-0d74-4cae-946f-e8c09af5e62a_town)
+- [poznan](ea3eb600-addf-411e-9a67-d8c00204d04f_town)
 - [Copenhagen](2891c2d4-fa5d-475e-a355-ec28ee37f0ea_town)
-- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)
-- [poznan](ea3eb600-addf-411e-9a67-d8c00204d04f_town)<!--TOWNS-->
+- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
 
 ## Colonies
 
