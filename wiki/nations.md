@@ -2,6 +2,7 @@
 
 * [GermanEmpire](1476633e-95ae-4cb9-bfc9-cb588a162981_nation)
 * [Terraforge_Kingdom](8b5746cf-af9e-47b3-9281-0ecd3a40c9eb_nation)
+* [Celtic_Union](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Upside_Down_Empire](f01ec4e2-c87e-455e-9713-a75415a4e2c2_nation)
 * [Southern_American_Union](5b9d8d5f-e699-456e-92f4-dbf7f98961f4_nation)
 * [Ottoman_Balkan](45108fcc-5d18-4fa0-ba19-955bced7d6d0_nation)
@@ -9,9 +10,8 @@
 * [Vinland](a1047646-8e5e-4866-bbb8-5e9e0fce94b4_nation)
 * [VOC](5587a354-7351-4503-93b0-44f20850d8bc_nation)
 * [Napoleonic_France](69b6f587-be12-46b0-854e-a09debbd5a05_nation)
-* [English_Confederation](94a9a67e-57ef-4477-b403-0cccfdc54284_nation)
-* [The_Eternal_Black_Flag](fe39ebf0-dc75-45c8-9ca8-fcbe46eb85d3_nation)
 * [Jenmark](d2d5cf42-9223-4121-a039-6edb7b09ee6a_nation)
+* [The_Eternal_Black_Flag](fe39ebf0-dc75-45c8-9ca8-fcbe46eb85d3_nation)
 * [True_Russian_Empire](b261cc3e-c746-4594-88a6-66cd9f4c2166_nation)
 * [Estonia](f3aeefa6-916d-4abe-b67b-0e0665c10a9d_nation)
 * [3rd_Kampuchean_Kingdom](bb626d7e-8837-41d2-ad54-3414a2aed843_nation)
@@ -31,6 +31,7 @@
 * [Saudaria](e29396d4-838c-430c-bbdc-f35e9cd2dfb0_nation)
 * [Himalayan_Federation](d28352fb-aa59-440a-8660-ebfed40454b1_nation)
 * [Aden](41104182-9892-4635-bb0d-3b298b653023_nation)
+* [British_Empire](94a9a67e-57ef-4477-b403-0cccfdc54284_nation)
 * [The_Greater_SouthEast](1f347426-ad10-4136-b3b9-1353ed8cd774_nation)
 * [Sierran_Company](6d9843a3-f913-42d9-9a6a-28c025b1ed4c_nation)
 * [Federation_of_Ukraine](3c40592e-be4c-4eb1-bc86-07991f9562ca_nation)
@@ -44,7 +45,6 @@
 * [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
 * [The_North_American_Union](30382310-1a52-496a-90f6-376783dfa0dc_nation)
 * [European_Confederation](4bbefbf5-e63c-4424-9e70-185abe303d9a_nation)
-* [Britannia](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Imperium_Romani](3fa6e0b5-9aa9-4583-abda-70dc217e9e72_nation)
 
 ## History

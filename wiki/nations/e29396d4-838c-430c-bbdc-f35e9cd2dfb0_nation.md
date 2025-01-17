@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->55<!--POPULATION-->
+- **Population:** <!--POPULATION-->57<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->13,392g<!--GDP-->
+- **GDP:** <!--GDP-->14,713g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,7 +38,8 @@
 - [mecca](4168e4dc-d025-41ce-8edc-827a655cf455_town)
 - [fortis](f7e6dd83-4060-41b9-a5a8-802da63dee6b_town)
 - [Mazandaran](5d0b47a7-e2aa-46f5-ac45-19f4e3fa6c8e_town)
-- [New Jeddah](6c1084e4-8ecc-45fd-9201-ca4af595f994_town)<!--TOWNS-->
+- [New Jeddah](6c1084e4-8ecc-45fd-9201-ca4af595f994_town)
+- [cadoborea](b35a3705-259c-4d01-af22-6623918769d5_town)<!--TOWNS-->
 
 ## Colonies
 
