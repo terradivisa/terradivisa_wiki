@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[St. Julian](f9c2a279-f2ed-41c2-8339-8675d9ccd979_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->14<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,830g<!--GDP-->
+- **GDP:** <!--GDP-->5,925g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

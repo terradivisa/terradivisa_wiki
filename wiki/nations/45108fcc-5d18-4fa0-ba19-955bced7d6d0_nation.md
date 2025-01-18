@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Szcity](fb48fc57-8f76-49dd-bb13-4d2f41d1d2dd_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->12<!--POPULATION-->
+- **Population:** <!--POPULATION-->17<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,169g<!--GDP-->
+- **GDP:** <!--GDP-->10,761g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Kwidzyn](fba54e98-216a-4fba-8460-fb158cc7afea_town)
+<!--TOWNS-->- [Arena](fdbc3de4-828e-4953-ac1b-6bba9a6cec08_town)
+- [Kwidzyn](fba54e98-216a-4fba-8460-fb158cc7afea_town)
 - [Szcity](fb48fc57-8f76-49dd-bb13-4d2f41d1d2dd_town)
 - [Munchen](3b342af8-274c-4292-abb0-1c138e6ce754_town)<!--TOWNS-->
 
