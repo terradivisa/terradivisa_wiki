@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Szcity](fb48fc57-8f76-49dd-bb13-4d2f41d1d2dd_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->17<!--POPULATION-->
+- **Population:** <!--POPULATION-->18<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,761g<!--GDP-->
+- **GDP:** <!--GDP-->10,758g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
