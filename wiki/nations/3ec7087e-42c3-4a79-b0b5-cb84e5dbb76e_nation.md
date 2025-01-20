@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Rhine Confederation<!--NAME-->
+# <!--NAME-->Floritania<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Upper Rhine](3e7dc33d-eeb8-49a9-832a-e17a08fd9754_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Brigantia](6e98a3a9-3aa9-4c6b-9cc4-8f9b57e56748_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 19, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Jake_A_Tron](Jake_A_Tron_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Fake4](Fake4_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->157g<!--GDP-->
+- **GDP:** <!--GDP-->384g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Upper Rhine](3e7dc33d-eeb8-49a9-832a-e17a08fd9754_town)<!--TOWNS-->
+<!--TOWNS-->- [Brigantia](6e98a3a9-3aa9-4c6b-9cc4-8f9b57e56748_town)<!--TOWNS-->
 
 ## Colonies
 

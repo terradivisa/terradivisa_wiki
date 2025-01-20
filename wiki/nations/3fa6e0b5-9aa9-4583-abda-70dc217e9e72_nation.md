@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,643g<!--GDP-->
+- **GDP:** <!--GDP-->18,297g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -39,7 +39,8 @@
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
 - [Morocco](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
-- [Piedmont](f3a83396-272d-49ce-b245-bb2a1ca1f9ff_town)<!--TOWNS-->
+- [Piedmont](f3a83396-272d-49ce-b245-bb2a1ca1f9ff_town)
+- [Carthage](5560697a-caad-4de9-b2dc-bcd923cfcc58_town)<!--TOWNS-->
 
 ## Colonies
 

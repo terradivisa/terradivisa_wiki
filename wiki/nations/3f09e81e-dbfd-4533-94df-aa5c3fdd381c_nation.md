@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Great Eire](5d697e83-38b0-4173-ab43-28d48f89965f_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->10<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -19,19 +19,19 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->14,632g<!--GDP-->
+- **GDP:** <!--GDP-->16,755g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Great Eire](5d697e83-38b0-4173-ab43-28d48f89965f_town)
-- [P1 Industries](8d7135e4-f792-44d8-ae5b-86c1606a532b_town)
-- [Great Scotland](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
+<!--TOWNS-->- [P1 Industries](8d7135e4-f792-44d8-ae5b-86c1606a532b_town)
+- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)
+- [New Edinburgh](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Soloman Islands](687e226c-eeda-41cd-92e0-d8905ad09650_town)<!--COLONIES-->
+<!--COLONIES-->- [Solomon Islands](687e226c-eeda-41cd-92e0-d8905ad09650_town)<!--COLONIES-->
 
 ---
