@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->94<!--POPULATION-->
+- **Population:** <!--POPULATION-->96<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->11,980g<!--GDP-->
+- **GDP:** <!--GDP-->12,389g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 - [Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)
 - [New Xedland](0b525b71-e7bd-470c-9c92-d56d38c2d0b1_town)
 - [Gavle](ebb8b036-9469-484c-9f17-340c9704cdfe_town)
+- [Fort ZIEQSTAN](b0e62d5d-7280-4b39-9257-d5d440470510_town)
 - [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)
 - [Denmark](4694ac0b-c1e8-48cf-86e2-b58d7980e39a_town)
 - [Saint Petersburg](7a747631-c420-4fd7-8c36-3c667a07d672_town)

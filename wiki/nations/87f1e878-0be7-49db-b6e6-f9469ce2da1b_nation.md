@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Australia<!--NAME-->
+# <!--NAME-->Aufayenia<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Tasmania](77fd5384-ccdb-4fe2-a3b0-04f462baca1d_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Fort Aufayen](6a20450c-ed94-45c4-8ecc-8f935277d7b3_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 01, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Sxntacrus](Sxntacrus_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->January 20, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Knight Feirforia](Feirforia_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->117g<!--GDP-->
+- **GDP:** <!--GDP-->21,994g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Tasmania](77fd5384-ccdb-4fe2-a3b0-04f462baca1d_town)<!--TOWNS-->
+<!--TOWNS-->- [Fort Aufayen](6a20450c-ed94-45c4-8ecc-8f935277d7b3_town)<!--TOWNS-->
 
 ## Colonies
 
