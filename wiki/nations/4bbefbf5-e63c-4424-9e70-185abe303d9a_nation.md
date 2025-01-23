@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->99<!--POPULATION-->
+- **Population:** <!--POPULATION-->100<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,952g<!--GDP-->
+- **GDP:** <!--GDP-->13,178g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,6 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Celveria](b91e3ff7-620c-42ff-94c3-7c37f2ab513e_town)
+- [Chios](3e679938-7da8-4f02-9e94-d2b753dd28db_town)
 - [Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)
 - [New Xedland](0b525b71-e7bd-470c-9c92-d56d38c2d0b1_town)
 - [Gavle](ebb8b036-9469-484c-9f17-340c9704cdfe_town)
@@ -39,8 +40,7 @@
 - [Riga](6a5818b9-d22f-46ca-99ce-244f6616beb8_town)
 - [poznan](ea3eb600-addf-411e-9a67-d8c00204d04f_town)
 - [Copenhagen](2891c2d4-fa5d-475e-a355-ec28ee37f0ea_town)
-- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)
-- [Chios](3e679938-7da8-4f02-9e94-d2b753dd28db_town)<!--TOWNS-->
+- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
 
 ## Colonies
 

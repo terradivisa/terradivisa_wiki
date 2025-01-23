@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,005g<!--GDP-->
+- **GDP:** <!--GDP-->17,734g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Solomon Islands](687e226c-eeda-41cd-92e0-d8905ad09650_town)<!--COLONIES-->
+<!--COLONIES-->- [Solomon Islands](687e226c-eeda-41cd-92e0-d8905ad09650_town)
+- [Fiji](99681985-dd14-4556-98cf-52273c922370_town)<!--COLONIES-->
 
 ---
