@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->23,159g<!--GDP-->
+- **GDP:** <!--GDP-->28,106g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
 
 ---
