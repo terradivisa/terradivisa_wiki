@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Qinghai](426e6c38-baa1-49c1-83c0-a71f95685ba5_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->6<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,572g<!--GDP-->
+- **GDP:** <!--GDP-->5,613g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

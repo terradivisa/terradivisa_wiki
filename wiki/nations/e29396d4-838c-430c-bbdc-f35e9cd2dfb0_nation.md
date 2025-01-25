@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->49<!--POPULATION-->
+- **Population:** <!--POPULATION-->50<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,538g<!--GDP-->
+- **GDP:** <!--GDP-->8,712g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,6 +29,7 @@
 <!--TOWNS-->- [Artaxata](1a41c5f1-8f95-4ff5-addf-c9d451d9f47f_town)
 - [Hungary](b92f2f01-5ca0-4a08-8907-1f024ff4266f_town)
 - [Hadal Research Base](48684084-3c4d-4ca9-8efc-27213ebf467b_town)
+- [Ghost Town](8c25ee4e-3ebe-4a9d-ae53-a5aa5eb0c245_town)
 - [crimea](c8ce207e-7e39-4849-829d-69e67c656a3f_town)
 - [Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)
 - [Mazandaran](5d0b47a7-e2aa-46f5-ac45-19f4e3fa6c8e_town)
