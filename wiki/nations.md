@@ -5,11 +5,11 @@
 * [Itarika](0e8580de-9ac9-4407-99e6-2887a624e5f2_nation)
 * [Jenmark](d2d5cf42-9223-4121-a039-6edb7b09ee6a_nation)
 * [Floritania](3ec7087e-42c3-4a79-b0b5-cb84e5dbb76e_nation)
-* [3rd_Kampuchean_Kingdom](bb626d7e-8837-41d2-ad54-3414a2aed843_nation)
 * [Estonia](f3aeefa6-916d-4abe-b67b-0e0665c10a9d_nation)
+* [3rd_Kampuchean_Kingdom](bb626d7e-8837-41d2-ad54-3414a2aed843_nation)
 * [Subantarctica](a9939d71-b49a-4b74-b329-7b73b6ba4b08_nation)
 * [Knights_of_Baldwin_IV](f028c128-7b01-46f0-ba14-3719ce590810_nation)
-* [Chinese_Syndicates_](5bad281a-ce69-4a22-bfaf-e357c545c7ed_nation)
+* [West_China](5bad281a-ce69-4a22-bfaf-e357c545c7ed_nation)
 * [Aufayenia](87f1e878-0be7-49db-b6e6-f9469ce2da1b_nation)
 * [Soviet_China](22a86536-eeb5-45e2-84b6-df87b9c31fdb_nation)
 * [Free_State_Of_Slovakia](53292fe1-5ab8-4f72-9af3-a22e23d36a34_nation)
@@ -49,7 +49,6 @@
 * [Quebec](a37747a2-7490-47cb-a9c9-8400d4ea8f37_nation)
 * [Consolidation](f12568e4-7702-4010-8089-37de47d112b9_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
-* [Provisional_Mexico](f8497ef0-9702-4c7f-b627-0922f94ba5ae_nation)
 * [NorwegianCoastalEmpire](d4229ade-29ab-4164-9d59-ed0a69cf8431_nation)
 
 ## History
@@ -140,3 +139,4 @@
 * [CSC](6d9843a3-f913-42d9-9a6a-28c025b1ed4c_nation)
 * [Rhine Confederation](1c564fac-cf58-4550-9568-77c40a92e525_nation)
 * [Regnum Nivis](be7c9142-a5d6-4c75-9fad-9f78acdb7b2e_nation)
+* [Provisional Mexico](f8497ef0-9702-4c7f-b627-0922f94ba5ae_nation)
