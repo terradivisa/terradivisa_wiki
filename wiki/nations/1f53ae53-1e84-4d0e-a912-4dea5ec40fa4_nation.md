@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,068g<!--GDP-->
+- **GDP:** <!--GDP-->1,102g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Camp Belorelitamak](bb2ede42-e368-4a2e-a0f3-03cfcd4a5522_town)<!--COLONIES-->
 
 ---

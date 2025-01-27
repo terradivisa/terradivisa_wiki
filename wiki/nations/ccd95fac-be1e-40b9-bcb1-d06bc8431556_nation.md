@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[St. Julian](f9c2a279-f2ed-41c2-8339-8675d9ccd979_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->19<!--POPULATION-->
+- **Population:** <!--POPULATION-->18<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->37,338g<!--GDP-->
+- **GDP:** <!--GDP-->38,456g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
+<!--COLONIES-->- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)
+- [Slovakian](1dc254d3-fe96-43be-8a1e-217331816d6e_town)<!--COLONIES-->
 
 ---
