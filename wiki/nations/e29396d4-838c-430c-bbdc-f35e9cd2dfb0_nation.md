@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->50<!--POPULATION-->
+- **Population:** <!--POPULATION-->53<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,085g<!--GDP-->
+- **GDP:** <!--GDP-->9,554g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,7 @@
 - [Ghost Town](8c25ee4e-3ebe-4a9d-ae53-a5aa5eb0c245_town)
 - [crimea](c8ce207e-7e39-4849-829d-69e67c656a3f_town)
 - [Diriyah](f357d68c-b918-4b4a-ab11-a9a58a1d0aad_town)
+- [mecca](4168e4dc-d025-41ce-8edc-827a655cf455_town)
 - [Mazandaran](5d0b47a7-e2aa-46f5-ac45-19f4e3fa6c8e_town)
 - [New Jeddah](6c1084e4-8ecc-45fd-9201-ca4af595f994_town)<!--TOWNS-->
 

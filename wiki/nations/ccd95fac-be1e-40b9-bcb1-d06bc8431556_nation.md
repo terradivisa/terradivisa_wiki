@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 07, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Duke Grad13nt](Grad13nt_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Grad13nt](Grad13nt_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Theocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->38,456g<!--GDP-->
+- **GDP:** <!--GDP-->39,081g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,7 +32,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)
-- [Slovakian](1dc254d3-fe96-43be-8a1e-217331816d6e_town)<!--COLONIES-->
+<!--COLONIES-->- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
 
 ---
