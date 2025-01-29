@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->92<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->97<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Spitfire_08](Spitfire_08_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[God Emperor Spitfire_08](Spitfire_08_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,046g<!--GDP-->
+- **GDP:** <!--GDP-->8,193g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,6 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Celveria](b91e3ff7-620c-42ff-94c3-7c37f2ab513e_town)
+- [Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)
 - [Chios](3e679938-7da8-4f02-9e94-d2b753dd28db_town)
 - [Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)
 - [Gavle](ebb8b036-9469-484c-9f17-340c9704cdfe_town)

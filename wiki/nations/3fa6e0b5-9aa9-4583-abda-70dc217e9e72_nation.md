@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->98<!--POPULATION-->
+- **Population:** <!--POPULATION-->97<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->28,231g<!--GDP-->
+- **GDP:** <!--GDP-->30,701g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,7 +38,6 @@
 - [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
-- [sky city](731f570e-7479-4eb2-b46b-0f600c818346_town)
 - [French Republic](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)
 - [Dalmatia](1567c81e-ffa1-47e1-a97c-f36702fe3f21_town)<!--TOWNS-->
 

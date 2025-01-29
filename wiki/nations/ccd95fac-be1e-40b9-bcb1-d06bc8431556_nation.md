@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->39,081g<!--GDP-->
+- **GDP:** <!--GDP-->38,779g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,6 +28,7 @@
 
 <!--TOWNS-->- [Julians Slovakia](39550d4e-25c2-4f8e-a616-b4660e061966_town)
 - [Voronej](1ed96a33-92fd-4151-86f3-5ab0eb4d48e2_town)
+- [Port Of Anuc](9b0d2f5a-f940-4790-9d58-5757732d4cec_town)
 - [St. Julian](f9c2a279-f2ed-41c2-8339-8675d9ccd979_town)<!--TOWNS-->
 
 ## Colonies
