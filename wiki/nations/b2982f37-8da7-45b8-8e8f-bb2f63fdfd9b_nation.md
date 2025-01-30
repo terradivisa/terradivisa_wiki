@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->176g<!--GDP-->
+- **GDP:** <!--GDP-->252g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Ibuprofen](d639cd9c-e11e-4797-8942-4e96e610d629_town)<!--COLONIES-->
+<!--COLONIES-->- [Ibuprofen](d639cd9c-e11e-4797-8942-4e96e610d629_town)
+- [New Atacama](7df2fb55-2935-4c48-822d-379a963d92f5_town)<!--COLONIES-->
 
 ---

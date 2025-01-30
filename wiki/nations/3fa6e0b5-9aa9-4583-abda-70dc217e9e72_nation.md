@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->30,701g<!--GDP-->
+- **GDP:** <!--GDP-->32,704g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,11 +34,11 @@
 - [duckville](33ac7071-fda6-4bbd-8a44-f654d7bcceca_town)
 - [sylvicar](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
 - [Atlasic Kingdom](0788d03f-e2e3-4706-bfde-28ad4d25e4a4_town)
+- [Republic Of France](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)
 - [Amazigh](ded573de-c4fe-4978-8348-46c692f91f9d_town)
 - [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
-- [French Republic](c881f4ad-6d1c-40b9-bfb6-ab85ea80a9e0_town)
 - [Dalmatia](1567c81e-ffa1-47e1-a97c-f36702fe3f21_town)<!--TOWNS-->
 
 ## Colonies

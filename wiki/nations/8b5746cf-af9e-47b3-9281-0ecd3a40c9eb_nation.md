@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->December 28, 2024<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[King DominicVbest](DominicVbest_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->612g<!--GDP-->
+- **GDP:** <!--GDP-->574g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
