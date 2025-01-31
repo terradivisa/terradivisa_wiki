@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->19,236g<!--GDP-->
+- **GDP:** <!--GDP-->19,146g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,10 +27,10 @@
 ## Towns
 
 <!--TOWNS-->- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)
-- [New Edinburgh](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
+- [Scottish Kingdom](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Jan Mayen](97aede92-69a3-47d9-b0cf-027c35ac832f_town)<!--COLONIES-->
 
 ---

@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Estonia<!--NAME-->
+# <!--NAME-->Livonia<!--NAME-->
 
 ## Overview
 
@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->January 08, 2025<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader AidenAnimates](AidenAnimates_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,115g<!--GDP-->
+- **GDP:** <!--GDP-->778g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Sian](aa2ff7dd-3ad4-48cc-ad23-bd09d7145c61_town)<!--COLONIES-->
+<!--COLONIES-->- [Jelgava](296f5cbb-8948-44c0-80dc-bc43ae9403c3_town)
+- [Sian](aa2ff7dd-3ad4-48cc-ad23-bd09d7145c61_town)
+- [Riga](b0021a71-da4f-4c5c-a67a-2288821d7adb_town)<!--COLONIES-->
 
 ---
