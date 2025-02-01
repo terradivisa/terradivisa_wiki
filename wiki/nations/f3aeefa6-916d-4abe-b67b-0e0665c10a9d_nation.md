@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->778g<!--GDP-->
+- **GDP:** <!--GDP-->422g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,7 @@
 
 <!--COLONIES-->- [Jelgava](296f5cbb-8948-44c0-80dc-bc43ae9403c3_town)
 - [Sian](aa2ff7dd-3ad4-48cc-ad23-bd09d7145c61_town)
-- [Riga](b0021a71-da4f-4c5c-a67a-2288821d7adb_town)<!--COLONIES-->
+- [Riga](b0021a71-da4f-4c5c-a67a-2288821d7adb_town)
+- [Puurimine](b7c3d66b-c61c-4592-9f07-527d4fa20c95_town)<!--COLONIES-->
 
 ---

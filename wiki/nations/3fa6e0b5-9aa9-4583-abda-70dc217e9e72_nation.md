@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->29,974g<!--GDP-->
+- **GDP:** <!--GDP-->29,996g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [Islake](967bb88d-cdde-4c66-9da1-4465aea71d69_town)
-- [RAF](cd04730d-aa75-42e6-a45f-303cd954da94_town)
 - [Vranici](df08b906-f93e-469e-9351-ba88281767a9_town)
+- [Greece](5cf9e5af-125d-44d4-93d1-478718fba08a_town)
 - [Regnum Solis Orientis](4b634be2-ec0a-410a-a8f4-84c55974c37c_town)
 - [Levant](320c4fa9-2b0d-474c-b536-436ffc425259_town)
 - [sylvicar](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
@@ -42,7 +42,6 @@
 ## Colonies
 
 <!--COLONIES-->- [Austranalis](c679b910-7483-4575-8b62-c54e27571cca_town)
-- [Port Palairos](b17c5c63-6200-4943-9070-de6f8ee5f32c_town)
 - [temp](a1d541ff-c346-44fe-b0b2-36dd20ccc3c1_town)<!--COLONIES-->
 
 ---
