@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,435g<!--GDP-->
+- **GDP:** <!--GDP-->8,079g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -43,6 +43,7 @@
 
 <!--COLONIES-->- [Polish Trading Co](4b6b9092-52be-4cf3-932e-87eb2f5aa902_town)
 - [Avis Europae](77eaf072-fb4c-4aab-971e-fd48d9d5de2b_town)
-- [North Iran CO](8e6fb84c-e6c0-4fd0-b7bc-1e06a310f8de_town)<!--COLONIES-->
+- [North Iran CO](8e6fb84c-e6c0-4fd0-b7bc-1e06a310f8de_town)
+- [Mainland](8b9bac91-ef0d-45fd-b323-c9c7e079454f_town)<!--COLONIES-->
 
 ---

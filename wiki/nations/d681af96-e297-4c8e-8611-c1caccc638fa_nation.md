@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Mafia<!--NAME-->
+# <!--NAME-->Gooberland<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[GankGods](2d6e493c-087e-4f46-b720-c419a31b7a7c_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Sillyville](d92e7ed1-38ac-4abb-908e-177914e61a5d_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -12,22 +12,22 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->February 01, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader furkan1453bjk](furkan1453bjk_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Meow allisonmeow](allisonmeow_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,781g<!--GDP-->
+- **GDP:** <!--GDP-->4,762g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [GankGods](2d6e493c-087e-4f46-b720-c419a31b7a7c_town)
-- [Barad-dur](ba49a7f8-a5dc-4510-8e45-1481a865ef33_town)<!--TOWNS-->
+<!--TOWNS-->- [Sillyville](d92e7ed1-38ac-4abb-908e-177914e61a5d_town)
+- [Hadal Research Base](48684084-3c4d-4ca9-8efc-27213ebf467b_town)<!--TOWNS-->
 
 ## Colonies
 
