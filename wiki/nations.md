@@ -1,5 +1,6 @@
 # Nations
 
+* [The_Holy_American_Empire](30382310-1a52-496a-90f6-376783dfa0dc_nation)
 * [Atlantic_Empire](e4d32822-af00-4ec7-9edc-843a805c6dc4_nation)
 * [Upside_Down_Empire](f01ec4e2-c87e-455e-9713-a75415a4e2c2_nation)
 * [Empire_of_Goshalia](7cb01363-e27f-47e6-879d-20500034f85c_nation)
@@ -20,7 +21,6 @@
 * [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
 * [Kingdom_of_Linganguli](206ff7e8-0182-4e26-a9fc-257487355345_nation)
 * [Canada](a37747a2-7490-47cb-a9c9-8400d4ea8f37_nation)
-* [The_North_American_Union](30382310-1a52-496a-90f6-376783dfa0dc_nation)
 * [European_Confederation](4bbefbf5-e63c-4424-9e70-185abe303d9a_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Imperium_Romani](3fa6e0b5-9aa9-4583-abda-70dc217e9e72_nation)
@@ -34,7 +34,7 @@
 * [Second_Persian_Empire](21fc91d3-c3b5-4d69-80be-b61feaa42514_nation)
 * [VOC](d6181511-d46e-4633-9ee5-4a66973bc1e6_nation)
 * [Livonia](f3aeefa6-916d-4abe-b67b-0e0665c10a9d_nation)
-* [True_Russian_Empire](b261cc3e-c746-4594-88a6-66cd9f4c2166_nation)
+* [Autonomous_State_of_Texas](06c65834-0393-4427-b23b-4f238fc6eb1f_nation)
 * [Holy_Avion_Commonwealth](ccd95fac-be1e-40b9-bcb1-d06bc8431556_nation)
 * [CRF](b017a18e-1bf6-441f-b73b-1b0ed442c22d_nation)
 * [Khmer_Mauve](ab306200-6bf8-4681-b6db-7e0e2a76abeb_nation)
@@ -139,6 +139,7 @@
 * [American Peoples Republic](332d0bec-0d47-468f-9cf7-cc384f5752c4_nation)
 * [Russian Empire](f1a4938f-7cab-4121-9cc7-0a4aa651dc6f_nation)
 * [GreatSoyGempire](e6896cea-0ba7-45f7-9983-efeaa1ce6252_nation)
+* [True Russian Empire](b261cc3e-c746-4594-88a6-66cd9f4c2166_nation)
 * [Latvian Kingdom](e980f8b3-94ee-45c1-be5e-45828bbb5a87_nation)
 * [Colonial France](36b5cead-9b1f-4fab-a719-41e209b07dc7_nation)
 * [Holy African Union](5f34ddcf-bb09-4b81-abf4-cfdac9f36dea_nation)

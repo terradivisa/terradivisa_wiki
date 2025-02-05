@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Italia Maior](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->73<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->32,485g<!--GDP-->
+- **GDP:** <!--GDP-->32,670g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,9 +34,9 @@
 - [sylvicar](db31c0ae-4bab-4276-b7b6-d829760a8e30_town)
 - [Atlasic Kingdom](0788d03f-e2e3-4706-bfde-28ad4d25e4a4_town)
 - [Amazigh](ded573de-c4fe-4978-8348-46c692f91f9d_town)
-- [Italy](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)
 - [Asia Minor](246dfebc-65b0-4cc9-b59f-4d62752fdbac_town)
+- [Italia Maior](3c420346-3be3-4ac2-8ecf-07279e8c22f9_town)
 - [Dalmatia](1567c81e-ffa1-47e1-a97c-f36702fe3f21_town)<!--TOWNS-->
 
 ## Colonies
