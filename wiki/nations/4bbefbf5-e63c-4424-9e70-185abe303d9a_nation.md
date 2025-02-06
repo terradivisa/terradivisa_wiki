@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[God Emperor Spitfire_08](Spitfire_08_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Spitfire_08](Spitfire_08_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,093g<!--GDP-->
+- **GDP:** <!--GDP-->10,153g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
