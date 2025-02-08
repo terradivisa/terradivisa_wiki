@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->89<!--POPULATION-->
+- **Population:** <!--POPULATION-->80<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,036g<!--GDP-->
+- **GDP:** <!--GDP-->7,088g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,7 +36,6 @@
 - [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)
 - [Denmark](4694ac0b-c1e8-48cf-86e2-b58d7980e39a_town)
 - [smaland](fe38d5ee-c580-434f-b777-0d1b45e8f050_town)
-- [poznan](ea3eb600-addf-411e-9a67-d8c00204d04f_town)
 - [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
 
 ## Colonies

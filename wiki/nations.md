@@ -1,5 +1,6 @@
 # Nations
 
+* [Congo_D.R](3a6719bd-9605-42a5-a30e-40114c6a43b9_nation)
 * [The_Holy_American_Empire](30382310-1a52-496a-90f6-376783dfa0dc_nation)
 * [Atlantic_Empire](e4d32822-af00-4ec7-9edc-843a805c6dc4_nation)
 * [Upside_Down_Empire](f01ec4e2-c87e-455e-9713-a75415a4e2c2_nation)
@@ -18,14 +19,14 @@
 * [The_Greater_SouthEast](1f347426-ad10-4136-b3b9-1353ed8cd774_nation)
 * [Federation_of_Ukraine](3c40592e-be4c-4eb1-bc86-07991f9562ca_nation)
 * [Auroria](ddd509ba-dc65-47c0-8d48-1b676d991b4f_nation)
-* [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
-* [Kingdom_of_Linganguli](206ff7e8-0182-4e26-a9fc-257487355345_nation)
 * [Canada](a37747a2-7490-47cb-a9c9-8400d4ea8f37_nation)
-* [BizimkilerNation](d6e93503-dcdd-40ce-b5f0-2f8ec4190d8b_nation)
+* [Kingdom_of_Linganguli](206ff7e8-0182-4e26-a9fc-257487355345_nation)
+* [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
 * [European_Confederation](4bbefbf5-e63c-4424-9e70-185abe303d9a_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Imperium_Romani](3fa6e0b5-9aa9-4583-abda-70dc217e9e72_nation)
 * [Holy_Claudien_Republic](cd835a6d-cc11-4a6f-93f3-34fba6be6385_nation)
+* [New_Cepheus_Republic](de0d2b17-993c-49e4-a101-6538bbff3480_nation)
 * [Gooberland](d681af96-e297-4c8e-8611-c1caccc638fa_nation)
 * [Terraforge_Kingdom](8b5746cf-af9e-47b3-9281-0ecd3a40c9eb_nation)
 * [Southern_American_Union](5b9d8d5f-e699-456e-92f4-dbf7f98961f4_nation)
@@ -33,7 +34,6 @@
 * [Mafia](4c661f75-2373-4be0-b3c6-50f65454ad5b_nation)
 * [Second_Persian_Empire](21fc91d3-c3b5-4d69-80be-b61feaa42514_nation)
 * [VOC](d6181511-d46e-4633-9ee5-4a66973bc1e6_nation)
-* [Ottomans](8cc88984-1ed9-4f00-827c-85e4ad1351f9_nation)
 * [Livonia](f3aeefa6-916d-4abe-b67b-0e0665c10a9d_nation)
 * [Autonomous_State_of_Texas](06c65834-0393-4427-b23b-4f238fc6eb1f_nation)
 * [Holy_Avion_Commonwealth](ccd95fac-be1e-40b9-bcb1-d06bc8431556_nation)
@@ -51,6 +51,7 @@
 * [corowa](92667094-89af-4ae1-ad34-35335bc2a4e1_nation)
 * [NorwegianCoastalEmpire](d4229ade-29ab-4164-9d59-ed0a69cf8431_nation)
 * [East_Siberia](e9a8d495-f03d-413a-b3be-be29098e1618_nation)
+* [Big_Empire](623b2590-a3b4-48f9-aa60-e9c491cf2261_nation)
 * [German_Empire](cae3feb0-7a6f-4900-919b-e3aa3948f134_nation)
 
 ## History
@@ -157,3 +158,5 @@
 * [Marepublica](b2982f37-8da7-45b8-8e8f-bb2f63fdfd9b_nation)
 * [Holy Claudien Republic](2ce682db-b667-4a67-9230-3551743c0d3e_nation)
 * [UAE](775c9874-5026-4ef4-b4c8-34e3c22718bc_nation)
+* [BizimkilerNation](d6e93503-dcdd-40ce-b5f0-2f8ec4190d8b_nation)
+* [Ottomans](8cc88984-1ed9-4f00-827c-85e4ad1351f9_nation)
