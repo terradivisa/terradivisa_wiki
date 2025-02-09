@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Autonomous State of Texas<!--NAME-->
+# <!--NAME-->Mercenary State<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Houston Metropolitan](a803944b-2842-4702-bab0-f4fb38f0c9b6_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Svalbard](b38c219d-d907-411d-9911-38b2fa46a802_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->February 04, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader KingGhidorahJ](KingGhidorahJ_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->February 09, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[CEO AverageRussophob](AverageRussophob_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->415g<!--GDP-->
+- **GDP:** <!--GDP-->25g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Houston Metropolitan](a803944b-2842-4702-bab0-f4fb38f0c9b6_town)<!--TOWNS-->
+<!--TOWNS-->- [Svalbard](b38c219d-d907-411d-9911-38b2fa46a802_town)<!--TOWNS-->
 
 ## Colonies
 
