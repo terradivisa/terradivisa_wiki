@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Spitfire_08](Spitfire_08_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[God Emperor HazFive](HazFive_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,847g<!--GDP-->
+- **GDP:** <!--GDP-->7,214g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,13 +36,14 @@
 - [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)
 - [Denmark](4694ac0b-c1e8-48cf-86e2-b58d7980e39a_town)
 - [smaland](fe38d5ee-c580-434f-b777-0d1b45e8f050_town)
-- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
+- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)
+- [Nadym](81e745a2-14b8-4878-a52f-6a061b0f9e9a_town)<!--TOWNS-->
 
 ## Colonies
 
 <!--COLONIES-->- [Polish Trading Co](4b6b9092-52be-4cf3-932e-87eb2f5aa902_town)
-- [Avis Europae](77eaf072-fb4c-4aab-971e-fd48d9d5de2b_town)
 - [North Iran CO](8e6fb84c-e6c0-4fd0-b7bc-1e06a310f8de_town)
-- [Mainland](8b9bac91-ef0d-45fd-b323-c9c7e079454f_town)<!--COLONIES-->
+- [Mainland](8b9bac91-ef0d-45fd-b323-c9c7e079454f_town)
+- [MY Mainland](97ec0141-7bbf-4fb1-a478-4b5c21c02403_town)<!--COLONIES-->
 
 ---

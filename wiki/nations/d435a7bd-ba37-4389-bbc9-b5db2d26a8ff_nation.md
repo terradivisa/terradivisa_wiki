@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Kingdom of Hawaii<!--NAME-->
+# <!--NAME-->Nullandia<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Sawaiki](a58b5ef4-84f3-454b-ac71-ca4759da2be8_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Nullusboro](7484e7eb-0693-40f5-a637-ac8419852613_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 21, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[sir Mistr_Pig](Mistr_Pig_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->February 10, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Sir Quacker25](Quacker25_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,104g<!--GDP-->
+- **GDP:** <!--GDP-->633g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sawaiki](a58b5ef4-84f3-454b-ac71-ca4759da2be8_town)<!--TOWNS-->
+<!--TOWNS-->- [Nullusboro](7484e7eb-0693-40f5-a637-ac8419852613_town)<!--TOWNS-->
 
 ## Colonies
 
