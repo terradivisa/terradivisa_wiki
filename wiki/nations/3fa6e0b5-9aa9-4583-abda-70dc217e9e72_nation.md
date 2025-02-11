@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Aegyptus](44882a74-f932-47da-92ea-4593ea555fa2_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->29<!--POPULATION-->
+- **Population:** <!--POPULATION-->30<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->17,067g<!--GDP-->
+- **GDP:** <!--GDP-->16,446g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

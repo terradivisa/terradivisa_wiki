@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->corowa<!--NAME-->
+# <!--NAME-->Mauretania<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Research-Hub](d91bc729-b314-4197-a7de-a224db3b436d_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Cartenna](b5082487-8c18-4695-9740-9eb8c18fca23_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 27, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader demonnnnnnnn](demonnnnnnnn_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->February 11, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader AppIePineapple](AppIePineapple_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->417g<!--GDP-->
+- **GDP:** <!--GDP-->136g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Research-Hub](d91bc729-b314-4197-a7de-a224db3b436d_town)<!--TOWNS-->
+<!--TOWNS-->- [Cartenna](b5082487-8c18-4695-9740-9eb8c18fca23_town)<!--TOWNS-->
 
 ## Colonies
 

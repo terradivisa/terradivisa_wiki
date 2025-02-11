@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 07, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[King Grad13nt](Grad13nt_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Duke Grad13nt](Grad13nt_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Theocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->48,714g<!--GDP-->
+- **GDP:** <!--GDP-->48,347g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,7 +33,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Avis Europae](77eaf072-fb4c-4aab-971e-fd48d9d5de2b_town)
-- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
+<!--COLONIES-->- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
 
 ---

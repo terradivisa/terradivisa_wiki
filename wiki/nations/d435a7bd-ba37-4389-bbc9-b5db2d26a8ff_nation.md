@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Nullandia<!--NAME-->
+# <!--NAME-->Biforia<!--NAME-->
 
 ## Overview
 
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->February 10, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Sir Quacker25](Quacker25_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Governor Quacker25](Quacker25_user)<!--LEADER_TITLE_LINK-->
+- **Governmental System:** <!--GOVERNMENT-->Council<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->633g<!--GDP-->
+- **GDP:** <!--GDP-->168g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
