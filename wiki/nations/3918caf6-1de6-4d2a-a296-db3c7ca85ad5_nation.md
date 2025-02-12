@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Mercenary State<!--NAME-->
+# <!--NAME-->Divisa PMC<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Svalbard](b38c219d-d907-411d-9911-38b2fa46a802_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[HQ](b38c219d-d907-411d-9911-38b2fa46a802_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->165g<!--GDP-->
+- **GDP:** <!--GDP-->123g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Svalbard](b38c219d-d907-411d-9911-38b2fa46a802_town)<!--TOWNS-->
+<!--TOWNS-->- [HQ](b38c219d-d907-411d-9911-38b2fa46a802_town)<!--TOWNS-->
 
 ## Colonies
 
