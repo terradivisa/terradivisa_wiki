@@ -19,15 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,040g<!--GDP-->
+- **GDP:** <!--GDP-->1,646g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [New Fortis](2a86955e-d6f5-4589-be52-879bc1215985_town)
-- [praesirium](36e603a5-2ac2-4387-a136-0c4035bac92f_town)<!--TOWNS-->
+<!--TOWNS-->- [praesirium](36e603a5-2ac2-4387-a136-0c4035bac92f_town)
+- [New Fortis](2a86955e-d6f5-4589-be52-879bc1215985_town)<!--TOWNS-->
 
 ## Colonies
 

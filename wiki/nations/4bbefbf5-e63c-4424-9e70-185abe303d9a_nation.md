@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Nadym](81e745a2-14b8-4878-a52f-6a061b0f9e9a_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->85<!--POPULATION-->
+- **Population:** <!--POPULATION-->88<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->7,238g<!--GDP-->
+- **GDP:** <!--GDP-->10,183g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Celveria](b91e3ff7-620c-42ff-94c3-7c37f2ab513e_town)
+<!--TOWNS-->- [Baltimore](5f371918-3c33-44dd-86bf-5ddc637a4b99_town)
+- [Celveria](b91e3ff7-620c-42ff-94c3-7c37f2ab513e_town)
 - [Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)
 - [Chios](3e679938-7da8-4f02-9e94-d2b753dd28db_town)
 - [Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)
