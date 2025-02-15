@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[NewMoscow](3138c08b-4630-4b3b-a6c6-9950a794d72c_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->665g<!--GDP-->
+- **GDP:** <!--GDP-->906g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

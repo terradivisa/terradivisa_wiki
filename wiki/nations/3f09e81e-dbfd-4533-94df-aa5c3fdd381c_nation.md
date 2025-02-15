@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->19,757g<!--GDP-->
+- **GDP:** <!--GDP-->18,003g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)
-- [Scottish Kingdom](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
+<!--TOWNS-->- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)<!--TOWNS-->
 
 ## Colonies
 
