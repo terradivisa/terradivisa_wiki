@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->906g<!--GDP-->
+- **GDP:** <!--GDP-->817g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Crimea](9665ea61-b3fd-444b-a3a7-cfafc33f50d2_town)<!--COLONIES-->
 
 ---

@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->44,320g<!--GDP-->
+- **GDP:** <!--GDP-->45,072g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,8 +35,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Feldspar](f403760a-4278-492a-879e-1cf3b6f36b2c_town)
-- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)
-- [Hal](6e0bb057-3342-46a8-87d4-7458a2c1aca8_town)<!--COLONIES-->
+<!--COLONIES-->- [Hal](6e0bb057-3342-46a8-87d4-7458a2c1aca8_town)
+- [Feldspar](f403760a-4278-492a-879e-1cf3b6f36b2c_town)
+- [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
 
 ---
