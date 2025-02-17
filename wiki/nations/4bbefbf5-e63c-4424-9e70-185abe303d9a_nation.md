@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Nadym](81e745a2-14b8-4878-a52f-6a061b0f9e9a_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->78<!--POPULATION-->
+- **Population:** <!--POPULATION-->96<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->11,763g<!--GDP-->
+- **GDP:** <!--GDP-->40,923g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,7 @@
 - [Chios](3e679938-7da8-4f02-9e94-d2b753dd28db_town)
 - [Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)
 - [Fort Makafa](1dfb3760-88ef-4bfe-9036-ebf98200d56d_town)
+- [Iqaluitara](a732a27f-3099-4004-a0c8-b757664b9e8f_town)
 - [Gavle](ebb8b036-9469-484c-9f17-340c9704cdfe_town)
 - [Fort ZIEQSTAN](b0e62d5d-7280-4b39-9257-d5d440470510_town)
 - [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)

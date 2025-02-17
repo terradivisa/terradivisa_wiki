@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[St. Julian](f9c2a279-f2ed-41c2-8339-8675d9ccd979_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->43<!--POPULATION-->
+- **Population:** <!--POPULATION-->44<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->45,072g<!--GDP-->
+- **GDP:** <!--GDP-->45,177g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,7 +35,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Hal](6e0bb057-3342-46a8-87d4-7458a2c1aca8_town)
+<!--COLONIES-->- [Wilkerson](28a696d1-f34b-4735-8539-18fcade3475d_town)
+- [Hal](6e0bb057-3342-46a8-87d4-7458a2c1aca8_town)
 - [Feldspar](f403760a-4278-492a-879e-1cf3b6f36b2c_town)
 - [Massachusetts](77139c4e-958e-4408-a323-760ceb187b25_town)<!--COLONIES-->
 
