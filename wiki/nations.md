@@ -1,7 +1,7 @@
 # Nations
 
 * [Congo_D.R](3a6719bd-9605-42a5-a30e-40114c6a43b9_nation)
-* [The_Holy_American_Empire](30382310-1a52-496a-90f6-376783dfa0dc_nation)
+* [Federal_American_State](30382310-1a52-496a-90f6-376783dfa0dc_nation)
 * [Itarika](0e8580de-9ac9-4407-99e6-2887a624e5f2_nation)
 * [Jenmark](d2d5cf42-9223-4121-a039-6edb7b09ee6a_nation)
 * [Proletarian_Solomons](e74f6503-448a-42f2-8b9b-7d4c29920c80_nation)
