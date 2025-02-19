@@ -38,6 +38,7 @@
 * [The_Kingdom_of_Vitalia](94e0e766-e506-4097-8fc9-4885cef125ed_nation)
 * [New_Zealand](bcb37b42-15ec-4ba1-b3bf-9e7b8b69c2e7_nation)
 * [Mongol_Khanate](784849cd-39a5-45b6-b65f-6dfa51b513ca_nation)
+* [the_cult](db182b74-4cfd-4572-836f-df0ed1ed7844_nation)
 * [The_Archipelago_Empire](21cc63b4-b49a-4b8a-99e8-0d8cbf508c78_nation)
 * [Kingdom_of_Hawaii](1f53ae53-1e84-4d0e-a912-4dea5ec40fa4_nation)
 * [Himalayan_Federation](d28352fb-aa59-440a-8660-ebfed40454b1_nation)
