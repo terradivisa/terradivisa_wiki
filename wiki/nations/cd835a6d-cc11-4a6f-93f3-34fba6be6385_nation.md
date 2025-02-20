@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cloud City](894bf4e6-c0e9-4f7f-a5d2-48e3ac70e68f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,179g<!--GDP-->
+- **GDP:** <!--GDP-->1,638g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,6 @@
 ## Towns
 
 <!--TOWNS-->- [Cloud City](894bf4e6-c0e9-4f7f-a5d2-48e3ac70e68f_town)
-- [Floating Farmlands](d525e53f-00eb-4eb6-88f2-0804d090ee14_town)
 - [Loomundarfjord](2f7ccd00-0886-421d-82b5-f65332a050a0_town)
 - [tuaqvik](3baf7259-f91f-43a6-b64a-1d57f018becc_town)
 - [No Mans Land](944e7e40-40f3-4dc0-be04-1d32667b4f7d_town)<!--TOWNS-->
