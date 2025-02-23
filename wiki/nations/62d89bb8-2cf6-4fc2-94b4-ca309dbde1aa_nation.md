@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->East Siberia<!--NAME-->
+# <!--NAME-->The Banking Conglomerate<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Magadan](e148021b-361c-4d57-9e09-71d8b181be2b_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[The Banking Conglomerate](5bcfda59-ebea-47bb-84c2-7b7f475ddd11_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 27, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Bababooey4728](Bababooey4728_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->February 23, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Triangulisa](Triangulisa_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->82g<!--GDP-->
+- **GDP:** <!--GDP-->903g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Magadan](e148021b-361c-4d57-9e09-71d8b181be2b_town)<!--TOWNS-->
+<!--TOWNS-->- [The Banking Conglomerate](5bcfda59-ebea-47bb-84c2-7b7f475ddd11_town)<!--TOWNS-->
 
 ## Colonies
 
