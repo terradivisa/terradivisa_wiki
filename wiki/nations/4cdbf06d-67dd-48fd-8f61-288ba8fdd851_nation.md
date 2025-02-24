@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Agartha](38878b92-80bd-42f8-9719-342a37b0d7ab_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->901g<!--GDP-->
+- **GDP:** <!--GDP-->792g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Agartha](38878b92-80bd-42f8-9719-342a37b0d7ab_town)<!--TOWNS-->
+<!--TOWNS-->- [Agartha](38878b92-80bd-42f8-9719-342a37b0d7ab_town)
+- [Spow City](9f613ff9-3d64-4b1e-9144-377760bb42ff_town)<!--TOWNS-->
 
 ## Colonies
 

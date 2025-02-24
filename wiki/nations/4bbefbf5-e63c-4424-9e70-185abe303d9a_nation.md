@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Nadym](81e745a2-14b8-4878-a52f-6a061b0f9e9a_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->99<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->64<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->December 14, 2024<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[God Emperor HazFive](HazFive_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[God Emperor Spitfire_08](Spitfire_08_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->11,048g<!--GDP-->
+- **GDP:** <!--GDP-->12,432g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,15 +29,12 @@
 <!--TOWNS-->- [Baltimore](5f371918-3c33-44dd-86bf-5ddc637a4b99_town)
 - [Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)
 - [Chios](3e679938-7da8-4f02-9e94-d2b753dd28db_town)
-- [Oslo](95f1a88a-4abf-4511-b59a-b7b98712ce00_town)
 - [Fort Makafa](1dfb3760-88ef-4bfe-9036-ebf98200d56d_town)
 - [Gavle](ebb8b036-9469-484c-9f17-340c9704cdfe_town)
-- [Fort ZIEQSTAN](b0e62d5d-7280-4b39-9257-d5d440470510_town)
 - [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)
 - [EZLN](8f01adf4-a464-408a-827b-48d4f6d254db_town)
 - [smaland](fe38d5ee-c580-434f-b777-0d1b45e8f050_town)
-- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)
-- [Nadym](81e745a2-14b8-4878-a52f-6a061b0f9e9a_town)<!--TOWNS-->
+- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
 
 ## Colonies
 

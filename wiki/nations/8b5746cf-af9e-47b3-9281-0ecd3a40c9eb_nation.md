@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Terraforge](940ed31a-d7d3-4432-a5af-0308ab7bd0ea_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->14<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,018g<!--GDP-->
+- **GDP:** <!--GDP-->2,515g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Terraforge operation](6d4a8a34-8ecd-4307-a76b-8934cb0f424a_town)<!--COLONIES-->
 
 ---
