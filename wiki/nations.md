@@ -15,8 +15,8 @@
 * [Oceanis](a1b1ee8f-f8af-49ce-adb6-542ec8ff9475_nation)
 * [Republic_Of_Fortissium](4afd12d7-72f6-454c-b8f1-1ff70e9c8a7b_nation)
 * [The_Republic_of_Starland](eedc09b7-d99d-4e3a-8c38-737f466f81d8_nation)
-* [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
 * [Canada](a37747a2-7490-47cb-a9c9-8400d4ea8f37_nation)
+* [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
 * [DIVISA_PMC](f63f8cd0-03dc-405e-b26e-4ba3d01483ad_nation)
 * [European_Confederation](4bbefbf5-e63c-4424-9e70-185abe303d9a_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
@@ -50,7 +50,6 @@
 * [corowa](92667094-89af-4ae1-ad34-35335bc2a4e1_nation)
 * [The_Banking_Conglomerate](62d89bb8-2cf6-4fc2-94b4-ca309dbde1aa_nation)
 * [NorwegianCoastalEmpire](d4229ade-29ab-4164-9d59-ed0a69cf8431_nation)
-* [East_Siberia](e9a8d495-f03d-413a-b3be-be29098e1618_nation)
 
 ## History
 
@@ -169,6 +168,7 @@
 * [Atlantic Empire](e4d32822-af00-4ec7-9edc-843a805c6dc4_nation)
 * [Marepublica](b2982f37-8da7-45b8-8e8f-bb2f63fdfd9b_nation)
 * [Holy Claudien Republic](2ce682db-b667-4a67-9230-3551743c0d3e_nation)
+* [East Siberia](e9a8d495-f03d-413a-b3be-be29098e1618_nation)
 * [Empire of Goshalia](7cb01363-e27f-47e6-879d-20500034f85c_nation)
 * [UAE](775c9874-5026-4ef4-b4c8-34e3c22718bc_nation)
 * [Khmer Mauve](ab306200-6bf8-4681-b6db-7e0e2a76abeb_nation)
