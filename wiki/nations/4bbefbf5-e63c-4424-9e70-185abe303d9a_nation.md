@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->65<!--POPULATION-->
+- **Population:** <!--POPULATION-->62<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,598g<!--GDP-->
+- **GDP:** <!--GDP-->12,418g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,9 +32,7 @@
 - [Fort Makafa](1dfb3760-88ef-4bfe-9036-ebf98200d56d_town)
 - [Gavle](ebb8b036-9469-484c-9f17-340c9704cdfe_town)
 - [NewDania](5f754d81-d6c5-425c-9fe6-a97d9529499d_town)
-- [EZLN](8f01adf4-a464-408a-827b-48d4f6d254db_town)
-- [smaland](fe38d5ee-c580-434f-b777-0d1b45e8f050_town)
-- [Helsinki](0318c526-4d33-4fe9-8bd5-40f4ff073c5e_town)<!--TOWNS-->
+- [smaland](fe38d5ee-c580-434f-b777-0d1b45e8f050_town)<!--TOWNS-->
 
 ## Colonies
 
