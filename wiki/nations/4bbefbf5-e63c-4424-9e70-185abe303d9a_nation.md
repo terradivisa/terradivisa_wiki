@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Anzhu Islands](7856ccf6-cec9-432b-b8bc-a128ccaef731_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->62<!--POPULATION-->
+- **Population:** <!--POPULATION-->80<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,418g<!--GDP-->
+- **GDP:** <!--GDP-->11,726g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
