@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,935g<!--GDP-->
+- **GDP:** <!--GDP-->1,903g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,7 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [seig-bas](ffa3a0ef-51f2-4b21-a1a8-1a5065345d5b_town)
-- [Quad Quall Research Lab](632e7db8-cfed-4bd8-92b2-2c017161fd66_town)<!--COLONIES-->
+<!--COLONIES-->- [Quad Quall Research Lab](632e7db8-cfed-4bd8-92b2-2c017161fd66_town)<!--COLONIES-->
 
 ---
