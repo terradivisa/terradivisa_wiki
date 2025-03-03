@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sillyville](d92e7ed1-38ac-4abb-908e-177914e61a5d_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Population:** <!--POPULATION-->9<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,314g<!--GDP-->
+- **GDP:** <!--GDP-->9,944g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,7 +28,8 @@
 
 <!--TOWNS-->- [Sillyville](d92e7ed1-38ac-4abb-908e-177914e61a5d_town)
 - [The Thai Kaiserreich](59f489a8-bb64-4d46-9764-8d0ce077ebc2_town)
-- [Hadal Research Base](48684084-3c4d-4ca9-8efc-27213ebf467b_town)<!--TOWNS-->
+- [Hadal Research Base](48684084-3c4d-4ca9-8efc-27213ebf467b_town)
+- [Agartha](38878b92-80bd-42f8-9719-342a37b0d7ab_town)<!--TOWNS-->
 
 ## Colonies
 
