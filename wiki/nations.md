@@ -44,13 +44,13 @@
 * [NorwegianCoastalEmpire](d4229ade-29ab-4164-9d59-ed0a69cf8431_nation)
 * [Japanese_Empire](990c3f26-68c0-4c45-9cf4-949117fd74e3_nation)
 * [DIVISA_PMC](fe0df722-7a8f-4671-9887-c40ff161b7fc_nation)
-* [European_Confederation](4bbefbf5-e63c-4424-9e70-185abe303d9a_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Imperium_Romani](66d481c2-0a72-4e10-bdc6-68413a50f3c2_nation)
 
 ## History
 
 * [Malta HQ](27b77d50-f751-4243-9959-58667da8fcd4_nation)
+* [European Confederation](4bbefbf5-e63c-4424-9e70-185abe303d9a_nation)
 * [Nigeria](87da85cf-f326-40b5-ba3b-ff79a967145a_nation)
 * [GermanEmpire](1476633e-95ae-4cb9-bfc9-cb588a162981_nation)
 * [Mexican Empire](35195c4e-b246-4956-9474-3dae231c01ca_nation)
