@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 07, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count FloridaManfr](FloridaManfr_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader FloridaManfr](FloridaManfr_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Council<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->19,176g<!--GDP-->
+- **GDP:** <!--GDP-->19,107g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Jan Mayen](97aede92-69a3-47d9-b0cf-027c35ac832f_town)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---

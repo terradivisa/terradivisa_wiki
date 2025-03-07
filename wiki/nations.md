@@ -1,6 +1,7 @@
 # Nations
 
 * [Holy_Claudien_Republic](cd835a6d-cc11-4a6f-93f3-34fba6be6385_nation)
+* [Arenic_Desert_Empire](64c76aa0-5d96-4dfd-a6e8-091054f74b82_nation)
 * [Congo_D.R](3a6719bd-9605-42a5-a30e-40114c6a43b9_nation)
 * [Qing_Dynasty](50907dd8-504f-41f8-a891-1bfae5e6682c_nation)
 * [lohst](09ee2d21-6147-443d-8dd5-1e565160c7d6_nation)
@@ -21,7 +22,6 @@
 * [Mongol_Khanate](784849cd-39a5-45b6-b65f-6dfa51b513ca_nation)
 * [West_China](5bad281a-ce69-4a22-bfaf-e357c545c7ed_nation)
 * [New_Zealand](bcb37b42-15ec-4ba1-b3bf-9e7b8b69c2e7_nation)
-* [Soviet_China](22a86536-eeb5-45e2-84b6-df87b9c31fdb_nation)
 * [the_cult](db182b74-4cfd-4572-836f-df0ed1ed7844_nation)
 * [Hyperborea](83a13c08-ede4-47fe-98a7-61119fbd15c4_nation)
 * [Papayan_Empire](d28352fb-aa59-440a-8660-ebfed40454b1_nation)
@@ -37,6 +37,7 @@
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Republic_Of_Fortissium](4afd12d7-72f6-454c-b8f1-1ff70e9c8a7b_nation)
 * [Magna_Aquilonia](cb10738d-71ca-4d58-a7ed-83624735fca4_nation)
+* [Republic_of_South_India](69a05661-2874-48f6-a7e3-d75362ee9c12_nation)
 * [City_State_Of_Masolaso](e6dc39fd-c3db-48ae-8a7e-7376e32a178f_nation)
 * [The_Banking_Conglomerate](62d89bb8-2cf6-4fc2-94b4-ca309dbde1aa_nation)
 * [corowa](92667094-89af-4ae1-ad34-35335bc2a4e1_nation)
@@ -57,6 +58,7 @@
 * [Canada](a37747a2-7490-47cb-a9c9-8400d4ea8f37_nation)
 * [Idrisid dynasty](df87e6ea-affb-498e-a49a-b2343ce58ace_nation)
 * [California Republic](7d7e398e-6f50-4283-b364-17595845cfdc_nation)
+* [Soviet China](22a86536-eeb5-45e2-84b6-df87b9c31fdb_nation)
 * [Empire of France](3fad3abb-fb91-4dc8-873e-176c3b234ed7_nation)
 * [Japanese Empire](c2c0baf9-aeff-4571-8710-7078994d12af_nation)
 * [Sri Lanka](deacf4c1-f83d-4d30-b2d7-d99363ab1397_nation)
