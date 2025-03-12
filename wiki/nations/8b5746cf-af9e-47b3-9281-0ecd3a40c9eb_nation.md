@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Terralyian Dynasty<!--NAME-->
+# <!--NAME-->Terraforge<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,556g<!--GDP-->
+- **GDP:** <!--GDP-->2,508g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Terraforge operation](6d4a8a34-8ecd-4307-a76b-8934cb0f424a_town)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
