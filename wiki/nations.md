@@ -17,6 +17,7 @@
 * [Hyperborea](83a13c08-ede4-47fe-98a7-61119fbd15c4_nation)
 * [Aden](41104182-9892-4635-bb0d-3b298b653023_nation)
 * [Ewoks](b9eb01f7-e599-433c-a491-02eb4c2ba619_nation)
+* [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Magna_Aquilonia](cb10738d-71ca-4d58-a7ed-83624735fca4_nation)
@@ -25,6 +26,7 @@
 * [Divisa_PMC](facf234e-ea6b-4cd9-95bc-2409a842be8a_nation)
 * [Idrisid-dynasty](fa8585c4-07a4-412f-ac90-5df616d0974e_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
+* [Mauryan_Empire](3df19990-c7a2-427d-b946-a993a0dd2690_nation)
 
 ## History
 
