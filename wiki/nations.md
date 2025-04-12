@@ -26,7 +26,6 @@
 * [Divisa_PMC](facf234e-ea6b-4cd9-95bc-2409a842be8a_nation)
 * [Idrisid-dynasty](fa8585c4-07a4-412f-ac90-5df616d0974e_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
-* [Mauryan_Empire](3df19990-c7a2-427d-b946-a993a0dd2690_nation)
 
 ## History
 
@@ -204,3 +203,4 @@
 * [# DIVISA PMC](fe0df722-7a8f-4671-9887-c40ff161b7fc_nation)
 * [# City State Of Masolaso](e6dc39fd-c3db-48ae-8a7e-7376e32a178f_nation)
 * [# Arenic Desert Empire](64c76aa0-5d96-4dfd-a6e8-091054f74b82_nation)
+* [# Mauryan Empire](3df19990-c7a2-427d-b946-a993a0dd2690_nation)
