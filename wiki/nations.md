@@ -19,6 +19,7 @@
 * [Ewoks](b9eb01f7-e599-433c-a491-02eb4c2ba619_nation)
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
+* [Auroria](402bd5a6-b2c5-4ef5-a7e9-797bec841496_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Magna_Aquilonia](cb10738d-71ca-4d58-a7ed-83624735fca4_nation)
 * [Koveros](ea9ba555-a645-4148-bac0-e0a0f24ac825_nation)
