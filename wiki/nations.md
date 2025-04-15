@@ -19,11 +19,11 @@
 * [Ewoks](b9eb01f7-e599-433c-a491-02eb4c2ba619_nation)
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
-* [Auroria](402bd5a6-b2c5-4ef5-a7e9-797bec841496_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Magna_Aquilonia](cb10738d-71ca-4d58-a7ed-83624735fca4_nation)
 * [Koveros](ea9ba555-a645-4148-bac0-e0a0f24ac825_nation)
 * [Communist_South_India](69a05661-2874-48f6-a7e3-d75362ee9c12_nation)
+* [Japanese_Empire](04cabc9f-bf5f-491a-a650-dda217c7d60e_nation)
 * [Idrisid-dynasty](fa8585c4-07a4-412f-ac90-5df616d0974e_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 
@@ -205,3 +205,4 @@
 * [# Arenic Desert Empire](64c76aa0-5d96-4dfd-a6e8-091054f74b82_nation)
 * [# Divisa PMC](facf234e-ea6b-4cd9-95bc-2409a842be8a_nation)
 * [# Mauryan Empire](3df19990-c7a2-427d-b946-a993a0dd2690_nation)
+* [# Auroria](402bd5a6-b2c5-4ef5-a7e9-797bec841496_nation)
