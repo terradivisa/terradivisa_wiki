@@ -2,7 +2,6 @@
 
 * [Qing_Dynasty](50907dd8-504f-41f8-a891-1bfae5e6682c_nation)
 * [Basileia_Rhomaion](03aefe2a-136f-453e-851d-7803d392d740_nation)
-* [Brasil](23ab05ab-b20a-4532-843d-238bb1404900_nation)
 * [VOC](d6181511-d46e-4633-9ee5-4a66973bc1e6_nation)
 * [Itarika](0e8580de-9ac9-4407-99e6-2887a624e5f2_nation)
 * [Mauryan_Samrajya](50c33867-21d9-4b86-b5c9-083909843e0f_nation)
@@ -205,6 +204,7 @@
 * [# DIVISA PMC](fe0df722-7a8f-4671-9887-c40ff161b7fc_nation)
 * [# City State Of Masolaso](e6dc39fd-c3db-48ae-8a7e-7376e32a178f_nation)
 * [# Arenic Desert Empire](64c76aa0-5d96-4dfd-a6e8-091054f74b82_nation)
+* [# Brasil](23ab05ab-b20a-4532-843d-238bb1404900_nation)
 * [# Divisa PMC](facf234e-ea6b-4cd9-95bc-2409a842be8a_nation)
 * [# Mauryan Empire](3df19990-c7a2-427d-b946-a993a0dd2690_nation)
 * [# Auroria](402bd5a6-b2c5-4ef5-a7e9-797bec841496_nation)
