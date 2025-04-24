@@ -37,3 +37,9 @@
 <!--COLONIES-->- [Sian](aa2ff7dd-3ad4-48cc-ad23-bd09d7145c61_town)<!--COLONIES-->
 
 ---
+
+## Lore
+
+- Originally named **Kingdom of Alba**.
+
+---
