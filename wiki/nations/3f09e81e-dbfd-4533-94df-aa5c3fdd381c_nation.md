@@ -19,15 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,561g<!--GDP-->
+- **GDP:** <!--GDP-->18,541g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Scotland](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)
-- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)<!--TOWNS-->
+<!--TOWNS-->- [Sovereign Capital](5d697e83-38b0-4173-ab43-28d48f89965f_town)
+- [Scotland](e8a36ba8-c03d-4383-9eeb-99559e639f68_town)<!--TOWNS-->
 
 ## Colonies
 
