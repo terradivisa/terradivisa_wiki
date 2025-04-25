@@ -1,7 +1,6 @@
 # Nations
 
 * [Aden](41104182-9892-4635-bb0d-3b298b653023_nation)
-* [Qing_Dynasty](50907dd8-504f-41f8-a891-1bfae5e6682c_nation)
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [monkey](dc8e1714-9629-4ef7-a3c2-50d953986a5b_nation)
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
@@ -23,6 +22,7 @@
 * [Hyperborea](83a13c08-ede4-47fe-98a7-61119fbd15c4_nation)
 * [Slovakia](8910dfee-a7c4-482c-aa15-0618b0eeb7c9_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
+* [Dupio](f1878c7e-35db-4788-9ef2-425d07b0887c_nation)
 
 ## History
 
@@ -140,7 +140,7 @@
 * [# CSC](6d9843a3-f913-42d9-9a6a-28c025b1ed4c_nation)
 * [# Upside Down Empire](f01ec4e2-c87e-455e-9713-a75415a4e2c2_nation)
 * [# Jenmark](d2d5cf42-9223-4121-a039-6edb7b09ee6a_nation)
-* [# Consolidation](f12568e4-7702-4010-8089-37de47d112b9_nation)
+* [](f12568e4-7702-4010-8089-37de47d112b9_nation)
 * [# Rhine Confederation](1c564fac-cf58-4550-9568-77c40a92e525_nation)
 * [# Regnum Nivis](be7c9142-a5d6-4c75-9fad-9f78acdb7b2e_nation)
 * [# Itarika](0e8580de-9ac9-4407-99e6-2887a624e5f2_nation)
@@ -203,6 +203,7 @@
 * [# The Capital Of Assyria](094064b0-0ea7-42a9-b7a6-a9302490703d_nation)
 * [# DIVISA PMC](fe0df722-7a8f-4671-9887-c40ff161b7fc_nation)
 * [# City State Of Masolaso](e6dc39fd-c3db-48ae-8a7e-7376e32a178f_nation)
+* [# Qing Dynasty](50907dd8-504f-41f8-a891-1bfae5e6682c_nation)
 * [# Arenic Desert Empire](64c76aa0-5d96-4dfd-a6e8-091054f74b82_nation)
 * [# Brasil](23ab05ab-b20a-4532-843d-238bb1404900_nation)
 * [# Divisa PMC](facf234e-ea6b-4cd9-95bc-2409a842be8a_nation)
