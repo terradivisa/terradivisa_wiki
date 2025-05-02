@@ -6,6 +6,7 @@
 * [Sbeitla_Kingdom](30be9f21-f845-430f-a81e-ed3173449190_nation)
 * [VOC](d6181511-d46e-4633-9ee5-4a66973bc1e6_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
+* [Imperial_Japan](de1bb734-8eda-4567-8b3f-313dabc5f05f_nation)
 * [Koveros](ea9ba555-a645-4148-bac0-e0a0f24ac825_nation)
 * [Communist_South_India](69a05661-2874-48f6-a7e3-d75362ee9c12_nation)
 * [Mauryan_Samrajya](50c33867-21d9-4b86-b5c9-083909843e0f_nation)
