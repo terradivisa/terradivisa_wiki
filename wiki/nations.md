@@ -4,6 +4,7 @@
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
 * [Sbeitla_Kingdom](30be9f21-f845-430f-a81e-ed3173449190_nation)
+* [Polskie_Imperium_Arktyku](f12ca93c-bac3-489f-a052-ef36f810d6f9_nation)
 * [VOC](d6181511-d46e-4633-9ee5-4a66973bc1e6_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Imperial_Japan](de1bb734-8eda-4567-8b3f-313dabc5f05f_nation)
@@ -20,7 +21,6 @@
 * [Slovakia](8910dfee-a7c4-482c-aa15-0618b0eeb7c9_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Dupio](f1878c7e-35db-4788-9ef2-425d07b0887c_nation)
-* [Hercegovina](d8363908-8dd7-427a-a328-c2dae4c77c80_nation)
 
 ## History
 
@@ -214,3 +214,4 @@
 * [# Surnia](7696b248-7c3f-48ed-806a-c45c132b495a_nation)
 * [# Auroria](efd570d8-7111-4179-af8d-c136b7884306_nation)
 * [# monkey](dc8e1714-9629-4ef7-a3c2-50d953986a5b_nation)
+* [# Hercegovina](d8363908-8dd7-427a-a328-c2dae4c77c80_nation)
