@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->312g<!--GDP-->
+- **GDP:** <!--GDP-->170g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Grenlandia](70387e36-c5d9-43d5-88f8-373a6720de18_town)<!--COLONIES-->
+<!--COLONIES-->- [Grenlandia](70387e36-c5d9-43d5-88f8-373a6720de18_town)
+- [Wyspy Owcze](611ded8c-e694-45a0-9cf6-8637d3e28be0_town)<!--COLONIES-->
 
 ---
