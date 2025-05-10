@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->May 07, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader EmperorDazed](EmperorDazed_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Imperator EmperorDazed](EmperorDazed_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->322g<!--GDP-->
+- **GDP:** <!--GDP-->737g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,7 @@
 ## Colonies
 
 <!--COLONIES-->- [Grenlandia](70387e36-c5d9-43d5-88f8-373a6720de18_town)
-- [Wyspy Owcze](611ded8c-e694-45a0-9cf6-8637d3e28be0_town)<!--COLONIES-->
+- [Wyspy Owcze](611ded8c-e694-45a0-9cf6-8637d3e28be0_town)
+- [Schodnia Grenlandia](e0bbab2d-28fa-4899-910a-7ba06124b357_town)<!--COLONIES-->
 
 ---

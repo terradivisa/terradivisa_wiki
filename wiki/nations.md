@@ -5,6 +5,8 @@
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
 * [Sbeitla_Kingdom](30be9f21-f845-430f-a81e-ed3173449190_nation)
 * [VOC](d6181511-d46e-4633-9ee5-4a66973bc1e6_nation)
+* [goon_empire](f1421982-1dab-4c3e-9483-0945f6623fad_nation)
+* [Laos](95c59138-d07c-4535-bb99-4efaf3e52920_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Polish_World_Federation](f12ca93c-bac3-489f-a052-ef36f810d6f9_nation)
 * [Imperial_Japan](de1bb734-8eda-4567-8b3f-313dabc5f05f_nation)
