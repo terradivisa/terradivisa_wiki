@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,394g<!--GDP-->
+- **GDP:** <!--GDP-->1,860g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -39,8 +39,8 @@
 - [Fuji](99b5e1bf-083f-4e56-b82b-415ff03ae02b_town)
 - [Fukuoka](ca813c42-93d7-4898-bcb4-5d3270d8ec10_town)
 - [Hiroshima](a0dea8c2-b8cf-4894-8911-9069a5c592df_town)
-- [Akita](66e4b622-02af-4f91-a9da-ab24031b8977_town)
 - [Kanazawa](875927c3-21c0-41d7-821e-f8c199347fb6_town)
+- [Akita](66e4b622-02af-4f91-a9da-ab24031b8977_town)
 - [Sendai](f001ffec-d9ad-4ee1-9eb5-0598817bb9cd_town)
 - [Niigata](8c96b527-dd92-4461-87c7-263fda96a202_town)
 - [Kochi](338c62a3-8dc3-487c-8db1-bd63fbf0bb33_town)
