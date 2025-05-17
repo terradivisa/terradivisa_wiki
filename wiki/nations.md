@@ -1,13 +1,14 @@
 # Nations
 
+* [ll](80c1c7a2-b71f-4c0e-87d5-a3f9bb45708d_nation)
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sun_Empire](40234093-70a5-4764-8dba-e3d399bdd2ab_nation)
 * [Sbeitla_Kingdom](30be9f21-f845-430f-a81e-ed3173449190_nation)
+* [Auroria](ed7e2cfa-82b7-45ff-9573-6ab219c152a1_nation)
 * [goon_empire](f1421982-1dab-4c3e-9483-0945f6623fad_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Polish_World_Federation](f12ca93c-bac3-489f-a052-ef36f810d6f9_nation)
 * [Imperial_Japan](de1bb734-8eda-4567-8b3f-313dabc5f05f_nation)
-* [Francian_Empire](40c07576-c25c-46bd-8e59-14eae6d07472_nation)
 * [Koveros](ea9ba555-a645-4148-bac0-e0a0f24ac825_nation)
 * [Communist_South_India](69a05661-2874-48f6-a7e3-d75362ee9c12_nation)
 * [Polaris_Coalition](f5cae80c-99a4-43db-b546-f0d373ba8883_nation)
@@ -20,6 +21,7 @@
 * [Slovakia](7e5207bf-3b50-4962-bd66-6624b34d08d7_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Dupio](f1878c7e-35db-4788-9ef2-425d07b0887c_nation)
+* [West_Francia](40c07576-c25c-46bd-8e59-14eae6d07472_nation)
 
 ## History
 
