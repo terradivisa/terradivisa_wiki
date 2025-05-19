@@ -3,7 +3,6 @@
 * [ll](80c1c7a2-b71f-4c0e-87d5-a3f9bb45708d_nation)
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sbeitla_Kingdom](30be9f21-f845-430f-a81e-ed3173449190_nation)
-* [Auroria](ed7e2cfa-82b7-45ff-9573-6ab219c152a1_nation)
 * [goon_empire](f1421982-1dab-4c3e-9483-0945f6623fad_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Imperial_Japan](de1bb734-8eda-4567-8b3f-313dabc5f05f_nation)
@@ -19,7 +18,6 @@
 * [Slovakia](7e5207bf-3b50-4962-bd66-6624b34d08d7_nation)
 * [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [Dupio](f1878c7e-35db-4788-9ef2-425d07b0887c_nation)
-* [West_Francia](40c07576-c25c-46bd-8e59-14eae6d07472_nation)
 
 ## History
 
@@ -221,3 +219,5 @@
 * [# Hercegovina](d8363908-8dd7-427a-a328-c2dae4c77c80_nation)
 * [# Polish World Federation](f12ca93c-bac3-489f-a052-ef36f810d6f9_nation)
 * [# Laos](95c59138-d07c-4535-bb99-4efaf3e52920_nation)
+* [# West Francia](40c07576-c25c-46bd-8e59-14eae6d07472_nation)
+* [# Auroria](ed7e2cfa-82b7-45ff-9573-6ab219c152a1_nation)
