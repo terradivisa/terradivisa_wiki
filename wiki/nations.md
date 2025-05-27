@@ -1,9 +1,10 @@
 # Nations
 
-* [ll](80c1c7a2-b71f-4c0e-87d5-a3f9bb45708d_nation)
 * [British_Empire](31f266db-b8d1-4974-8f6a-36b3e0ccd991_nation)
 * [Sbeitla_Kingdom](30be9f21-f845-430f-a81e-ed3173449190_nation)
+* [Hawaii](80c1c7a2-b71f-4c0e-87d5-a3f9bb45708d_nation)
 * [goon_empire](f1421982-1dab-4c3e-9483-0945f6623fad_nation)
+* [MidlandV2](c73be8bc-8768-4c71-8246-b04eadff190b_nation)
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Imperial_Japan](de1bb734-8eda-4567-8b3f-313dabc5f05f_nation)
 * [Empire_of_Polish_Iceland](c941060b-6226-4895-9ece-001066b3ee1f_nation)
