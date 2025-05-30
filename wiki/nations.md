@@ -17,7 +17,6 @@
 * [The_Kingdom_of_Vitalia](94e0e766-e506-4097-8fc9-4885cef125ed_nation)
 * [Mongol_Khanate](784849cd-39a5-45b6-b65f-6dfa51b513ca_nation)
 * [Slovakia](7e5207bf-3b50-4962-bd66-6624b34d08d7_nation)
-* [United_Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 
 ## History
 
@@ -121,6 +120,7 @@
 * [# South Arabia](73ad7840-48a7-441c-9d34-e39a00f99567_nation)
 * [# 3rd Kampuchean Kingdom](bb626d7e-8837-41d2-ad54-3414a2aed843_nation)
 * [# American Peoples Republic](332d0bec-0d47-468f-9cf7-cc384f5752c4_nation)
+* [# United Kingdom](3f09e81e-dbfd-4533-94df-aa5c3fdd381c_nation)
 * [# Russian Empire](f1a4938f-7cab-4121-9cc7-0a4aa651dc6f_nation)
 * [# GreatSoyGempire](e6896cea-0ba7-45f7-9983-efeaa1ce6252_nation)
 * [# Holy Avion Commonwealth](ccd95fac-be1e-40b9-bcb1-d06bc8431556_nation)
