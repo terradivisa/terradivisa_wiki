@@ -8,7 +8,6 @@
 * [Anarchist_Autonomous_Zone](eb53b5ea-298e-48ad-a104-b612176f22b4_nation)
 * [Empire_of_Polish_Iceland](c941060b-6226-4895-9ece-001066b3ee1f_nation)
 * [Koveros](ea9ba555-a645-4148-bac0-e0a0f24ac825_nation)
-* [Helleno_cypriot_junta](7139727e-593b-4466-bd3c-2734b0242dc2_nation)
 * [Communist_South_India](69a05661-2874-48f6-a7e3-d75362ee9c12_nation)
 * [Polaris_Coalition](f5cae80c-99a4-43db-b546-f0d373ba8883_nation)
 * [Midland](5d899926-3d5c-4aed-a551-114a3091fce1_nation)
@@ -224,3 +223,4 @@
 * [# Laos](95c59138-d07c-4535-bb99-4efaf3e52920_nation)
 * [# West Francia](40c07576-c25c-46bd-8e59-14eae6d07472_nation)
 * [# Auroria](ed7e2cfa-82b7-45ff-9573-6ab219c152a1_nation)
+* [# Helleno cypriot junta](7139727e-593b-4466-bd3c-2734b0242dc2_nation)
