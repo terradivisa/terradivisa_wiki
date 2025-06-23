@@ -108,7 +108,7 @@
 * [# Fortissimum](1672f554-9994-4974-ba80-c55ac5d6eba5_nation)
 * [# Ottoman Balkan](45108fcc-5d18-4fa0-ba19-955bced7d6d0_nation)
 * [# Majapahit](bfe3dc66-04c0-4b5a-a3b6-e04922f7c6c4_nation)
-* [# Kentucky](912d0f3e-7101-4106-88b8-0403b07cabb8_nation)
+* [<none>](912d0f3e-7101-4106-88b8-0403b07cabb8_nation)
 * [# Kingdom of Arabia](369a4b54-e22c-4175-ab42-5e29e9f17fa7_nation)
 * [# Subantarctica](a9939d71-b49a-4b74-b329-7b73b6ba4b08_nation)
 * [# Australia](f262d9ce-1c71-4d88-b73e-f02c916c4cee_nation)
