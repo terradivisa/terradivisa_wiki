@@ -14,7 +14,6 @@
 * [UAE](21fc91d3-c3b5-4d69-80be-b61feaa42514_nation)
 * [The_Kingdom_of_Vitalia](94e0e766-e506-4097-8fc9-4885cef125ed_nation)
 * [Mongol_Khanate](784849cd-39a5-45b6-b65f-6dfa51b513ca_nation)
-* [Slovakia](7e5207bf-3b50-4962-bd66-6624b34d08d7_nation)
 
 ## History
 
@@ -108,7 +107,7 @@
 * [# Fortissimum](1672f554-9994-4974-ba80-c55ac5d6eba5_nation)
 * [# Ottoman Balkan](45108fcc-5d18-4fa0-ba19-955bced7d6d0_nation)
 * [# Majapahit](bfe3dc66-04c0-4b5a-a3b6-e04922f7c6c4_nation)
-* [<none>](912d0f3e-7101-4106-88b8-0403b07cabb8_nation)
+* [# Kentucky](912d0f3e-7101-4106-88b8-0403b07cabb8_nation)
 * [# Kingdom of Arabia](369a4b54-e22c-4175-ab42-5e29e9f17fa7_nation)
 * [# Subantarctica](a9939d71-b49a-4b74-b329-7b73b6ba4b08_nation)
 * [# Australia](f262d9ce-1c71-4d88-b73e-f02c916c4cee_nation)
@@ -221,6 +220,7 @@
 * [# Polish World Federation](f12ca93c-bac3-489f-a052-ef36f810d6f9_nation)
 * [# Laos](95c59138-d07c-4535-bb99-4efaf3e52920_nation)
 * [# West Francia](40c07576-c25c-46bd-8e59-14eae6d07472_nation)
+* [# Slovakia](7e5207bf-3b50-4962-bd66-6624b34d08d7_nation)
 * [# Auroria](ed7e2cfa-82b7-45ff-9573-6ab219c152a1_nation)
 * [# Empire of Polish Iceland](c941060b-6226-4895-9ece-001066b3ee1f_nation)
 * [# Helleno cypriot junta](7139727e-593b-4466-bd3c-2734b0242dc2_nation)
