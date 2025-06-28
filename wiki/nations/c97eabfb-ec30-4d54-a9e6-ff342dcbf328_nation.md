@@ -1,0 +1,35 @@
+<!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
+# <!--NAME-->GermanDemocraticRepublic<!--NAME-->
+
+## Overview
+
+- **Capital:** <!--CAPITAL_LINK-->[Berlin](039fef4f-0c3c-41e6-b1aa-c8453a6c83ff_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
+
+---
+
+## Government
+
+- **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader FloppaJesus](FloppaJesus_user)<!--LEADER_TITLE_LINK-->
+- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+
+---
+
+## Economy
+
+- **GDP:** <!--GDP-->121g<!--GDP-->
+- **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
+
+---
+
+## Towns
+
+<!--TOWNS-->- [Berlin](039fef4f-0c3c-41e6-b1aa-c8453a6c83ff_town)<!--TOWNS-->
+
+## Colonies
+
+<!--COLONIES--><!--COLONIES-->
+
+---
