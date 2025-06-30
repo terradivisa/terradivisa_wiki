@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Berlin](039fef4f-0c3c-41e6-b1aa-c8453a6c83ff_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader FloppaJesus](FloppaJesus_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Communist<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->121g<!--GDP-->
+- **GDP:** <!--GDP-->503g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->France<!--NAME-->
+# <!--NAME-->Denmark<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Paris](3218e520-66b7-42d7-b105-82e6242d2bee_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Aalborg](7bb744f3-4249-4b5b-b2e3-2470e29a28b1_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->8<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,23 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Komrade_ZKS Le Roi](Komrade_ZKS_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->June 29, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Calisto_Floof](Calisto_Floof_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,683g<!--GDP-->
+- **GDP:** <!--GDP-->236g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Monaco](c6e5ddbe-74c1-4e8d-b224-5f6e50b1e291_town)
-- [Paris](3218e520-66b7-42d7-b105-82e6242d2bee_town)<!--TOWNS-->
+<!--TOWNS-->- [Aalborg](7bb744f3-4249-4b5b-b2e3-2470e29a28b1_town)<!--TOWNS-->
 
 ## Colonies
 
