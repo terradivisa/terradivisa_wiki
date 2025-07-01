@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Polynesia<!--NAME-->
+# <!--NAME-->Floritania<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Aotearoa](9a574588-4af0-485f-afbf-7714aa336a81_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Althergard](46916f43-7498-4b0d-a0af-0a68ce7472e8_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 30, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader RRatKingg](RRatKingg_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Fake4](Fake4_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->630g<!--GDP-->
+- **GDP:** <!--GDP-->94g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Aotearoa](9a574588-4af0-485f-afbf-7714aa336a81_town)<!--TOWNS-->
+<!--TOWNS-->- [Althergard](46916f43-7498-4b0d-a0af-0a68ce7472e8_town)<!--TOWNS-->
 
 ## Colonies
 

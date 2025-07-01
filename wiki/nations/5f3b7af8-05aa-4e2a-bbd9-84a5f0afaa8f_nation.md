@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,468g<!--GDP-->
+- **GDP:** <!--GDP-->3,153g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,8 +28,7 @@
 
 <!--TOWNS-->- [Meridian Republic](058bf787-d69d-462d-b032-f5e847d6916a_town)
 - [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
-- [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)
-- [vinland](44768fbc-b42c-4062-82fd-84e81297fda9_town)<!--TOWNS-->
+- [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)<!--TOWNS-->
 
 ## Colonies
 

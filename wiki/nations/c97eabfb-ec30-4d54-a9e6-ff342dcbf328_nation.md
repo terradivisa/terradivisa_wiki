@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->503g<!--GDP-->
+- **GDP:** <!--GDP-->777g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Berlin](039fef4f-0c3c-41e6-b1aa-c8453a6c83ff_town)<!--TOWNS-->
+<!--TOWNS-->- [Berlin](039fef4f-0c3c-41e6-b1aa-c8453a6c83ff_town)
+- [Goshalia](aacddcab-0b94-41fa-a367-d9767d1b2306_town)<!--TOWNS-->
 
 ## Colonies
 

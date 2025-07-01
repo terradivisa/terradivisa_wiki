@@ -9,13 +9,15 @@
 * [Hungary](8d823212-f7ad-470f-aea7-a1494a2169b1_nation)
 * [Pax_Americana](a70da837-7777-42bd-b500-d5ca7ab9f58b_nation)
 * [Trinity_Corp](44341e24-8136-428e-93df-9c5be5128864_nation)
+* [Floritania](0eec93a3-9cd8-42dd-b18e-2f4bb836f942_nation)
 * [Macedonian_Empire](55f20694-4aee-4ee5-b80f-25bd51df646d_nation)
 * [Denmark](42d8239a-f2af-4ac6-b1fc-0bee6713c9f2_nation)
-* [Far-East](c789e345-1517-4b47-9751-af9f2de4853f_nation)
+* [Dagestan](05987e1a-7970-4c64-b471-2053d8a71b1b_nation)
 * [cat](150a1ae6-0bcc-4857-b330-184e8569213e_nation)
 * [Kingdom_of_Iceland](ba9e848d-3924-45ba-bba6-b1b03e6db96a_nation)
 * [France](9f561244-4995-4229-8fc5-c80eacb659b2_nation)
 * [Ottoman_Empire](4e9816c9-1e49-4f9f-97be-9797311fae8e_nation)
+* [saga](e0e5262d-ac13-4727-8895-784574857caa_nation)
 * [Doganate](64fb858e-6a17-4b92-a03c-ae224f4ac5c3_nation)
 * [Pacific_States_of_America](9a6255fc-2b9e-4a9a-a878-7ec991cb8b22_nation)
 * [GermanDemocraticRepublic](c97eabfb-ec30-4d54-a9e6-ff342dcbf328_nation)
@@ -32,6 +34,7 @@
 * [Imperium_Romanum](9cd6fbfa-e0eb-4e79-a7f2-5c3713d1d958_nation)
 * [Islamic_empire](2163be0c-e582-4153-97b7-0e58c29f6876_nation)
 * [Eldian_Empire](745f8aa5-4ae1-4162-958f-a772a78c4f96_nation)
+* [Siberia](c789e345-1517-4b47-9751-af9f2de4853f_nation)
 
 ## History
 

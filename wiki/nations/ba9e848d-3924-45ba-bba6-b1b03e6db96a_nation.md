@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Iceland](1adfdb62-919f-4d40-a4c9-8e8703d45fd4_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,381g<!--GDP-->
+- **GDP:** <!--GDP-->6,561g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
