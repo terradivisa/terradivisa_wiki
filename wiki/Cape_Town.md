@@ -13,6 +13,7 @@ _This article is on the city of Cape Town. For the nation of The Cape, click [he
 
 - **Date Founded:** <!--FOUNDED-->June 18, 2025<!--FOUNDED-->
 - **Mayor:** <!--LEADER_TITLE_LINK-->[Count Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
+
 ---
 
 ## Economy
