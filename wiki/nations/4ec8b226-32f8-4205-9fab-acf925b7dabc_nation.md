@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->United Nations<!--NAME-->
+# <!--NAME-->Brazil<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Antwerp](9990174d-96ab-4958-839d-54d245fa3695_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Sao Bernardo Do Campo](aa8f8088-765b-4fd1-a519-c0ff0feae946_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader happyperson3796](happyperson3796_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->July 02, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Lucas02294](Lucas02294_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,439g<!--GDP-->
+- **GDP:** <!--GDP-->176g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Antwerp](9990174d-96ab-4958-839d-54d245fa3695_town)<!--TOWNS-->
+<!--TOWNS-->- [Sao Bernardo Do Campo](aa8f8088-765b-4fd1-a519-c0ff0feae946_town)<!--TOWNS-->
 
 ## Colonies
 

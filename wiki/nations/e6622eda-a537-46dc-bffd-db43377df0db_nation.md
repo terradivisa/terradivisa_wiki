@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[sylvicar](9a556217-3f0e-4651-8534-625895599152_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,997g<!--GDP-->
+- **GDP:** <!--GDP-->2,395g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Cravendale](bcb34508-8239-4613-a47e-d1b709fad6e9_town)
+<!--TOWNS-->- [Barcelona](ecf5edc0-0dd1-4dde-9767-edc7371d53fc_town)
+- [Cravendale](bcb34508-8239-4613-a47e-d1b709fad6e9_town)
 - [sylvicar](9a556217-3f0e-4651-8534-625895599152_town)<!--TOWNS-->
 
 ## Colonies
