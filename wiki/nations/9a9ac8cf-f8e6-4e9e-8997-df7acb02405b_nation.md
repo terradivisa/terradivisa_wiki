@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->British Empire<!--NAME-->
+# <!--NAME-->Kingdom of Aigyptos<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[London](3c4b58f7-c3a3-4258-bf88-9a52c392bac1_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Alexandria](a1dd5c87-2fcc-4da6-a7c4-7dc636239b46_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->July 02, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader MrTea0209](MrTea0209_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader LuciousWiz123](LuciousWiz123_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->289g<!--GDP-->
+- **GDP:** <!--GDP-->842g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [London](3c4b58f7-c3a3-4258-bf88-9a52c392bac1_town)<!--TOWNS-->
+<!--TOWNS-->- [Alexandria](a1dd5c87-2fcc-4da6-a7c4-7dc636239b46_town)<!--TOWNS-->
 
 ## Colonies
 

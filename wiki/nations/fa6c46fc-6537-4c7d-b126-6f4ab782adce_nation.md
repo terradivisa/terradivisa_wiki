@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,439g<!--GDP-->
+- **GDP:** <!--GDP-->5,721g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,9 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [The Red Line](23cec623-7a09-4655-a2b1-805faf1a5c53_town)
+- [New Brussels](943e5583-7de2-4144-8392-e742d9dc4440_town)
+- [Queensland Company](c5744ab9-262a-4bf6-870d-e0d9999226f8_town)
+- [New Antwerp](3d49ea0e-ec38-472e-9177-fac1c99f895c_town)<!--COLONIES-->
 
 ---

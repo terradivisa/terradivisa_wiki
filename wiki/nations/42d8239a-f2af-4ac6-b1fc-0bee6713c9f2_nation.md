@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->256g<!--GDP-->
+- **GDP:** <!--GDP-->345g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Ny Danmark](59841819-c2da-46ed-abc3-7dfd5f56c003_town)<!--COLONIES-->
 
 ---
