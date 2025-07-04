@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Aalborg](7bb744f3-4249-4b5b-b2e3-2470e29a28b1_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->10<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->345g<!--GDP-->
+- **GDP:** <!--GDP-->362g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Ny Danmark](59841819-c2da-46ed-abc3-7dfd5f56c003_town)<!--COLONIES-->
+<!--COLONIES-->- [Faroe Islands](5605eadb-9c64-40b3-8f1d-56206bd6b1a5_town)
+- [Cyrenaica](b9f34ab4-dd45-4285-b637-31bbaee6ce13_town)<!--COLONIES-->
 
 ---
