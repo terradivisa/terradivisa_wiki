@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Count Nyctatyrannus](Nyctatyrannus_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,005g<!--GDP-->
+- **GDP:** <!--GDP-->7,705g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

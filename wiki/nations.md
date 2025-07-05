@@ -25,6 +25,7 @@
 * [GermanDemocraticRepublic](c97eabfb-ec30-4d54-a9e6-ff342dcbf328_nation)
 * [Auroria](0d76093c-d660-434e-b11c-f22f5ba66b06_nation)
 * [Third_Persian_Empire](4d641d23-7f01-4699-b2e7-dce3f3511021_nation)
+* [Wruyan_Empire](fad696c9-1a07-4383-bb0e-d0663f6cef97_nation)
 * [The_Cape](5f3b7af8-05aa-4e2a-bbd9-84a5f0afaa8f_nation)
 * [Kingdom_of_Aigyptos](9a9ac8cf-f8e6-4e9e-8997-df7acb02405b_nation)
 * [Drakonia](15ffc35b-72b8-4e9a-9ac3-f85d96eb457f_nation)
