@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Islamic empire<!--NAME-->
+# <!--NAME-->Antarctica<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Mecca](38596a12-3901-4c31-8738-38a664883325_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Base 01](abe68815-8110-4d96-a11d-a4026c3f3b6b_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 30, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Omar_Alnajar](Omar_Alnajar_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->July 07, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Tobinio_](Tobinio__user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->66g<!--GDP-->
+- **GDP:** <!--GDP-->815g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Mecca](38596a12-3901-4c31-8738-38a664883325_town)<!--TOWNS-->
+<!--TOWNS-->- [Base 01](abe68815-8110-4d96-a11d-a4026c3f3b6b_town)<!--TOWNS-->
 
 ## Colonies
 
