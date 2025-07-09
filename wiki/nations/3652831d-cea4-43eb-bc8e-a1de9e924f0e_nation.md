@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Teutonic Order<!--NAME-->
+# <!--NAME-->IMF<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Konigsberg](d4247aa6-ad39-42d1-ad8b-180f008ca556_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Bengal](7cb1e606-b683-4534-976f-bc57b1e6713e_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->July 08, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader UniPM](UniPM_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->July 09, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Zoldalma](Zoldalma_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->21g<!--GDP-->
+- **GDP:** <!--GDP-->676g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Konigsberg](d4247aa6-ad39-42d1-ad8b-180f008ca556_town)<!--TOWNS-->
+<!--TOWNS-->- [Bengal](7cb1e606-b683-4534-976f-bc57b1e6713e_town)<!--TOWNS-->
 
 ## Colonies
 

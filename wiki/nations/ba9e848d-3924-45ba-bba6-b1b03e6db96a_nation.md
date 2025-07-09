@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Iceland](1adfdb62-919f-4d40-a4c9-8e8703d45fd4_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->5<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,787g<!--GDP-->
+- **GDP:** <!--GDP-->6,777g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,6 +33,7 @@
 <!--COLONIES-->- [Southeastern Australia](6762129a-2fb7-4573-90c4-1c0481c6d74e_town)
 - [Greenland](8efc83c0-36c0-44dd-be08-f3cd0bc9d2af_town)
 - [Jalisco](2963b2ea-721d-4c05-93a2-38d71c1ae7e5_town)
+- [Kitikmeot](3cebfbcf-6eef-481b-bcb6-377ab41c3a3a_town)
 - [New Reykjavik](b83abdf0-8d74-48d2-bcac-24a7cbeedecd_town)
 - [Simpson Desert](c3a0f452-5a4a-4bb1-a994-2e69c77357ef_town)
 - [Kuwait](36ba040e-e2c8-4e44-92b0-750cc4b4bd4e_town)

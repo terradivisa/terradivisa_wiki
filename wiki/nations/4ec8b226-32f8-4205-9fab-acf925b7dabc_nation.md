@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->332g<!--GDP-->
+- **GDP:** <!--GDP-->364g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,8 +30,11 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Rio](727d6474-9545-4199-b2c2-782abe08f02f_town)
+<!--COLONIES-->- [Santa](6fc83d30-755b-42c8-b22e-34e3ef9f6784_town)
+- [Rio](727d6474-9545-4199-b2c2-782abe08f02f_town)
 - [Parana](8cdf5451-f059-45e8-92be-84f7770d6063_town)
-- [Bahia](9c6cc0e3-55e1-4888-ab15-73de85e6d2d3_town)<!--COLONIES-->
+- [Bahia](9c6cc0e3-55e1-4888-ab15-73de85e6d2d3_town)
+- [Sul](a0321172-fe37-49ea-8a15-af4d14dc53d7_town)
+- [Espirito](09f60ea9-24bf-46bf-abc2-6971851ea438_town)<!--COLONIES-->
 
 ---

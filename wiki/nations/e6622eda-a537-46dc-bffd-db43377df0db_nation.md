@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[sylvicar](9a556217-3f0e-4651-8534-625895599152_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->14<!--POPULATION-->
+- **Population:** <!--POPULATION-->19<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,243g<!--GDP-->
+- **GDP:** <!--GDP-->4,764g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
