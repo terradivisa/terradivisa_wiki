@@ -19,15 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,208g<!--GDP-->
+- **GDP:** <!--GDP-->4,736g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Alexandria](a1dd5c87-2fcc-4da6-a7c4-7dc636239b46_town)
-- [Mecca](38596a12-3901-4c31-8738-38a664883325_town)<!--TOWNS-->
+<!--TOWNS-->- [Mecca](38596a12-3901-4c31-8738-38a664883325_town)
+- [Alexandria](a1dd5c87-2fcc-4da6-a7c4-7dc636239b46_town)<!--TOWNS-->
 
 ## Colonies
 

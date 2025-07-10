@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,777g<!--GDP-->
+- **GDP:** <!--GDP-->6,735g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -40,6 +40,7 @@
 - [Citronen Fjord](b27dd3eb-adf2-457f-8b19-5cc954a0079f_town)
 - [Bashjj Land](46fbe60b-3a42-4971-8ca0-46535b29b67f_town)
 - [Kangaatsiaq](d1550401-147d-4737-903c-bf9f3ee11c61_town)
+- [Inuvik](91cebf55-8d16-4261-86c1-4ebe05bdd7ad_town)
 - [Port Nycta](b6c8d59f-0141-4fa7-b9af-4ccf403f6526_town)<!--COLONIES-->
 
 ---

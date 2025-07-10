@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->27<!--POPULATION-->
+- **Population:** <!--POPULATION-->26<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,26 +19,32 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,707g<!--GDP-->
+- **GDP:** <!--GDP-->25,558g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
+<!--TOWNS-->- [scoots land](03993e81-cc99-4e63-a7af-c9095aa00803_town)
+- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
 - [snowington city](982d808b-7e8c-4c9a-a490-e49d3077d46e_town)
-- [Outpost 1](cd39c931-b7e6-4af5-a2aa-4df2ab3dc865_town)
 - [Lagos](d75a1626-3a7a-4e06-89fb-6b9d8c208292_town)
 - [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
-- [scoots land](03993e81-cc99-4e63-a7af-c9095aa00803_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
 
 ## Colonies
 
 <!--COLONIES-->- [Fort Monroe](45e4e2c0-3ea5-487c-9fc2-63b328fe564e_town)
-- [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
 - [New New New Brussels](8b09e02f-4466-49ee-9a3e-d5952358bc1f_town)
-- [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)<!--COLONIES-->
+- [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
+- [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
+- [Port Victoria](e1f1470e-06d9-4e57-acdd-b6b92817f85f_town)
+- [Adelaide](135bca1a-5642-4886-924c-6d437c84f555_town)
+- [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
+- [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)
+- [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
+- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)
+- [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)<!--COLONIES-->
 
 ---
