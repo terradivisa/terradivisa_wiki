@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->26<!--POPULATION-->
+- **Population:** <!--POPULATION-->27<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->25,558g<!--GDP-->
+- **GDP:** <!--GDP-->25,615g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,7 +31,8 @@
 - [snowington city](982d808b-7e8c-4c9a-a490-e49d3077d46e_town)
 - [Lagos](d75a1626-3a7a-4e06-89fb-6b9d8c208292_town)
 - [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
+- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)<!--TOWNS-->
 
 ## Colonies
 
@@ -44,7 +45,8 @@
 - [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
 - [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
-- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)
-- [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)<!--COLONIES-->
+- [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
+- [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
+- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)<!--COLONIES-->
 
 ---

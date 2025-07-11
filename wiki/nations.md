@@ -1,7 +1,6 @@
 # Nations
 
 * [Confoederatio_Helvetica](e6b76521-4420-4bcb-8b85-7d63f74ec577_nation)
-* [Brazil](4ec8b226-32f8-4205-9fab-acf925b7dabc_nation)
 * [United_Nations](fa6c46fc-6537-4c7d-b126-6f4ab782adce_nation)
 * [Polynesia](71f7028a-c777-4858-aa04-b36294e55912_nation)
 * [Polish_Ulucia](fe87bd9d-b6d8-4420-b026-2469777ab45d_nation)
@@ -27,12 +26,12 @@
 * [Yue_Dynasty](9d53f0ea-8d1f-41fd-9bc1-0c32e19b1550_nation)
 * [GermanDemocraticRepublic](c97eabfb-ec30-4d54-a9e6-ff342dcbf328_nation)
 * [Auroria](0d76093c-d660-434e-b11c-f22f5ba66b06_nation)
-* [Third_Persian_Empire](4d641d23-7f01-4699-b2e7-dce3f3511021_nation)
 * [Wruyan_Empire](fad696c9-1a07-4383-bb0e-d0663f6cef97_nation)
+* [French_Polynesia](676d97b9-a435-4fe2-a65f-4bd81683508a_nation)
 * [Antarctica](3f112e73-1ec9-40de-b8ed-60a1dfcaf779_nation)
 * [Theocratic_Avion_State](26c00b13-326d-4a1f-aa0c-557355bd3d81_nation)
+* [Empire_Of_Brazil](4ec8b226-32f8-4205-9fab-acf925b7dabc_nation)
 * [The_Cape](5f3b7af8-05aa-4e2a-bbd9-84a5f0afaa8f_nation)
-* [Kingdom_of_Aigyptos](9a9ac8cf-f8e6-4e9e-8997-df7acb02405b_nation)
 * [Drakonia](15ffc35b-72b8-4e9a-9ac3-f85d96eb457f_nation)
 * [Holy_Russian_Empire](d04b6d8d-6028-4834-b83b-1ac3b6477d1a_nation)
 * [Okhotskian_League](5c7b4ee7-3dd3-44e5-89f9-298157a77d51_nation)
@@ -40,9 +39,10 @@
 * [The_Great_Lakes](f7fd9dd2-0989-4955-a798-a25efbbf595b_nation)
 * [Imperium_Romanum](9cd6fbfa-e0eb-4e79-a7f2-5c3713d1d958_nation)
 * [AnCapistan](631eb111-f2f9-4d20-b76a-7bc038965160_nation)
+* [Directorate_of_Egypt](9a9ac8cf-f8e6-4e9e-8997-df7acb02405b_nation)
+* [Federal_Complex](2e9545b0-78ff-4a24-ac9c-5828f43cc48d_nation)
 * [IMC](2bffd983-2ada-458f-9e1d-10ed75a64088_nation)
 * [Eldian_Empire](745f8aa5-4ae1-4162-958f-a772a78c4f96_nation)
-* [Siberia](c789e345-1517-4b47-9751-af9f2de4853f_nation)
 * [Knights_Hospitaller](72fa7f8c-c987-41c4-8051-dbe83bf68627_nation)
 
 ## History
@@ -272,6 +272,8 @@
 * [# Castle Kingdom](8e28b14c-b1f9-4a29-af90-606d1eafa1c6_nation)
 * [# Teutonic Order](b55e6e50-1dd5-40ee-8075-9e29757103eb_nation)
 * [# Australian Empire](da98567b-0987-4d5c-9b1d-b17184cbab52_nation)
+* [# Siberia](c789e345-1517-4b47-9751-af9f2de4853f_nation)
+* [# Third Persian Empire](4d641d23-7f01-4699-b2e7-dce3f3511021_nation)
 * [# Antarctica](1ab709f8-3679-4b1b-ae09-f7e03199e4a7_nation)
 * [# Islamic empire](2163be0c-e582-4153-97b7-0e58c29f6876_nation)
 * [# Floritania](0eec93a3-9cd8-42dd-b18e-2f4bb836f942_nation)
