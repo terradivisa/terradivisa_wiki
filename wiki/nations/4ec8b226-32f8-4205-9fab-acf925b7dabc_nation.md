@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Sao Bernardo Do Campo](aa8f8088-765b-4fd1-a519-c0ff0feae946_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Sul](a0321172-fe37-49ea-8a15-af4d14dc53d7_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->July 02, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Lucas02294](Lucas02294_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader NPC23](NPC23_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->715g<!--GDP-->
+- **GDP:** <!--GDP-->486g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sao Bernardo Do Campo](aa8f8088-765b-4fd1-a519-c0ff0feae946_town)
-- [Rio de Janeiro](91dca677-99a7-4a21-86f3-b474ce1b964c_town)<!--TOWNS-->
+<!--TOWNS-->- [Rio de Janeiro](91dca677-99a7-4a21-86f3-b474ce1b964c_town)<!--TOWNS-->
 
 ## Colonies
 

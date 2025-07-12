@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->27<!--POPULATION-->
+- **Population:** <!--POPULATION-->26<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,25 +19,25 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->25,615g<!--GDP-->
+- **GDP:** <!--GDP-->24,577g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [scoots land](03993e81-cc99-4e63-a7af-c9095aa00803_town)
-- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
+<!--TOWNS-->- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
 - [snowington city](982d808b-7e8c-4c9a-a490-e49d3077d46e_town)
+- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
 - [Lagos](d75a1626-3a7a-4e06-89fb-6b9d8c208292_town)
 - [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
-- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
 
 ## Colonies
 
 <!--COLONIES-->- [Fort Monroe](45e4e2c0-3ea5-487c-9fc2-63b328fe564e_town)
 - [New New New Brussels](8b09e02f-4466-49ee-9a3e-d5952358bc1f_town)
+- [Port ACB](16ee6817-3e3c-4cb4-b8b3-76699ccbbfee_town)
 - [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
 - [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
 - [Port Victoria](e1f1470e-06d9-4e57-acdd-b6b92817f85f_town)

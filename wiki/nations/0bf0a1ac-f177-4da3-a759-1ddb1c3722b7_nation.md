@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->721g<!--GDP-->
+- **GDP:** <!--GDP-->735g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,10 +30,16 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Pakistani Washington DC](5c77e7ca-a237-498e-826b-2e1e25b16306_town)
+<!--COLONIES-->- [Pakistani Germany](6cfe6c5e-dbf3-4710-9ad4-a4ac1de8ca2d_town)
+- [Pakistani Kashmir](bbaef276-c441-49a3-a2cd-c3b46189d72c_town)
+- [Pakistani Washington DC](5c77e7ca-a237-498e-826b-2e1e25b16306_town)
 - [Pakistani McDonalds](33c0d91f-68e5-4c68-a490-c66ba5f63905_town)
+- [Pakistani Japan](b3c88f23-a884-4945-b345-a5dbd2aede01_town)
 - [Pakistani Jamaica](c4b4c0c9-0939-4fec-8599-626eed6e4c44_town)
 - [Pakistani South Carolina](2c6214fe-bfd4-421c-9479-540380e6620c_town)
-- [Pakistani North Carolina](0baf5871-643d-4fdb-90cf-b8d3c1ad08a0_town)<!--COLONIES-->
+- [Pakistani North Carolina](0baf5871-643d-4fdb-90cf-b8d3c1ad08a0_town)
+- [Pakistani India](b33b14c0-c24b-4979-b0de-72850a3e793b_town)
+- [Pakistani Palestine](6190f20c-28fc-441d-be9d-a7ee6a7844ca_town)
+- [Pakistani London](c6404745-4b3b-4e30-b631-cdd8f16905a3_town)<!--COLONIES-->
 
 ---
