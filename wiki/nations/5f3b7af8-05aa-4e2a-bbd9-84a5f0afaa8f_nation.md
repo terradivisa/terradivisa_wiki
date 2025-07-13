@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->24,577g<!--GDP-->
+- **GDP:** <!--GDP-->24,652g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -29,9 +29,9 @@
 <!--TOWNS-->- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
 - [snowington city](982d808b-7e8c-4c9a-a490-e49d3077d46e_town)
 - [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
-- [Lagos](d75a1626-3a7a-4e06-89fb-6b9d8c208292_town)
 - [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
+- [Fort Gauge](714f3c4b-ccbf-4aba-b7ff-23f5d02fbc0c_town)<!--TOWNS-->
 
 ## Colonies
 

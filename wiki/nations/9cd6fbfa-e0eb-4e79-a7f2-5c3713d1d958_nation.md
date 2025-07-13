@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Roma](78bdb124-08b3-4e79-bddc-3298d24db347_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->25<!--POPULATION-->
+- **Population:** <!--POPULATION-->23<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->760g<!--GDP-->
+- **GDP:** <!--GDP-->659g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Roma](78bdb124-08b3-4e79-bddc-3298d24db347_town)
-- [Dacian State](a3efb88f-caef-4576-a4e2-e03afac5c04a_town)
-- [Sardinia et Corsica](d220d067-7f01-4fe4-9c9d-1a6d0d0836d4_town)<!--TOWNS-->
+- [Dacian State](a3efb88f-caef-4576-a4e2-e03afac5c04a_town)<!--TOWNS-->
 
 ## Colonies
 
