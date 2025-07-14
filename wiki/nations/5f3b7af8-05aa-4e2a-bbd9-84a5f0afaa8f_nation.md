@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[King Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Corporatocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->24,652g<!--GDP-->
+- **GDP:** <!--GDP-->22,570g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -47,6 +47,8 @@
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
 - [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
-- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)<!--COLONIES-->
+- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)
+- [test](f848f19f-043d-450a-9f8e-0c65248bf903_town)
+- [Angola](002d6046-9aa2-44ee-9d41-6c0323bc05f7_town)<!--COLONIES-->
 
 ---

@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Drakonia<!--NAME-->
+# <!--NAME-->Republic of Ukraine<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Drakonia](1286aba6-4ec5-44bc-a4da-b10d23547b3c_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Kyiv](39999057-ba05-431d-a254-940617c89398_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 29, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader RojiFishyFish](RojiFishyFish_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->July 13, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader MrTea0209](MrTea0209_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->326g<!--GDP-->
+- **GDP:** <!--GDP-->265g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Drakonia](1286aba6-4ec5-44bc-a4da-b10d23547b3c_town)<!--TOWNS-->
+<!--TOWNS-->- [Kyiv](39999057-ba05-431d-a254-940617c89398_town)<!--TOWNS-->
 
 ## Colonies
 
