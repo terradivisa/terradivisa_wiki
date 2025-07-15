@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,093g<!--GDP-->
+- **GDP:** <!--GDP-->790g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,6 +33,6 @@
 <!--COLONIES-->- [Ny Juteland](03227c11-70d5-4df2-b628-e63e097e3542_town)
 - [Aluk Avalleq](aafd624a-43c7-4075-a4e8-33aee57f09e9_town)
 - [Faroe Islands](5605eadb-9c64-40b3-8f1d-56206bd6b1a5_town)
-- [Cyrenaica](b9f34ab4-dd45-4285-b637-31bbaee6ce13_town)<!--COLONIES-->
+- [Tunis](212bb430-8f0f-44d0-aae6-8b977e84e6cc_town)<!--COLONIES-->
 
 ---
