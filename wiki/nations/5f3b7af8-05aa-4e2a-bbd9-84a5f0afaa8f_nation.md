@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->21,763g<!--GDP-->
+- **GDP:** <!--GDP-->21,723g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -40,7 +40,6 @@
 - [Port ACB](16ee6817-3e3c-4cb4-b8b3-76699ccbbfee_town)
 - [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
 - [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
-- [Port Victoria](e1f1470e-06d9-4e57-acdd-b6b92817f85f_town)
 - [Adelaide](135bca1a-5642-4886-924c-6d437c84f555_town)
 - [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
 - [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)

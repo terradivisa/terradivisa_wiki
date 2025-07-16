@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,069g<!--GDP-->
+- **GDP:** <!--GDP-->2,116g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,6 +34,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Cyrenaica](b9f34ab4-dd45-4285-b637-31bbaee6ce13_town)<!--COLONIES-->
+<!--COLONIES-->- [Spanish Libya](b9f34ab4-dd45-4285-b637-31bbaee6ce13_town)<!--COLONIES-->
 
 ---

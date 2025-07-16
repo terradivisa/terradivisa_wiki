@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Nyctatyrannus](Nyctatyrannus_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Duke Nyctatyrannus](Nyctatyrannus_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->7,779g<!--GDP-->
+- **GDP:** <!--GDP-->7,350g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -41,6 +41,7 @@
 - [Bashjj Land](46fbe60b-3a42-4971-8ca0-46535b29b67f_town)
 - [Kangaatsiaq](d1550401-147d-4737-903c-bf9f3ee11c61_town)
 - [Inuvik](91cebf55-8d16-4261-86c1-4ebe05bdd7ad_town)
+- [Jan Mayen](9c6211b9-2f38-4c27-8e09-32cde96b023c_town)
 - [Port Nycta](b6c8d59f-0141-4fa7-b9af-4ccf403f6526_town)<!--COLONIES-->
 
 ---
