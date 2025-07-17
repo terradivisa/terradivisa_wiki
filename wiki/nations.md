@@ -1,6 +1,5 @@
 # Nations
 
-* [Confoederatio_Helvetica](e6b76521-4420-4bcb-8b85-7d63f74ec577_nation)
 * [United_Nations](fa6c46fc-6537-4c7d-b126-6f4ab782adce_nation)
 * [Polynesia](71f7028a-c777-4858-aa04-b36294e55912_nation)
 * [Polish_Ulucia](fe87bd9d-b6d8-4420-b026-2469777ab45d_nation)
@@ -271,6 +270,7 @@
 * [# Empire of Polish Iceland](c941060b-6226-4895-9ece-001066b3ee1f_nation)
 * [# Helleno cypriot junta](7139727e-593b-4466-bd3c-2734b0242dc2_nation)
 * [# MidlandV2](c73be8bc-8768-4c71-8246-b04eadff190b_nation)
+* [# Confoederatio Helvetica](e6b76521-4420-4bcb-8b85-7d63f74ec577_nation)
 * [# Libya](2a939174-44b2-4c97-9760-6cfa996b8d3a_nation)
 * [# Castle Kingdom](8e28b14c-b1f9-4a29-af90-606d1eafa1c6_nation)
 * [# Teutonic Order](b55e6e50-1dd5-40ee-8075-9e29757103eb_nation)

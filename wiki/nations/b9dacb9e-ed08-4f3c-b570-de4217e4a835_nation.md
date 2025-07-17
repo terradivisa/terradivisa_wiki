@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Srpsko Carstvo](d6b17a36-7615-4b69-a103-686c5ad19dce_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Population:** <!--POPULATION-->11<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->July 08, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ttracuer](ttracuer_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count ttracuer](ttracuer_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->980g<!--GDP-->
+- **GDP:** <!--GDP-->2,591g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [republika srpska krajina](f02956bb-8d44-47dd-8fd8-c04952290177_town)
-- [Srpsko Carstvo](d6b17a36-7615-4b69-a103-686c5ad19dce_town)<!--TOWNS-->
+- [Srpsko Carstvo](d6b17a36-7615-4b69-a103-686c5ad19dce_town)
+- [Fiume](29cebc38-66b4-4880-a777-60bf8757677a_town)<!--TOWNS-->
 
 ## Colonies
 
