@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->20,697g<!--GDP-->
+- **GDP:** <!--GDP-->17,437g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -48,6 +48,7 @@
 - [Wakanda](6c13bc9d-11cc-4609-9231-0728f94bcdc6_town)
 - [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
+- [Lisaland](fc1e047f-5865-4352-ad68-1f38acfcb762_town)
 - [Angola](002d6046-9aa2-44ee-9d41-6c0323bc05f7_town)
 - [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)<!--COLONIES-->
 

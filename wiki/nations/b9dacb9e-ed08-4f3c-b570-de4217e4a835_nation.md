@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,591g<!--GDP-->
+- **GDP:** <!--GDP-->2,589g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [republika srpska krajina](f02956bb-8d44-47dd-8fd8-c04952290177_town)
-- [Srpsko Carstvo](d6b17a36-7615-4b69-a103-686c5ad19dce_town)
-- [Fiume](29cebc38-66b4-4880-a777-60bf8757677a_town)<!--TOWNS-->
+- [Fiume](29cebc38-66b4-4880-a777-60bf8757677a_town)
+- [Srpsko Carstvo](d6b17a36-7615-4b69-a103-686c5ad19dce_town)<!--TOWNS-->
 
 ## Colonies
 
