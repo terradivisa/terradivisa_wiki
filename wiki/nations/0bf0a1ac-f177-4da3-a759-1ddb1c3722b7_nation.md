@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,437g<!--GDP-->
+- **GDP:** <!--GDP-->11,853g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,6 +38,7 @@
 - [Pakistani South Carolina](2c6214fe-bfd4-421c-9479-540380e6620c_town)
 - [Pakistani North Carolina](0baf5871-643d-4fdb-90cf-b8d3c1ad08a0_town)
 - [Pakistani India](b33b14c0-c24b-4979-b0de-72850a3e793b_town)
-- [Pakistani Palestine](6190f20c-28fc-441d-be9d-a7ee6a7844ca_town)<!--COLONIES-->
+- [Pakistani Palestine](6190f20c-28fc-441d-be9d-a7ee6a7844ca_town)
+- [Pakistani Okinawa](cf386db7-698d-435b-a946-1e30f5bfe65e_town)<!--COLONIES-->
 
 ---
