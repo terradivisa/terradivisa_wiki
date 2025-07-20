@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->25<!--POPULATION-->
+- **Population:** <!--POPULATION-->23<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->17,422g<!--GDP-->
+- **GDP:** <!--GDP-->17,269g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,7 +28,6 @@
 
 <!--TOWNS-->- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
 - [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
-- [johannesburg](f75f03fc-5bbd-49e1-a22b-3ac4660dee31_town)
 - [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
 - [Fort Gauge](714f3c4b-ccbf-4aba-b7ff-23f5d02fbc0c_town)<!--TOWNS-->
 
