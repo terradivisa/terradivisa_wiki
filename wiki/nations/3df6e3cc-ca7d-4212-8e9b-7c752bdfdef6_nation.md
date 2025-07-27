@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->New California<!--NAME-->
+# <!--NAME-->Jamaica<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Uelen](2728c4b4-97e5-428c-b5da-fd375dee5081_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[New Kingston](41e78752-9177-45af-8ed5-02ca30726b68_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->July 20, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Lukinjo_](Lukinjo__user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->July 27, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader DiamondLyght](DiamondLyght_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,832g<!--GDP-->
+- **GDP:** <!--GDP-->127g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Uelen](2728c4b4-97e5-428c-b5da-fd375dee5081_town)<!--TOWNS-->
+<!--TOWNS-->- [New Kingston](41e78752-9177-45af-8ed5-02ca30726b68_town)<!--TOWNS-->
 
 ## Colonies
 

@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->24<!--POPULATION-->
+- **Population:** <!--POPULATION-->23<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->17,169g<!--GDP-->
+- **GDP:** <!--GDP-->17,003g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Mutapa](b4522674-b0c8-4dfd-886f-9cb385fd6ca7_town)
-- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
+<!--TOWNS-->- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
 - [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
 - [Fort Gauge](714f3c4b-ccbf-4aba-b7ff-23f5d02fbc0c_town)<!--TOWNS-->
 
@@ -46,6 +45,7 @@
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
 - [Wakanda](6c13bc9d-11cc-4609-9231-0728f94bcdc6_town)
 - [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
+- [Jewbouti](1b9b90b2-cd02-4783-b449-01f4d9fa2d55_town)
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
 - [Lisaland](fc1e047f-5865-4352-ad68-1f38acfcb762_town)
 - [Angola](002d6046-9aa2-44ee-9d41-6c0323bc05f7_town)
