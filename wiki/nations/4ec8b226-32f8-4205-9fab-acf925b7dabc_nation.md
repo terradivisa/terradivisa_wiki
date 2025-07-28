@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sul](a0321172-fe37-49ea-8a15-af4d14dc53d7_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Population:** <!--POPULATION-->0<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->378g<!--GDP-->
+- **GDP:** <!--GDP-->320g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Rio de Janeiro](91dca677-99a7-4a21-86f3-b474ce1b964c_town)<!--TOWNS-->
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 

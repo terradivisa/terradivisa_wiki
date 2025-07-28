@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->17,003g<!--GDP-->
+- **GDP:** <!--GDP-->16,934g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,7 +35,6 @@
 <!--COLONIES-->- [Fort Monroe](45e4e2c0-3ea5-487c-9fc2-63b328fe564e_town)
 - [New New New Brussels](8b09e02f-4466-49ee-9a3e-d5952358bc1f_town)
 - [test](f848f19f-043d-450a-9f8e-0c65248bf903_town)
-- [Port ACB](16ee6817-3e3c-4cb4-b8b3-76699ccbbfee_town)
 - [Gabrone](ebbfab93-2de6-47c4-940e-7b28cb7af5be_town)
 - [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
 - [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
