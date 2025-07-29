@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->16,934g<!--GDP-->
+- **GDP:** <!--GDP-->16,584g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -42,8 +42,8 @@
 - [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
 - [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
-- [Wakanda](6c13bc9d-11cc-4609-9231-0728f94bcdc6_town)
 - [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
+- [Wakanda](6c13bc9d-11cc-4609-9231-0728f94bcdc6_town)
 - [Jewbouti](1b9b90b2-cd02-4783-b449-01f4d9fa2d55_town)
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
 - [Lisaland](fc1e047f-5865-4352-ad68-1f38acfcb762_town)
