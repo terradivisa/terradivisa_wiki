@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->23<!--POPULATION-->
+- **Population:** <!--POPULATION-->22<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[King Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Corporatocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->16,584g<!--GDP-->
+- **GDP:** <!--GDP-->16,904g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
-- [Fort Gauge](714f3c4b-ccbf-4aba-b7ff-23f5d02fbc0c_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
 
 ## Colonies
 
