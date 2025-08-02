@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->22<!--POPULATION-->
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->16,884g<!--GDP-->
+- **GDP:** <!--GDP-->12,048g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,6 +38,7 @@
 - [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
 - [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
 - [Adelaide](135bca1a-5642-4886-924c-6d437c84f555_town)
+- [Shitfire](a0a1f5bc-53c5-4bd4-bd3b-ae6421b8ed5f_town)
 - [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
 - [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
