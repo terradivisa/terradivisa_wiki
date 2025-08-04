@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[sylvicar](9a556217-3f0e-4651-8534-625895599152_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,295g<!--GDP-->
+- **GDP:** <!--GDP-->1,347g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,11 +27,10 @@
 ## Towns
 
 <!--TOWNS-->- [Madrid](650aeee0-fb99-4558-afb8-86e0debc716d_town)
-- [Arenia](6589a544-49a9-4b57-ad36-b92cac80c7b8_town)
 - [sylvicar](9a556217-3f0e-4651-8534-625895599152_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Spanish Libya](b9f34ab4-dd45-4285-b637-31bbaee6ce13_town)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
