@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[King Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Corporatocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->11,819g<!--GDP-->
+- **GDP:** <!--GDP-->11,552g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
+- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)<!--TOWNS-->
 
 ## Colonies
 
@@ -48,6 +49,7 @@
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
 - [Lisaland](fc1e047f-5865-4352-ad68-1f38acfcb762_town)
 - [Angola](002d6046-9aa2-44ee-9d41-6c0323bc05f7_town)
-- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)<!--COLONIES-->
+- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)
+- [Siargao](482542d2-a45f-4be8-abbf-fa40e00a058e_town)<!--COLONIES-->
 
 ---

@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,722g<!--GDP-->
+- **GDP:** <!--GDP-->5,168g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,8 +32,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Figi](d8dcaebd-be80-481b-a015-6dece92cf4ce_town)
-- [Andezaragon](8b87b433-f4ad-413f-b977-ea194f076a30_town)
-- [yamen](c04ac862-5def-4f51-a110-3161f3ebea05_town)<!--COLONIES-->
+<!--COLONIES-->- [Andezaragon](8b87b433-f4ad-413f-b977-ea194f076a30_town)
+- [yamen](c04ac862-5def-4f51-a110-3161f3ebea05_town)
+- [Fiji](d8dcaebd-be80-481b-a015-6dece92cf4ce_town)<!--COLONIES-->
 
 ---
