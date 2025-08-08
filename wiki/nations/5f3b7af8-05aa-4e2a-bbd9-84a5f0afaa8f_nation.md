@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->11,552g<!--GDP-->
+- **GDP:** <!--GDP-->11,352g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,12 +27,13 @@
 ## Towns
 
 <!--TOWNS-->- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
-- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)<!--TOWNS-->
+- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
 
 ## Colonies
 
 <!--COLONIES-->- [Fort Monroe](45e4e2c0-3ea5-487c-9fc2-63b328fe564e_town)
+- [Siargao](482542d2-a45f-4be8-abbf-fa40e00a058e_town)
 - [New New New Brussels](8b09e02f-4466-49ee-9a3e-d5952358bc1f_town)
 - [test](f848f19f-043d-450a-9f8e-0c65248bf903_town)
 - [Gabrone](ebbfab93-2de6-47c4-940e-7b28cb7af5be_town)
@@ -49,7 +50,6 @@
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
 - [Lisaland](fc1e047f-5865-4352-ad68-1f38acfcb762_town)
 - [Angola](002d6046-9aa2-44ee-9d41-6c0323bc05f7_town)
-- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)
-- [Siargao](482542d2-a45f-4be8-abbf-fa40e00a058e_town)<!--COLONIES-->
+- [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)<!--COLONIES-->
 
 ---
