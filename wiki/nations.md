@@ -6,7 +6,6 @@
 * [Euroasian_Federation](9b3e96e1-4f87-4dad-9e12-07045f9e6726_nation)
 * [Monaco](71975025-7966-4f68-8927-f714c57061f8_nation)
 * [Pax_Americana](a70da837-7777-42bd-b500-d5ca7ab9f58b_nation)
-* [Republica_Do_Brasil](a3723c0a-a3a9-42b0-81c5-454a6bec253a_nation)
 * [Denmark](42d8239a-f2af-4ac6-b1fc-0bee6713c9f2_nation)
 * [Alaska](921ca4f3-2c89-44fa-a924-6a83024eb62c_nation)
 * [cat](150a1ae6-0bcc-4857-b330-184e8569213e_nation)
@@ -314,4 +313,5 @@
 * [# romania](a5ead074-1088-495d-a390-3b02f089f05c_nation)
 * [# Dagestan](341e253f-081f-4678-bc94-9c2209e16c8e_nation)
 * [# Subterra](d59b000e-df57-460f-9220-92d9adae4add_nation)
+* [# Republica Do Brasil](a3723c0a-a3a9-42b0-81c5-454a6bec253a_nation)
 * [# Floritania](db9ec513-dc55-4e64-88e6-d822dcd21948_nation)
