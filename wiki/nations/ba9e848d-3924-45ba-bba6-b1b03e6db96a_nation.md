@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Iceland](1adfdb62-919f-4d40-a4c9-8e8703d45fd4_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Southeastern Australia](6762129a-2fb7-4573-90c4-1c0481c6d74e_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->0<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Duke Nyctatyrannus](Nyctatyrannus_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count NPC68](NPC68_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,923g<!--GDP-->
+- **GDP:** <!--GDP-->1,611g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Iceland](1adfdb62-919f-4d40-a4c9-8e8703d45fd4_town)<!--TOWNS-->
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 
