@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Antwerp](9990174d-96ab-4958-839d-54d245fa3695_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[New Brussels](943e5583-7de2-4144-8392-e742d9dc4440_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->0<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader happyperson3797](happyperson3797_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader NPC63](NPC63_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->272g<!--GDP-->
+- **GDP:** <!--GDP-->212g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Antwerp](9990174d-96ab-4958-839d-54d245fa3695_town)<!--TOWNS-->
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 
