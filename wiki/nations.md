@@ -1,7 +1,6 @@
 # Nations
 
 * [United_Nations](fa6c46fc-6537-4c7d-b126-6f4ab782adce_nation)
-* [Polynesia](71f7028a-c777-4858-aa04-b36294e55912_nation)
 * [Unemployed_syndicate](6e6a044f-2d0b-499f-b634-0d8519c1c326_nation)
 * [Euroasian_Federation](9b3e96e1-4f87-4dad-9e12-07045f9e6726_nation)
 * [Monaco](71975025-7966-4f68-8927-f714c57061f8_nation)
@@ -257,6 +256,7 @@
 * [# Castle Kingdom](8e28b14c-b1f9-4a29-af90-606d1eafa1c6_nation)
 * [# Austria Hungary](8d823212-f7ad-470f-aea7-a1494a2169b1_nation)
 * [# France](9f561244-4995-4229-8fc5-c80eacb659b2_nation)
+* [# Polynesia](71f7028a-c777-4858-aa04-b36294e55912_nation)
 * [# Teutonic Order](b55e6e50-1dd5-40ee-8075-9e29757103eb_nation)
 * [# Australian Empire](da98567b-0987-4d5c-9b1d-b17184cbab52_nation)
 * [# United Trinity Empire](44341e24-8136-428e-93df-9c5be5128864_nation)
