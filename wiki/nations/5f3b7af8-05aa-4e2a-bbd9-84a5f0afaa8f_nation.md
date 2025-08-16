@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,610g<!--GDP-->
+- **GDP:** <!--GDP-->9,586g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -43,6 +43,7 @@
 - [Shitfire](a0a1f5bc-53c5-4bd4-bd3b-ae6421b8ed5f_town)
 - [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
 - [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)
+- [ACBLandia](71f57ef8-bd68-4bde-a758-230024f1f5ed_town)
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
 - [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
 - [Wakanda](6c13bc9d-11cc-4609-9231-0728f94bcdc6_town)
