@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->534g<!--GDP-->
+- **GDP:** <!--GDP-->500g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,11 +30,11 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Golden Coast](4a98fe50-a019-42cf-b3cd-60426aecce3d_town)
-- [Australian Vanuatu](92d288fd-03ff-4d65-8ab5-afc53d8c2e8d_town)
-- [Port Victoria](e1f1470e-06d9-4e57-acdd-b6b92817f85f_town)
+<!--COLONIES-->- [Port Victoria](e1f1470e-06d9-4e57-acdd-b6b92817f85f_town)
+- [Golden Coast](4a98fe50-a019-42cf-b3cd-60426aecce3d_town)
 - [Sydney](ad36de25-cbf0-4f8b-8f93-b9d4ce7634c7_town)
 - [Australian Phillipines](7265c680-b94e-4e18-b3a9-2697da7aecda_town)
-- [Singapore](4ae731c4-f0b6-4661-be6d-4087ea5410ab_town)<!--COLONIES-->
+- [Singapore](4ae731c4-f0b6-4661-be6d-4087ea5410ab_town)
+- [Australian Vanuatu](92d288fd-03ff-4d65-8ab5-afc53d8c2e8d_town)<!--COLONIES-->
 
 ---

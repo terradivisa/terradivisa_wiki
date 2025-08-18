@@ -19,38 +19,38 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,458g<!--GDP-->
+- **GDP:** <!--GDP-->9,330g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)
-- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
+<!--TOWNS-->- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
+- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Fort Monroe](45e4e2c0-3ea5-487c-9fc2-63b328fe564e_town)
-- [Siargao](482542d2-a45f-4be8-abbf-fa40e00a058e_town)
-- [New New New Brussels](8b09e02f-4466-49ee-9a3e-d5952358bc1f_town)
-- [test](f848f19f-043d-450a-9f8e-0c65248bf903_town)
-- [Gabrone](ebbfab93-2de6-47c4-940e-7b28cb7af5be_town)
-- [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
-- [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
-- [Adelaide](135bca1a-5642-4886-924c-6d437c84f555_town)
+<!--COLONIES-->- [Adelaide](135bca1a-5642-4886-924c-6d437c84f555_town)
+- [Fort Monroe](45e4e2c0-3ea5-487c-9fc2-63b328fe564e_town)
 - [Shitfire](a0a1f5bc-53c5-4bd4-bd3b-ae6421b8ed5f_town)
 - [Bouganville](811aba35-28ae-4306-9f79-e0a169540b95_town)
 - [SwordCoastPrison](ab2f4006-19d0-4943-8dec-c264cdc0d01d_town)
 - [ACBLandia](71f57ef8-bd68-4bde-a758-230024f1f5ed_town)
+- [Siargao](482542d2-a45f-4be8-abbf-fa40e00a058e_town)
 - [Pigism Island](34b77171-8ce9-452e-b3e6-5a6c0476ab72_town)
-- [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
 - [Wakanda](6c13bc9d-11cc-4609-9231-0728f94bcdc6_town)
+- [Butua](62e464db-7049-43cf-bd45-99eb7de379b0_town)
+- [New New New Brussels](8b09e02f-4466-49ee-9a3e-d5952358bc1f_town)
 - [Jewbouti](1b9b90b2-cd02-4783-b449-01f4d9fa2d55_town)
+- [test](f848f19f-043d-450a-9f8e-0c65248bf903_town)
 - [Falkland Fishing Company](011f1a31-8332-4e48-bad4-e92052994bdf_town)
+- [Gabrone](ebbfab93-2de6-47c4-940e-7b28cb7af5be_town)
 - [Lisaland](fc1e047f-5865-4352-ad68-1f38acfcb762_town)
 - [Angola](002d6046-9aa2-44ee-9d41-6c0323bc05f7_town)
+- [The Great Wall](9f97ca02-e8b7-4439-b332-3ada71c5ea36_town)
+- [Port Eden](bb81e9b4-062f-4e2c-91ad-a29218b678f6_town)
 - [Manilla](de1095d4-0f5b-4edc-a0e4-b4c6f0e369b8_town)<!--COLONIES-->
 
 ---

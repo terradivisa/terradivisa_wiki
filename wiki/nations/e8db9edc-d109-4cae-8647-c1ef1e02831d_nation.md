@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,970g<!--GDP-->
+- **GDP:** <!--GDP-->1,908g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,14 +34,14 @@
 - [Magadan](bfda0cf2-5b18-44a0-9cdd-9c88cfcbd427_town)
 - [Chukchi](f86558c4-f096-47ab-b942-c45c4f2d6717_town)
 - [Sakha-Yakutia](88d80328-20aa-414a-ad6c-c8fa02565bfe_town)
+- [Siberia spawner](6a4aa71b-5b13-40ef-823f-0f10ee852e96_town)
 - [Taymyria](5e791c81-5ef1-4186-90a9-874613ab5304_town)
 - [Trinity Spawner Z](fa5e64e5-148f-4ed1-9cd8-2e2b90e630fb_town)
 - [Himalaya](ed037ef7-8c69-431f-bbe1-f733009e468a_town)
 - [Aceh](a31cb963-5879-43ba-af5a-566ad1318e24_town)
+- [Uruguay](a08fc2e8-57c6-4d63-9f4b-1888f98a6148_town)
 - [Kamchatka](e1b4b6ec-6aa0-4fd6-a84b-9f16eb44d169_town)
 - [Cooler Java](cbd0d94c-64ec-45ae-a6df-d1854bbcffdb_town)
-- [Yamalia](695c2fca-7edc-4847-90d4-d29086a5eb1a_town)
-- [Siberia spawner](6a4aa71b-5b13-40ef-823f-0f10ee852e96_town)
-- [Uruguay](a08fc2e8-57c6-4d63-9f4b-1888f98a6148_town)<!--COLONIES-->
+- [Yamalia](695c2fca-7edc-4847-90d4-d29086a5eb1a_town)<!--COLONIES-->
 
 ---
