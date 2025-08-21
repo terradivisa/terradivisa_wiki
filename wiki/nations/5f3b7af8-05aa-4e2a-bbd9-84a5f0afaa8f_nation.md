@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->21<!--POPULATION-->
+- **Population:** <!--POPULATION-->20<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,074g<!--GDP-->
+- **GDP:** <!--GDP-->7,928g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)
-- [Fort Mandela](e1ff7886-9b72-4f48-a334-3cae05b1773d_town)<!--TOWNS-->
+- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
 
 ## Colonies
 
