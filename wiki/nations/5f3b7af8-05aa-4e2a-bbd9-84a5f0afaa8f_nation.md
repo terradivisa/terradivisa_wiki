@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->20<!--POPULATION-->
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->7,610g<!--GDP-->
+- **GDP:** <!--GDP-->9,954g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
