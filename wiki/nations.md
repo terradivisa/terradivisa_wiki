@@ -1,7 +1,6 @@
 # Nations
 
 * [OneStarKindom](8826d0b3-a629-401f-ae4c-2c688c8baf9e_nation)
-* [United_Nations](fa6c46fc-6537-4c7d-b126-6f4ab782adce_nation)
 * [United_Catalonian_Empire](a05fea63-affe-41e6-b31b-0b1d0f3bbe12_nation)
 * [Republic_Of_Brazil](7a61da91-5c47-444e-9c18-b9c7a9d9485d_nation)
 * [New_California](066d1ea2-ccaa-42d2-b475-ef0463321e56_nation)
@@ -249,6 +248,7 @@
 * [# MidlandV2](c73be8bc-8768-4c71-8246-b04eadff190b_nation)
 * [# Confoederatio Helvetica](e6b76521-4420-4bcb-8b85-7d63f74ec577_nation)
 * [# Pacific States of America](9a6255fc-2b9e-4a9a-a878-7ec991cb8b22_nation)
+* [# United Nations](fa6c46fc-6537-4c7d-b126-6f4ab782adce_nation)
 * [# GermanDemocraticRepublic](c97eabfb-ec30-4d54-a9e6-ff342dcbf328_nation)
 * [# Libya](2a939174-44b2-4c97-9760-6cfa996b8d3a_nation)
 * [# Castle Kingdom](8e28b14c-b1f9-4a29-af90-606d1eafa1c6_nation)
