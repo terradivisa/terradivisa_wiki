@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Barcelona](ecf5edc0-0dd1-4dde-9767-edc7371d53fc_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->32<!--POPULATION-->
+- **Population:** <!--POPULATION-->29<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,828g<!--GDP-->
+- **GDP:** <!--GDP-->1,721g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Barcelona](ecf5edc0-0dd1-4dde-9767-edc7371d53fc_town)
-- [agartha](385ce0a9-2ed8-4f3a-a9ca-a4664d1f5f99_town)<!--TOWNS-->
+<!--TOWNS-->- [Barcelona](ecf5edc0-0dd1-4dde-9767-edc7371d53fc_town)<!--TOWNS-->
 
 ## Colonies
 
