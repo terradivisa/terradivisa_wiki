@@ -12,6 +12,7 @@
 * [Alaska](921ca4f3-2c89-44fa-a924-6a83024eb62c_nation)
 * [cat](150a1ae6-0bcc-4857-b330-184e8569213e_nation)
 * [Kingdom_of_Iceland](ba9e848d-3924-45ba-bba6-b1b03e6db96a_nation)
+* [Cordoba](b808a1c4-5c80-4ee6-b40f-3d07618276c9_nation)
 * [Knights_Hospitalier](72fa7f8c-c987-41c4-8051-dbe83bf68627_nation)
 * [Pufferfish_Confederation](ee7603bc-de0b-404a-b385-8079b7366157_nation)
 * [Island_Traders](a6787213-640f-4ed4-9aaf-30b51f2c2b7e_nation)
