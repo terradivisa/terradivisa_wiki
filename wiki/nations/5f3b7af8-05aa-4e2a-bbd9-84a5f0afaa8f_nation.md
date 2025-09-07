@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->21<!--POPULATION-->
+- **Population:** <!--POPULATION-->19<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->June 28, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Emperor Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[King Cold_Gauge](Cold_Gauge_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Corporatocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,376g<!--GDP-->
+- **GDP:** <!--GDP-->7,774g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Victoria](37d57db5-c5a8-402c-854d-8314116a0782_town)
-- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
+<!--TOWNS-->- [Cape Town](bcdb45fa-b102-415d-a916-c32a045b9549_town)<!--TOWNS-->
 
 ## Colonies
 
