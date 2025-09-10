@@ -1,12 +1,12 @@
 # Nations
 
+* [Lunaris](10d7e3e8-2051-4a4f-8734-99da1dac359e_nation)
 * [Republic_Of_Brazil](7a61da91-5c47-444e-9c18-b9c7a9d9485d_nation)
 * [United_Trinity_Empire](e8db9edc-d109-4cae-8647-c1ef1e02831d_nation)
 * [Auroria](0d76093c-d660-434e-b11c-f22f5ba66b06_nation)
 * [Unemployed_syndicate](6e6a044f-2d0b-499f-b634-0d8519c1c326_nation)
 * [Euroasian_Federation](9b3e96e1-4f87-4dad-9e12-07045f9e6726_nation)
 * [Pax_Americana](a70da837-7777-42bd-b500-d5ca7ab9f58b_nation)
-* [The_Jade](10d7e3e8-2051-4a4f-8734-99da1dac359e_nation)
 * [The_Cape](5f3b7af8-05aa-4e2a-bbd9-84a5f0afaa8f_nation)
 * [Alaska](921ca4f3-2c89-44fa-a924-6a83024eb62c_nation)
 * [cat](150a1ae6-0bcc-4857-b330-184e8569213e_nation)
@@ -20,6 +20,7 @@
 * [IMC](2bffd983-2ada-458f-9e1d-10ed75a64088_nation)
 * [Eldian_Empire](745f8aa5-4ae1-4162-958f-a772a78c4f96_nation)
 * [Doganate](64fb858e-6a17-4b92-a03c-ae224f4ac5c3_nation)
+* [TuffasBiscuits](f5ccb1eb-7825-4cc6-b4ce-f8ab13d16494_nation)
 
 ## History
 

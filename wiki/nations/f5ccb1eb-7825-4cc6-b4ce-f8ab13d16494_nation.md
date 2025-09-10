@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Unemployed syndicate<!--NAME-->
+# <!--NAME-->TuffasBiscuits<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Baltimore](af4343e1-a074-4919-946a-86e4dae408e4_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Bulagri](b434f7f4-d821-431c-8097-12c9144ba0eb_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->July 31, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Benomelons](Benomelons_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->September 09, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Unkajo](Unkajo_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,725g<!--GDP-->
+- **GDP:** <!--GDP-->231g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Baltimore](af4343e1-a074-4919-946a-86e4dae408e4_town)<!--TOWNS-->
+<!--TOWNS-->- [Bulagri](b434f7f4-d821-431c-8097-12c9144ba0eb_town)<!--TOWNS-->
 
 ## Colonies
 
