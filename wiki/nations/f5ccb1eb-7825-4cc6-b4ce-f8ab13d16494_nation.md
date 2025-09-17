@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Bulagri](b434f7f4-d821-431c-8097-12c9144ba0eb_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->15<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[shmebulock](42a43452-331c-4add-a240-473d3bf6b6f5_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->September 09, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Unkajo](Unkajo_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Herriett](Herriett_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,848g<!--GDP-->
+- **GDP:** <!--GDP-->288g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Bulagri](b434f7f4-d821-431c-8097-12c9144ba0eb_town)<!--TOWNS-->
+<!--TOWNS-->- [shmebulock](42a43452-331c-4add-a240-473d3bf6b6f5_town)<!--TOWNS-->
 
 ## Colonies
 
