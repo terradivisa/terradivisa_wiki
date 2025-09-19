@@ -3,7 +3,6 @@
 * [Knights_Hospitaliers](da519914-b639-4bd2-a498-0e50b79f11a1_nation)
 * [Lunaris](10d7e3e8-2051-4a4f-8734-99da1dac359e_nation)
 * [Republic_Of_Brazil](7a61da91-5c47-444e-9c18-b9c7a9d9485d_nation)
-* [United_Trinity_Empire](e8db9edc-d109-4cae-8647-c1ef1e02831d_nation)
 * [Auroria](0d76093c-d660-434e-b11c-f22f5ba66b06_nation)
 * [Euroasian_Federation](9b3e96e1-4f87-4dad-9e12-07045f9e6726_nation)
 * [Pax_Americana](a70da837-7777-42bd-b500-d5ca7ab9f58b_nation)
@@ -320,4 +319,5 @@
 * [# Republica Do Brasil](a3723c0a-a3a9-42b0-81c5-454a6bec253a_nation)
 * [# Floritania](db9ec513-dc55-4e64-88e6-d822dcd21948_nation)
 * [# Pufferfish Confederation](ee7603bc-de0b-404a-b385-8079b7366157_nation)
+* [# United Trinity Empire](e8db9edc-d109-4cae-8647-c1ef1e02831d_nation)
 * [# NorweiganCoastalEmpire](3728c8e0-1a9b-4dc7-9095-ce10d610a063_nation)
