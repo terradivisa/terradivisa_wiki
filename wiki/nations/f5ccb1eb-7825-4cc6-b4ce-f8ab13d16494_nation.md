@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Bulagri](b434f7f4-d821-431c-8097-12c9144ba0eb_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->17<!--POPULATION-->
+- **Population:** <!--POPULATION-->16<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->42,455g<!--GDP-->
+- **GDP:** <!--GDP-->41,545g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

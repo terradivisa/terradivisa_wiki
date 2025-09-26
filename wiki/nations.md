@@ -1,5 +1,8 @@
 # Nations
 
+* [United_States](2610c14c-642c-4c88-91ce-db842051dfec_nation)
+* [shmerbulockle](ab1e3ecd-961c-4d6b-92fb-13661bef1964_nation)
+* [Carvalia](a0f8c462-7289-40cd-b1ab-cfe3dcec0857_nation)
 * [a](713075b8-1dfd-49a1-b479-3d56d541f062_nation)
 * [Knights_Hospitaliers](da519914-b639-4bd2-a498-0e50b79f11a1_nation)
 * [Lunaris](10d7e3e8-2051-4a4f-8734-99da1dac359e_nation)
