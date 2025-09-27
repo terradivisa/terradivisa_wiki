@@ -1,7 +1,6 @@
 # Nations
 
 * [United_States](2610c14c-642c-4c88-91ce-db842051dfec_nation)
-* [shmerbulockle](ab1e3ecd-961c-4d6b-92fb-13661bef1964_nation)
 * [Carvalia](a0f8c462-7289-40cd-b1ab-cfe3dcec0857_nation)
 * [a](713075b8-1dfd-49a1-b479-3d56d541f062_nation)
 * [Knights_Hospitaliers](da519914-b639-4bd2-a498-0e50b79f11a1_nation)
@@ -14,6 +13,7 @@
 * [Kingdom_of_Iceland](ba9e848d-3924-45ba-bba6-b1b03e6db96a_nation)
 * [Cordoba](b808a1c4-5c80-4ee6-b40f-3d07618276c9_nation)
 * [Island_Traders](a6787213-640f-4ed4-9aaf-30b51f2c2b7e_nation)
+* [Terraforge](ab1e3ecd-961c-4d6b-92fb-13661bef1964_nation)
 * [Belgium](dd958d09-66a0-4260-a487-f82a75fe29c6_nation)
 * [Neraka_Caliphate](4e9816c9-1e49-4f9f-97be-9797311fae8e_nation)
 * [IMC](2bffd983-2ada-458f-9e1d-10ed75a64088_nation)
