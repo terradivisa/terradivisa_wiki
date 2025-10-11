@@ -1,5 +1,15 @@
 # Nations
 
+* [Republic_of_Juventia](b487f1cd-1977-4ae6-a42b-8d1a827ed5f6_nation)
+* [Rzeczpospolita_Polska](78403af5-12c3-4a7d-85bb-584f04ce221c_nation)
+* [British_Empire](e94513b1-5cdf-4146-a60e-d2ec4bb43420_nation)
+* [Milano](4e79a6c2-7c92-4c76-9e51-d6a3852cf118_nation)
+* [BlevvMelonEmpire](c1dd3808-b728-4a57-a5ae-51a7d081f972_nation)
+* [Madagascar](fb7c4423-7c1f-4680-86b7-c73ea8f6f0a8_nation)
+* [Prussian_Empire](bf25e10a-8981-424f-a439-9ab5eff2fdc6_nation)
+* [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
+* [Australian_Empire](1566773e-f7eb-45f6-afde-38b9fbd8e15d_nation)
+* [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 
 ## History
 
