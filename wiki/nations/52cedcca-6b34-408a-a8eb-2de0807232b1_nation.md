@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italia Meridionale](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->11<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,971g<!--GDP-->
+- **GDP:** <!--GDP-->4,161g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,6 +33,9 @@
 
 ## Colonies
 
-<!--COLONIES-->- [RMC Necochea](0110d382-6410-4634-bb8b-4c1765f2b15d_town)<!--COLONIES-->
+<!--COLONIES-->- [RMC AustraliaII](2268332f-8358-4556-976c-e0348586c51c_town)
+- [RMC AustraliaI](d71a378b-b817-4fc2-aeaa-04c45789dcf4_town)
+- [RMC LakeVictoria](1a5f11ec-d10e-4ffe-935f-1719d2d853dc_town)
+- [RMC Necochea](0110d382-6410-4634-bb8b-4c1765f2b15d_town)<!--COLONIES-->
 
 ---
