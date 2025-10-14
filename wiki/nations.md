@@ -11,6 +11,7 @@
 * [BlevvMelonEmpire](c1dd3808-b728-4a57-a5ae-51a7d081f972_nation)
 * [Second_Mongol_Empire](0f4d52e0-97eb-44fb-b498-6495efa8d611_nation)
 * [Prussian_Empire](bf25e10a-8981-424f-a439-9ab5eff2fdc6_nation)
+* [North_Korea](8fae1b88-a499-480e-88ed-3505b46a40e6_nation)
 * [Australian_Empire](1566773e-f7eb-45f6-afde-38b9fbd8e15d_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Mobius](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
@@ -19,7 +20,6 @@
 * [Japanese_Empire](61c6be18-5887-409a-ae30-93aeb51037a4_nation)
 * [Madagascar](fb7c4423-7c1f-4680-86b7-c73ea8f6f0a8_nation)
 * [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
-* [Saudi_Arabia](fad8720e-57cb-4f12-9b99-6ed2442d5cd9_nation)
 * [Congolese_Trading_Company](bbd31994-ce61-45a7-8858-fc5ca165322c_nation)
 
 ## History
@@ -348,3 +348,4 @@
 * [# Carvalia](a0f8c462-7289-40cd-b1ab-cfe3dcec0857_nation)
 * [# Imperium Germanicum](50a4e5d8-eba4-4858-9949-b65c30ff7b72_nation)
 * [# Palestine](0fd62229-a645-43d9-acdf-1b81170fb556_nation)
+* [# Saudi Arabia](fad8720e-57cb-4f12-9b99-6ed2442d5cd9_nation)
