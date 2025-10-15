@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Town](21f29310-3bca-44a0-a3c9-3ed9a67c86a3_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->859g<!--GDP-->
+- **GDP:** <!--GDP-->261g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Perth](ad45758d-d573-40cc-9bab-0e5d0e10009e_town)
-- [Town](21f29310-3bca-44a0-a3c9-3ed9a67c86a3_town)<!--TOWNS-->
+<!--TOWNS-->- [Town](21f29310-3bca-44a0-a3c9-3ed9a67c86a3_town)<!--TOWNS-->
 
 ## Colonies
 

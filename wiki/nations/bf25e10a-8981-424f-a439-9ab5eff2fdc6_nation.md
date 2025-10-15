@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Konigsberg](a3f07a4f-27b2-4e7d-ac4d-1e8019013294_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->20<!--POPULATION-->
+- **Population:** <!--POPULATION-->14<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,710g<!--GDP-->
+- **GDP:** <!--GDP-->2,873g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,8 +28,7 @@
 
 <!--TOWNS-->- [the hague](8d7ced24-69ba-43b6-9de3-2b5633b54507_town)
 - [Konigsberg](a3f07a4f-27b2-4e7d-ac4d-1e8019013294_town)
-- [Riga](b0b723b4-e2a3-40d3-ac13-5fdbb04d929f_town)
-- [Vanguard](43a857db-13d0-45c3-b63f-b436f6487159_town)<!--TOWNS-->
+- [Riga](b0b723b4-e2a3-40d3-ac13-5fdbb04d929f_town)<!--TOWNS-->
 
 ## Colonies
 
