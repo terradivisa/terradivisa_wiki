@@ -15,6 +15,7 @@
 * [Australian_Empire](1566773e-f7eb-45f6-afde-38b9fbd8e15d_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Mobius](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
+* [Congolese_Indonesia](703310bd-520f-4901-b39d-698179d8cfb2_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
 * [Mexico](0f431306-f57b-47d3-9a4a-9823a24fca37_nation)
 * [Qatar](ab095fca-17c1-4a3a-9807-4a7508225438_nation)
