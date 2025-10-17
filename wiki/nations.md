@@ -1,7 +1,6 @@
 # Nations
 
 * [United_States](a893102f-f265-4bda-993f-82288485fe95_nation)
-* [Spanish_Empire](ae13a30c-8be5-4d64-9b76-0294f820d9eb_nation)
 * [Rzeczpospolita_Polska](78403af5-12c3-4a7d-85bb-584f04ce221c_nation)
 * [British_Empire](e94513b1-5cdf-4146-a60e-d2ec4bb43420_nation)
 * [Imperium_Byzantium](0ae69338-5bd6-440a-93a8-a507326cbe02_nation)
@@ -15,7 +14,7 @@
 * [Australian_Empire](1566773e-f7eb-45f6-afde-38b9fbd8e15d_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Mobius](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
-* [Congolese_Indonesia](703310bd-520f-4901-b39d-698179d8cfb2_nation)
+* [Indonesia](3db06690-046d-4d67-92c5-854d56c195ba_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
 * [Mexico](0f431306-f57b-47d3-9a4a-9823a24fca37_nation)
 * [Qatar](ab095fca-17c1-4a3a-9807-4a7508225438_nation)
@@ -350,7 +349,9 @@
 * [# Carvalia](a0f8c462-7289-40cd-b1ab-cfe3dcec0857_nation)
 * [# Republic of Juventia](b487f1cd-1977-4ae6-a42b-8d1a827ed5f6_nation)
 * [# BlevvMelonEmpire](c1dd3808-b728-4a57-a5ae-51a7d081f972_nation)
+* [# Spanish Empire](ae13a30c-8be5-4d64-9b76-0294f820d9eb_nation)
 * [# Imperium Germanicum](50a4e5d8-eba4-4858-9949-b65c30ff7b72_nation)
 * [# Palestine](0fd62229-a645-43d9-acdf-1b81170fb556_nation)
 * [# Tokugawa Shogunate](0e301e23-88e5-48f5-a708-2c36b0ace7f5_nation)
 * [# Saudi Arabia](fad8720e-57cb-4f12-9b99-6ed2442d5cd9_nation)
+* [# Congolese Indonesia](703310bd-520f-4901-b39d-698179d8cfb2_nation)
