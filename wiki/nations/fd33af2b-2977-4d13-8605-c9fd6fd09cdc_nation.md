@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,552g<!--GDP-->
+- **GDP:** <!--GDP-->1,967g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Persepolis](ff464e5f-9372-48e7-a472-f4e0417ad929_town)
-- [Czechia](d7b59981-4953-4a73-abdf-173e2b712a1b_town)<!--TOWNS-->
+- [Lands of Bohemian Crown](d7b59981-4953-4a73-abdf-173e2b712a1b_town)<!--TOWNS-->
 
 ## Colonies
 
