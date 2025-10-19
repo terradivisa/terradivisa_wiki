@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->219g<!--GDP-->
+- **GDP:** <!--GDP-->189g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [ACB Mining Co](95b38dee-3239-4c98-bbad-ecbc46b9ee38_town)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
