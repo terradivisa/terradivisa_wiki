@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Sparta](5d8f67e3-c7ca-4371-9fe1-9c08c1d84a93_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Costantinopoli](fcbf9448-5203-4214-8692-92cfdd2117e6_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->11<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -19,17 +19,19 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->782g<!--GDP-->
+- **GDP:** <!--GDP-->1,010g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sparta](5d8f67e3-c7ca-4371-9fe1-9c08c1d84a93_town)<!--TOWNS-->
+<!--TOWNS-->- [Sparta](5d8f67e3-c7ca-4371-9fe1-9c08c1d84a93_town)
+- [Costantinopoli](fcbf9448-5203-4214-8692-92cfdd2117e6_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Anatolia](d6e5a68d-465b-4a90-a885-5e47b6ed07b1_town)<!--COLONIES-->
+<!--COLONIES-->- [Aegyptus](4d9e0ac3-df3d-4e5a-aecd-d07d4246e8c9_town)
+- [Anatolia](d6e5a68d-465b-4a90-a885-5e47b6ed07b1_town)<!--COLONIES-->
 
 ---
