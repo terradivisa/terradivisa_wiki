@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Germany<!--NAME-->
+# <!--NAME-->German Empire<!--NAME-->
 
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Frankfurt](f1a14531-e586-4939-ae99-c18ba13e291c_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->10<!--POPULATION-->
+- **Population:** <!--POPULATION-->11<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,839g<!--GDP-->
+- **GDP:** <!--GDP-->5,558g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

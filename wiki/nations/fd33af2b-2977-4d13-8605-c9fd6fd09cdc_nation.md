@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,693g<!--GDP-->
+- **GDP:** <!--GDP-->2,398g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Agartha](be58f517-9599-4e60-b6a1-93c3d80f4f22_town)<!--COLONIES-->
 
 ---
