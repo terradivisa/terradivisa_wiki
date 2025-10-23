@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->German Empire<!--NAME-->
+# <!--NAME-->Germany<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,558g<!--GDP-->
+- **GDP:** <!--GDP-->5,550g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Persepolis](ff464e5f-9372-48e7-a472-f4e0417ad929_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,398g<!--GDP-->
+- **GDP:** <!--GDP-->1,589g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -1,5 +1,6 @@
 # Nations
 
+* [Germany](68f3aebd-2d21-4b59-b9c4-cd00035aa60c_nation)
 * [World_Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [Second_Mongol_Empire](0f4d52e0-97eb-44fb-b498-6495efa8d611_nation)
 * [Lemondalus](446c6c92-f2bb-447b-ba99-849a6cc51144_nation)
@@ -27,8 +28,8 @@
 * [Qatar](ab095fca-17c1-4a3a-9807-4a7508225438_nation)
 * [Japanese_Empire](61c6be18-5887-409a-ae30-93aeb51037a4_nation)
 * [Canada](4ad38cd0-bfb5-4d4c-a9ff-dce8ec423874_nation)
+* [Norway](1ba470f8-b91b-46cc-ac6d-a0c99680c013_nation)
 * [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
-* [German_Empire](68f3aebd-2d21-4b59-b9c4-cd00035aa60c_nation)
 * [Mobian_America](9a500038-3e68-4600-8fcb-a59bf3496563_nation)
 
 ## History

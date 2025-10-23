@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Carapati](1f094918-7f97-48bd-854a-d492aa9a5829_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->499g<!--GDP-->
+- **GDP:** <!--GDP-->676g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

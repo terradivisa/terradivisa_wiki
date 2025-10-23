@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Konigsberg](a3f07a4f-27b2-4e7d-ac4d-1e8019013294_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->12<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,688g<!--GDP-->
+- **GDP:** <!--GDP-->4,722g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Costantinopoli](fcbf9448-5203-4214-8692-92cfdd2117e6_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->10<!--POPULATION-->
+- **Population:** <!--POPULATION-->11<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,098g<!--GDP-->
+- **GDP:** <!--GDP-->1,097g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
