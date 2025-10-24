@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Romanica<!--NAME-->
+# <!--NAME-->Imperium<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Carapati](1f094918-7f97-48bd-854a-d492aa9a5829_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Gdansk](606b9b50-84ae-49ca-b424-5966021d7bad_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->October 18, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader MATEIr2013](MATEIr2013_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->October 24, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Hyoriian](Hyoriian_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->716g<!--GDP-->
+- **GDP:** <!--GDP-->1,373g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Carapati](1f094918-7f97-48bd-854a-d492aa9a5829_town)<!--TOWNS-->
+<!--TOWNS-->- [Gdansk](606b9b50-84ae-49ca-b424-5966021d7bad_town)<!--TOWNS-->
 
 ## Colonies
 
