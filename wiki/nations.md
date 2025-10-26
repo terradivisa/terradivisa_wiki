@@ -1,11 +1,11 @@
 # Nations
 
+* [Mughal_Empire](5a2ffbe7-54dd-4b7b-ae1a-0e2b548c0059_nation)
 * [Germany](68f3aebd-2d21-4b59-b9c4-cd00035aa60c_nation)
 * [World_Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [Second_Mongol_Empire](0f4d52e0-97eb-44fb-b498-6495efa8d611_nation)
 * [Lemondalus](446c6c92-f2bb-447b-ba99-849a6cc51144_nation)
 * [BlevvMelonEmpire](942693c1-ea56-4e7f-9d77-3562e1058505_nation)
-* [Prussian_Empire](bf25e10a-8981-424f-a439-9ab5eff2fdc6_nation)
 * [Mesopotamia](b5b6db70-242e-44e1-9d10-8b1109ab2b97_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Romanica](df4d269f-42ed-4fb8-af4b-e33b3a3bddfa_nation)
@@ -18,6 +18,7 @@
 * [Rzeczpospolita_Polska](78403af5-12c3-4a7d-85bb-584f04ce221c_nation)
 * [Byzantine_Empire](fcc9224e-b575-42af-a1e9-99ecfc5a5400_nation)
 * [Linia_Union](214bcaed-ecd3-46d9-8172-fa80ed294d11_nation)
+* [Western_Sahara](22a53ff0-2b06-4cb7-bbd1-30f5f15a6dbc_nation)
 * [British_Empire](e94513b1-5cdf-4146-a60e-d2ec4bb43420_nation)
 * [Sun_Empire](09044eeb-8143-4f63-bfea-27715434e691_nation)
 * [Rome_Siege_base](7d87f8f4-cc7c-4e26-8466-281ed9ffb3f0_nation)
@@ -34,7 +35,7 @@
 * [Canada](4ad38cd0-bfb5-4d4c-a9ff-dce8ec423874_nation)
 * [Norway](1ba470f8-b91b-46cc-ac6d-a0c99680c013_nation)
 * [The_Outpost](19f99e3c-13a9-4476-86b9-9127f9e8c792_nation)
-* [Mujahideen](a183c666-b647-430f-887c-b68b6427d296_nation)
+* [Soviet_Cuba](d75efbc3-d7cb-48ba-9e45-5cfe5942c1d2_nation)
 * [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
 * [Mobian_America](9a500038-3e68-4600-8fcb-a59bf3496563_nation)
 
@@ -365,6 +366,7 @@
 * [# Republic of Juventia](b487f1cd-1977-4ae6-a42b-8d1a827ed5f6_nation)
 * [# BlevvMelonEmpire](c1dd3808-b728-4a57-a5ae-51a7d081f972_nation)
 * [# Madagascar](fb7c4423-7c1f-4680-86b7-c73ea8f6f0a8_nation)
+* [# Prussian Empire](bf25e10a-8981-424f-a439-9ab5eff2fdc6_nation)
 * [# Australian Empire](1566773e-f7eb-45f6-afde-38b9fbd8e15d_nation)
 * [# United States](a893102f-f265-4bda-993f-82288485fe95_nation)
 * [# Spanish Empire](ae13a30c-8be5-4d64-9b76-0294f820d9eb_nation)
@@ -377,3 +379,4 @@
 * [# Qatar](ab095fca-17c1-4a3a-9807-4a7508225438_nation)
 * [# Congolese Indonesia](703310bd-520f-4901-b39d-698179d8cfb2_nation)
 * [# Indonesia](3db06690-046d-4d67-92c5-854d56c195ba_nation)
+* [# Mujahideen](a183c666-b647-430f-887c-b68b6427d296_nation)

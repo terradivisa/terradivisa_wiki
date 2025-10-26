@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[South African Empire](ef31c06b-d51c-4fcb-b863-6bac4ba04956_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->8<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,837g<!--GDP-->
+- **GDP:** <!--GDP-->2,676g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
