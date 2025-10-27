@@ -1,7 +1,6 @@
 # Nations
 
 * [Mughal_Empire](5a2ffbe7-54dd-4b7b-ae1a-0e2b548c0059_nation)
-* [Germany](68f3aebd-2d21-4b59-b9c4-cd00035aa60c_nation)
 * [World_Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [Second_Mongol_Empire](0f4d52e0-97eb-44fb-b498-6495efa8d611_nation)
 * [Lemondalus](446c6c92-f2bb-447b-ba99-849a6cc51144_nation)
@@ -31,7 +30,6 @@
 * [UGPD](45d35bdf-f82a-400d-bc02-033e2dee142e_nation)
 * [Mexico](0f431306-f57b-47d3-9a4a-9823a24fca37_nation)
 * [dutch_east_india_company](1df2e83b-a722-49b0-a90f-3ea0148eda90_nation)
-* [Japanese_Empire](61c6be18-5887-409a-ae30-93aeb51037a4_nation)
 * [Canada](4ad38cd0-bfb5-4d4c-a9ff-dce8ec423874_nation)
 * [Norway](1ba470f8-b91b-46cc-ac6d-a0c99680c013_nation)
 * [The_Outpost](19f99e3c-13a9-4476-86b9-9127f9e8c792_nation)
@@ -373,10 +371,12 @@
 * [# Imperium Germanicum](50a4e5d8-eba4-4858-9949-b65c30ff7b72_nation)
 * [# Imperium Byzantium](0ae69338-5bd6-440a-93a8-a507326cbe02_nation)
 * [# Palestine](0fd62229-a645-43d9-acdf-1b81170fb556_nation)
+* [# Japanese Empire](61c6be18-5887-409a-ae30-93aeb51037a4_nation)
 * [# Tokugawa Shogunate](0e301e23-88e5-48f5-a708-2c36b0ace7f5_nation)
 * [# Saudi Arabia](fad8720e-57cb-4f12-9b99-6ed2442d5cd9_nation)
 * [# North Korea](8fae1b88-a499-480e-88ed-3505b46a40e6_nation)
 * [# Qatar](ab095fca-17c1-4a3a-9807-4a7508225438_nation)
 * [# Congolese Indonesia](703310bd-520f-4901-b39d-698179d8cfb2_nation)
 * [# Indonesia](3db06690-046d-4d67-92c5-854d56c195ba_nation)
+* [# Germany](68f3aebd-2d21-4b59-b9c4-cd00035aa60c_nation)
 * [# Mujahideen](a183c666-b647-430f-887c-b68b6427d296_nation)
