@@ -1,6 +1,5 @@
 # Nations
 
-* [Mughal_Empire](5a2ffbe7-54dd-4b7b-ae1a-0e2b548c0059_nation)
 * [World_Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [Second_Mongol_Empire](0f4d52e0-97eb-44fb-b498-6495efa8d611_nation)
 * [Lemondalus](446c6c92-f2bb-447b-ba99-849a6cc51144_nation)
@@ -12,7 +11,6 @@
 * [Massachusetts](d2e83d9f-7ccb-4c75-9f40-39e0ec32f02a_nation)
 * [Zand_Empire](0e03ff37-351b-4f5b-a385-4ec5facb5198_nation)
 * [Congolese_Trading_Company](bbd31994-ce61-45a7-8858-fc5ca165322c_nation)
-* [Uzbekistan](6b2cf2b5-2191-478b-a43e-554c08994cf8_nation)
 * [Frisian_Freedom](4be0481e-982d-4086-81d2-05539b21e783_nation)
 * [Rzeczpospolita_Polska](78403af5-12c3-4a7d-85bb-584f04ce221c_nation)
 * [Byzantine_Empire](fcc9224e-b575-42af-a1e9-99ecfc5a5400_nation)
@@ -21,6 +19,7 @@
 * [British_Empire](e94513b1-5cdf-4146-a60e-d2ec4bb43420_nation)
 * [Sun_Empire](09044eeb-8143-4f63-bfea-27715434e691_nation)
 * [Rome_Siege_base](7d87f8f4-cc7c-4e26-8466-281ed9ffb3f0_nation)
+* [Alabama](a79f68a5-377f-4efc-82a6-1a5470ef018f_nation)
 * [Orange_Free_State](55266d50-95d2-453d-8f57-a8b7d653fe97_nation)
 * [Milano](4e79a6c2-7c92-4c76-9e51-d6a3852cf118_nation)
 * [Austria-Hungary](b71c7910-fc4b-41ec-9c6d-7a8573471d7c_nation)
@@ -379,4 +378,6 @@
 * [# Congolese Indonesia](703310bd-520f-4901-b39d-698179d8cfb2_nation)
 * [# Indonesia](3db06690-046d-4d67-92c5-854d56c195ba_nation)
 * [# Germany](68f3aebd-2d21-4b59-b9c4-cd00035aa60c_nation)
+* [# Uzbekistan](6b2cf2b5-2191-478b-a43e-554c08994cf8_nation)
 * [# Mujahideen](a183c666-b647-430f-887c-b68b6427d296_nation)
+* [# Mughal Empire](5a2ffbe7-54dd-4b7b-ae1a-0e2b548c0059_nation)
