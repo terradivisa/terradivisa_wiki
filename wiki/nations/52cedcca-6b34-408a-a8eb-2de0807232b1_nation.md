@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,598g<!--GDP-->
+- **GDP:** <!--GDP-->4,480g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,8 +34,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [RMC Necochea](0110d382-6410-4634-bb8b-4c1765f2b15d_town)
-- [RMC AustraliaII](2268332f-8358-4556-976c-e0348586c51c_town)
-- [RMC AustraliaI](d71a378b-b817-4fc2-aeaa-04c45789dcf4_town)<!--COLONIES-->
+<!--COLONIES-->- [RMC Necochea](0110d382-6410-4634-bb8b-4c1765f2b15d_town)<!--COLONIES-->
 
 ---
