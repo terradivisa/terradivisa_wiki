@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Italy](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->16<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Roma](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->17<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,283g<!--GDP-->
+- **GDP:** <!--GDP-->9,951g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,8 +28,9 @@
 
 <!--TOWNS-->- [Vienna](7767fc2e-67f8-4c29-8b43-c9f10c076a60_town)
 - [Italia Settentrionale](149c6e69-27de-4455-b3a3-bf84041bfd0f_town)
-- [Italy](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)
-- [Catalonia](69f247c9-abb2-4841-a3f1-35cec83d7ea0_town)<!--TOWNS-->
+- [Roma](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)
+- [Catalonia](69f247c9-abb2-4841-a3f1-35cec83d7ea0_town)
+- [Cyprus](849ce143-dc80-40c1-ad65-56c1562e96c6_town)<!--TOWNS-->
 
 ## Colonies
 
