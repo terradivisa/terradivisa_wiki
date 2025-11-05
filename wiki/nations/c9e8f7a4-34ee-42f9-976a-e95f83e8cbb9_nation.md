@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->The Outpost<!--NAME-->
+# <!--NAME-->Banking Conglomerate<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[The Outpost](f03c6b58-c61b-4a3d-99fa-4f6337ad9061_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->October 23, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader CyberGirlHibiki](CyberGirlHibiki_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->November 04, 2025<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ACB10](ACB10_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,785g<!--GDP-->
+- **GDP:** <!--GDP-->422g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [The Outpost](f03c6b58-c61b-4a3d-99fa-4f6337ad9061_town)<!--TOWNS-->
+<!--TOWNS-->- [Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)<!--TOWNS-->
 
 ## Colonies
 

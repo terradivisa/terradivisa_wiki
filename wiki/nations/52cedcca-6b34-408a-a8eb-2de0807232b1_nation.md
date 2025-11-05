@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Roma](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->15<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Italia Settentrionale](149c6e69-27de-4455-b3a3-bf84041bfd0f_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->October 11, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Augustus bashjj](bashjj_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Nyctatyrannus](Nyctatyrannus_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,966g<!--GDP-->
+- **GDP:** <!--GDP-->9,358g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,6 @@
 ## Towns
 
 <!--TOWNS-->- [Vienna](7767fc2e-67f8-4c29-8b43-c9f10c076a60_town)
-- [Roma](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)
 - [Italia Settentrionale](149c6e69-27de-4455-b3a3-bf84041bfd0f_town)
 - [Cyprus](849ce143-dc80-40c1-ad65-56c1562e96c6_town)<!--TOWNS-->
 
