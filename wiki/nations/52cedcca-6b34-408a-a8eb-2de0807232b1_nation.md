@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Italia Settentrionale](149c6e69-27de-4455-b3a3-bf84041bfd0f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,324g<!--GDP-->
+- **GDP:** <!--GDP-->2,632g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Vienna](7767fc2e-67f8-4c29-8b43-c9f10c076a60_town)
-- [Italia Settentrionale](149c6e69-27de-4455-b3a3-bf84041bfd0f_town)
+<!--TOWNS-->- [Italia Settentrionale](149c6e69-27de-4455-b3a3-bf84041bfd0f_town)
 - [Cyprus](849ce143-dc80-40c1-ad65-56c1562e96c6_town)<!--TOWNS-->
 
 ## Colonies
