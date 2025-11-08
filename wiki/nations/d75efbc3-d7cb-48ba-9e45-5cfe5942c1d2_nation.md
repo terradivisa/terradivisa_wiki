@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->October 26, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[SinOfPride LyptoR5](LyptoR5_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Mujaheed LyptoR5](LyptoR5_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->168g<!--GDP-->
+- **GDP:** <!--GDP-->217g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->November 01, 2025<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader furkan1453bjk](furkan1453bjk_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[FKKBRIT furkan1453bjk](furkan1453bjk_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->538g<!--GDP-->
+- **GDP:** <!--GDP-->1,042g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

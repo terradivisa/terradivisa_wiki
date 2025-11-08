@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->487g<!--GDP-->
+- **GDP:** <!--GDP-->2,023g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)<!--TOWNS-->
+<!--TOWNS-->- [Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)
+- [Gotland](71177175-5d66-4e83-8264-3ff55dc5cd5a_town)<!--TOWNS-->
 
 ## Colonies
 
