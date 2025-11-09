@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Montavera](33e4ad96-0890-4bd4-87f2-0d186b9f30ef_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->217g<!--GDP-->
+- **GDP:** <!--GDP-->211g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Montavera](33e4ad96-0890-4bd4-87f2-0d186b9f30ef_town)<!--TOWNS-->
+<!--TOWNS-->- [Montavera](33e4ad96-0890-4bd4-87f2-0d186b9f30ef_town)
+- [Cairo](c81d4f1f-d873-4088-85ac-61962b054888_town)<!--TOWNS-->
 
 ## Colonies
 
