@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[South African Empire](ef31c06b-d51c-4fcb-b863-6bac4ba04956_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,989g<!--GDP-->
+- **GDP:** <!--GDP-->2,840g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,6 @@
 ## Towns
 
 <!--TOWNS-->- [South African Empire](ef31c06b-d51c-4fcb-b863-6bac4ba04956_town)
-- [Haventown](363cffe1-b5a5-42f9-840c-52b1a7580083_town)
 - [the bigest bird](dd45e1f9-0c2b-4d32-8985-5e6b20f1266a_town)<!--TOWNS-->
 
 ## Colonies
