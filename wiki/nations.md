@@ -6,6 +6,7 @@
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Romanica](df4d269f-42ed-4fb8-af4b-e33b3a3bddfa_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
+* [Onamag](65f99e89-129a-4dbb-8b9c-835e77b63577_nation)
 * [Imperium_Polskie](78403af5-12c3-4a7d-85bb-584f04ce221c_nation)
 * [Zand_Empire](0e03ff37-351b-4f5b-a385-4ec5facb5198_nation)
 * [Congolese_Trading_Company](bbd31994-ce61-45a7-8858-fc5ca165322c_nation)
