@@ -1,5 +1,6 @@
 # Nations
 
+* [USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
 * [World_Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [BlevvMelonEmpire](942693c1-ea56-4e7f-9d77-3562e1058505_nation)
 * [Mesopotamia](b5b6db70-242e-44e1-9d10-8b1109ab2b97_nation)
@@ -26,6 +27,7 @@
 * [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
 * [Balkan_Empire](e2ab9e35-acc4-4b16-b7ac-d356d0b81344_nation)
 * [Hymblond](bf105ef2-da92-4b74-bb18-aeb4e901b709_nation)
+* [justice_for_marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
 
 ## History
 
