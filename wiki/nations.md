@@ -1,7 +1,6 @@
 # Nations
 
 * [USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
-* [World_Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [BlevvMelonEmpire](942693c1-ea56-4e7f-9d77-3562e1058505_nation)
 * [Mesopotamia](b5b6db70-242e-44e1-9d10-8b1109ab2b97_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
@@ -27,7 +26,6 @@
 * [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
 * [Balkan_Empire](e2ab9e35-acc4-4b16-b7ac-d356d0b81344_nation)
 * [Hymblond](bf105ef2-da92-4b74-bb18-aeb4e901b709_nation)
-* [justice_for_marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
 
 ## History
 
@@ -362,6 +360,7 @@
 * [# Spanish Empire](ae13a30c-8be5-4d64-9b76-0294f820d9eb_nation)
 * [# Imperium Germanicum](50a4e5d8-eba4-4858-9949-b65c30ff7b72_nation)
 * [# Imperium Byzantium](0ae69338-5bd6-440a-93a8-a507326cbe02_nation)
+* [# World Police](180f4f63-a50a-4a3d-ba9b-3826913416ed_nation)
 * [# Palestine](0fd62229-a645-43d9-acdf-1b81170fb556_nation)
 * [# Japanese Empire](61c6be18-5887-409a-ae30-93aeb51037a4_nation)
 * [# Tokugawa Shogunate](0e301e23-88e5-48f5-a708-2c36b0ace7f5_nation)
@@ -390,3 +389,4 @@
 * [# Western Sahara](22a53ff0-2b06-4cb7-bbd1-30f5f15a6dbc_nation)
 * [# Alabama](a79f68a5-377f-4efc-82a6-1a5470ef018f_nation)
 * [# First French Empire](2de30976-774d-4626-823f-d38a6d811f31_nation)
+* [# justice for marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
