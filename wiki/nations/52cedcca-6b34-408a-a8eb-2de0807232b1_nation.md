@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Roma](04b104ba-afab-4b05-8f4f-8053f8c73b80_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->14<!--POPULATION-->
+- **Population:** <!--POPULATION-->16<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,632g<!--GDP-->
+- **GDP:** <!--GDP-->3,886g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

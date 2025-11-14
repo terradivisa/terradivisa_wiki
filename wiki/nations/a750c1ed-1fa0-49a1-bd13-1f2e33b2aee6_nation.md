@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,346g<!--GDP-->
+- **GDP:** <!--GDP-->5,216g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,10 +27,11 @@
 ## Towns
 
 <!--TOWNS-->- [ankora](2deebfe8-cbd7-4adc-9ef7-98960885ad91_town)
+- [ggeri](99bf50f3-a4d4-4a1f-8cfd-bd107113de16_town)
 - [Cowland](37111587-173e-49c0-a56d-5b912f009c6e_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Rite](c09a9151-aad2-48e0-8058-cb0665b8814c_town)<!--COLONIES-->
 
 ---
