@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->454g<!--GDP-->
+- **GDP:** <!--GDP-->335g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Legion Raid Camp](5ec81f48-cd50-4456-bd76-163d288de3b0_town)<!--COLONIES-->
 
 ---

@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Persepolis](ff464e5f-9372-48e7-a472-f4e0417ad929_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,521g<!--GDP-->
+- **GDP:** <!--GDP-->731g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Persepolis](ff464e5f-9372-48e7-a472-f4e0417ad929_town)
-- [Lands of Bohemian Crown](d7b59981-4953-4a73-abdf-173e2b712a1b_town)<!--TOWNS-->
+<!--TOWNS-->- [Persepolis](ff464e5f-9372-48e7-a472-f4e0417ad929_town)<!--TOWNS-->
 
 ## Colonies
 
