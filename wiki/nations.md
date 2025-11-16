@@ -1,6 +1,5 @@
 # Nations
 
-* [USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
 * [BlevvMelonEmpire](942693c1-ea56-4e7f-9d77-3562e1058505_nation)
 * [Mesopotamia](b5b6db70-242e-44e1-9d10-8b1109ab2b97_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
@@ -389,4 +388,5 @@
 * [# Western Sahara](22a53ff0-2b06-4cb7-bbd1-30f5f15a6dbc_nation)
 * [# Alabama](a79f68a5-377f-4efc-82a6-1a5470ef018f_nation)
 * [# First French Empire](2de30976-774d-4626-823f-d38a6d811f31_nation)
+* [# USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
 * [# justice for marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
