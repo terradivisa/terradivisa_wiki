@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,231g<!--GDP-->
+- **GDP:** <!--GDP-->1,178g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Castra Sol Rubrum](96fd182a-54da-4631-bf2a-eb46c4ad34e1_town)
+<!--TOWNS-->- [Albuquerque](96fd182a-54da-4631-bf2a-eb46c4ad34e1_town)
 - [Flopstaff](35096114-a483-4311-8f1b-aa05bce13569_town)<!--TOWNS-->
 
 ## Colonies
