@@ -1,5 +1,6 @@
 # Nations
 
+* [Kingdom_of_Goshalia](ea1a315a-7dc9-4ee7-967d-9e6e2ad48a1f_nation)
 * [Mesopotamia](b5b6db70-242e-44e1-9d10-8b1109ab2b97_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
@@ -9,6 +10,7 @@
 * [Congolese_Trading_Company](bbd31994-ce61-45a7-8858-fc5ca165322c_nation)
 * [Rite_Republic](a750c1ed-1fa0-49a1-bd13-1f2e33b2aee6_nation)
 * [Frisian_Freedom](4be0481e-982d-4086-81d2-05539b21e783_nation)
+* [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
 * [Sun_Empire](09044eeb-8143-4f63-bfea-27715434e691_nation)
 * [Milano](4e79a6c2-7c92-4c76-9e51-d6a3852cf118_nation)
 * [Banking_Conglomerate](c9e8f7a4-34ee-42f9-976a-e95f83e8cbb9_nation)
@@ -16,8 +18,6 @@
 * [tropical](8f34415e-7c67-462c-a065-5c0fa3c8c4fc_nation)
 * [dutch_east_india_company](1df2e83b-a722-49b0-a90f-3ea0148eda90_nation)
 * [Canada](4ad38cd0-bfb5-4d4c-a9ff-dce8ec423874_nation)
-* [Floppas_Legion](ea1a315a-7dc9-4ee7-967d-9e6e2ad48a1f_nation)
-* [The_Outpost](19f99e3c-13a9-4476-86b9-9127f9e8c792_nation)
 * [Soviet_Cuba](d75efbc3-d7cb-48ba-9e45-5cfe5942c1d2_nation)
 * [Imperium_Romanum](52cedcca-6b34-408a-a8eb-2de0807232b1_nation)
 * [Balkan_Empire](e2ab9e35-acc4-4b16-b7ac-d356d0b81344_nation)
@@ -381,6 +381,7 @@
 * [# Norway](1ba470f8-b91b-46cc-ac6d-a0c99680c013_nation)
 * [# Austria-Hungary](b71c7910-fc4b-41ec-9c6d-7a8573471d7c_nation)
 * [# Imperium](effc84eb-15f3-41c9-9a22-9e8a5e74fe17_nation)
+* [# The Outpost](19f99e3c-13a9-4476-86b9-9127f9e8c792_nation)
 * [# Uzbekistan](6b2cf2b5-2191-478b-a43e-554c08994cf8_nation)
 * [# Rome Siege base](7d87f8f4-cc7c-4e26-8466-281ed9ffb3f0_nation)
 * [# Baltic Empire](13190e42-551f-4cf4-a43e-8a0f533f8dbc_nation)
