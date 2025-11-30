@@ -3,6 +3,7 @@
 * [Frisian_Freedom](4be0481e-982d-4086-81d2-05539b21e783_nation)
 * [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
 * [Sun_Empire](09044eeb-8143-4f63-bfea-27715434e691_nation)
+* [empire_of_portugal](0b450a1c-af45-4dc1-bf95-60e248fd0737_nation)
 * [Kingdom_of_Goshalia](ea1a315a-7dc9-4ee7-967d-9e6e2ad48a1f_nation)
 * [Milano](4e79a6c2-7c92-4c76-9e51-d6a3852cf118_nation)
 * [Mesopotamia](b5b6db70-242e-44e1-9d10-8b1109ab2b97_nation)
