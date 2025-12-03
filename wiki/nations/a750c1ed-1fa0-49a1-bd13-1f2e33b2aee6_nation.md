@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[ankora](2deebfe8-cbd7-4adc-9ef7-98960885ad91_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,122g<!--GDP-->
+- **GDP:** <!--GDP-->5,310g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [ankora](2deebfe8-cbd7-4adc-9ef7-98960885ad91_town)
-- [ggeri](99bf50f3-a4d4-4a1f-8cfd-bd107113de16_town)
-- [Cowland](37111587-173e-49c0-a56d-5b912f009c6e_town)<!--TOWNS-->
+- [ggeri](99bf50f3-a4d4-4a1f-8cfd-bd107113de16_town)<!--TOWNS-->
 
 ## Colonies
 
