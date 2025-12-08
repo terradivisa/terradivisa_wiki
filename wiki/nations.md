@@ -1,7 +1,6 @@
 # Nations
 
 * [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
-* [empire_of_portugal](0b450a1c-af45-4dc1-bf95-60e248fd0737_nation)
 * [Milano](4e79a6c2-7c92-4c76-9e51-d6a3852cf118_nation)
 * [Banking_Conglomerate](c9e8f7a4-34ee-42f9-976a-e95f83e8cbb9_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
@@ -393,4 +392,5 @@
 * [# Balkan Empire](e2ab9e35-acc4-4b16-b7ac-d356d0b81344_nation)
 * [# USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
 * [# justice for marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
+* [# empire of portugal](0b450a1c-af45-4dc1-bf95-60e248fd0737_nation)
 * [# Mopsland](2503dbb3-f93f-4f47-85b6-e152e02a2a48_nation)
