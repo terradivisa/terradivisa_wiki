@@ -19,16 +19,16 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,687g<!--GDP-->
+- **GDP:** <!--GDP-->4,639g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)
-- [banking conglomerate sux](b381b7a2-c22c-4a1f-aab3-56d6e95b29c5_town)
-- [Gotland](71177175-5d66-4e83-8264-3ff55dc5cd5a_town)<!--TOWNS-->
+<!--TOWNS-->- [banking conglomerate sux](b381b7a2-c22c-4a1f-aab3-56d6e95b29c5_town)
+- [Gotland](71177175-5d66-4e83-8264-3ff55dc5cd5a_town)
+- [Vardessis](c6a7d4a2-fb20-4ec3-976c-51f68f742632_town)<!--TOWNS-->
 
 ## Colonies
 

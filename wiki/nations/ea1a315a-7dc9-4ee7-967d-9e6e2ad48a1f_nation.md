@@ -19,16 +19,16 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->9,021g<!--GDP-->
+- **GDP:** <!--GDP-->8,969g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Albuquerque](96fd182a-54da-4631-bf2a-eb46c4ad34e1_town)
-- [Populana](35096114-a483-4311-8f1b-aa05bce13569_town)
-- [Gosh and Flop](da4b3e47-be0a-4ade-9648-5f5654c449e1_town)<!--TOWNS-->
+<!--TOWNS-->- [Gosh and Flop](da4b3e47-be0a-4ade-9648-5f5654c449e1_town)
+- [Albuquerque](96fd182a-54da-4631-bf2a-eb46c4ad34e1_town)
+- [Populana](35096114-a483-4311-8f1b-aa05bce13569_town)<!--TOWNS-->
 
 ## Colonies
 
