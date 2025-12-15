@@ -1,9 +1,11 @@
 # Nations
 
 * [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
+* [Java_Sucks](441eebc4-91ef-4c5b-b24f-5a5442a31e94_nation)
 * [Banking_Conglomerate](c9e8f7a4-34ee-42f9-976a-e95f83e8cbb9_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
+* [Goshalia](2aa83ec0-8892-4c98-a22b-3c367ba4c822_nation)
 * [Canada](4ad38cd0-bfb5-4d4c-a9ff-dce8ec423874_nation)
 * [Onamag](65f99e89-129a-4dbb-8b9c-835e77b63577_nation)
 * [Imperium_Polskie](78403af5-12c3-4a7d-85bb-584f04ce221c_nation)
