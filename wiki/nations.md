@@ -2,7 +2,6 @@
 
 * [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
 * [Java_Sucks](441eebc4-91ef-4c5b-b24f-5a5442a31e94_nation)
-* [Banking_Conglomerate](c9e8f7a4-34ee-42f9-976a-e95f83e8cbb9_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
 * [Goshalia](2aa83ec0-8892-4c98-a22b-3c367ba4c822_nation)
@@ -391,6 +390,7 @@
 * [# Alabama](a79f68a5-377f-4efc-82a6-1a5470ef018f_nation)
 * [# First French Empire](2de30976-774d-4626-823f-d38a6d811f31_nation)
 * [# Balkan Empire](e2ab9e35-acc4-4b16-b7ac-d356d0b81344_nation)
+* [# Banking Conglomerate](c9e8f7a4-34ee-42f9-976a-e95f83e8cbb9_nation)
 * [# Res Publica Populana](ea1a315a-7dc9-4ee7-967d-9e6e2ad48a1f_nation)
 * [# USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
 * [# justice for marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
