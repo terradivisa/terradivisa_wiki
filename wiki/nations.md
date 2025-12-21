@@ -2,6 +2,7 @@
 
 * [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
 * [Empire_of_Portugal](a66555b9-c1d3-4b31-939c-ca0deb7edcc8_nation)
+* [Lemonese_Trading_Company](b5a990f2-3ec0-457f-a9f4-f8a69c0c2c11_nation)
 * [Java_Sucks](441eebc4-91ef-4c5b-b24f-5a5442a31e94_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
