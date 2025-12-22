@@ -6,7 +6,6 @@
 * [Java_Sucks](441eebc4-91ef-4c5b-b24f-5a5442a31e94_nation)
 * [Persian_Empire](fd33af2b-2977-4d13-8605-c9fd6fd09cdc_nation)
 * [Great_Lake_Society](cb62b011-304a-4e9e-b050-515abf35f190_nation)
-* [Goshalia](2aa83ec0-8892-4c98-a22b-3c367ba4c822_nation)
 * [Canada](4ad38cd0-bfb5-4d4c-a9ff-dce8ec423874_nation)
 * [Onamag](65f99e89-129a-4dbb-8b9c-835e77b63577_nation)
 * [testnat](e7ab1b25-6f0e-437b-9d75-0f50e68e4399_nation)
@@ -399,3 +398,4 @@
 * [# tropical](8f34415e-7c67-462c-a065-5c0fa3c8c4fc_nation)
 * [# empire of portugal](0b450a1c-af45-4dc1-bf95-60e248fd0737_nation)
 * [# Mopsland](2503dbb3-f93f-4f47-85b6-e152e02a2a48_nation)
+* [# Goshalia](2aa83ec0-8892-4c98-a22b-3c367ba4c822_nation)
