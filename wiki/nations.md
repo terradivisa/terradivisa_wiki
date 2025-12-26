@@ -1,6 +1,5 @@
 # Nations
 
-* [British_Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
 * [Empire_of_Portugal](a66555b9-c1d3-4b31-939c-ca0deb7edcc8_nation)
 * [Lemonese_Trading_Company](b5a990f2-3ec0-457f-a9f4-f8a69c0c2c11_nation)
 * [Java_Sucks](441eebc4-91ef-4c5b-b24f-5a5442a31e94_nation)
@@ -396,6 +395,7 @@
 * [# USA](0c20694e-135e-4264-99f4-c78b65cb4226_nation)
 * [# justice for marty](4359b74c-066b-44d5-be30-df3c7978cdcf_nation)
 * [# tropical](8f34415e-7c67-462c-a065-5c0fa3c8c4fc_nation)
+* [# British Empire](16e6eaed-bfc3-4585-8c7d-f25326f79069_nation)
 * [# empire of portugal](0b450a1c-af45-4dc1-bf95-60e248fd0737_nation)
 * [# Mopsland](2503dbb3-f93f-4f47-85b6-e152e02a2a48_nation)
 * [# Goshalia](2aa83ec0-8892-4c98-a22b-3c367ba4c822_nation)
