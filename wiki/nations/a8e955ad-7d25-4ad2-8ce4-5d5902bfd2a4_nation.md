@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Catalonia<!--NAME-->
+# <!--NAME-->Catalan Empire<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->839g<!--GDP-->
+- **GDP:** <!--GDP-->965g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Antarctica](5c5f4b5d-030b-4288-852d-507a890b8bb9_town)<!--COLONIES-->
 
 ---

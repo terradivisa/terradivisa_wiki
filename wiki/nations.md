@@ -5,16 +5,17 @@
 * [El-Imperio-Del-Sol](cb70c0d7-e3c5-42d4-a2d6-392d0e704dac_nation)
 * [Kingdom_Of_Denmark](48df0ceb-31aa-4ab5-9489-e5030e1435e5_nation)
 * [Caspian_Economic_Zone](6fa42739-132c-430e-8a92-cb846791991e_nation)
-* [Valoris](0a5e482d-99f3-441e-8048-5eb2a76835e3_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
+* [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
 * [Kingdom_of_Jerusalem](d8e7e255-d5fd-45bb-aade-fc618c9a6ebd_nation)
 * [Ma_Sonko](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
-* [REAL_PORTUGAL](4036af10-258b-460a-a3aa-80855367da6b_nation)
+* [State_Of_Pig](52a37f95-1bb4-40f9-84a2-a4ca670748cc_nation)
 * [meowngolia](3e6372b2-0cca-4616-91fc-df81d51ee384_nation)
+* [REAL_PORTUGAL](4036af10-258b-460a-a3aa-80855367da6b_nation)
 * [Chilly](ef2fa89e-8655-4a8c-ab83-738133b6edf0_nation)
-* [Helvetica](d38369bd-0cef-46d4-9b0f-a714c3c04aeb_nation)
-* [State_Of_Moses](52a37f95-1bb4-40f9-84a2-a4ca670748cc_nation)
-* [Catalonia](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
+* [Japanese_Empire](a53e179a-cf05-4cac-9331-f9a378fac32b_nation)
+* [Ottoman_Empire](a2516006-0347-4d11-a5db-005577ddd631_nation)
+* [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
 ## History
 
@@ -415,3 +416,5 @@
 * [# Empire of Portugal](a66555b9-c1d3-4b31-939c-ca0deb7edcc8_nation)
 * [# Lemonese Trading Company](b5a990f2-3ec0-457f-a9f4-f8a69c0c2c11_nation)
 * [# ROMAN EMPIRE](251690ef-1ff6-45dc-8c7b-b5c9081b4f2a_nation)
+* [# Valoris](0a5e482d-99f3-441e-8048-5eb2a76835e3_nation)
+* [# Helvetica](d38369bd-0cef-46d4-9b0f-a714c3c04aeb_nation)

@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Population:** <!--POPULATION-->14<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->462g<!--GDP-->
+- **GDP:** <!--GDP-->2,134g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)<!--TOWNS-->
+<!--TOWNS-->- [Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)
+- [Joffley](2c55f02a-0814-4108-8e58-687b81e79c15_town)<!--TOWNS-->
 
 ## Colonies
 
