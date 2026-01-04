@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Ottoman Empire<!--NAME-->
+# <!--NAME-->Helvetica<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Istanbul](697f8589-015e-4e3f-a16b-346d97a95635_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Bern](3ced6b8b-025c-4f90-9235-db85ec4fce90_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 03, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader furkan1453bjk](furkan1453bjk_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Queen Triangulisa](Triangulisa_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,380g<!--GDP-->
+- **GDP:** <!--GDP-->1,601g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Istanbul](697f8589-015e-4e3f-a16b-346d97a95635_town)
-- [Ankara](4fce970f-5891-4267-ad5a-0cd75f58afe5_town)<!--TOWNS-->
+<!--TOWNS-->- [Bern](3ced6b8b-025c-4f90-9235-db85ec4fce90_town)<!--TOWNS-->
 
 ## Colonies
 
