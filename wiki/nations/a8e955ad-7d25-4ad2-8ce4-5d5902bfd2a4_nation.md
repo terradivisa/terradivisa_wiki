@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,405g<!--GDP-->
+- **GDP:** <!--GDP-->569g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Antarctica](5c5f4b5d-030b-4288-852d-507a890b8bb9_town)<!--COLONIES-->
+<!--COLONIES-->- [Antarctica](5c5f4b5d-030b-4288-852d-507a890b8bb9_town)
+- [gold mining company](ad94119f-6d69-441b-8af8-bd31de8c382d_town)<!--COLONIES-->
 
 ---

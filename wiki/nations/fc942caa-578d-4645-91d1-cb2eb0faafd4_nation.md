@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Caspian Economic Zone<!--NAME-->
+# <!--NAME-->Newfoundland<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Arid III](a068508e-e890-4db6-91ea-fc2b11c184dd_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Jolly Island](9c94ce99-f7d0-4876-8962-0dd1fabede5c_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 02, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader happyperson3796](happyperson3796_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->January 05, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader JollyLukinjo](JollyLukinjo_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,076g<!--GDP-->
+- **GDP:** <!--GDP-->73g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Arid III](a068508e-e890-4db6-91ea-fc2b11c184dd_town)<!--TOWNS-->
+<!--TOWNS-->- [Jolly Island](9c94ce99-f7d0-4876-8962-0dd1fabede5c_town)<!--TOWNS-->
 
 ## Colonies
 

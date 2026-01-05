@@ -1,10 +1,10 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Japanese Empire<!--NAME-->
+# <!--NAME-->Republic of Free Japan<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Tokyo](106482b1-c75d-47d3-b74d-5a26f8390e6f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,22 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 03, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count Lucas02294](Lucas02294_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader gameking907](gameking907_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,504g<!--GDP-->
+- **GDP:** <!--GDP-->1,390g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Karafuto](bf15f902-d0e0-40ad-99d2-b56ddfa2787a_town)
-- [Tokyo](106482b1-c75d-47d3-b74d-5a26f8390e6f_town)<!--TOWNS-->
+<!--TOWNS-->- [Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)
+- [Karafuto](bf15f902-d0e0-40ad-99d2-b56ddfa2787a_town)<!--TOWNS-->
 
 ## Colonies
 

@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->January 03, 2026<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Queen Triangulisa](Triangulisa_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,601g<!--GDP-->
+- **GDP:** <!--GDP-->4,638g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

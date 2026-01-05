@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->January 02, 2026<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader GoldenFox2347](GoldenFox2347_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Council<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->814g<!--GDP-->
+- **GDP:** <!--GDP-->805g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES-->- [New-Chinampas](3088ce00-14f7-4d7f-8927-45dfab169c3c_town)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
