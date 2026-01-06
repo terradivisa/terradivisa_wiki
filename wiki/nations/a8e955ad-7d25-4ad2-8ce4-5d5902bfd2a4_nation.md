@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->569g<!--GDP-->
+- **GDP:** <!--GDP-->2,706g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,7 +30,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Antarctica](5c5f4b5d-030b-4288-852d-507a890b8bb9_town)
-- [gold mining company](ad94119f-6d69-441b-8af8-bd31de8c382d_town)<!--COLONIES-->
+<!--COLONIES-->- [Catalan Mining II](cf1f0b31-d3c7-4dce-a09f-dc1d39135cb9_town)
+- [Antarctica](5c5f4b5d-030b-4288-852d-507a890b8bb9_town)
+- [Catalan Mining company](ad94119f-6d69-441b-8af8-bd31de8c382d_town)<!--COLONIES-->
 
 ---

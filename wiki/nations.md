@@ -7,6 +7,7 @@
 * [Chilly](ef2fa89e-8655-4a8c-ab83-738133b6edf0_nation)
 * [Althingic_Commonwealth](a51fef96-9315-4361-8270-3fc886d2d0c8_nation)
 * [Belengrad_Republic](85b9e098-a1f7-4340-8b47-d3ef191ec0ca_nation)
+* [Imperio_Do_Brasil](ce111898-0acf-43f1-a9bb-32e0b46d6016_nation)
 * [Ottoman_Empire](a2516006-0347-4d11-a5db-005577ddd631_nation)
 * [Hong_Kong_Commonwealth](f2260086-d4cc-4739-ac15-a94ff389a297_nation)
 * [Victoria](271cabea-e10b-46b7-bbb8-3ff3a991db14_nation)
