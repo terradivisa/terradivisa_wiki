@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,194g<!--GDP-->
+- **GDP:** <!--GDP-->2,997g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,8 +35,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Ma Tawan](2bce4549-ccd9-4879-8d86-7365a9a5c6e4_town)
-- [Joffley Oil Co](8357bc7a-3e16-43c7-99e2-e2dbec081a90_town)
+<!--COLONIES-->- [Joffley Oil Co](8357bc7a-3e16-43c7-99e2-e2dbec081a90_town)
 - [Joffley Mining Co](fb85b0cf-7700-467d-a5ea-903096815d12_town)<!--COLONIES-->
 
 ---

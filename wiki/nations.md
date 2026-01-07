@@ -1,6 +1,7 @@
 # Nations
 
 * [El-Imperio-Del-Sol](cb70c0d7-e3c5-42d4-a2d6-392d0e704dac_nation)
+* [Soviet_Union](35012fdc-3c82-48a3-b411-ab801d2e5473_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
 * [Ma_Sonko](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
 * [REAL_PORTUGAL](4036af10-258b-460a-a3aa-80855367da6b_nation)
@@ -18,6 +19,7 @@
 * [Venetian_Republic](4e3b00d2-3f4c-4b47-841c-844ee875bb8f_nation)
 * [Caspian_Economic_Zone](6fa42739-132c-430e-8a92-cb846791991e_nation)
 * [Valoris](f97483f0-8116-4fc7-824e-bb85c15b97bd_nation)
+* [Malagasy](0c38d383-e871-4635-bdb0-7312f2c7b0c1_nation)
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
 * [Ryukyu_Kingdom](60a1a59b-9968-45a8-85b2-f544618917d5_nation)
@@ -25,9 +27,9 @@
 * [meowngolia](3e6372b2-0cca-4616-91fc-df81d51ee384_nation)
 * [Imperio_de_Cadiz](e292d261-b10f-48ac-8632-e67e4969844a_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
+* [Japanese_Empire](a53e179a-cf05-4cac-9331-f9a378fac32b_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
-* [Republic_of_Free_Japan](a53e179a-cf05-4cac-9331-f9a378fac32b_nation)
 * [Neo-Janissary_Order](d8e7e255-d5fd-45bb-aade-fc618c9a6ebd_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
