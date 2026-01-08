@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,120g<!--GDP-->
+- **GDP:** <!--GDP-->13,629g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,7 +30,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Catalan Mining II](cf1f0b31-d3c7-4dce-a09f-dc1d39135cb9_town)
-- [Catalan Mining company](ad94119f-6d69-441b-8af8-bd31de8c382d_town)<!--COLONIES-->
+<!--COLONIES-->- [Catalan Mining company](ad94119f-6d69-441b-8af8-bd31de8c382d_town)
+- [Catalan Mining II](cf1f0b31-d3c7-4dce-a09f-dc1d39135cb9_town)
+- [Catalan Mining](0549cbef-1307-4244-b2db-3f5d94d24535_town)<!--COLONIES-->
 
 ---

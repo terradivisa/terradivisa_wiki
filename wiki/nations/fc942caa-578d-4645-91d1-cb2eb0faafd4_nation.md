@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,018g<!--GDP-->
+- **GDP:** <!--GDP-->3,346g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Newfoundland Mining Co](0e3ed418-077f-40df-8df5-bde7e2254454_town)<!--COLONIES-->
 
 ---
