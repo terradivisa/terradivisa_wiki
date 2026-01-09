@@ -20,7 +20,6 @@
 * [Kingdom_Of_Denmark](48df0ceb-31aa-4ab5-9489-e5030e1435e5_nation)
 * [Venetian_Republic](4e3b00d2-3f4c-4b47-841c-844ee875bb8f_nation)
 * [Caspian_Economic_Zone](6fa42739-132c-430e-8a92-cb846791991e_nation)
-* [Malagasy](0c38d383-e871-4635-bdb0-7312f2c7b0c1_nation)
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
 * [Ryukyu_Kingdom](60a1a59b-9968-45a8-85b2-f544618917d5_nation)
@@ -437,3 +436,4 @@
 * [# Valoris](0a5e482d-99f3-441e-8048-5eb2a76835e3_nation)
 * [# Helvetica](d38369bd-0cef-46d4-9b0f-a714c3c04aeb_nation)
 * [# State Of Pig](52a37f95-1bb4-40f9-84a2-a4ca670748cc_nation)
+* [# Malagasy](0c38d383-e871-4635-bdb0-7312f2c7b0c1_nation)

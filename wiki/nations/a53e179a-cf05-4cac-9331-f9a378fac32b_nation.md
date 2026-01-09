@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->6<!--POPULATION-->
+- **Population:** <!--POPULATION-->9<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 03, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader gameking907](gameking907_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Count gameking907](gameking907_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,893g<!--GDP-->
+- **GDP:** <!--GDP-->2,238g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,6 @@
 ## Colonies
 
 <!--COLONIES-->- [Japanese Philippines](4ae02f37-a320-4799-9b4c-a18533e5dc5e_town)
-- [Japenese Taiwan](2bce4549-ccd9-4879-8d86-7365a9a5c6e4_town)<!--COLONIES-->
+- [Japanese Taiwan](2bce4549-ccd9-4879-8d86-7365a9a5c6e4_town)<!--COLONIES-->
 
 ---
