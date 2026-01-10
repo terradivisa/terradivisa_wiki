@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Patriarchate of Jerusalem](64378567-e9b0-4c87-b37b-28c7c5ea1378_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->17<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Greece](653a7bee-eb51-481a-a8e8-5a42f0bf721a_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->22<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,14 +12,14 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 02, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Patriarch bashjj](bashjj_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Duke iweardesigner_](iweardesigner__user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->7,166g<!--GDP-->
+- **GDP:** <!--GDP-->7,947g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

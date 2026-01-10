@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,22 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->January 03, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Count gameking907](gameking907_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader JosephOcelot](JosephOcelot_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,238g<!--GDP-->
+- **GDP:** <!--GDP-->2,491g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)
-- [Karafuto](bf15f902-d0e0-40ad-99d2-b56ddfa2787a_town)<!--TOWNS-->
+<!--TOWNS-->- [Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)<!--TOWNS-->
 
 ## Colonies
 

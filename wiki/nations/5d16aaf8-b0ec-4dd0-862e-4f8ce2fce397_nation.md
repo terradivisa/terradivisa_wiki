@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->20<!--POPULATION-->
+- **Population:** <!--POPULATION-->21<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,293g<!--GDP-->
+- **GDP:** <!--GDP-->4,260g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---

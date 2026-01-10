@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->January 05, 2026<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader JollyLukinjo](JollyLukinjo_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Dictatorship<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,634g<!--GDP-->
+- **GDP:** <!--GDP-->7,468g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
