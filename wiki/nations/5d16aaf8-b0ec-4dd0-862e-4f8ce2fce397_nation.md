@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->21<!--POPULATION-->
+- **Population:** <!--POPULATION-->19<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,16 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,260g<!--GDP-->
+- **GDP:** <!--GDP-->3,700g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Ma Mantutelo](0e0796b3-590a-4daa-818f-bd6d3e3f7242_town)
-- [Ma Konsi](35d71180-0c00-4899-866a-e1afbc789a9f_town)
-- [Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)
+<!--TOWNS-->- [Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)
 - [Korea](2c55f02a-0814-4108-8e58-687b81e79c15_town)
 - [Ma Pesin](9af57a40-4eed-4d1a-a1b6-69542197efea_town)<!--TOWNS-->
 
