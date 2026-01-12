@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->449g<!--GDP-->
+- **GDP:** <!--GDP-->1,222g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Novgorod](d5731be9-0933-4b56-b5cf-10a7d5db0060_town)<!--COLONIES-->
 
 ---
