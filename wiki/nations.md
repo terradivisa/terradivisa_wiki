@@ -1,14 +1,12 @@
 # Nations
 
 * [El-Imperio-Del-Sol](cb70c0d7-e3c5-42d4-a2d6-392d0e704dac_nation)
-* [Soviet_Union](35012fdc-3c82-48a3-b411-ab801d2e5473_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
 * [Russian_Republic](8a59204b-c9e6-4e3e-a7fb-ed7a78b20eb9_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
 * [Ma_Sonko](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
 * [REAL_PORTUGAL](4036af10-258b-460a-a3aa-80855367da6b_nation)
-* [French_empire](ff4fb6c8-715e-45e6-92f4-863467d897b7_nation)
 * [Althingic_Commonwealth](a51fef96-9315-4361-8270-3fc886d2d0c8_nation)
 * [MoyaBamba](ccbaa307-11d6-4dc7-9682-057c060dad45_nation)
 * [Belengrad_Republic](85b9e098-a1f7-4340-8b47-d3ef191ec0ca_nation)
@@ -440,5 +438,7 @@
 * [# Hong Kong Commonwealth](f2260086-d4cc-4739-ac15-a94ff389a297_nation)
 * [# Mamluck Sultanate](f9450bee-8506-4bad-ac0e-159314bdc93d_nation)
 * [# Valoris](f97483f0-8116-4fc7-824e-bb85c15b97bd_nation)
+* [# Soviet Union](35012fdc-3c82-48a3-b411-ab801d2e5473_nation)
 * [# Malagasy](0c38d383-e871-4635-bdb0-7312f2c7b0c1_nation)
 * [# Turtlemania](bd1c2a5c-9488-492e-8e87-836ee4b60319_nation)
+* [# French empire](ff4fb6c8-715e-45e6-92f4-863467d897b7_nation)
