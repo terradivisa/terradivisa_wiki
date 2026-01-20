@@ -2,6 +2,7 @@
 
 * [El-Imperio-Del-Sol](cb70c0d7-e3c5-42d4-a2d6-392d0e704dac_nation)
 * [America_Empire](0f866ebe-c8dd-4d1c-8574-dfa125275815_nation)
+* [Soviet_Union](a1ce05e2-ac1e-434e-85d7-1a4bcadfff8b_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
 * [Russian_Republic](8a59204b-c9e6-4e3e-a7fb-ed7a78b20eb9_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
@@ -27,6 +28,7 @@
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Neo-Janissary_Order](d8e7e255-d5fd-45bb-aade-fc618c9a6ebd_nation)
+* [Kingdom_of_Kongo](25ed76a3-6ccf-4c33-bd35-888a40b01a90_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
 ## History

@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,284g<!--GDP-->
+- **GDP:** <!--GDP-->667g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,9 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Novgorod](d5731be9-0933-4b56-b5cf-10a7d5db0060_town)<!--COLONIES-->
+<!--COLONIES-->- [Kazan](35a33e64-c848-4d7d-9344-30f0253312dd_town)
+- [Moscow](6ddc5d1b-f847-4766-b8ae-e817d16c8816_town)
+- [Yekaterinburg](51db6cd6-e232-4034-9e3c-eef13902777a_town)
+- [Novgorod](d5731be9-0933-4b56-b5cf-10a7d5db0060_town)<!--COLONIES-->
 
 ---
