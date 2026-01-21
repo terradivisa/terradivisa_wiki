@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->212g<!--GDP-->
+- **GDP:** <!--GDP-->215g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Severoflotsk](f3886c7b-70b0-4b67-a23c-045dccb63345_town)<!--COLONIES-->
 
 ---
