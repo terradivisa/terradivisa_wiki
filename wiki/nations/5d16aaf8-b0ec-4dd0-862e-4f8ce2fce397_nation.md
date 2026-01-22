@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Hanseongbu](2c55f02a-0814-4108-8e58-687b81e79c15_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->27<!--POPULATION-->
+- **Population:** <!--POPULATION-->29<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,504g<!--GDP-->
+- **GDP:** <!--GDP-->7,639g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
