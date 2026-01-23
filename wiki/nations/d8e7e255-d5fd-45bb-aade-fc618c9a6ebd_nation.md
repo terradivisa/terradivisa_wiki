@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->7,058g<!--GDP-->
+- **GDP:** <!--GDP-->6,762g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Cyprus](b1c8c137-ccdb-47b0-ba00-d8286955ebb6_town)<!--COLONIES-->
 
 ---
