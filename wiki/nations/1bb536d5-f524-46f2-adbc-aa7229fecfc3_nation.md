@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->America Empire<!--NAME-->
+# <!--NAME-->Republic of the Susbluds<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Westminister](08756aab-b009-4bad-85ba-5c1e3130326a_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Greater Lansing Area](47e43f09-b0d5-4518-8020-9bf57427b4f1_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->January 18, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Bacongangboyzz](Bacongangboyzz_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->January 24, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader beanking2](beanking2_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->928g<!--GDP-->
+- **GDP:** <!--GDP-->163g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Westminister](08756aab-b009-4bad-85ba-5c1e3130326a_town)<!--TOWNS-->
+<!--TOWNS-->- [Greater Lansing Area](47e43f09-b0d5-4518-8020-9bf57427b4f1_town)<!--TOWNS-->
 
 ## Colonies
 
