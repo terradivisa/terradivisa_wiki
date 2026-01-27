@@ -17,7 +17,7 @@
 * [Ottoman_Empire](a2516006-0347-4d11-a5db-005577ddd631_nation)
 * [Venetian_Republic](ee72ed30-ac4e-4566-840e-810acc8107a2_nation)
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
-* [Korean_Empire](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
+* [Auroria](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
 * [Pigist_State_of_Singapore](c2848728-690e-4392-a533-b9cfa7ef8cc7_nation)
 * [meowngolia](6f587a6a-8dea-456c-91df-ed118b103e84_nation)

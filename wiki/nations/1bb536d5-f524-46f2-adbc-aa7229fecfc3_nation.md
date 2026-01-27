@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->153g<!--GDP-->
+- **GDP:** <!--GDP-->373g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Hudson](7671b799-50c7-4107-a815-2aa7ffb5056e_town)<!--COLONIES-->
 
 ---
