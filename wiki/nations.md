@@ -5,6 +5,7 @@
 * [Soviet_Union](a1ce05e2-ac1e-434e-85d7-1a4bcadfff8b_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
+* [Crimea_State](c97caaa5-bc54-480e-b3de-8181599d7f14_nation)
 * [Bulgarian_Empire](b6429cf8-c78a-4fb3-ac6e-c32db773adaa_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
 * [Russian_Federation](8a59204b-c9e6-4e3e-a7fb-ed7a78b20eb9_nation)
