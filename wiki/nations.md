@@ -9,6 +9,7 @@
 * [Bulgarian_Empire](b6429cf8-c78a-4fb3-ac6e-c32db773adaa_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
 * [Russian_Federation](8a59204b-c9e6-4e3e-a7fb-ed7a78b20eb9_nation)
+* [Imperium_of_WhatsApp](d8e7e255-d5fd-45bb-aade-fc618c9a6ebd_nation)
 * [REAL_PORTUGAL](4036af10-258b-460a-a3aa-80855367da6b_nation)
 * [MoyaBamba](ccbaa307-11d6-4dc7-9682-057c060dad45_nation)
 * [Belengrad_Republic](85b9e098-a1f7-4340-8b47-d3ef191ec0ca_nation)
@@ -27,7 +28,6 @@
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
-* [Neo-Janissary_Order](d8e7e255-d5fd-45bb-aade-fc618c9a6ebd_nation)
 * [Kingdom_of_Kongo](25ed76a3-6ccf-4c33-bd35-888a40b01a90_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
