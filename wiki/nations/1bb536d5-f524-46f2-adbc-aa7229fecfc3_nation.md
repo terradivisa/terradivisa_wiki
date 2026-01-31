@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Greater Lansing Area](47e43f09-b0d5-4518-8020-9bf57427b4f1_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->495g<!--GDP-->
+- **GDP:** <!--GDP-->576g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Hudson](7671b799-50c7-4107-a815-2aa7ffb5056e_town)<!--COLONIES-->
+<!--COLONIES-->- [Hudson](7671b799-50c7-4107-a815-2aa7ffb5056e_town)
+- [Yellowstone](421e1389-f9eb-4b21-bf23-97099bdab843_town)<!--COLONIES-->
 
 ---
