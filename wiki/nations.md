@@ -3,6 +3,7 @@
 * [Soviet_Union](a1ce05e2-ac1e-434e-85d7-1a4bcadfff8b_nation)
 * [America_Empire](0f866ebe-c8dd-4d1c-8574-dfa125275815_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
+* [Republika_Srbija](140a0d1f-0d76-4234-abaa-389802fea2b1_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
 * [Bulgarian_Empire](b6429cf8-c78a-4fb3-ac6e-c32db773adaa_nation)
 * [Crimea](c97caaa5-bc54-480e-b3de-8181599d7f14_nation)
