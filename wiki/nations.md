@@ -5,7 +5,6 @@
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
 * [Republika_Srbija](140a0d1f-0d76-4234-abaa-389802fea2b1_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
-* [Bulgarian_Empire](b6429cf8-c78a-4fb3-ac6e-c32db773adaa_nation)
 * [Crimea](c97caaa5-bc54-480e-b3de-8181599d7f14_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
 * [Imperium_of_WhatsApp](d8e7e255-d5fd-45bb-aade-fc618c9a6ebd_nation)
@@ -453,3 +452,4 @@
 * [# Russian Federation](8a59204b-c9e6-4e3e-a7fb-ed7a78b20eb9_nation)
 * [# French empire](ff4fb6c8-715e-45e6-92f4-863467d897b7_nation)
 * [# Baltic Federation](3a55546f-0e20-44d1-a369-a635b7d0963e_nation)
+* [# Bulgarian Empire](b6429cf8-c78a-4fb3-ac6e-c32db773adaa_nation)
