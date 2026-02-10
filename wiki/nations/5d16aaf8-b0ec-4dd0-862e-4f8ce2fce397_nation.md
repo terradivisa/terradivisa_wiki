@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Korea](2c55f02a-0814-4108-8e58-687b81e79c15_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->34<!--POPULATION-->
+- **Population:** <!--POPULATION-->33<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,769g<!--GDP-->
+- **GDP:** <!--GDP-->12,603g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,7 +31,6 @@
 - [Ezo](f62d1ea7-9be0-4859-bb47-709b5ee05f4b_town)
 - [New Dreadfort](389b11e2-0cde-451c-bfbb-585696f87396_town)
 - [Shuri](94da21ad-d14d-4085-aff0-c422ed7e75dd_town)
-- [Jinan](a976515c-534f-4f47-b874-e3b4fbaf7b24_town)
 - [AriNation](49759e8c-ba07-4f67-aea1-9f79920d18da_town)<!--TOWNS-->
 
 ## Colonies
