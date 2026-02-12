@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[1stTown](b2c5547a-3a10-4590-8ba7-f700039b74a4_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->4<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->734g<!--GDP-->
+- **GDP:** <!--GDP-->1,505g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
