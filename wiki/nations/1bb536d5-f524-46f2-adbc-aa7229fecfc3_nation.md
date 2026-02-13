@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->862g<!--GDP-->
+- **GDP:** <!--GDP-->800g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,7 @@
 ## Colonies
 
 <!--COLONIES-->- [Hudson](7671b799-50c7-4107-a815-2aa7ffb5056e_town)
-- [Yellowstone](421e1389-f9eb-4b21-bf23-97099bdab843_town)<!--COLONIES-->
+- [Yellowstone](421e1389-f9eb-4b21-bf23-97099bdab843_town)
+- [SusbludMining](02abe2a2-a5b1-47b2-adf9-49581eb99c14_town)<!--COLONIES-->
 
 ---
