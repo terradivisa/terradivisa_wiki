@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->SFR Yugoslavia<!--NAME-->
+# <!--NAME-->Kingdom Of Serbia<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[SR Serbia](f4c1cdb5-434e-4a61-b741-d1b4e2d1ec47_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Central Serbia](f4c1cdb5-434e-4a61-b741-d1b4e2d1ec47_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -13,20 +13,20 @@
 
 - **Date Founded:** <!--FOUNDED-->February 17, 2026<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader stefan1a](stefan1a_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Communist<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->730g<!--GDP-->
+- **GDP:** <!--GDP-->476g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [SR Serbia](f4c1cdb5-434e-4a61-b741-d1b4e2d1ec47_town)<!--TOWNS-->
+<!--TOWNS-->- [Central Serbia](f4c1cdb5-434e-4a61-b741-d1b4e2d1ec47_town)<!--TOWNS-->
 
 ## Colonies
 
