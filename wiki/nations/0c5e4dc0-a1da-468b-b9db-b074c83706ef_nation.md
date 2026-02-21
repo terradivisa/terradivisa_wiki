@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->412g<!--GDP-->
+- **GDP:** <!--GDP-->790g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [lybia](af609554-a442-4dcf-bdf2-f69a18ba0b22_town)<!--COLONIES-->
 
 ---
