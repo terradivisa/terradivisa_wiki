@@ -17,7 +17,6 @@
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
 * [Auroria](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
-* [Polish_Empire](d583ec41-14ff-47c2-9721-f1a35749d907_nation)
 * [meowngolia](6f587a6a-8dea-456c-91df-ed118b103e84_nation)
 * [Baltic_Federation](1d104112-1735-471a-9ea0-921174f9d187_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
@@ -461,3 +460,4 @@
 * [# Republic of Serbia](140a0d1f-0d76-4234-abaa-389802fea2b1_nation)
 * [# Holy land](3176d305-1c1e-491e-8038-d7d11317e4d3_nation)
 * [# Serbian Destroyer](a66ea2d4-0bcf-41b0-9f1a-6296b5d68f2d_nation)
+* [# Polish Empire](d583ec41-14ff-47c2-9721-f1a35749d907_nation)
