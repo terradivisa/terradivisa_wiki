@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Kingdom Of Serbia<!--NAME-->
+# <!--NAME-->Republic of Serbia<!--NAME-->
 
 ## Overview
 
@@ -13,13 +13,13 @@
 
 - **Date Founded:** <!--FOUNDED-->February 17, 2026<!--FOUNDED-->
 - **Head of State:** <!--LEADER_TITLE_LINK-->[Leader stefan1a](stefan1a_user)<!--LEADER_TITLE_LINK-->
-- **Governmental System:** <!--GOVERNMENT-->Monarchy<!--GOVERNMENT-->
+- **Governmental System:** <!--GOVERNMENT-->Republic<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->264g<!--GDP-->
+- **GDP:** <!--GDP-->139g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [lybia](af609554-a442-4dcf-bdf2-f69a18ba0b22_town)<!--COLONIES-->
+<!--COLONIES-->- [lybia](af609554-a442-4dcf-bdf2-f69a18ba0b22_town)
+- [Canada](556ee0b3-b43b-4b48-b395-7a304c2d00f3_town)<!--COLONIES-->
 
 ---
