@@ -9,6 +9,7 @@
 * [Auroria](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
+* [UNITED_EMPIRE](ce8521fc-e2a3-4801-8eb5-c90d1543eeae_nation)
 * [Baltic_Federation](1d104112-1735-471a-9ea0-921174f9d187_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
 * [LandOfWarriors](6c44e08d-2e23-4a1b-af26-adcba1a131f6_nation)
