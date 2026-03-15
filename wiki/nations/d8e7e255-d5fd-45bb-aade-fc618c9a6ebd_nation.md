@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Neo-Janissary Order<!--NAME-->
+# <!--NAME-->Kingdom of Jerusalem<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,538g<!--GDP-->
+- **GDP:** <!--GDP-->2,504g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
