@@ -18,7 +18,6 @@
 * [Transcaspia](4ff28457-4775-43ee-b751-9a835221f348_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
-* [Kingdom_of_Kongo](25ed76a3-6ccf-4c33-bd35-888a40b01a90_nation)
 * [Ottoman_Empire](a2516006-0347-4d11-a5db-005577ddd631_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
@@ -452,6 +451,7 @@
 * [# MoyaBamba](ccbaa307-11d6-4dc7-9682-057c060dad45_nation)
 * [# New Zealand](4f4a73c6-fcfb-41ad-b10b-8530a582ae8f_nation)
 * [# America Empire](0f866ebe-c8dd-4d1c-8574-dfa125275815_nation)
+* [# Kingdom of Kongo](25ed76a3-6ccf-4c33-bd35-888a40b01a90_nation)
 * [# Baltic Federation](3a55546f-0e20-44d1-a369-a635b7d0963e_nation)
 * [# Bulgarian Empire](b6429cf8-c78a-4fb3-ac6e-c32db773adaa_nation)
 * [# Republic of the Susbluds](1bb536d5-f524-46f2-adbc-aa7229fecfc3_nation)
