@@ -2,7 +2,6 @@
 
 * [Soviet_Union](a1ce05e2-ac1e-434e-85d7-1a4bcadfff8b_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
-* [Guy_Trading_Co.](fc56c542-7923-41a9-8619-f6f8246eca49_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
 * [North_Kirim](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
@@ -462,6 +461,7 @@
 * [# LandOfWarriors](6c44e08d-2e23-4a1b-af26-adcba1a131f6_nation)
 * [# Holy land](3176d305-1c1e-491e-8038-d7d11317e4d3_nation)
 * [# Serbian Destroyer](a66ea2d4-0bcf-41b0-9f1a-6296b5d68f2d_nation)
+* [# Guy Trading Co.](fc56c542-7923-41a9-8619-f6f8246eca49_nation)
 * [# Republic of Serbia](0c5e4dc0-a1da-468b-b9db-b074c83706ef_nation)
 * [# Polish Empire](d583ec41-14ff-47c2-9721-f1a35749d907_nation)
 * [# UNITED EMPIRE](ce8521fc-e2a3-4801-8eb5-c90d1543eeae_nation)
