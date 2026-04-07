@@ -14,6 +14,7 @@
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
 * [Transcaspia](4ff28457-4775-43ee-b751-9a835221f348_nation)
+* [Zion_Revolts](d399bba4-2864-49eb-b5b8-c7855e51cadd_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Laurentiennes](c60fd7da-fb82-43a5-968c-10155ebd5825_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)

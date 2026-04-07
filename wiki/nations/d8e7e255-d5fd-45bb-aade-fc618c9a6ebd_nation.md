@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Patriarchate of Jerusalem](64378567-e9b0-4c87-b37b-28c7c5ea1378_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->15<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,927g<!--GDP-->
+- **GDP:** <!--GDP-->1,329g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Patriarchate of Jerusalem](64378567-e9b0-4c87-b37b-28c7c5ea1378_town)
-- [Greece](653a7bee-eb51-481a-a8e8-5a42f0bf721a_town)<!--TOWNS-->
+<!--TOWNS-->- [Patriarchate of Jerusalem](64378567-e9b0-4c87-b37b-28c7c5ea1378_town)<!--TOWNS-->
 
 ## Colonies
 
