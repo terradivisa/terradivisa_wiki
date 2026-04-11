@@ -3,7 +3,6 @@
 * [Soviet_Union](a1ce05e2-ac1e-434e-85d7-1a4bcadfff8b_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
-* [North_Kirim](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
 * [Auroria](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
@@ -17,7 +16,8 @@
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Laurentiennes](c60fd7da-fb82-43a5-968c-10155ebd5825_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
-* [Ottoman_Empire](a2516006-0347-4d11-a5db-005577ddd631_nation)
+* [Ukraine](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
+* [The_Crimson_Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
 ## History
@@ -432,6 +432,7 @@
 * [# Helvetica](d38369bd-0cef-46d4-9b0f-a714c3c04aeb_nation)
 * [# State Of Pig](52a37f95-1bb4-40f9-84a2-a4ca670748cc_nation)
 * [# Japanese Empire](a53e179a-cf05-4cac-9331-f9a378fac32b_nation)
+* [# Ottoman Empire](a2516006-0347-4d11-a5db-005577ddd631_nation)
 * [# Althingic Commonwealth](a51fef96-9315-4361-8270-3fc886d2d0c8_nation)
 * [# Belengrad Republic](85b9e098-a1f7-4340-8b47-d3ef191ec0ca_nation)
 * [# Hong Kong Commonwealth](f2260086-d4cc-4739-ac15-a94ff389a297_nation)
