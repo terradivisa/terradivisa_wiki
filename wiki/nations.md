@@ -8,6 +8,7 @@
 * [Celtic_League](768a7e77-3fa9-414a-98a0-01329ebf2084_nation)
 * [USEAF](bad66f28-560b-430f-8e43-17c2ac870838_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
+* [Ukraine_SSR](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
 * [Baltic_Federation](1d104112-1735-471a-9ea0-921174f9d187_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
@@ -16,7 +17,6 @@
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Laurentiennes](c60fd7da-fb82-43a5-968c-10155ebd5825_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
-* [Ukraine](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
 * [The_Crimson_Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
