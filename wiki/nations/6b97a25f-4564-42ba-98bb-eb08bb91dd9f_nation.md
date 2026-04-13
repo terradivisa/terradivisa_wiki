@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[North Kirim](c435b36b-bc60-4979-88e0-2097ea3397e0_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->6<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Crimea](c435b36b-bc60-4979-88e0-2097ea3397e0_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->97,776g<!--GDP-->
+- **GDP:** <!--GDP-->96,337g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Cilicia](7a687a97-50f9-4c9d-9f25-8339723c63fa_town)
-- [North Kirim](c435b36b-bc60-4979-88e0-2097ea3397e0_town)<!--TOWNS-->
+- [Crimea](c435b36b-bc60-4979-88e0-2097ea3397e0_town)<!--TOWNS-->
 
 ## Colonies
 
