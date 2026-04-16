@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->The Crimson Empire<!--NAME-->
+# <!--NAME-->SFR Yugoslavia<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Crimora](06d200dc-0093-4d78-bc8c-eb7a7cb719c4_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[SR Serbia](f2d33930-c95a-4263-9850-058897c5e887_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->April 10, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader EinfachJulianYT](EinfachJulianYT_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->April 16, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader stefan1a](stefan1a_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->70g<!--GDP-->
+- **GDP:** <!--GDP-->692g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Crimora](06d200dc-0093-4d78-bc8c-eb7a7cb719c4_town)<!--TOWNS-->
+<!--TOWNS-->- [SR Serbia](f2d33930-c95a-4263-9850-058897c5e887_town)<!--TOWNS-->
 
 ## Colonies
 

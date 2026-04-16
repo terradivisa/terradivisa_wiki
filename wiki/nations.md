@@ -17,6 +17,7 @@
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
 * [The_Crimson_Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
+* [SFR_Yugoslavia](ee71b2ad-d6c8-498d-b2e5-8c366c3078ee_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
 ## History
