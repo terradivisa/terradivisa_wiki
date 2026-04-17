@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sakura](2c55f02a-0814-4108-8e58-687b81e79c15_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->39<!--POPULATION-->
+- **Population:** <!--POPULATION-->38<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->12,322g<!--GDP-->
+- **GDP:** <!--GDP-->12,247g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,7 +27,6 @@
 ## Towns
 
 <!--TOWNS-->- [Sakura](2c55f02a-0814-4108-8e58-687b81e79c15_town)
-- [Sane](87160ec9-ded8-40ec-b429-641420e3cd11_town)
 - [Shuri](94da21ad-d14d-4085-aff0-c422ed7e75dd_town)<!--TOWNS-->
 
 ## Colonies
