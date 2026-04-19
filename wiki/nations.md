@@ -11,6 +11,7 @@
 * [Ukraine_SSR](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
 * [Baltic_Federation](1d104112-1735-471a-9ea0-921174f9d187_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
+* [Ottomans_Revenge](f35b8e79-9d30-487b-9297-aba6b897680e_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
 * [Transcaspia](4ff28457-4775-43ee-b751-9a835221f348_nation)
 * [Zion_Revolts](d399bba4-2864-49eb-b5b8-c7855e51cadd_nation)
