@@ -17,7 +17,6 @@
 * [Zion_Revolts](d399bba4-2864-49eb-b5b8-c7855e51cadd_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
-* [The_Crimson_Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
 * [SFR_Yugoslavia](ee71b2ad-d6c8-498d-b2e5-8c366c3078ee_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
@@ -469,3 +468,4 @@
 * [# UNITED EMPIRE](ce8521fc-e2a3-4801-8eb5-c90d1543eeae_nation)
 * [# Mongol Empire](dcaa85ba-c52c-43c4-9c40-642f89d3561f_nation)
 * [# Laurentiennes](c60fd7da-fb82-43a5-968c-10155ebd5825_nation)
+* [# The Crimson Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
