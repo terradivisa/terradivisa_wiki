@@ -12,6 +12,7 @@
 * [Baltic_Federation](1d104112-1735-471a-9ea0-921174f9d187_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
 * [Ottomans_Revenge](f35b8e79-9d30-487b-9297-aba6b897680e_nation)
+* [Canada](612f1f42-dc06-4457-8f21-954f26fabec4_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
 * [Transcaspia](4ff28457-4775-43ee-b751-9a835221f348_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
