@@ -13,6 +13,7 @@
 * [Ottomans_Revenge](f35b8e79-9d30-487b-9297-aba6b897680e_nation)
 * [Canada](612f1f42-dc06-4457-8f21-954f26fabec4_nation)
 * [Newfoundland](fc942caa-578d-4645-91d1-cb2eb0faafd4_nation)
+* [Transcaspia](315f411e-4e15-4e9c-b383-558d4a3cb88a_nation)
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
 * [SFR_Yugoslavia](ee71b2ad-d6c8-498d-b2e5-8c366c3078ee_nation)
