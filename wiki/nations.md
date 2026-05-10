@@ -9,6 +9,7 @@
 * [USEAF](bad66f28-560b-430f-8e43-17c2ac870838_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
 * [Ukraine_SSR](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
+* [Baltic_Federation](fa9ee849-6e31-4c9a-95fc-f75223bb589a_nation)
 * [KingdomOfTwoSicilies](cf087ba8-97c2-40b9-a2b1-163de1e6438f_nation)
 * [Ottomans_Revenge](f35b8e79-9d30-487b-9297-aba6b897680e_nation)
 * [Canada](612f1f42-dc06-4457-8f21-954f26fabec4_nation)
