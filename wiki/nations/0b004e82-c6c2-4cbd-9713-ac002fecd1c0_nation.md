@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->658g<!--GDP-->
+- **GDP:** <!--GDP-->557g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Npc 1033](d16a49de-7249-44d5-8152-cf4690b5abe6_town)<!--COLONIES-->
 
 ---
