@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->22,469g<!--GDP-->
+- **GDP:** <!--GDP-->22,042g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sakura](2c55f02a-0814-4108-8e58-687b81e79c15_town)<!--TOWNS-->
+<!--TOWNS-->- [Sakura](2c55f02a-0814-4108-8e58-687b81e79c15_town)
+- [Kyushu](83d32435-080f-4d48-b715-918f7bbdccd2_town)<!--TOWNS-->
 
 ## Colonies
 
