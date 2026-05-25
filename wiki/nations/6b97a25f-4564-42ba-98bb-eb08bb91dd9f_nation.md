@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->106,110g<!--GDP-->
+- **GDP:** <!--GDP-->106,574g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,6 +32,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Moscow](8dd247ba-13cc-4d12-8140-59fb690b68c8_town)<!--COLONIES-->
+<!--COLONIES-->- [Moscow](8dd247ba-13cc-4d12-8140-59fb690b68c8_town)
+- [Kursk](9713dd6a-b4a4-403a-8fdf-06a64b2543cb_town)
+- [Greece](8bb91962-8584-4af3-abd2-1745b968f8a2_town)<!--COLONIES-->
 
 ---
