@@ -1,6 +1,5 @@
 # Nations
 
-* [Greater_Philippines](4454a5ed-d8a6-4103-bce0-2612ab353cfe_nation)
 * [Soviet_Union](a1ce05e2-ac1e-434e-85d7-1a4bcadfff8b_nation)
 * [World_Economic_Forum](e2cbf35d-8250-4fa6-8f78-0397f783ee1b_nation)
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
@@ -474,3 +473,4 @@
 * [# Zion Revolts](d399bba4-2864-49eb-b5b8-c7855e51cadd_nation)
 * [# The Crimson Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
 * [# Philippinian Federation](0b004e82-c6c2-4cbd-9713-ac002fecd1c0_nation)
+* [# Greater Philippines](4454a5ed-d8a6-4103-bce0-2612ab353cfe_nation)
