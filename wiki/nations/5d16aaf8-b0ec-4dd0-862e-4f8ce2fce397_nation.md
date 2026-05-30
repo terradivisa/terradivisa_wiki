@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Sakura](2c55f02a-0814-4108-8e58-687b81e79c15_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->45<!--POPULATION-->
+- **Population:** <!--POPULATION-->53<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->45,013g<!--GDP-->
+- **GDP:** <!--GDP-->50,015g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,6 +27,7 @@
 ## Towns
 
 <!--TOWNS-->- [Sakura](2c55f02a-0814-4108-8e58-687b81e79c15_town)
+- [Philippinian Federation](7500b22e-253c-427e-93ff-a80f23adec9c_town)
 - [RocketTown](f9bb85ef-244e-402d-97a7-9b281909049d_town)
 - [Kyushu](83d32435-080f-4d48-b715-918f7bbdccd2_town)<!--TOWNS-->
 
