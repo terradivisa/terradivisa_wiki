@@ -17,7 +17,6 @@
 * [Helvetica](eef5602f-cc41-4af1-a692-6e7e6cdb1b1d_nation)
 * [Philippinian_SSR](88c7ccc6-8279-43cb-be2d-2534007e0f3c_nation)
 * [Serbian_Empire](2a3d57ef-1da8-440c-b398-22e3ca757f5a_nation)
-* [SFR_Yugoslavia](ee71b2ad-d6c8-498d-b2e5-8c366c3078ee_nation)
 * [Catalan_Empire](a8e955ad-7d25-4ad2-8ce4-5d5902bfd2a4_nation)
 
 ## History
@@ -473,6 +472,7 @@
 * [# Laurentiennes](c60fd7da-fb82-43a5-968c-10155ebd5825_nation)
 * [# Zion Revolts](d399bba4-2864-49eb-b5b8-c7855e51cadd_nation)
 * [# The Crimson Empire](adce19f8-3293-4be2-a81f-c1cd457cc222_nation)
+* [# SFR Yugoslavia](ee71b2ad-d6c8-498d-b2e5-8c366c3078ee_nation)
 * [# Ottomans Revenge](f35b8e79-9d30-487b-9297-aba6b897680e_nation)
 * [# Philippinian Federation](0b004e82-c6c2-4cbd-9713-ac002fecd1c0_nation)
 * [# Greater Philippines](4454a5ed-d8a6-4103-bce0-2612ab353cfe_nation)
