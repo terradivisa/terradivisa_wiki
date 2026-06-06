@@ -6,7 +6,7 @@
 * [Kingdom_of_Armenia](c74e8bd7-5dac-4435-8776-d516f425d39d_nation)
 * [Switzerland](a005a35b-e091-4ecf-a981-04c6d000a1aa_nation)
 * [Auroria](5d16aaf8-b0ec-4dd0-862e-4f8ce2fce397_nation)
-* [USEAF](439af0f4-4521-4620-85c4-ee023aca3e84_nation)
+* [USEAF](c273003f-e16c-48a6-8fd5-c1516b247a0a_nation)
 * [pigism_island](a87829f2-b983-4d8f-bb58-a024b3716d41_nation)
 * [USSR](6b97a25f-4564-42ba-98bb-eb08bb91dd9f_nation)
 * [Baltic_Federation](fa9ee849-6e31-4c9a-95fc-f75223bb589a_nation)
@@ -476,3 +476,4 @@
 * [# Ottomans Revenge](f35b8e79-9d30-487b-9297-aba6b897680e_nation)
 * [# Philippinian Federation](0b004e82-c6c2-4cbd-9713-ac002fecd1c0_nation)
 * [# Greater Philippines](4454a5ed-d8a6-4103-bce0-2612ab353cfe_nation)
+* [# USEAF](439af0f4-4521-4620-85c4-ee023aca3e84_nation)

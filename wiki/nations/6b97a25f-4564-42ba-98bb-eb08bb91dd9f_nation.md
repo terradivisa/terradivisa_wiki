@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Crimea](c435b36b-bc60-4979-88e0-2097ea3397e0_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->16<!--POPULATION-->
+- **Population:** <!--POPULATION-->17<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->217,947g<!--GDP-->
+- **GDP:** <!--GDP-->221,655g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
