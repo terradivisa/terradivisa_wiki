@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->221,447g<!--GDP-->
+- **GDP:** <!--GDP-->224,135g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,6 +38,7 @@
 - [Voronej](641e1568-fcdb-4e6d-9cd9-2adf765a8273_town)
 - [Kursk](9713dd6a-b4a4-403a-8fdf-06a64b2543cb_town)
 - [Greece](8bb91962-8584-4af3-abd2-1745b968f8a2_town)
-- [Anadolu](0681a777-687b-4ab7-a80e-2dadc5b51e64_town)<!--COLONIES-->
+- [Anadolu](0681a777-687b-4ab7-a80e-2dadc5b51e64_town)
+- [Palestine](2fb501fe-fc6e-4e6e-a591-864dbc41e5cd_town)<!--COLONIES-->
 
 ---
