@@ -1,5 +1,17 @@
 # Nations
 
+* [United_States](6c4c2889-950e-4ea5-963d-9eb0fce184a7_nation)
+* [Divinity](9f9d1c2d-0485-4bd2-b468-9d9a418c8edc_nation)
+* [Auroria](85c7322f-29fb-42b2-ac54-38a549d522a5_nation)
+* [USEAF](682885e5-e83b-4f93-a771-03d9114c08f9_nation)
+* [Mexican_Empire](b73f6a52-ba36-4721-9f0a-9f35310cb8ec_nation)
+* [Spanish_Republic](50d1b689-216b-4c13-9959-8386adb06bb9_nation)
+* [Dharavaan_Union](fd94e0e1-1c69-46c0-8cee-a145834e1c39_nation)
+* [Argentina](61b77a3d-a40b-4d96-9d65-b910e971fc16_nation)
+* [New-Sweden](193c8a8b-30cf-45ed-aeac-e59b56bc7f69_nation)
+* [Pinecone_Confederacy](775e5c04-1106-4784-98d8-7a1f770a6422_nation)
+* [Anglo-Scandinavian_Union](022aa98e-6850-4594-a7f6-144c1f7f3e3e_nation)
+* [Pacifica](ade18225-8c60-445f-8e64-02600a804051_nation)
 
 ## History
 
