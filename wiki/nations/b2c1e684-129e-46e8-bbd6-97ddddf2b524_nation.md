@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Pinecone Confederacy<!--NAME-->
+# <!--NAME-->MCE<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Chicago](9031377e-0dc1-4521-94d7-e0f548fce31c_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Antananarivo](e98ea9e2-d3a4-4044-a3c6-a8ad95124c1c_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 20, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader michellakox](michellakox_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->June 21, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Kou_Oku](Kou_Oku_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->471g<!--GDP-->
+- **GDP:** <!--GDP-->333g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Chicago](9031377e-0dc1-4521-94d7-e0f548fce31c_town)<!--TOWNS-->
+<!--TOWNS-->- [Antananarivo](e98ea9e2-d3a4-4044-a3c6-a8ad95124c1c_town)<!--TOWNS-->
 
 ## Colonies
 
