@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Saint Petersburg](74f38cb8-6b57-41e2-b585-5812f45e5384_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,069g<!--GDP-->
+- **GDP:** <!--GDP-->5,068g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Saint Petersburg](74f38cb8-6b57-41e2-b585-5812f45e5384_town)<!--TOWNS-->
+<!--TOWNS-->- [Saint Petersburg](74f38cb8-6b57-41e2-b585-5812f45e5384_town)
+- [helsinki](d9be19a6-ccf1-4ef5-a015-519164e5ddf8_town)<!--TOWNS-->
 
 ## Colonies
 
