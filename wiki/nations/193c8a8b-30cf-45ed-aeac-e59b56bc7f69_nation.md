@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->296g<!--GDP-->
+- **GDP:** <!--GDP-->324g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [swedish isles](e7f4eae4-a401-47be-ab26-18b55284237b_town)<!--COLONIES-->
 
 ---
