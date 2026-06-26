@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->5,051g<!--GDP-->
+- **GDP:** <!--GDP-->8,516g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [North Sea](58595d74-3587-493b-9333-bd7b36131413_town)<!--COLONIES-->
 
 ---

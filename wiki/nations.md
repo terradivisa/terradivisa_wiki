@@ -2,6 +2,7 @@
 
 * [USA](6c4c2889-950e-4ea5-963d-9eb0fce184a7_nation)
 * [Cascadia](0c26666b-98d2-4b91-bb44-191ec10d64fe_nation)
+* [Turkiye](310d55ba-6cc7-46e3-bf22-ddfe312978e8_nation)
 * [USEAF](682885e5-e83b-4f93-a771-03d9114c08f9_nation)
 * [Russian_Federation](9867aa81-fc46-44be-a37d-f85cb8fb6b6c_nation)
 * [MCE](b2c1e684-129e-46e8-bbd6-97ddddf2b524_nation)
@@ -9,6 +10,7 @@
 * [Scotland](146195ae-a108-4c80-8366-a519e02fc009_nation)
 * [Spanish_Republic](50d1b689-216b-4c13-9959-8386adb06bb9_nation)
 * [Corpus_Africanus](2e7b78f3-743f-416e-b365-358a6ce8e5cc_nation)
+* [Greater_Japanese_Empire](23981564-a633-418f-92e8-e4c110645275_nation)
 * [Argentina](61b77a3d-a40b-4d96-9d65-b910e971fc16_nation)
 * [New-Sweden](193c8a8b-30cf-45ed-aeac-e59b56bc7f69_nation)
 * [Governo_del_Lazio](2fadf717-e29f-4898-943d-9293749797f3_nation)

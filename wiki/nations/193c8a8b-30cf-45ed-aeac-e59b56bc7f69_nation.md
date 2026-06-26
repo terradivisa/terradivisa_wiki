@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->324g<!--GDP-->
+- **GDP:** <!--GDP-->764g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)<!--TOWNS-->
+<!--TOWNS-->- [Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)
+- [Equestria](b039c8ff-9bd6-4eba-a35d-e6f8d1ff8ba5_town)<!--TOWNS-->
 
 ## Colonies
 
