@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Pinecone Confederacy<!--NAME-->
+# <!--NAME-->Ragajastri And Kurburis<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Chicago](9031377e-0dc1-4521-94d7-e0f548fce31c_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Gujurat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 20, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader michellakox](michellakox_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->June 27, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader SolidChonk444](SolidChonk444_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->787g<!--GDP-->
+- **GDP:** <!--GDP-->205g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Chicago](9031377e-0dc1-4521-94d7-e0f548fce31c_town)<!--TOWNS-->
+<!--TOWNS-->- [Gujurat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--TOWNS-->
 
 ## Colonies
 

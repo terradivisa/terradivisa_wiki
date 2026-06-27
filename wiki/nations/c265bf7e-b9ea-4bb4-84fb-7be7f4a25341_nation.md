@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->U.D of America<!--NAME-->
+# <!--NAME-->Soviet Union<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Houston](49e3c8db-2a79-42d9-9697-53da77219eb7_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 21, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader AuraSwiss](AuraSwiss_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->June 27, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Orionlandia](Orionlandia_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->122g<!--GDP-->
+- **GDP:** <!--GDP-->31g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Houston](49e3c8db-2a79-42d9-9697-53da77219eb7_town)<!--TOWNS-->
+<!--TOWNS-->- [Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)<!--TOWNS-->
 
 ## Colonies
 
