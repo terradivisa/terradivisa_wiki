@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Ragajastri And Kurburis<!--NAME-->
+# <!--NAME-->Umayyad Caliphate<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Gujurat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Harran](2f26c707-97f8-4f53-b0ce-a517c7da169d_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,23 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 27, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader SolidChonk444](SolidChonk444_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->June 28, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader RushCrush](RushCrush_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->192g<!--GDP-->
+- **GDP:** <!--GDP-->112g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Gujurat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--TOWNS-->
+<!--TOWNS-->- [Monaco](a7de90f7-9ccd-46b3-bb03-2cab7a144a0e_town)
+- [Harran](2f26c707-97f8-4f53-b0ce-a517c7da169d_town)<!--TOWNS-->
 
 ## Colonies
 

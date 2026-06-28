@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->8,759g<!--GDP-->
+- **GDP:** <!--GDP-->8,497g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [North Sea](58595d74-3587-493b-9333-bd7b36131413_town)<!--COLONIES-->
+<!--COLONIES-->- [North Sea](58595d74-3587-493b-9333-bd7b36131413_town)
+- [New Moscow](1474a557-ab15-4d51-96cc-baba6a6fc9b5_town)<!--COLONIES-->
 
 ---
