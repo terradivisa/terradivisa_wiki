@@ -3,7 +3,7 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Gujurat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Gujarat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->3<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->192g<!--GDP-->
+- **GDP:** <!--GDP-->196g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Gujurat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--TOWNS-->
+<!--TOWNS-->- [Gujarat](2595587d-cc4e-4f46-a3ea-c0f981890946_town)<!--TOWNS-->
 
 ## Colonies
 
