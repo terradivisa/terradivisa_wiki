@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->248g<!--GDP-->
+- **GDP:** <!--GDP-->145g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,6 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Stalingrad](d562abdc-e789-4c5d-ac72-706aac34aa40_town)<!--COLONIES-->
 
 ---
