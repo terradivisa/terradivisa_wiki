@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Harran](2f26c707-97f8-4f53-b0ce-a517c7da169d_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->8<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->779g<!--GDP-->
+- **GDP:** <!--GDP-->986g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [Monaco](a7de90f7-9ccd-46b3-bb03-2cab7a144a0e_town)
-- [Harran](2f26c707-97f8-4f53-b0ce-a517c7da169d_town)
-- [Bursa](b7b8f611-7d9b-4f09-a4ba-2e9f3da3aa7d_town)<!--TOWNS-->
+- [Bursa](b7b8f611-7d9b-4f09-a4ba-2e9f3da3aa7d_town)
+- [Harran](2f26c707-97f8-4f53-b0ce-a517c7da169d_town)<!--TOWNS-->
 
 ## Colonies
 
