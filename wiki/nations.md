@@ -1,6 +1,5 @@
 # Nations
 
-* [USA](6c4c2889-950e-4ea5-963d-9eb0fce184a7_nation)
 * [Soviet_Union](c265bf7e-b9ea-4bb4-84fb-7be7f4a25341_nation)
 * [Cascadia](0c26666b-98d2-4b91-bb44-191ec10d64fe_nation)
 * [Bulgaria](b3dea10b-b47b-4662-b234-cadc50122bdf_nation)
@@ -511,6 +510,7 @@
 * [# USEAF](439af0f4-4521-4620-85c4-ee023aca3e84_nation)
 * [# Philippinian SSR](88c7ccc6-8279-43cb-be2d-2534007e0f3c_nation)
 * [# USEAF](c273003f-e16c-48a6-8fd5-c1516b247a0a_nation)
+* [# USA](6c4c2889-950e-4ea5-963d-9eb0fce184a7_nation)
 * [# Divinity](9f9d1c2d-0485-4bd2-b468-9d9a418c8edc_nation)
 * [# Spanish Republic](50d1b689-216b-4c13-9959-8386adb06bb9_nation)
 * [# Dharavaan Union](fd94e0e1-1c69-46c0-8cee-a145834e1c39_nation)
