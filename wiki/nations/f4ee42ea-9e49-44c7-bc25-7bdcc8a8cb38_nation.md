@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Antarctica<!--NAME-->
+# <!--NAME-->Iveronnia<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Mirny](2acff6dd-fb48-458e-82b1-41928dd90855_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Hivinville](d70ea171-499b-46c0-9940-c070c17dc644_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->June 21, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Telertop](Telertop_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->July 07, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader SPoofnoodles](SPoofnoodles_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,568g<!--GDP-->
+- **GDP:** <!--GDP-->326g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Mirny](2acff6dd-fb48-458e-82b1-41928dd90855_town)<!--TOWNS-->
+<!--TOWNS-->- [Hivinville](d70ea171-499b-46c0-9940-c070c17dc644_town)<!--TOWNS-->
 
 ## Colonies
 

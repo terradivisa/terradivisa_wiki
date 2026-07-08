@@ -19,17 +19,18 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->200g<!--GDP-->
+- **GDP:** <!--GDP-->369g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)<!--TOWNS-->
+<!--TOWNS-->- [Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)
+- [Stalingrad](fb685b3f-6042-4ae2-bbf6-ec7a5bb44a0a_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [Stalingrad](d562abdc-e789-4c5d-ac72-706aac34aa40_town)<!--COLONIES-->
+<!--COLONIES--><!--COLONIES-->
 
 ---
