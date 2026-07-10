@@ -19,14 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->18,829g<!--GDP-->
+- **GDP:** <!--GDP-->19,204g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Sveagrad](a28f4798-4809-48a3-84b0-ed30c6aa3b02_town)
+<!--TOWNS-->- [Greater Albania](a28f4798-4809-48a3-84b0-ed30c6aa3b02_town)
 - [Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)
 - [Equestria](b039c8ff-9bd6-4eba-a35d-e6f8d1ff8ba5_town)<!--TOWNS-->
 
