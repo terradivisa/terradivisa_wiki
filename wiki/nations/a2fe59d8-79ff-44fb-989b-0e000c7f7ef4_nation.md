@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,570g<!--GDP-->
+- **GDP:** <!--GDP-->1,615g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,7 +36,6 @@
 <!--COLONIES-->- [Npc 866](b530d46f-0f73-466e-a04e-bca65613ccd4_town)
 - [Npc 413](68a3cca9-ad63-43e2-8f5f-c4a95f142323_town)
 - [Npc 1072](5c983ae2-b084-4dee-8ab0-74f3a3763036_town)
-- [Jabal](29527218-06fe-4d1f-bc5e-00c078613130_town)
 - [Npc 670](00efb774-87dd-40e3-be91-4bef97605dd9_town)
 - [South Africa](ab5b5867-42f7-4f0c-8ccb-2237b318094e_town)<!--COLONIES-->
 

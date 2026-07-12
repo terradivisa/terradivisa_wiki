@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->446g<!--GDP-->
+- **GDP:** <!--GDP-->400g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Bandar](01f974bb-031e-4364-b36e-5bf9dbd27079_town)<!--COLONIES-->
+<!--COLONIES-->- [Qatarese](fd39941b-c68c-464a-a07c-fb40513674ca_town)
+- [Bandar](01f974bb-031e-4364-b36e-5bf9dbd27079_town)<!--COLONIES-->
 
 ---

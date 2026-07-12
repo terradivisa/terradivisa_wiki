@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->8<!--POPULATION-->
+- **Population:** <!--POPULATION-->7<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->19,141g<!--GDP-->
+- **GDP:** <!--GDP-->20,506g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,7 +33,7 @@
 ## Colonies
 
 <!--COLONIES-->- [swedish isles](e7f4eae4-a401-47be-ab26-18b55284237b_town)
-- [Npc 103](51b2ebd1-6189-4e4a-a927-533d7aeccb79_town)
+- [NPC 103](51b2ebd1-6189-4e4a-a927-533d7aeccb79_town)
 - [Npc 1088](68899b59-0ee3-4cd8-864c-3689f6962586_town)
 - [Sodersol](3f9d0c22-1817-4846-b51a-07f0cc3dcedc_town)
 - [Npc 484](015892a7-51cc-4721-b3d3-68cefe17c087_town)
