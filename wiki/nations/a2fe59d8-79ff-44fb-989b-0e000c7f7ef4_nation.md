@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Harran](2f26c707-97f8-4f53-b0ce-a517c7da169d_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->9<!--POPULATION-->
+- **Population:** <!--POPULATION-->10<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,615g<!--GDP-->
+- **GDP:** <!--GDP-->1,872g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -36,6 +36,7 @@
 <!--COLONIES-->- [Npc 866](b530d46f-0f73-466e-a04e-bca65613ccd4_town)
 - [Npc 413](68a3cca9-ad63-43e2-8f5f-c4a95f142323_town)
 - [Npc 1072](5c983ae2-b084-4dee-8ab0-74f3a3763036_town)
+- [Makkah](6e4981b0-c1a4-4229-8a8a-1fe71d1da7d4_town)
 - [Npc 670](00efb774-87dd-40e3-be91-4bef97605dd9_town)
 - [South Africa](ab5b5867-42f7-4f0c-8ccb-2237b318094e_town)<!--COLONIES-->
 
