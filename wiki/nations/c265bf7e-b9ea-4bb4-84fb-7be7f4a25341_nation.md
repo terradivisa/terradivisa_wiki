@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->2<!--POPULATION-->
+- **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->122g<!--GDP-->
+- **GDP:** <!--GDP-->108g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)
-- [Stalingrad](fb685b3f-6042-4ae2-bbf6-ec7a5bb44a0a_town)<!--TOWNS-->
+<!--TOWNS-->- [Moscow](21ba351c-4974-49fc-83a0-0bb593fc9934_town)<!--TOWNS-->
 
 ## Colonies
 
