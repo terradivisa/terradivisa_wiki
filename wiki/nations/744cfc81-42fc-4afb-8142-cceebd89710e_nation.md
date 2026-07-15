@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->564g<!--GDP-->
+- **GDP:** <!--GDP-->546g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,7 @@
 ## Colonies
 
 <!--COLONIES-->- [Qatarese](fd39941b-c68c-464a-a07c-fb40513674ca_town)
-- [Bandar](01f974bb-031e-4364-b36e-5bf9dbd27079_town)<!--COLONIES-->
+- [Bandar](01f974bb-031e-4364-b36e-5bf9dbd27079_town)
+- [Alaska](aea1da01-edf9-4818-afac-83d56328d165_town)<!--COLONIES-->
 
 ---

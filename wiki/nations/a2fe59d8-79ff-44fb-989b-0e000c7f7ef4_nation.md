@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,828g<!--GDP-->
+- **GDP:** <!--GDP-->5,130g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,11 +33,11 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Npc 413](68a3cca9-ad63-43e2-8f5f-c4a95f142323_town)
+<!--COLONIES-->- [Npc 371](ebb2d766-6817-4b2f-be24-7eea1dc99d45_town)
+- [Npc 413](68a3cca9-ad63-43e2-8f5f-c4a95f142323_town)
 - [Npc 1072](5c983ae2-b084-4dee-8ab0-74f3a3763036_town)
 - [Makkah](6e4981b0-c1a4-4229-8a8a-1fe71d1da7d4_town)
 - [Npc 670](00efb774-87dd-40e3-be91-4bef97605dd9_town)
-- [South Africa](ab5b5867-42f7-4f0c-8ccb-2237b318094e_town)
-- [Npc 371](ebb2d766-6817-4b2f-be24-7eea1dc99d45_town)<!--COLONIES-->
+- [South Africa](ab5b5867-42f7-4f0c-8ccb-2237b318094e_town)<!--COLONIES-->
 
 ---

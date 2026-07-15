@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->6<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,261g<!--GDP-->
+- **GDP:** <!--GDP-->2,831g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,8 +28,7 @@
 
 <!--TOWNS-->- [Greater Albania](a28f4798-4809-48a3-84b0-ed30c6aa3b02_town)
 - [Peacfuladnia](fb25ae4d-07f6-49ec-b8aa-7b35461ce40d_town)
-- [Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)
-- [Manehattan](40702326-7f88-459f-bfcf-c8d98380a27d_town)<!--TOWNS-->
+- [Port Steve](277e3eb5-7e49-4456-9fe1-6aec0fa1fc24_town)<!--TOWNS-->
 
 ## Colonies
 
