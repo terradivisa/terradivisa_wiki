@@ -1,6 +1,5 @@
 # Nations
 
-* [Soviet_Union](c265bf7e-b9ea-4bb4-84fb-7be7f4a25341_nation)
 * [Cascadia](0c26666b-98d2-4b91-bb44-191ec10d64fe_nation)
 * [USEAF](682885e5-e83b-4f93-a771-03d9114c08f9_nation)
 * [Russian_Federation](9867aa81-fc46-44be-a37d-f85cb8fb6b6c_nation)
@@ -526,6 +525,7 @@
 * [# Sixth Persian Empire](8b601d37-5f54-4079-ad90-1800d904cf11_nation)
 * [# Turkiye](310d55ba-6cc7-46e3-bf22-ddfe312978e8_nation)
 * [# Greater Japanese Empire](23981564-a633-418f-92e8-e4c110645275_nation)
+* [# Soviet Union](c265bf7e-b9ea-4bb4-84fb-7be7f4a25341_nation)
 * [# Ragajastri And Kurburis](fa03c308-29fd-4615-af3b-fdcfc2b64dc5_nation)
 * [# Bulgaria](b3dea10b-b47b-4662-b234-cadc50122bdf_nation)
 * [# Valoria](9ef3a5a5-a8f9-4cd1-ad6e-b5cdcca78a9f_nation)
