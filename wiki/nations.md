@@ -10,7 +10,7 @@
 * [OPD_OceaniaDuckPirates](cd4dc97f-2874-4036-a63b-15c32e28affa_nation)
 * [India](022b45b7-7efe-4ed1-a52f-d30407d0f726_nation)
 * [Commonwealth_of_Kentucky](4207a660-d44c-46d3-bd96-c4c50f417e4b_nation)
-* [Equestria](add2edd9-fb81-4cf9-8a44-0d12cdfddf9f_nation)
+* [olden_ponish](add2edd9-fb81-4cf9-8a44-0d12cdfddf9f_nation)
 * [Corpus_Africanus](2e7b78f3-743f-416e-b365-358a6ce8e5cc_nation)
 * [Mongol_Empire](6c394d01-e204-42cb-b39c-87a492f13184_nation)
 * [Argentina](61b77a3d-a40b-4d96-9d65-b910e971fc16_nation)
