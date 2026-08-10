@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->567g<!--GDP-->
+- **GDP:** <!--GDP-->625g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -27,8 +27,8 @@
 ## Towns
 
 <!--TOWNS-->- [Moesia](c67bb9d7-2b56-4ef4-9184-ee4a740830b4_town)
-- [Macedonia](02ec8921-be37-4a5a-a88c-549ea17acfaa_town)
-- [Bosphorus](1e2c8451-da90-4a5a-a110-7cf7364054c9_town)<!--TOWNS-->
+- [Bosphorus](1e2c8451-da90-4a5a-a110-7cf7364054c9_town)
+- [Macedonia](02ec8921-be37-4a5a-a88c-549ea17acfaa_town)<!--TOWNS-->
 
 ## Colonies
 

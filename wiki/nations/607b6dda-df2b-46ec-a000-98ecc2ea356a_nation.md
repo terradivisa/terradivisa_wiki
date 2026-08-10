@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->The Cape<!--NAME-->
+# <!--NAME-->Falconian Imperium<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Paarl](237b6081-a704-48e0-895d-d250fa550941_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Citadel Of Light](220fc014-cfd3-4c00-8b70-64c471c6c4b9_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->August 09, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ExpectedPie](ExpectedPie_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->August 10, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Femperor](Femperor_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,355g<!--GDP-->
+- **GDP:** <!--GDP-->85g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Paarl](237b6081-a704-48e0-895d-d250fa550941_town)<!--TOWNS-->
+<!--TOWNS-->- [Citadel Of Light](220fc014-cfd3-4c00-8b70-64c471c6c4b9_town)<!--TOWNS-->
 
 ## Colonies
 
