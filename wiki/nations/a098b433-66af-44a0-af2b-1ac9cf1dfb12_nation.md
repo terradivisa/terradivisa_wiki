@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Illinois](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->16<!--POPULATION-->
+- **Population:** <!--POPULATION-->15<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->4,109g<!--GDP-->
+- **GDP:** <!--GDP-->8,428g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,13 +28,14 @@
 
 <!--TOWNS-->- [Huntsville](67217154-389b-44fe-9a0e-5dfb01259741_town)
 - [Washington DC](831df737-ec49-441b-bf76-82cee2acdd6c_town)
-- [Louisiana](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
-- [New England](55afcaf0-6228-4fca-991b-05597e509e22_town)
-- [Virginia](789f34c5-d422-4d99-8838-32d08cb01bcc_town)
-- [Illinois](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--TOWNS-->
+- [West Dixieland](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
+- [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
+- [Illinois](fca8485b-ba92-4334-9c95-dadf60976e13_town)
+- [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)<!--TOWNS-->
 
 ## Colonies
 
-<!--COLONIES-->- [American-Japanese](276ddcee-9ddb-4c3e-8d1e-eb7153f5d8ce_town)<!--COLONIES-->
+<!--COLONIES-->- [Botswana](bed26fc7-77f4-4cd7-889a-b587ab0926ec_town)
+- [American-Japanese](276ddcee-9ddb-4c3e-8d1e-eb7153f5d8ce_town)<!--COLONIES-->
 
 ---
