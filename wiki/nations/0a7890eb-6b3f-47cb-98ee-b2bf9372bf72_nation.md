@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[DuckCity](8f78586b-d4f9-4cd9-a1b3-401b23909d3e_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->7<!--POPULATION-->
+- **Population:** <!--POPULATION-->8<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,327g<!--GDP-->
+- **GDP:** <!--GDP-->2,457g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -33,8 +33,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [ODP-1](f08e30d5-2689-492a-ab9a-c26e089dd5ed_town)
-- [ODP-2](0dbb3a4f-8c4a-40dd-b5be-7aa4303af8ea_town)
-- [villa2.0](f8b5164f-5d4b-4ad6-a841-ca5ff867fc3c_town)<!--COLONIES-->
+<!--COLONIES-->- [villa2.0](f8b5164f-5d4b-4ad6-a841-ca5ff867fc3c_town)
+- [ODP-1](f08e30d5-2689-492a-ab9a-c26e089dd5ed_town)
+- [ODP-2](0dbb3a4f-8c4a-40dd-b5be-7aa4303af8ea_town)<!--COLONIES-->
 
 ---
