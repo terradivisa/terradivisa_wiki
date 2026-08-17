@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Stevatolia](b97da0be-1b66-4293-b776-efd1d8338813_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->4<!--POPULATION-->
+- **Population:** <!--POPULATION-->5<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->359g<!--GDP-->
+- **GDP:** <!--GDP-->394g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
