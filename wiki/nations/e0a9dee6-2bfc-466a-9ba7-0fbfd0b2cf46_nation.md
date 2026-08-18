@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Epic Pookie Mexico<!--NAME-->
+# <!--NAME-->Epic Mexico<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,070g<!--GDP-->
+- **GDP:** <!--GDP-->1,103g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Mexicolt](141459d5-ff71-4e29-a444-7143c274ba11_town)<!--COLONIES-->
+<!--COLONIES-->- [Mexicolt](141459d5-ff71-4e29-a444-7143c274ba11_town)
+- [Maya](e48cfe4c-7588-43de-a1e0-87b0b1e04255_town)<!--COLONIES-->
 
 ---

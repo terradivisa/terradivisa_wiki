@@ -2,13 +2,9 @@
 
 * [United_States](a098b433-66af-44a0-af2b-1ac9cf1dfb12_nation)
 * [Taoist_State_of_Hua-nan](71cca4ca-d64b-45fe-aa25-85f69a0d0368_nation)
-* [Islamic_Republic](51f1e214-5872-42e1-980d-df965e645059_nation)
-* [British_Empire](1d96429e-c0b0-4925-b962-3ebdeea28f96_nation)
 * [Egypt](cc43bf13-cc76-4e60-9d69-2d246ea18f32_nation)
 * [Celtic_Enterprises](d44da894-9756-4c06-935d-d72a1cdfc594_nation)
-* [OceaniaDuckPookies](0a7890eb-6b3f-47cb-98ee-b2bf9372bf72_nation)
 * [Florida](aee61d00-6618-4ae5-88eb-9a02e0f4a90a_nation)
-* [Republic_of_France](cff49039-f9c7-42a4-936a-d272401cbadd_nation)
 * [Australia](dd6a02ea-36e1-444d-82ae-0e34e6b9fdf2_nation)
 * [Wruyan_Empire](252b6d11-6044-4d30-8a02-4c83729b9e4a_nation)
 * [Empire_State](d12cb759-9d63-49bc-9b33-7b1c2567bdb0_nation)
@@ -16,11 +12,13 @@
 * [Kingdom_of_Vale](3027e6ea-3a64-4d01-8b88-1fef90b06bc1_nation)
 * [Swedish-Jannissaries](ef1b6f52-4e49-4b2b-a7a8-33dc7fdf323f_nation)
 * [The_Cape](8589eb0d-d8f6-4320-972c-e54f8dec3bda_nation)
-* [Epic_Pookie_Mexico](e0a9dee6-2bfc-466a-9ba7-0fbfd0b2cf46_nation)
+* [Abbasid_Caliphate](51f1e214-5872-42e1-980d-df965e645059_nation)
+* [Epic_Mexico](e0a9dee6-2bfc-466a-9ba7-0fbfd0b2cf46_nation)
 * [Saelseoaft_Equestria](7e1ca740-66e3-48cb-92d7-b12241e318e5_nation)
 * [Kingdom_of_The_Night](561d79c2-7ad1-45e8-bc1f-29811bfb3485_nation)
 * [Galatia](9b91446f-f1e0-4038-ad07-48f2f446ec5e_nation)
-* [Bulgarian_Kingdom](e01ae46c-435a-44da-aeed-eb12fb240dfe_nation)
+* [ODP](0a7890eb-6b3f-47cb-98ee-b2bf9372bf72_nation)
+* [Consulat_de_France](cff49039-f9c7-42a4-936a-d272401cbadd_nation)
 
 ## History
 
@@ -567,6 +565,7 @@
 * [# Kingdom of Vale](fd64f4c4-4706-40f7-9e91-1d3e35f7c61a_nation)
 * [# Islamic Republic](0fb45a5d-67f0-439a-b9a4-1547c91fc326_nation)
 * [# Celtic Enterprises](d586216f-89a0-4fe8-8074-3e0e7bf42d51_nation)
+* [# Bulgarian Kingdom](e01ae46c-435a-44da-aeed-eb12fb240dfe_nation)
 * [# DPRK](0a8ce572-3aed-44c0-8e16-733e36cd2ad4_nation)
 * [# Kingdom of France](40c17761-1689-4a92-9ade-0f990a51a1a6_nation)
 * [# Roman Junta](34358b61-6847-4f3d-ae90-d21955fb12ff_nation)
@@ -576,3 +575,4 @@
 * [# Basileia ton Rhomaion](c91dabdd-378d-4bcf-b5a8-2cc806dcb2ca_nation)
 * [# Triarchy of Japan](a6c75144-1605-434a-a66a-77769226ce8c_nation)
 * [# Hungary](56404ada-a869-4bab-ac17-81ddc8e27323_nation)
+* [# British Empire](1d96429e-c0b0-4925-b962-3ebdeea28f96_nation)
