@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,318g<!--GDP-->
+- **GDP:** <!--GDP-->2,197g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Mauritius](07bdfcb4-48e5-4b2c-8670-6b9d78b68450_town)
+- [Goa](44cc840c-ebb4-434c-b82b-e1f09f21eae4_town)<!--COLONIES-->
 
 ---

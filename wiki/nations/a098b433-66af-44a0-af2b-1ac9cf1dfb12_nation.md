@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Illinois](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->29<!--POPULATION-->
+- **Population:** <!--POPULATION-->30<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->26,227g<!--GDP-->
+- **GDP:** <!--GDP-->30,672g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -41,6 +41,7 @@
 ## Colonies
 
 <!--COLONIES-->- [Carolina](7855c12f-19e5-461c-85d6-74979876b093_town)
+- [Antarctica2](b4b3cb80-f7d0-4b89-86e9-80aad28c261e_town)
 - [Sudan](6aa1da7b-e108-40e4-9db4-e002bc77ec2c_town)<!--COLONIES-->
 
 ---
