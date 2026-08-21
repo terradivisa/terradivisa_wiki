@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Illinois](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->30<!--POPULATION-->
+- **Population:** <!--POPULATION-->29<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->30,672g<!--GDP-->
+- **GDP:** <!--GDP-->30,349g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -35,7 +35,6 @@
 - [new mexico](24d0a1a8-52d9-441b-9643-4f86ec4d9fa0_town)
 - [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
 - [Illinois](fca8485b-ba92-4334-9c95-dadf60976e13_town)
-- [Panama](9e69a226-611c-44f5-beb9-ecbc421244bf_town)
 - [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)<!--TOWNS-->
 
 ## Colonies

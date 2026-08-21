@@ -1,9 +1,9 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Theria<!--NAME-->
+# <!--NAME-->ACBLANDIA<!--NAME-->
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Habia](d241a1f5-b333-4241-be04-46c9437b3d1e_town)<!--CAPITAL_LINK-->
+- **Capital:** <!--CAPITAL_LINK-->[Novaya Zemlya](46ecf12b-c975-4267-84dd-a20b636f1280_town)<!--CAPITAL_LINK-->
 - **Population:** <!--POPULATION-->1<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
@@ -11,22 +11,22 @@
 
 ## Government
 
-- **Date Founded:** <!--FOUNDED-->August 20, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader cinar6](cinar6_user)<!--LEADER_TITLE_LINK-->
+- **Date Founded:** <!--FOUNDED-->August 21, 2026<!--FOUNDED-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ACB10](ACB10_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->116g<!--GDP-->
+- **GDP:** <!--GDP-->2,097,808g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Habia](d241a1f5-b333-4241-be04-46c9437b3d1e_town)<!--TOWNS-->
+<!--TOWNS-->- [Novaya Zemlya](46ecf12b-c975-4267-84dd-a20b636f1280_town)<!--TOWNS-->
 
 ## Colonies
 

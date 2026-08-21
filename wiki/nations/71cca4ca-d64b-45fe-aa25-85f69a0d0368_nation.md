@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Haikou](6ea6d107-494f-4f1c-bb64-75974e455b35_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,414g<!--GDP-->
+- **GDP:** <!--GDP-->2,222g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Taiwan](159a1828-5f71-4f70-acb5-c467de90a673_town)<!--COLONIES-->
+<!--COLONIES-->- [Taiwan](159a1828-5f71-4f70-acb5-c467de90a673_town)
+- [Franz-Josef-Land](03db0f10-7983-4496-a42b-a2f220ba0755_town)<!--COLONIES-->
 
 ---
