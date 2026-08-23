@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Mexico](4a797e6f-8c9d-4bc0-b13f-f31ae907aafa_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Mexicolt](141459d5-ff71-4e29-a444-7143c274ba11_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->0<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->August 14, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader Femperor](Femperor_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader NPC13](NPC13_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->846g<!--GDP-->
+- **GDP:** <!--GDP-->134g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Mexico](4a797e6f-8c9d-4bc0-b13f-f31ae907aafa_town)<!--TOWNS-->
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 
