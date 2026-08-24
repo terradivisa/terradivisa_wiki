@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Shatteredhoof](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->30<!--POPULATION-->
+- **Population:** <!--POPULATION-->32<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->23,566g<!--GDP-->
+- **GDP:** <!--GDP-->24,612g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -38,6 +38,9 @@
 
 ## Colonies
 
-<!--COLONIES--><!--COLONIES-->
+<!--COLONIES-->- [Cascadia](71dfcca9-5d2c-4362-855a-1c99a6a68962_town)
+- [Kansas](e6d99471-a14f-4146-9005-c5a4c42337ad_town)
+- [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)
+- [Npc 121](2a7c7a30-71bb-4295-9ce3-d1de8083e46d_town)<!--COLONIES-->
 
 ---

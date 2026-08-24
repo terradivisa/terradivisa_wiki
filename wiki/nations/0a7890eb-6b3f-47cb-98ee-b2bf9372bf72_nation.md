@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[DuckVille](8f78586b-d4f9-4cd9-a1b3-401b23909d3e_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->13<!--POPULATION-->
+- **Population:** <!--POPULATION-->14<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,14 +19,15 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,935g<!--GDP-->
+- **GDP:** <!--GDP-->6,932g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [DuckVille](8f78586b-d4f9-4cd9-a1b3-401b23909d3e_town)
+<!--TOWNS-->- [Perth](aab5b5e5-b2e3-4ecd-8702-678de47e8d5d_town)
+- [DuckVille](8f78586b-d4f9-4cd9-a1b3-401b23909d3e_town)
 - [evanoei leviatan](10f0b52a-a033-46ce-aea6-4444a1de6e1e_town)
 - [Villa](0851de94-6dff-43c9-9c20-81326ad96207_town)<!--TOWNS-->
 
