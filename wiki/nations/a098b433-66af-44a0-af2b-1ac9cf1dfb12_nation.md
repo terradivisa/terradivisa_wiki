@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->25,414g<!--GDP-->
+- **GDP:** <!--GDP-->27,324g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -41,7 +41,7 @@
 <!--COLONIES-->- [Cascadia](71dfcca9-5d2c-4362-855a-1c99a6a68962_town)
 - [Kansas](e6d99471-a14f-4146-9005-c5a4c42337ad_town)
 - [tenessee](2a7c7a30-71bb-4295-9ce3-d1de8083e46d_town)
-- [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)
-- [Wyoming](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)<!--COLONIES-->
+- [Wyoming](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)
+- [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)<!--COLONIES-->
 
 ---

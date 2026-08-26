@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->10,399g<!--GDP-->
+- **GDP:** <!--GDP-->10,365g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Gooker-Island](298ae34a-8d61-46ba-8a2d-448813e27c28_town)<!--COLONIES-->
+<!--COLONIES-->- [Outer-Greenpath](d02c42c9-3443-457c-95c3-b8ddd5273f4b_town)
+- [Queens-Garden](9aced1fa-4a72-48b7-9fea-7555f77c1d86_town)
+- [Gooker-Island](298ae34a-8d61-46ba-8a2d-448813e27c28_town)<!--COLONIES-->
 
 ---
