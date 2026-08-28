@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,624g<!--GDP-->
+- **GDP:** <!--GDP-->2,948g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,7 +34,7 @@
 
 <!--COLONIES-->- [ne-waoupenou](a8c46343-9a18-4719-81ff-d9837de40649_town)
 - [villa2.0](f8b5164f-5d4b-4ad6-a841-ca5ff867fc3c_town)
-- [ODP-2](0dbb3a4f-8c4a-40dd-b5be-7aa4303af8ea_town)
+- [Wellington](7ab2ee8e-a75b-411e-9885-bb3c2d965306_town)
 - [Yulekammi](b08de141-8ee7-45cd-b62a-620f35467f88_town)<!--COLONIES-->
 
 ---
