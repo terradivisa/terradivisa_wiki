@@ -4,7 +4,7 @@ _This article is on the city of Cape Town. For the nation of The Cape, click [he
 
 ## Overview
 
-- **Population:** <!--POPULATION-->14<!--POPULATION-->
+- **Population:** <!--POPULATION-->20<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -18,7 +18,7 @@ _This article is on the city of Cape Town. For the nation of The Cape, click [he
 
 ## Economy
 
-- **GDP:** <!--GDP-->609g (as of 7/1/25)<!--GDP-->
+- **GDP:** <!--GDP-->2,510g (as of 7/19/25)<!--GDP-->
 
 ---
 
