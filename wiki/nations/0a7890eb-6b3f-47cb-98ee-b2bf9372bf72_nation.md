@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[DuckVille](8f78586b-d4f9-4cd9-a1b3-401b23909d3e_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->12<!--POPULATION-->
+- **Population:** <!--POPULATION-->13<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,728g<!--GDP-->
+- **GDP:** <!--GDP-->2,806g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,8 +32,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [ne-waoupenou](a8c46343-9a18-4719-81ff-d9837de40649_town)
-- [villa2.0](f8b5164f-5d4b-4ad6-a841-ca5ff867fc3c_town)
+<!--COLONIES-->- [villa2.0](f8b5164f-5d4b-4ad6-a841-ca5ff867fc3c_town)
 - [Wellington](7ab2ee8e-a75b-411e-9885-bb3c2d965306_town)
 - [Yulekammi](b08de141-8ee7-45cd-b62a-620f35467f88_town)<!--COLONIES-->
 

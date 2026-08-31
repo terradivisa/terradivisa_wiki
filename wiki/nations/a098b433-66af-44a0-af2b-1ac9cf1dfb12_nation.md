@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Shatteredhoof](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->36<!--POPULATION-->
+- **Population:** <!--POPULATION-->33<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->26,959g<!--GDP-->
+- **GDP:** <!--GDP-->30,335g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,9 +34,7 @@
 - [Washington](f8b95759-ed20-4f16-9e38-d844c81bb084_town)
 - [New Shatteredhoof](fca8485b-ba92-4334-9c95-dadf60976e13_town)
 - [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
-- [Lunar](8a9d3513-1c71-410a-93d2-368fdc2df699_town)
-- [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)
-- [Mexico](4a797e6f-8c9d-4bc0-b13f-f31ae907aafa_town)<!--TOWNS-->
+- [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)<!--TOWNS-->
 
 ## Colonies
 

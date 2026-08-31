@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,031g<!--GDP-->
+- **GDP:** <!--GDP-->2,038g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,7 +30,8 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Taiwan](159a1828-5f71-4f70-acb5-c467de90a673_town)
+<!--COLONIES-->- [ne-waoupenou](a8c46343-9a18-4719-81ff-d9837de40649_town)
+- [Taiwan](159a1828-5f71-4f70-acb5-c467de90a673_town)
 - [Franz-Josef-Land](03db0f10-7983-4496-a42b-a2f220ba0755_town)<!--COLONIES-->
 
 ---
