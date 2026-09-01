@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Shatteredhoof](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->33<!--POPULATION-->
+- **Population:** <!--POPULATION-->34<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->30,335g<!--GDP-->
+- **GDP:** <!--GDP-->30,269g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,6 +28,7 @@
 
 <!--TOWNS-->- [Dallas](f4a0b3c4-7656-420f-b0c9-0f6e531bd99e_town)
 - [Florida](46901718-06e1-49a5-a43a-988c2c20a911_town)
+- [Texas](0a66a1a9-cadd-4a62-bc03-765f31eb46c7_town)
 - [Georgia](c23ba140-97d9-4723-9754-9d6f733270e1_town)
 - [California](bb7dabdc-18d8-4491-ac98-1a274fea331e_town)
 - [West Dixieland](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
