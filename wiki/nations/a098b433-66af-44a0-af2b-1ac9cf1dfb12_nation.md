@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->27,856g<!--GDP-->
+- **GDP:** <!--GDP-->27,779g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -45,6 +45,7 @@
 - [tenessee](2a7c7a30-71bb-4295-9ce3-d1de8083e46d_town)
 - [Wyoming](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)
 - [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)
-- [Mississippi](ab0d25b4-a867-4bf5-94ef-685162095ee5_town)<!--COLONIES-->
+- [Mississippi](ab0d25b4-a867-4bf5-94ef-685162095ee5_town)
+- [Npc 1047](dba11a74-cb63-490b-bef3-0499f49623a8_town)<!--COLONIES-->
 
 ---
