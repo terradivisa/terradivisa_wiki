@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Shatteredhoof](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->34<!--POPULATION-->
+- **Population:** <!--POPULATION-->33<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->27,779g<!--GDP-->
+- **GDP:** <!--GDP-->28,406g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,7 +32,6 @@
 - [Georgia](c23ba140-97d9-4723-9754-9d6f733270e1_town)
 - [California](bb7dabdc-18d8-4491-ac98-1a274fea331e_town)
 - [West Dixieland](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
-- [Washington](f8b95759-ed20-4f16-9e38-d844c81bb084_town)
 - [New Shatteredhoof](fca8485b-ba92-4334-9c95-dadf60976e13_town)
 - [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
 - [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)<!--TOWNS-->
@@ -45,7 +44,6 @@
 - [tenessee](2a7c7a30-71bb-4295-9ce3-d1de8083e46d_town)
 - [Wyoming](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)
 - [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)
-- [Mississippi](ab0d25b4-a867-4bf5-94ef-685162095ee5_town)
-- [Npc 1047](dba11a74-cb63-490b-bef3-0499f49623a8_town)<!--COLONIES-->
+- [Mississippi](ab0d25b4-a867-4bf5-94ef-685162095ee5_town)<!--COLONIES-->
 
 ---

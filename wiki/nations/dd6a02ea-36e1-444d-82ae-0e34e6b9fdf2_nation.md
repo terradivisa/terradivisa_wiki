@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[New Canberra](3d83ef31-6657-4eb8-b275-31607c1b9448_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->25<!--POPULATION-->
+- **Population:** <!--POPULATION-->24<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,125g<!--GDP-->
+- **GDP:** <!--GDP-->3,095g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
