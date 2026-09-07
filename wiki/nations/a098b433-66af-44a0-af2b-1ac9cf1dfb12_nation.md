@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[heartland](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->35<!--POPULATION-->
+- **Population:** <!--POPULATION-->36<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->29,313g<!--GDP-->
+- **GDP:** <!--GDP-->32,698g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -28,6 +28,7 @@
 
 <!--TOWNS-->- [Dallas](f4a0b3c4-7656-420f-b0c9-0f6e531bd99e_town)
 - [Florida](46901718-06e1-49a5-a43a-988c2c20a911_town)
+- [Nebraska](4b1f3db4-8888-478e-ac53-16e32ac95a2a_town)
 - [Texas](0a66a1a9-cadd-4a62-bc03-765f31eb46c7_town)
 - [Georgia](c23ba140-97d9-4723-9754-9d6f733270e1_town)
 - [California](bb7dabdc-18d8-4491-ac98-1a274fea331e_town)
@@ -39,10 +40,10 @@
 ## Colonies
 
 <!--COLONIES-->- [Grenland](0d8e4db6-7e45-4a29-b594-9daee218c75d_town)
-- [Washington Territory](71dfcca9-5d2c-4362-855a-1c99a6a68962_town)
+- [Wyoming Territory](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)
 - [Kansas](e6d99471-a14f-4146-9005-c5a4c42337ad_town)
 - [tenessee](2a7c7a30-71bb-4295-9ce3-d1de8083e46d_town)
-- [Wyoming Territory](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)
+- [Washington Territory](71dfcca9-5d2c-4362-855a-1c99a6a68962_town)
 - [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)
 - [Mississippi](ab0d25b4-a867-4bf5-94ef-685162095ee5_town)<!--COLONIES-->
 
