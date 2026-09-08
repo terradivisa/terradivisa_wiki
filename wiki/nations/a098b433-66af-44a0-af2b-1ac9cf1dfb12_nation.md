@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->32,698g<!--GDP-->
+- **GDP:** <!--GDP-->34,401g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -42,9 +42,7 @@
 <!--COLONIES-->- [Grenland](0d8e4db6-7e45-4a29-b594-9daee218c75d_town)
 - [Wyoming Territory](2fbabdcc-b42e-4a45-84a3-8cd36d4b7fe8_town)
 - [Kansas](e6d99471-a14f-4146-9005-c5a4c42337ad_town)
-- [tenessee](2a7c7a30-71bb-4295-9ce3-d1de8083e46d_town)
 - [Washington Territory](71dfcca9-5d2c-4362-855a-1c99a6a68962_town)
-- [Baja California](ffcac278-0209-4fae-ba58-6bfa92b8319f_town)
 - [Mississippi](ab0d25b4-a867-4bf5-94ef-685162095ee5_town)<!--COLONIES-->
 
 ---

@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,992g<!--GDP-->
+- **GDP:** <!--GDP-->2,704g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,6 +30,7 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Venezuela](c0c94d5f-654c-4a8c-97bd-23bfad0dba2d_town)<!--COLONIES-->
+<!--COLONIES-->- [Vladivostok](cb720f14-6df0-4235-aa4e-662f2eabd0f5_town)
+- [Venezuela](c0c94d5f-654c-4a8c-97bd-23bfad0dba2d_town)<!--COLONIES-->
 
 ---
