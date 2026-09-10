@@ -1,5 +1,5 @@
 <!--UNDEDITED FILE, remove this entire line if this file has been edited!-->
-# <!--NAME-->Empire of Japan<!--NAME-->
+# <!--NAME-->Japanese Empire<!--NAME-->
 
 ## Overview
 
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->2,674g<!--GDP-->
+- **GDP:** <!--GDP-->2,860g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -31,6 +31,6 @@
 ## Colonies
 
 <!--COLONIES-->- [Vladivostok](cb720f14-6df0-4235-aa4e-662f2eabd0f5_town)
-- [Venezuela](c0c94d5f-654c-4a8c-97bd-23bfad0dba2d_town)<!--COLONIES-->
+- [Kyushu](60be4f7c-e063-40e7-ac9d-3d85a3a625bd_town)<!--COLONIES-->
 
 ---
