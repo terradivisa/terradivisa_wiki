@@ -3,8 +3,8 @@
 
 ## Overview
 
-- **Capital:** <!--CAPITAL_LINK-->[Paarl](237b6081-a704-48e0-895d-d250fa550941_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->1<!--POPULATION-->
+- **Capital:** <!--CAPITAL_LINK-->[Mauritius](07bdfcb4-48e5-4b2c-8670-6b9d78b68450_town)<!--CAPITAL_LINK-->
+- **Population:** <!--POPULATION-->0<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -12,21 +12,21 @@
 ## Government
 
 - **Date Founded:** <!--FOUNDED-->August 09, 2026<!--FOUNDED-->
-- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader ExpectedPie](ExpectedPie_user)<!--LEADER_TITLE_LINK-->
+- **Head of State:** <!--LEADER_TITLE_LINK-->[Leader NPC18](NPC18_user)<!--LEADER_TITLE_LINK-->
 - **Governmental System:** <!--GOVERNMENT-->Autocracy<!--GOVERNMENT-->
 
 ---
 
 ## Economy
 
-- **GDP:** <!--GDP-->1,596g<!--GDP-->
+- **GDP:** <!--GDP-->554g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Paarl](237b6081-a704-48e0-895d-d250fa550941_town)<!--TOWNS-->
+<!--TOWNS--><!--TOWNS-->
 
 ## Colonies
 
