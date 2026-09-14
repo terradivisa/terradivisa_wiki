@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->40,322g<!--GDP-->
+- **GDP:** <!--GDP-->40,889g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -34,7 +34,8 @@
 - [West Dixieland](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
 - [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
 - [Heartland](fca8485b-ba92-4334-9c95-dadf60976e13_town)
-- [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)<!--TOWNS-->
+- [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)
+- [big cali](1c3c1368-8467-431f-80c0-472c63ea080d_town)<!--TOWNS-->
 
 ## Colonies
 
