@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->39,263g<!--GDP-->
+- **GDP:** <!--GDP-->38,981g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -32,7 +32,7 @@
 - [Texas](0a66a1a9-cadd-4a62-bc03-765f31eb46c7_town)
 - [Georgia](c23ba140-97d9-4723-9754-9d6f733270e1_town)
 - [West Dixieland](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
-- [new california](1c3c1368-8467-431f-80c0-472c63ea080d_town)
+- [California](1c3c1368-8467-431f-80c0-472c63ea080d_town)
 - [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
 - [Heartland](fca8485b-ba92-4334-9c95-dadf60976e13_town)
 - [East Dixieland](789f34c5-d422-4d99-8838-32d08cb01bcc_town)<!--TOWNS-->
