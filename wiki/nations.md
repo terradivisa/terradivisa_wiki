@@ -20,6 +20,7 @@
 * [Saelseoaft_Equestria](7e1ca740-66e3-48cb-92d7-b12241e318e5_nation)
 * [Kingdom_of_The_Night](135f986c-f767-452c-b3f8-a40bed765576_nation)
 * [ACBLANDIA](b410fd97-8fc0-4e30-a0a0-e5afb4ba9c08_nation)
+* [Free_Australia](9111a0e7-a2ec-47b3-ae33-731d9a346bb2_nation)
 
 ## History
 
