@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Tokyo](476350dc-f10b-4701-9be9-952398293c2f_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->3<!--POPULATION-->
+- **Population:** <!--POPULATION-->2<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,15 +19,14 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->6,946g<!--GDP-->
+- **GDP:** <!--GDP-->6,837g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
 
 ## Towns
 
-<!--TOWNS-->- [Tokyo](476350dc-f10b-4701-9be9-952398293c2f_town)
-- [Shanghai](29ef16f5-8ac8-426a-9df8-0df97715043e_town)<!--TOWNS-->
+<!--TOWNS-->- [Tokyo](476350dc-f10b-4701-9be9-952398293c2f_town)<!--TOWNS-->
 
 ## Colonies
 
