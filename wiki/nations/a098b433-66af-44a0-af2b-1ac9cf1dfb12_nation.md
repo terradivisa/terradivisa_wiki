@@ -4,7 +4,7 @@
 ## Overview
 
 - **Capital:** <!--CAPITAL_LINK-->[Heartland](fca8485b-ba92-4334-9c95-dadf60976e13_town)<!--CAPITAL_LINK-->
-- **Population:** <!--POPULATION-->35<!--POPULATION-->
+- **Population:** <!--POPULATION-->34<!--POPULATION-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK--> (<!--CURRENCY_ABV-->G<!--CURRENCY_ABV-->)
 
 ---
@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->38,067g<!--GDP-->
+- **GDP:** <!--GDP-->37,778g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,7 +30,6 @@
 - [Florida](46901718-06e1-49a5-a43a-988c2c20a911_town)
 - [Nebraska](4b1f3db4-8888-478e-ac53-16e32ac95a2a_town)
 - [Georgia](c23ba140-97d9-4723-9754-9d6f733270e1_town)
-- [California](417f846f-16c5-4d2b-a45c-16649f85fa21_town)
 - [West Dixieland](4d802dfc-78a9-42ab-b563-509f82009b3f_town)
 - [IOWA](3f104c3d-3872-423f-a735-1e6f8f1f9f7f_town)
 - [Arizona](08b0c184-92b1-43cd-ab1e-6e7ff57a72d9_town)
