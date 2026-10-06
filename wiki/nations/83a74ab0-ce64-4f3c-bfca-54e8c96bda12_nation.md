@@ -19,7 +19,7 @@
 
 ## Economy
 
-- **GDP:** <!--GDP-->3,987g<!--GDP-->
+- **GDP:** <!--GDP-->3,268g<!--GDP-->
 - **Currency:** <!--CURRENCY_LINK-->[Gold](Gold_currency)<!--CURRENCY_LINK-->
 
 ---
@@ -30,10 +30,9 @@
 
 ## Colonies
 
-<!--COLONIES-->- [Kyushu Prefecture](60be4f7c-e063-40e7-ac9d-3d85a3a625bd_town)
-- [Manchuria Prefecture](180d1961-cb35-4086-833a-75a900036e0e_town)
+<!--COLONIES-->- [Manchuria Prefecture](180d1961-cb35-4086-833a-75a900036e0e_town)
 - [Caucasia](18fcaee4-861c-4598-b774-b4001fae03e0_town)
 - [Okayama Prefecture](15e9851b-1828-4d7f-9f8b-16cf0c513c59_town)
-- [Seoul Prefecture](da7b54d5-2a93-4ed3-a01e-f120b5cbb9b3_town)<!--COLONIES-->
+- [Korean Prefecture](60be4f7c-e063-40e7-ac9d-3d85a3a625bd_town)<!--COLONIES-->
 
 ---
